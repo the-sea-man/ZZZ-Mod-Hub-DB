@@ -1,0 +1,10 @@
+[
+  {
+    "id": "fairy",
+    "name": "Fairy",
+    "aliases": ["fairy", "Fairy NPC"],
+    "faction": "Phaethon",
+    "image_url": "",
+    "release_date": "2024-07-04"
+  }
+]
