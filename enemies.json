@@ -1,0 +1,10 @@
+[
+  {
+    "id": "ethereal_grunt",
+    "name": "Ethereal Grunt",
+    "aliases": ["ethereal_grunt", "grunt"],
+    "faction": "Ethereal",
+    "image_url": "",
+    "release_date": "2024-07-04"
+  }
+]
