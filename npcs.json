@@ -14,7 +14,7 @@
     "id": "rain",
     "name": "Rain",
     "aliases": [],
-    "faction": "Pages_Using_DPL_Parser_Function",
+    "faction": "Phaethon",
     "image_url": "",
     "release_date": ""
   },
@@ -22,7 +22,7 @@
     "id": "shepherd",
     "name": "Shepherd",
     "aliases": [],
-    "faction": "Pages_Using_DPL_Parser_Function",
+    "faction": "Phaethon",
     "image_url": "",
     "release_date": ""
   },
@@ -30,7 +30,7 @@
     "id": "venus",
     "name": "Venus",
     "aliases": [],
-    "faction": "Pages_Using_DPL_Parser_Function",
+    "faction": "Phaethon",
     "image_url": "images/NPC Venus.png",
     "release_date": ""
   }
