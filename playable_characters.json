@@ -4,9 +4,7 @@
       "id": "anby",
       "name": "Anby",
       "aliases": [
-        "Anby Demara",
-        "Anby Mod",
-        "anbyMod"
+        "Anby Demara"
       ],
       "element": "Electric",
       "faction": "Cunning Hares",
@@ -41,13 +39,12 @@
       "id": "belle",
       "name": "Belle",
       "aliases": [
-        "Belle",
-        "BelleBoo"
+        "Belle"
       ],
       "element": "Physical",
       "faction": "Phaethon",
       "image_url": "images/Agent Belle Portrait.png",
-      "height": "Medium",
+      "height": "",
       "role": "Proxy",
       "body_hashes": [
         "a9673001"
@@ -95,7 +92,9 @@
       "species": "Human",
       "model_type": "Size 02",
       "release_date": "2024-07-04",
-      "icon_url": "images/Agent Belle Icon.png"
+      "icon_url": "images/Agent Belle Icon.png",
+      "birthday": "",
+      "w_engine": ""
     },
     {
       "id": "nicole",
@@ -568,7 +567,8 @@
       ],
       "icon_url": "images/Agent Hoshimi Miyabi Icon.png",
       "mindscape_url": "images/Mindscape Hoshimi Miyabi Full.png",
-      "role": "Anomaly"
+      "role": "Anomaly",
+      "real_name": ""
     },
     {
       "id": "soukaku",
@@ -679,7 +679,7 @@
         "Jane"
       ],
       "element": "Physical",
-      "faction": "Criminal Investigation Special Response Team",
+      "faction": "Criminal Investigation Special Response Team (Jane Doe)",
       "image_url": "images/Agent Jane Doe Portrait.png",
       "body_hashes": [
         "24323bf9"
@@ -759,7 +759,7 @@
       "faction": "Spook Shack",
       "image_url": "images/Agent Alice Thymefield Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday     = August 30th",
+      "real_name": "",
       "gender": "Female",
       "height": "163 cm (5'4\", ears included)",
       "birthday": "August 30th",
@@ -799,7 +799,7 @@
       "faction": "Angels of Delusion",
       "image_url": "images/Agent Aria Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = June 7th",
+      "real_name": "",
       "gender": "Female",
       "height": "150cm (4'11\")",
       "birthday": "June 7th",
@@ -870,7 +870,7 @@
       "faction": "Stars of Lyra",
       "image_url": "images/Agent Astra Yao Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = January 31st",
+      "real_name": "",
       "gender": "Female",
       "height": "176cm (5'9)",
       "birthday": "January 31st",
@@ -910,7 +910,7 @@
       "faction": "Krampus Compliance Authority",
       "image_url": "images/Agent Banyue Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = July 24th",
+      "real_name": "",
       "gender": "Male",
       "height": "200cm (6'7\")",
       "birthday": "July 24th",
@@ -1003,7 +1003,7 @@
       "faction": "Metropolitan Order Division",
       "image_url": "images/Agent Cissia Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = January 10th",
+      "real_name": "",
       "gender": "Female",
       "height": "156cm (5'1\")",
       "birthday": "January 10th",
@@ -1034,7 +1034,7 @@
       "faction": "Krampus Compliance Authority",
       "image_url": "images/Agent Dialyn Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = May 28th",
+      "real_name": "",
       "gender": "Female",
       "height": "145cm (4'9\")",
       "birthday": "May 28th",
@@ -1065,7 +1065,7 @@
       "faction": "Stars of Lyra",
       "image_url": "images/Agent Evelyn Chevalier Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = October 7th",
+      "real_name": "",
       "gender": "Female",
       "height": "173cm (5'8)",
       "birthday": "October 7th",
@@ -1127,7 +1127,7 @@
       "faction": "Yunkui Summit",
       "image_url": "images/Agent Ju Fufu Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday    = January 6th",
+      "real_name": "",
       "gender": "Female",
       "height": "142cm (4'8\")",
       "birthday": "January 6th",
@@ -1158,7 +1158,7 @@
       "faction": "Spook Shack",
       "image_url": "images/Agent Komano Manato Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = January 5th",
+      "real_name": "",
       "gender": "Male",
       "height": "198cm (6'6\")",
       "birthday": "January 5th",
@@ -1218,7 +1218,8 @@
       ],
       "icon_url": "images/Agent Lighter Icon.png",
       "mindscape_url": "images/Mindscape Lighter Full.png",
-      "role": "Stun"
+      "role": "Stun",
+      "real_name": ""
     },
     {
       "id": "lucia_elowen",
@@ -1228,7 +1229,7 @@
       "faction": "Spook Shack",
       "image_url": "images/Agent Lucia Elowen Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = March 17th",
+      "real_name": "",
       "gender": "Female",
       "height": "160cm (5'3\")",
       "birthday": "March 17th",
@@ -1276,6 +1277,11 @@
           ],
           "image_url": "images/Agent Luciana de Montefio Portrait.png",
           "icon_url": "images/Outfit Ironfist Gentlewoman Icon.png"
+        },
+        {
+          "id": "princess_on_holiday",
+          "name": "Princess on Holiday",
+          "aliases": []
         }
       ],
       "icon_url": "images/Agent Luciana de Montefio Icon.png",
@@ -1290,7 +1296,7 @@
       "faction": "Angels of Delusion",
       "image_url": "images/Agent Nangong Yu Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = September 29th",
+      "real_name": "",
       "gender": "Female",
       "height": "156cm (5'1\")",
       "birthday": "September 29th",
@@ -1330,14 +1336,14 @@
       "faction": "External Strategy Department",
       "image_url": "images/Agent Norma Hollowell Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = July 26th",
+      "real_name": "",
       "gender": "Female",
       "height": "150cm (5'0\")",
       "birthday": "July 26th",
-      "species": "|speciesNote      =",
+      "species": "",
       "model_type": "Size 01",
       "w_engine": "Chief Sidekick",
-      "release_date": "|name             = Norma Hollowell",
+      "release_date": "2026-07-08",
       "skins": [
         {
           "id": "immunity_to_fools",
@@ -1391,7 +1397,7 @@
       "faction": "Yunkui Summit",
       "image_url": "images/Agent Pan Yinhu Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = May 10th",
+      "real_name": "",
       "gender": "Male",
       "height": "192cm (6’4\")",
       "birthday": "May 10th",
@@ -1462,7 +1468,7 @@
       "faction": "Krampus Compliance Authority",
       "image_url": "images/Agent Promeia Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = December 23rd",
+      "real_name": "",
       "gender": "Female",
       "height": "174cm (5'8.5\")",
       "birthday": "December 23rd",
@@ -1524,10 +1530,10 @@
       "faction": "Phaethon",
       "image_url": "images/Agent Pyrois Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         =",
+      "real_name": "",
       "gender": "Unspecified",
-      "height": "|modelType        = Size 03",
-      "birthday": "|height           =",
+      "height": "",
+      "birthday": "",
       "species": "Etheric Other",
       "model_type": "Size 03",
       "w_engine": "Sol Exuvia",
@@ -1616,7 +1622,7 @@
       "faction": "Cunning Hares",
       "image_url": "images/Agent Starlight - Billy Kid Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = November 25th",
+      "real_name": "",
       "gender": "Male",
       "height": "188cm (6'2\")",
       "birthday": "November 25th",
@@ -1647,7 +1653,7 @@
       "faction": "Angels of Delusion",
       "image_url": "images/Agent Sunna Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = July 18th",
+      "real_name": "",
       "gender": "Female",
       "height": "154cm (5'1\")",
       "birthday": "July 18th",
@@ -1707,7 +1713,8 @@
       ],
       "icon_url": "images/Agent Trigger Icon.png",
       "mindscape_url": "images/Mindscape Trigger Full.png",
-      "role": "Stun"
+      "role": "Stun",
+      "real_name": ""
     },
     {
       "id": "tsukishiro_yanagi",
@@ -1736,7 +1743,8 @@
       ],
       "icon_url": "images/Agent Tsukishiro Yanagi Icon.png",
       "mindscape_url": "images/Mindscape Tsukishiro Yanagi Full.png",
-      "role": "Anomaly"
+      "role": "Anomaly",
+      "real_name": ""
     },
     {
       "id": "ukinami_yuzuha",
@@ -1746,7 +1754,7 @@
       "faction": "Spook Shack",
       "image_url": "images/Agent Ukinami Yuzuha Portrait.png",
       "body_hashes": [],
-      "real_name": "|addname          = ES-07",
+      "real_name": "",
       "gender": "Female",
       "height": "162cm (5’4”)",
       "birthday": "November 2nd",
@@ -1786,7 +1794,7 @@
       "faction": "External Strategy Department",
       "image_url": "images/Agent Velina Airgid Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = September 22nd",
+      "real_name": "",
       "gender": "Female",
       "height": "172cm (5'8\")",
       "birthday": "September 22nd",
@@ -1866,7 +1874,7 @@
       "faction": "Yunkui Summit",
       "image_url": "images/Agent Ye Shunguang Portrait.png",
       "body_hashes": [],
-      "real_name": "|addname          = Xiao'Guang ({{zh|小光}}) <small>(Nickname)</small><br>Guangguang ({{zh|光光}}) <small>(Nickname)</small>",
+      "real_name": "",
       "gender": "Female",
       "height": "162cm (5'4\")",
       "birthday": "January 20th",
@@ -1906,7 +1914,7 @@
       "faction": "Spook Shack",
       "image_url": "images/Agent Yidhari Murphy Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = March 19th",
+      "real_name": "",
       "gender": "Female",
       "height": "171cm (5'7\")",
       "birthday": "March 19th",
@@ -1937,7 +1945,7 @@
       "faction": "Yunkui Summit",
       "image_url": "images/Agent Yixuan Portrait.png",
       "body_hashes": [],
-      "real_name": "|birthday         = December 3rd",
+      "real_name": "",
       "gender": "Female",
       "height": "172cm (5’8”)",
       "birthday": "December 3rd",
@@ -1977,7 +1985,7 @@
       "faction": "Krampus Compliance Authority",
       "image_url": "images/Agent Zhao Portrait.png",
       "body_hashes": [],
-      "real_name": "|addname          = Xiao'Zhao ({{zh|小照}})",
+      "real_name": "",
       "gender": "Female",
       "height": "118cm (3'10\")",
       "birthday": "October 14",
@@ -1999,49 +2007,6 @@
       "icon_url": "images/Agent Zhao Icon.png",
       "mindscape_url": "images/Mindscape Zhao Full.png",
       "role": "Defense"
-    },
-    {
-      "id": "null_face",
-      "name": "Null Face",
-      "aliases": [],
-      "element": "",
-      "faction": "Pages_Using_DPL_Parser_Function",
-      "image_url": "images/Chapter Virtual Revenge Beyond Ones Control Comic Book 017.png",
-      "icon_url": "",
-      "body_hashes": []
-    },
-    {
-      "id": "phaethon",
-      "name": "Phaethon",
-      "aliases": [],
-      "element": "",
-      "faction": "Pages_Using_DPL_Parser_Function",
-      "image_url": "images/Faction Phaethon Icon.png",
-      "icon_url": "",
-      "body_hashes": []
-    },
-    {
-      "id": "proxy",
-      "name": "Proxy",
-      "aliases": [],
-      "element": "",
-      "faction": "Pages_Using_DPL_Parser_Function",
-      "image_url": "images/Proxy.png",
-      "icon_url": "",
-      "body_hashes": []
-    },
-    {
-      "id": "rain",
-      "name": "Rain",
-      "aliases": [],
-      "element": "",
-      "faction": "Pages_Using_DPL_Parser_Function",
-      "image_url": "",
-      "icon_url": "images/NPC Rain Icon.png",
-      "body_hashes": [],
-      "real_name": "Unknown",
-      "gender": "Female",
-      "species": "Human"
     },
     {
       "id": "wise",
@@ -2094,7 +2059,10 @@
       "gender": "Male",
       "species": "Human",
       "model_type": "Size 01",
-      "release_date": "2024-07-04"
+      "release_date": "2024-07-04",
+      "height": "",
+      "birthday": "",
+      "w_engine": ""
     }
   ]
 }

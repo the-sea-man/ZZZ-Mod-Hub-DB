@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const CHARACTERS_JSON_PATH = path.join(__dirname, '../characters.json');
+const CHARACTERS_JSON_PATH = path.join(__dirname, '../playable_characters.json');
 
 // Map of our fields to Fandom wikitext fields
 const FIELD_MAPPINGS = {
@@ -32,7 +32,8 @@ async function fetchAllAgents() {
   const data2 = await res2.json();
   const proxies = data2.query.categorymembers.filter(c => c.ns === 0).map(c => c.title);
 
-  return [...new Set([...agents, ...proxies])];
+  const excludeList = ["Phaethon", "Proxy", "Null Face", "Venus", "Shepherd", "Rain", "Fairy", "Eous"];
+  return [...new Set([...agents, ...proxies])].filter(name => !excludeList.includes(name) && !name.startsWith("List of "));
 }
 
 async function fetchCharacterWikitextAndCategories(pageName) {
@@ -123,7 +124,7 @@ async function downloadAndResolveImage(filename) {
 function parseInfobox(wikitext, name, isSkin = false) {
   const extracted = {};
   for (const [ourField, wikiField] of Object.entries(FIELD_MAPPINGS)) {
-    const regex = new RegExp("\\\\|[ \\t]*" + wikiField + "[ \\t]*=[ \\t]*([^\\r\\n]+)", 'i');
+    const regex = new RegExp("\\|\\s*" + wikiField + "[ \\t]*=[ \\t]*([^\\r\\n]+)", 'i');
     const match = wikitext.match(regex);
     if (match && match[1]) {
       let value = match[1].trim();
@@ -210,8 +211,10 @@ async function run() {
       
       // Update fields
       for (const [ourField, wikiField] of Object.entries(FIELD_MAPPINGS)) {
-        if (parsedData[ourField]) {
+        if (parsedData[ourField] !== undefined) {
           char[ourField] = parsedData[ourField];
+        } else {
+          char[ourField] = ""; // clear out old bad data if not found on wiki
         }
       }
 
