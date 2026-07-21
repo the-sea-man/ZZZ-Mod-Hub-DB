@@ -3,6 +3,10 @@
     "id": "1.0-release",
     "title": "Welcome to ZZZ Mod Manager 1.0! 🎉",
     "message": "I'm thrilled to release version 1.0. This update brings full GameBanana integration, smart folder categorization, dynamic background glass mode, and more. Thanks for joining!",
-    "date": "1990-01-01T00:00:00Z"
+    "title_pt_BR": "Bem-vindo ao ZZZ Mod Manager 1.0! 🎉",
+    "message_pt_BR": "Estou muito feliz em lançar a versão 1.0. Esta atualização traz integração total com o GameBanana, categorização inteligente de pastas, modo de vidro dinâmico no fundo e muito mais. Obrigado por se juntar a nós!",
+    "title_zh": "欢迎使用 ZZZ Mod Manager 1.0！ 🎉",
+    "message_zh": "我很高兴发布 1.0 版本。此次更新带来了完整的 GameBanana 集成、智能文件夹分类、动态背景玻璃模式等更多功能。感谢您的加入！",
+    "date": "1978-03-08 T22:30:00Z"
   }
 ]
