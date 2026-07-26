@@ -9,10 +9,6 @@
       "element": "Electric",
       "faction": "Cunning Hares",
       "image_url": "images/Agent Anby Demara Portrait.png",
-      "body_hashes": [
-        "9af848eb",
-        "4816de84"
-      ],
       "real_name": "Anby Demara",
       "gender": "Female",
       "height": "156 cm (5'1\")",
@@ -29,18 +25,22 @@
             "street_streak"
           ],
           "image_url": "images/Agent Anby Demara Portrait.png",
-          "icon_url": "images/Outfit Street Streak Icon.png"
+          "icon_url": "images/Outfit Street Streak Icon.png",
+          "body_hashes": [
+            "9af848eb",
+            "4816de84"
+          ],
+          "hair_hashes": [
+            "5c0240db"
+          ],
+          "face_hashes": [
+            "19df8e84"
+          ]
         }
       ],
       "icon_url": "images/Agent Anby Demara Icon.png",
       "mindscape_url": "images/Mindscape Anby Demara Full.png",
       "role": "Stun",
-      "hair_hashes": [
-        "5c0240db"
-      ],
-      "face_hashes": [
-        "19df8e84"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -54,10 +54,6 @@
       "image_url": "images/Agent Belle Portrait.png",
       "height": "",
       "role": "Proxy",
-      "body_hashes": [
-        "a9673001",
-        "c2b4ce3a"
-      ],
       "skins": [
         {
           "id": "brilliance_of_stars",
@@ -68,10 +64,13 @@
           "image_url": "images/Agent Belle Brilliance of Stars Portrait.png",
           "icon_url": "images/Outfit Brilliance of Stars Icon.png",
           "hair_hashes": [
-            "aa9ffb85"
+            "aa9ffb85",
+            "3acf9aea"
           ],
           "body_hashes": [
-            "feb1c4cd"
+            "feb1c4cd",
+            "a9673001",
+            "c2b4ce3a"
           ],
           "face_hashes": [
             "9a9780a7"
@@ -136,13 +135,6 @@
       "icon_url": "images/Agent Belle Icon.png",
       "birthday": "",
       "w_engine": "",
-      "hair_hashes": [
-        "aa9ffb85",
-        "3acf9aea"
-      ],
-      "face_hashes": [
-        "9a9780a7"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -156,10 +148,6 @@
       "image_url": "images/Agent Nicole Demara Portrait.png",
       "height": "165 cm (5'5\")",
       "role": "Support",
-      "body_hashes": [
-        "199853eb",
-        "e53364dd"
-      ],
       "skins": [
         {
           "id": "cunning_cutie",
@@ -170,10 +158,13 @@
           "image_url": "images/Agent Nicole Demara Cunning Cutie Portrait.png",
           "icon_url": "images/Outfit Cunning Cutie Icon.png",
           "hair_hashes": [
-            "776f5703"
+            "776f5703",
+            "7dcfe907"
           ],
           "body_hashes": [
-            "52842f31"
+            "52842f31",
+            "199853eb",
+            "e53364dd"
           ],
           "face_hashes": [
             "93b02078"
@@ -199,12 +190,6 @@
       "release_date": "2024-07-04",
       "icon_url": "images/Agent Nicole Demara Icon.png",
       "mindscape_url": "images/Mindscape Nicole Demara Full.png",
-      "hair_hashes": [
-        "7dcfe907"
-      ],
-      "face_hashes": [
-        "93b02078"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -216,9 +201,6 @@
       "element": "Physical",
       "faction": "Cunning Hares",
       "image_url": "images/Agent Billy Kid Portrait.png",
-      "body_hashes": [
-        "3371580a"
-      ],
       "real_name": "Billy Kid",
       "gender": "Male",
       "height": "188 cm (6'2\")",
@@ -237,23 +219,22 @@
           "image_url": "images/Agent Billy Kid Portrait.png",
           "icon_url": "images/Outfit Shining Starlight Costume Icon.png",
           "hair_hashes": [
-            "b126d40d"
+            "b126d40d",
+            "21e98aeb"
           ],
           "face_hashes": [
-            "47be3135"
+            "47be3135",
+            "dc7978f3"
           ],
-          "last_verified_version": "2026-07-26"
+          "last_verified_version": "2026-07-26",
+          "body_hashes": [
+            "3371580a"
+          ]
         }
       ],
       "icon_url": "images/Agent Billy Kid Icon.png",
       "mindscape_url": "images/Mindscape Billy Kid Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "21e98aeb"
-      ],
-      "face_hashes": [
-        "dc7978f3"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -265,10 +246,6 @@
       "element": "Physical",
       "faction": "Cunning Hares",
       "image_url": "images/Agent Nekomiya Mana Portrait.png",
-      "body_hashes": [
-        "35439aa6",
-        "26a487ff"
-      ],
       "real_name": "Nekomiya Mana",
       "gender": "Female",
       "height": "148 cm (4'10\")",
@@ -285,18 +262,22 @@
             "cat_s_gratitude"
           ],
           "image_url": "images/Agent Nekomiya Mana Portrait.png",
-          "icon_url": "images/Outfit Cats Gratitude Icon.png"
+          "icon_url": "images/Outfit Cats Gratitude Icon.png",
+          "body_hashes": [
+            "35439aa6",
+            "26a487ff"
+          ],
+          "hair_hashes": [
+            "da11fd85"
+          ],
+          "face_hashes": [
+            "37119851"
+          ]
         }
       ],
       "icon_url": "images/Agent Nekomiya Mana Icon.png",
       "mindscape_url": "images/Mindscape Nekomiya Mana Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "da11fd85"
-      ],
-      "face_hashes": [
-        "37119851"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -308,10 +289,6 @@
       "element": "Electric",
       "faction": "Belobog Heavy Industries",
       "image_url": "images/Agent Grace Howard Portrait.png",
-      "body_hashes": [
-        "1126fd58",
-        "8b240678"
-      ],
       "real_name": "Grace Howard",
       "gender": "Female",
       "height": "170 cm (5'7\")",
@@ -327,18 +304,23 @@
           "aliases": [
             "the_iron_witch_outfit_"
           ],
-          "image_url": "images/Agent Grace Howard Portrait.png"
+          "image_url": "images/Agent Grace Howard Portrait.png",
+          "icon_url": "images/Agent Grace Howard Icon.png",
+          "body_hashes": [
+            "1126fd58",
+            "8b240678"
+          ],
+          "hair_hashes": [
+            "89299f56"
+          ],
+          "face_hashes": [
+            "4d60568b"
+          ]
         }
       ],
       "icon_url": "images/Agent Grace Howard Icon.png",
       "mindscape_url": "images/Mindscape Grace Howard Full.png",
       "role": "Anomaly",
-      "hair_hashes": [
-        "89299f56"
-      ],
-      "face_hashes": [
-        "4d60568b"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -350,10 +332,6 @@
       "element": "Fire",
       "faction": "Belobog Heavy Industries",
       "image_url": "images/Agent Koleda Belobog Portrait.png",
-      "body_hashes": [
-        "e5de61e4",
-        "3afb3865"
-      ],
       "real_name": "Koleda Belobog",
       "gender": "Female",
       "height": "150 cm (4'11\")",
@@ -370,18 +348,22 @@
             "heart_hammer"
           ],
           "image_url": "images/Agent Koleda Belobog Portrait.png",
-          "icon_url": "images/Outfit Heart  Hammer Icon.png"
+          "icon_url": "images/Outfit Heart  Hammer Icon.png",
+          "body_hashes": [
+            "e5de61e4",
+            "3afb3865"
+          ],
+          "hair_hashes": [
+            "242a8d48"
+          ],
+          "face_hashes": [
+            "0e74656e"
+          ]
         }
       ],
       "icon_url": "images/Agent Koleda Belobog Icon.png",
       "mindscape_url": "images/Mindscape Koleda Belobog Full.png",
       "role": "Stun",
-      "hair_hashes": [
-        "242a8d48"
-      ],
-      "face_hashes": [
-        "0e74656e"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -393,9 +375,6 @@
       "element": "Fire",
       "faction": "Belobog Heavy Industries",
       "image_url": "images/Agent Ben Bigger Portrait.png",
-      "body_hashes": [
-        "94288cca"
-      ],
       "real_name": "Ben Bigger",
       "gender": "Male",
       "height": "192 cm (6'4\")",
@@ -412,15 +391,18 @@
             "fluffy_beastking"
           ],
           "image_url": "images/Agent Ben Bigger Portrait.png",
-          "icon_url": "images/Outfit Fluffy Beastking Icon.png"
+          "icon_url": "images/Outfit Fluffy Beastking Icon.png",
+          "body_hashes": [
+            "94288cca"
+          ],
+          "face_hashes": [
+            "9c4f1a9a"
+          ]
         }
       ],
       "icon_url": "images/Agent Ben Bigger Icon.png",
       "mindscape_url": "images/Mindscape Ben Bigger Full.png",
       "role": "Defense",
-      "face_hashes": [
-        "9c4f1a9a"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -432,9 +414,6 @@
       "element": "Electric",
       "faction": "Belobog Heavy Industries",
       "image_url": "images/Agent Anton Ivanov Portrait.png",
-      "body_hashes": [
-        "653fb27c"
-      ],
       "real_name": "Anton Ivanov",
       "gender": "Male",
       "height": "190 cm (6'3\")",
@@ -451,18 +430,21 @@
             "earthshaking_axle"
           ],
           "image_url": "images/Agent Anton Ivanov Portrait.png",
-          "icon_url": "images/Outfit Earthshaking Axle Icon.png"
+          "icon_url": "images/Outfit Earthshaking Axle Icon.png",
+          "body_hashes": [
+            "653fb27c"
+          ],
+          "hair_hashes": [
+            "6b95c80d"
+          ],
+          "face_hashes": [
+            "a0201907"
+          ]
         }
       ],
       "icon_url": "images/Agent Anton Ivanov Icon.png",
       "mindscape_url": "images/Mindscape Anton Ivanov Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "6b95c80d"
-      ],
-      "face_hashes": [
-        "a0201907"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -474,10 +456,6 @@
       "element": "Ice",
       "faction": "Victoria Housekeeping Co.",
       "image_url": "images/Agent Von Lycaon Portrait.png",
-      "body_hashes": [
-        "31eda4d5",
-        "6749b6e7"
-      ],
       "real_name": "Von Lycaon",
       "gender": "Male",
       "height": "198 cm (6'6\")",
@@ -494,18 +472,22 @@
             "moonlight_prowl"
           ],
           "image_url": "images/Agent Von Lycaon Portrait.png",
-          "icon_url": "images/Outfit Moonlight Prowl Icon.png"
+          "icon_url": "images/Outfit Moonlight Prowl Icon.png",
+          "body_hashes": [
+            "31eda4d5",
+            "6749b6e7"
+          ],
+          "hair_hashes": [
+            "060bc1ad"
+          ],
+          "face_hashes": [
+            "6ffdfccb"
+          ]
         }
       ],
       "icon_url": "images/Agent Von Lycaon Icon.png",
       "mindscape_url": "images/Mindscape Von Lycaon Full.png",
       "role": "Stun",
-      "hair_hashes": [
-        "060bc1ad"
-      ],
-      "face_hashes": [
-        "6ffdfccb"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -517,9 +499,6 @@
       "element": "Physical",
       "faction": "Victoria Housekeeping Co.",
       "image_url": "images/Agent Corin Wickes Portrait.png",
-      "body_hashes": [
-        "e74620b5"
-      ],
       "real_name": "Corin Wickes",
       "gender": "Female",
       "height": "141 cm (4'8\")",
@@ -536,18 +515,21 @@
             "matcha_profiterole"
           ],
           "image_url": "images/Agent Corin Wickes Portrait.png",
-          "icon_url": "images/Outfit Matcha Profiterole Icon.png"
+          "icon_url": "images/Outfit Matcha Profiterole Icon.png",
+          "body_hashes": [
+            "e74620b5"
+          ],
+          "hair_hashes": [
+            "5a839fb2"
+          ],
+          "face_hashes": [
+            "a0c80593"
+          ]
         }
       ],
       "icon_url": "images/Agent Corin Wickes Icon.png",
       "mindscape_url": "images/Mindscape Corin Wickes Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "5a839fb2"
-      ],
-      "face_hashes": [
-        "a0c80593"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -559,10 +541,6 @@
       "element": "Electric",
       "faction": "Victoria Housekeeping Co.",
       "image_url": "images/Agent Alexandrina Sebastiane Portrait.png",
-      "body_hashes": [
-        "06c78cb0",
-        "2825da1e"
-      ],
       "real_name": "Alexandrina Sebastiane",
       "gender": "Female",
       "height": "173 cm (5'8\")",
@@ -579,18 +557,22 @@
             "head_maid_s_perfection"
           ],
           "image_url": "images/Agent Alexandrina Sebastiane Portrait.png",
-          "icon_url": "images/Outfit Head Maids Perfection Icon.png"
+          "icon_url": "images/Outfit Head Maids Perfection Icon.png",
+          "body_hashes": [
+            "06c78cb0",
+            "2825da1e"
+          ],
+          "hair_hashes": [
+            "cdb2cc7d"
+          ],
+          "face_hashes": [
+            "9f90cfaa"
+          ]
         }
       ],
       "icon_url": "images/Agent Alexandrina Sebastiane Icon.png",
       "mindscape_url": "images/Mindscape Alexandrina Sebastiane Full.png",
       "role": "Support",
-      "hair_hashes": [
-        "cdb2cc7d"
-      ],
-      "face_hashes": [
-        "9f90cfaa"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -610,10 +592,6 @@
       "model_type": "Size 02",
       "w_engine": "Deep Sea Visitor",
       "release_date": "2024-07-04",
-      "body_hashes": [
-        "ba0fe600",
-        "e30fae03"
-      ],
       "skins": [
         {
           "id": "ellen_scissorhands",
@@ -622,7 +600,17 @@
             "ellen_scissorhands"
           ],
           "image_url": "images/Agent Ellen Joe Portrait.png",
-          "icon_url": "images/Outfit Ellen Scissorhands Icon.png"
+          "icon_url": "images/Outfit Ellen Scissorhands Icon.png",
+          "body_hashes": [
+            "ba0fe600",
+            "e30fae03"
+          ],
+          "hair_hashes": [
+            "d44a8015"
+          ],
+          "face_hashes": [
+            "f6ef8f3a"
+          ]
         },
         {
           "id": "on_campus",
@@ -647,12 +635,6 @@
       "icon_url": "images/Agent Ellen Joe Icon.png",
       "mindscape_url": "images/Mindscape Ellen Joe Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "d44a8015"
-      ],
-      "face_hashes": [
-        "f6ef8f3a"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -665,11 +647,6 @@
       "element": "Fire",
       "faction": "Obol Squad",
       "image_url": "images/Agent Soldier 11 Portrait.png",
-      "body_hashes": [
-        "cf814b3c",
-        "53d3f4e5",
-        "e3ee72d9"
-      ],
       "real_name": "Harin",
       "gender": "Female",
       "height": "160 cm (5'3\")",
@@ -686,20 +663,25 @@
             "elite_soldier"
           ],
           "image_url": "images/Agent Soldier 11 Portrait.png",
-          "icon_url": "images/Outfit Elite Soldier Icon.png"
+          "icon_url": "images/Outfit Elite Soldier Icon.png",
+          "body_hashes": [
+            "cf814b3c",
+            "53d3f4e5",
+            "e3ee72d9"
+          ],
+          "hair_hashes": [
+            "217ec790",
+            "2fa74e2f"
+          ],
+          "face_hashes": [
+            "e30ca87f",
+            "bb315c43"
+          ]
         }
       ],
       "icon_url": "images/Agent Soldier 11 Icon.png",
       "mindscape_url": "images/Mindscape Soldier 11 Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "217ec790",
-        "2fa74e2f"
-      ],
-      "face_hashes": [
-        "e30ca87f",
-        "bb315c43"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -711,10 +693,6 @@
       "element": "Frost",
       "faction": "Hollow Special Operations Section 6",
       "image_url": "images/Agent Hoshimi Miyabi Portrait.png",
-      "body_hashes": [
-        "f9b9b064",
-        "981c1a1e"
-      ],
       "gender": "Female",
       "height": "170 cm (5'7\", ears included)",
       "birthday": "June 19th",
@@ -732,12 +710,17 @@
           "image_url": "images/Agent Hoshimi Miyabi Dignified Blossom Portrait.png",
           "icon_url": "images/Outfit Dignified Blossom Icon.png",
           "hair_hashes": [
-            "ecaf558f"
+            "ecaf558f",
+            "4faabaac"
           ],
           "face_hashes": [
             "dbd59d30"
           ],
-          "last_verified_version": "2026-07-26"
+          "last_verified_version": "2026-07-26",
+          "body_hashes": [
+            "f9b9b064",
+            "981c1a1e"
+          ]
         },
         {
           "id": "frostgleam_dew",
@@ -753,12 +736,6 @@
       "mindscape_url": "images/Mindscape Hoshimi Miyabi Full.png",
       "role": "Anomaly",
       "real_name": "",
-      "hair_hashes": [
-        "4faabaac"
-      ],
-      "face_hashes": [
-        "dbd59d30"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -768,10 +745,6 @@
       "element": "Ice",
       "faction": "Hollow Special Operations Section 6",
       "image_url": "images/Agent Soukaku Portrait.png",
-      "body_hashes": [
-        "beac45e4",
-        "ced49ff8"
-      ],
       "real_name": "Soukaku",
       "gender": "Female",
       "height": "145 cm (4'9\")",
@@ -788,18 +761,22 @@
             "dance_of_azure_ice"
           ],
           "image_url": "images/Agent Soukaku Portrait.png",
-          "icon_url": "images/Outfit Dance of Azure Ice Icon.png"
+          "icon_url": "images/Outfit Dance of Azure Ice Icon.png",
+          "body_hashes": [
+            "beac45e4",
+            "ced49ff8"
+          ],
+          "hair_hashes": [
+            "fe70c7a3"
+          ],
+          "face_hashes": [
+            "020f9ac6"
+          ]
         }
       ],
       "icon_url": "images/Agent Soukaku Icon.png",
       "mindscape_url": "images/Mindscape Soukaku Full.png",
       "role": "Support",
-      "hair_hashes": [
-        "fe70c7a3"
-      ],
-      "face_hashes": [
-        "020f9ac6"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -811,10 +788,6 @@
       "element": "Ether",
       "faction": "Criminal Investigation Special Response Team",
       "image_url": "images/Agent Zhu Yuan Portrait.png",
-      "body_hashes": [
-        "d140d2e7",
-        "6619364f"
-      ],
       "real_name": "Zhu Yuan",
       "gender": "Female",
       "height": "175 cm (5'9\")",
@@ -831,18 +804,22 @@
             "suppressor_of_evil"
           ],
           "image_url": "images/Agent Zhu Yuan Portrait.png",
-          "icon_url": "images/Outfit Suppressor of Evil Icon.png"
+          "icon_url": "images/Outfit Suppressor of Evil Icon.png",
+          "body_hashes": [
+            "d140d2e7",
+            "6619364f"
+          ],
+          "hair_hashes": [
+            "9821017e"
+          ],
+          "face_hashes": [
+            "f1c241b7"
+          ]
         }
       ],
       "icon_url": "images/Agent Zhu Yuan Icon.png",
       "mindscape_url": "images/Mindscape Zhu Yuan Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "9821017e"
-      ],
-      "face_hashes": [
-        "f1c241b7"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -852,10 +829,6 @@
       "element": "Electric",
       "faction": "Criminal Investigation Special Response Team",
       "image_url": "images/Agent Qingyi Portrait.png",
-      "body_hashes": [
-        "dd08951b",
-        "195857d8"
-      ],
       "real_name": "01 Neo-Genesis VI",
       "gender": "Female",
       "height": "142 cm (4'8\")",
@@ -872,18 +845,22 @@
             "clarity_peace_and_joy"
           ],
           "image_url": "images/Agent Qingyi Portrait.png",
-          "icon_url": "images/Outfit Clarity Peace and Joy Icon.png"
+          "icon_url": "images/Outfit Clarity Peace and Joy Icon.png",
+          "body_hashes": [
+            "dd08951b",
+            "195857d8"
+          ],
+          "hair_hashes": [
+            "3cacba0a"
+          ],
+          "face_hashes": [
+            "f6e96452"
+          ]
         }
       ],
       "icon_url": "images/Agent Qingyi Icon.png",
       "mindscape_url": "images/Mindscape Qingyi Full.png",
       "role": "Stun",
-      "hair_hashes": [
-        "3cacba0a"
-      ],
-      "face_hashes": [
-        "f6e96452"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -896,11 +873,6 @@
       "element": "Physical",
       "faction": "Criminal Investigation Special Response Team (Jane Doe)",
       "image_url": "images/Agent Jane Doe Portrait.png",
-      "body_hashes": [
-        "24323bf9",
-        "ba4255a5",
-        "ac900322"
-      ],
       "real_name": "Unknown",
       "gender": "Female",
       "height": "170 cm (5'7\")",
@@ -917,7 +889,18 @@
             "hidden_nightfade"
           ],
           "image_url": "images/Agent Jane Doe Portrait.png",
-          "icon_url": "images/Outfit Hidden Nightfade Icon.png"
+          "icon_url": "images/Outfit Hidden Nightfade Icon.png",
+          "body_hashes": [
+            "24323bf9",
+            "ba4255a5",
+            "ac900322"
+          ],
+          "hair_hashes": [
+            "3275b812"
+          ],
+          "face_hashes": [
+            "ef86fc9f"
+          ]
         },
         {
           "id": "nocturne_of_light",
@@ -926,18 +909,22 @@
             "nocturne_of_light"
           ],
           "image_url": "images/Agent Jane Doe Nocturne of Light Portrait.png",
-          "icon_url": "images/Outfit Nocturne of Light Icon.png"
+          "icon_url": "images/Outfit Nocturne of Light Icon.png",
+          "hair_hashes": [
+            "3275b812"
+          ],
+          "body_hashes": [
+            "ac900322"
+          ],
+          "face_hashes": [
+            "ef86fc9f"
+          ],
+          "last_verified_version": "2026-07-26"
         }
       ],
       "icon_url": "images/Agent Jane Doe Icon.png",
       "mindscape_url": "images/Mindscape Jane Doe Full.png",
       "role": "Anomaly",
-      "hair_hashes": [
-        "3275b812"
-      ],
-      "face_hashes": [
-        "ef86fc9f"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -949,10 +936,6 @@
       "element": "Electric",
       "faction": "Criminal Investigation Special Response Team",
       "image_url": "images/Agent Seth Lowell Portrait.png",
-      "body_hashes": [
-        "9b358a6b",
-        "00172ec3"
-      ],
       "real_name": "Seth Lowell",
       "gender": "Male",
       "height": "174 cm (5'9\")",
@@ -969,18 +952,22 @@
             "incorruptible_heart"
           ],
           "image_url": "images/Agent Seth Lowell Portrait.png",
-          "icon_url": "images/Outfit Incorruptible Heart Icon.png"
+          "icon_url": "images/Outfit Incorruptible Heart Icon.png",
+          "body_hashes": [
+            "9b358a6b",
+            "00172ec3"
+          ],
+          "hair_hashes": [
+            "35cf83ad"
+          ],
+          "face_hashes": [
+            "52f5aa74"
+          ]
         }
       ],
       "icon_url": "images/Agent Seth Lowell Icon.png",
       "mindscape_url": "images/Mindscape Seth Lowell Full.png",
       "role": "Defense",
-      "hair_hashes": [
-        "35cf83ad"
-      ],
-      "face_hashes": [
-        "52f5aa74"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -990,10 +977,6 @@
       "element": "Physical",
       "faction": "Spook Shack",
       "image_url": "images/Agent Alice Thymefield Portrait.png",
-      "body_hashes": [
-        "8a512b21",
-        "cf8612e6"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "163 cm (5'4\", ears included)",
@@ -1010,7 +993,17 @@
             "celestian_etiquette"
           ],
           "image_url": "images/Agent Alice Thymefield Portrait.png",
-          "icon_url": "images/Outfit Celestian Etiquette Icon.png"
+          "icon_url": "images/Outfit Celestian Etiquette Icon.png",
+          "body_hashes": [
+            "8a512b21",
+            "cf8612e6"
+          ],
+          "hair_hashes": [
+            "d131acb1"
+          ],
+          "face_hashes": [
+            "b078ff22"
+          ]
         },
         {
           "id": "sea_of_thyme",
@@ -1019,18 +1012,22 @@
             "sea_of_thyme"
           ],
           "image_url": "images/Agent Alice Thymefield Sea of Thyme Portrait.png",
-          "icon_url": "images/Outfit Sea of Thyme Icon.png"
+          "icon_url": "images/Outfit Sea of Thyme Icon.png",
+          "hair_hashes": [
+            "d131acb1"
+          ],
+          "body_hashes": [
+            "cf8612e6"
+          ],
+          "face_hashes": [
+            "b078ff22"
+          ],
+          "last_verified_version": "2026-07-26"
         }
       ],
       "icon_url": "images/Agent Alice Thymefield Icon.png",
       "mindscape_url": "images/Mindscape Alice Thymefield Full.png",
       "role": "Anomaly",
-      "hair_hashes": [
-        "d131acb1"
-      ],
-      "face_hashes": [
-        "b078ff22"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1040,9 +1037,6 @@
       "element": "Ether",
       "faction": "Angels of Delusion",
       "image_url": "images/Agent Aria Portrait.png",
-      "body_hashes": [
-        "046400d3"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "150cm (4'11\")",
@@ -1061,12 +1055,17 @@
           "image_url": "images/Agent Aria Discordant Note Portrait.png",
           "icon_url": "images/Outfit Discordant Note Icon.png",
           "hair_hashes": [
-            "8a7ae9c2"
+            "8a7ae9c2",
+            "1173ff78"
           ],
           "face_hashes": [
-            "27966f80"
+            "27966f80",
+            "ffa703e8"
           ],
-          "last_verified_version": "2026-07-26"
+          "last_verified_version": "2026-07-26",
+          "body_hashes": [
+            "046400d3"
+          ]
         },
         {
           "id": "energetic_idol",
@@ -1081,14 +1080,6 @@
       "icon_url": "images/Agent Aria Icon.png",
       "mindscape_url": "images/Mindscape Aria Full.png",
       "role": "Anomaly",
-      "hair_hashes": [
-        "8a7ae9c2",
-        "1173ff78"
-      ],
-      "face_hashes": [
-        "27966f80",
-        "ffa703e8"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1098,9 +1089,6 @@
       "element": "Electric",
       "faction": "Hollow Special Operations Section 6",
       "image_url": "images/Agent Asaba Harumasa Portrait.png",
-      "body_hashes": [
-        "79679a10"
-      ],
       "real_name": "Asaba Harumasa",
       "gender": "Male",
       "height": "173cm (5'8\")",
@@ -1117,18 +1105,21 @@
             "full_fledged_strings"
           ],
           "image_url": "images/Agent Asaba Harumasa Portrait.png",
-          "icon_url": "images/Outfit Full-Fledged Strings Icon.png"
+          "icon_url": "images/Outfit Full-Fledged Strings Icon.png",
+          "body_hashes": [
+            "79679a10"
+          ],
+          "hair_hashes": [
+            "6324de38"
+          ],
+          "face_hashes": [
+            "b0688334"
+          ]
         }
       ],
       "icon_url": "images/Agent Asaba Harumasa Icon.png",
       "mindscape_url": "images/Mindscape Asaba Harumasa Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "6324de38"
-      ],
-      "face_hashes": [
-        "b0688334"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1138,7 +1129,6 @@
       "element": "Ether",
       "faction": "Stars of Lyra",
       "image_url": "images/Agent Astra Yao Portrait.png",
-      "body_hashes": [],
       "real_name": "",
       "gender": "Female",
       "height": "176cm (5'9)",
@@ -1180,12 +1170,6 @@
       "icon_url": "images/Agent Astra Yao Icon.png",
       "mindscape_url": "images/Mindscape Astra Yao Full.png",
       "role": "Support",
-      "face_hashes": [
-        "51831437"
-      ],
-      "hair_hashes": [
-        "53cdac6c"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1195,9 +1179,6 @@
       "element": "Fire",
       "faction": "Krampus Compliance Authority",
       "image_url": "images/Agent Banyue Portrait.png",
-      "body_hashes": [
-        "698046e6"
-      ],
       "real_name": "",
       "gender": "Male",
       "height": "200cm (6'7\")",
@@ -1214,15 +1195,18 @@
             "blazestone_heart"
           ],
           "image_url": "images/Agent Banyue Portrait.png",
-          "icon_url": "images/Outfit Blazestone Heart Icon.png"
+          "icon_url": "images/Outfit Blazestone Heart Icon.png",
+          "body_hashes": [
+            "698046e6"
+          ],
+          "hair_hashes": [
+            "f3b6e869"
+          ]
         }
       ],
       "icon_url": "images/Agent Banyue Icon.png",
       "mindscape_url": "images/Mindscape Banyue Full.png",
       "role": "Rupture",
-      "hair_hashes": [
-        "f3b6e869"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1232,9 +1216,6 @@
       "element": "Fire",
       "faction": "Sons of Calydon",
       "image_url": "images/Agent Burnice White Portrait.png",
-      "body_hashes": [
-        "af63e974"
-      ],
       "real_name": "Burnice White",
       "gender": "Female",
       "height": "160cm (5'3\")",
@@ -1251,18 +1232,21 @@
             "wildfire_rave"
           ],
           "image_url": "images/Agent Burnice White Portrait.png",
-          "icon_url": "images/Outfit Wildfire Rave Icon.png"
+          "icon_url": "images/Outfit Wildfire Rave Icon.png",
+          "body_hashes": [
+            "af63e974"
+          ],
+          "hair_hashes": [
+            "f779fb81"
+          ],
+          "face_hashes": [
+            "b3f6fcb3"
+          ]
         }
       ],
       "icon_url": "images/Agent Burnice White Icon.png",
       "mindscape_url": "images/Mindscape Burnice White Full.png",
       "role": "Anomaly",
-      "face_hashes": [
-        "b3f6fcb3"
-      ],
-      "hair_hashes": [
-        "f779fb81"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1272,9 +1256,6 @@
       "element": "Physical",
       "faction": "Sons of Calydon",
       "image_url": "images/Agent Caesar King Portrait.png",
-      "body_hashes": [
-        "92061e5e"
-      ],
       "real_name": "Caesar King",
       "gender": "Female",
       "height": "176cm (5'9\")",
@@ -1291,18 +1272,21 @@
             "inferno_joyride"
           ],
           "image_url": "images/Agent Caesar King Portrait.png",
-          "icon_url": "images/Outfit Inferno Joyride Icon.png"
+          "icon_url": "images/Outfit Inferno Joyride Icon.png",
+          "body_hashes": [
+            "92061e5e"
+          ],
+          "hair_hashes": [
+            "7a8fa826"
+          ],
+          "face_hashes": [
+            "6caaeb53"
+          ]
         }
       ],
       "icon_url": "images/Agent Caesar King Icon.png",
       "mindscape_url": "images/Mindscape Caesar King Full.png",
       "role": "Defense",
-      "hair_hashes": [
-        "7a8fa826"
-      ],
-      "face_hashes": [
-        "6caaeb53"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1312,9 +1296,6 @@
       "element": "Electric",
       "faction": "Metropolitan Order Division",
       "image_url": "images/Agent Cissia Portrait.png",
-      "body_hashes": [
-        "ff2ec4d6"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "156cm (5'1\")",
@@ -1331,18 +1312,21 @@
             "snake_mouse_game"
           ],
           "image_url": "images/Agent Cissia Portrait.png",
-          "icon_url": "images/Outfit Snake  Mouse Game Icon.png"
+          "icon_url": "images/Outfit Snake  Mouse Game Icon.png",
+          "body_hashes": [
+            "ff2ec4d6"
+          ],
+          "hair_hashes": [
+            "e4785f80"
+          ],
+          "face_hashes": [
+            "d1a31f0b"
+          ]
         }
       ],
       "icon_url": "images/Agent Cissia Icon.png",
       "mindscape_url": "images/Mindscape Cissia Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "e4785f80"
-      ],
-      "face_hashes": [
-        "d1a31f0b"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1352,9 +1336,6 @@
       "element": "Physical",
       "faction": "Krampus Compliance Authority",
       "image_url": "images/Agent Dialyn Portrait.png",
-      "body_hashes": [
-        "af39a873"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "145cm (4'9\")",
@@ -1371,18 +1352,21 @@
             "ringing_judgment"
           ],
           "image_url": "images/Agent Dialyn Portrait.png",
-          "icon_url": "images/Outfit Ringing Judgment Icon.png"
+          "icon_url": "images/Outfit Ringing Judgment Icon.png",
+          "body_hashes": [
+            "af39a873"
+          ],
+          "hair_hashes": [
+            "68f00074"
+          ],
+          "face_hashes": [
+            "facb2461"
+          ]
         }
       ],
       "icon_url": "images/Agent Dialyn Icon.png",
       "mindscape_url": "images/Mindscape Dialyn Full.png",
       "role": "Stun",
-      "hair_hashes": [
-        "68f00074"
-      ],
-      "face_hashes": [
-        "facb2461"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1392,9 +1376,6 @@
       "element": "Fire",
       "faction": "Stars of Lyra",
       "image_url": "images/Agent Evelyn Chevalier Portrait.png",
-      "body_hashes": [
-        "04b53ecd"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "173cm (5'8)",
@@ -1411,18 +1392,21 @@
             "a_moth_to_light"
           ],
           "image_url": "images/Agent Evelyn Chevalier Portrait.png",
-          "icon_url": "images/Outfit A Moth to Light Icon.png"
+          "icon_url": "images/Outfit A Moth to Light Icon.png",
+          "body_hashes": [
+            "04b53ecd"
+          ],
+          "hair_hashes": [
+            "10a5bde2"
+          ],
+          "face_hashes": [
+            "ddf4efa6"
+          ]
         }
       ],
       "icon_url": "images/Agent Evelyn Chevalier Icon.png",
       "mindscape_url": "images/Mindscape Evelyn Chevalier Full.png",
       "role": "Attack",
-      "face_hashes": [
-        "ddf4efa6"
-      ],
-      "hair_hashes": [
-        "10a5bde2"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1432,9 +1416,6 @@
       "element": "Ice",
       "faction": "Mockingbird",
       "image_url": "images/Agent Hugo Vlad Portrait.png",
-      "body_hashes": [
-        "b4765894"
-      ],
       "real_name": "Hugo Vlad Ravenlock (Formerly, Ravenlock name disowned)",
       "gender": "Male",
       "height": "185cm (6’1”)",
@@ -1451,18 +1432,21 @@
             "crownless_rebellion"
           ],
           "image_url": "images/Agent Hugo Vlad Portrait.png",
-          "icon_url": "images/Outfit Crownless Rebellion Icon.png"
+          "icon_url": "images/Outfit Crownless Rebellion Icon.png",
+          "body_hashes": [
+            "b4765894"
+          ],
+          "hair_hashes": [
+            "45ae7079"
+          ],
+          "face_hashes": [
+            "66b936fc"
+          ]
         }
       ],
       "icon_url": "images/Agent Hugo Vlad Icon.png",
       "mindscape_url": "images/Mindscape Hugo Vlad Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "45ae7079"
-      ],
-      "face_hashes": [
-        "66b936fc"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1472,9 +1456,6 @@
       "element": "Fire",
       "faction": "Yunkui Summit",
       "image_url": "images/Agent Ju Fufu Portrait.png",
-      "body_hashes": [
-        "de303163"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "142cm (4'8\")",
@@ -1491,18 +1472,21 @@
             "summit_s_cute_tiger"
           ],
           "image_url": "images/Agent Ju Fufu Portrait.png",
-          "icon_url": "images/Outfit Summits Cute Tiger Icon.png"
+          "icon_url": "images/Outfit Summits Cute Tiger Icon.png",
+          "body_hashes": [
+            "de303163"
+          ],
+          "hair_hashes": [
+            "a4fd9113"
+          ],
+          "face_hashes": [
+            "321768df"
+          ]
         }
       ],
       "icon_url": "images/Agent Ju Fufu Icon.png",
       "mindscape_url": "images/Mindscape Ju Fufu Full.png",
       "role": "Stun",
-      "hair_hashes": [
-        "a4fd9113"
-      ],
-      "face_hashes": [
-        "321768df"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1512,10 +1496,6 @@
       "element": "Fire",
       "faction": "Spook Shack",
       "image_url": "images/Agent Komano Manato Portrait.png",
-      "body_hashes": [
-        "f4c1c6d9",
-        "c0425328"
-      ],
       "real_name": "",
       "gender": "Male",
       "height": "198cm (6'6\")",
@@ -1532,7 +1512,17 @@
             "loyal_wild_soul"
           ],
           "image_url": "images/Agent Komano Manato Portrait.png",
-          "icon_url": "images/Outfit Loyal Wild Soul Icon.png"
+          "icon_url": "images/Outfit Loyal Wild Soul Icon.png",
+          "body_hashes": [
+            "f4c1c6d9",
+            "c0425328"
+          ],
+          "hair_hashes": [
+            "de57398c"
+          ],
+          "face_hashes": [
+            "f987f156"
+          ]
         },
         {
           "id": "white_heart_silhouette",
@@ -1541,18 +1531,23 @@
             "white_heart_silhouette"
           ],
           "image_url": "images/Agent Komano Manato White Heart Silhouette Portrait.png",
-          "icon_url": "images/Outfit White Heart Silhouette Icon.png"
+          "icon_url": "images/Outfit White Heart Silhouette Icon.png",
+          "hair_hashes": [
+            "de57398c"
+          ],
+          "body_hashes": [
+            "f4c1c6d9",
+            "c0425328"
+          ],
+          "face_hashes": [
+            "f987f156"
+          ],
+          "last_verified_version": "2026-07-26"
         }
       ],
       "icon_url": "images/Agent Komano Manato Icon.png",
       "mindscape_url": "images/Mindscape Komano Manato Full.png",
       "role": "Rupture",
-      "hair_hashes": [
-        "de57398c"
-      ],
-      "face_hashes": [
-        "f987f156"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1562,9 +1557,6 @@
       "element": "Fire",
       "faction": "Sons of Calydon",
       "image_url": "images/Agent Lighter Portrait.png",
-      "body_hashes": [
-        "8899e0fd"
-      ],
       "gender": "Male",
       "height": "185cm (6'1\")",
       "birthday": "December 27th",
@@ -1580,19 +1572,22 @@
             "everburn_embers"
           ],
           "image_url": "images/Agent Lighter Portrait.png",
-          "icon_url": "images/Outfit Everburn Embers Icon.png"
+          "icon_url": "images/Outfit Everburn Embers Icon.png",
+          "body_hashes": [
+            "8899e0fd"
+          ],
+          "hair_hashes": [
+            "542b8aa9"
+          ],
+          "face_hashes": [
+            "dcc7bb78"
+          ]
         }
       ],
       "icon_url": "images/Agent Lighter Icon.png",
       "mindscape_url": "images/Mindscape Lighter Full.png",
       "role": "Stun",
       "real_name": "",
-      "hair_hashes": [
-        "542b8aa9"
-      ],
-      "face_hashes": [
-        "dcc7bb78"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1602,9 +1597,6 @@
       "element": "Ether",
       "faction": "Spook Shack",
       "image_url": "images/Agent Lucia Elowen Portrait.png",
-      "body_hashes": [
-        "d39c304d"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "160cm (5'3\")",
@@ -1621,18 +1613,21 @@
             "whispering_dreams"
           ],
           "image_url": "images/Agent Lucia Elowen Portrait.png",
-          "icon_url": "images/Outfit Whispering Dreams Icon.png"
+          "icon_url": "images/Outfit Whispering Dreams Icon.png",
+          "body_hashes": [
+            "d39c304d"
+          ],
+          "hair_hashes": [
+            "340fc999"
+          ],
+          "face_hashes": [
+            "6986f28e"
+          ]
         }
       ],
       "icon_url": "images/Agent Lucia Elowen Icon.png",
       "mindscape_url": "images/Mindscape Lucia Elowen Full.png",
       "role": "Support",
-      "hair_hashes": [
-        "340fc999"
-      ],
-      "face_hashes": [
-        "6986f28e"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1642,9 +1637,6 @@
       "element": "Fire",
       "faction": "Sons of Calydon",
       "image_url": "images/Agent Luciana de Montefio Portrait.png",
-      "body_hashes": [
-        "be5f4c7d"
-      ],
       "real_name": "Luciana Auxesis Theodoro de Montefio",
       "gender": "Female",
       "height": "152cm (5'0\")",
@@ -1661,7 +1653,16 @@
             "ironfist_gentlewoman"
           ],
           "image_url": "images/Agent Luciana de Montefio Portrait.png",
-          "icon_url": "images/Outfit Ironfist Gentlewoman Icon.png"
+          "icon_url": "images/Outfit Ironfist Gentlewoman Icon.png",
+          "body_hashes": [
+            "be5f4c7d"
+          ],
+          "hair_hashes": [
+            "69ad9d08"
+          ],
+          "face_hashes": [
+            "df3e3965"
+          ]
         },
         {
           "id": "princess_on_holiday",
@@ -1672,12 +1673,6 @@
       "icon_url": "images/Agent Luciana de Montefio Icon.png",
       "mindscape_url": "images/Mindscape Luciana de Montefio Full.png",
       "role": "Support",
-      "hair_hashes": [
-        "69ad9d08"
-      ],
-      "face_hashes": [
-        "df3e3965"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1687,10 +1682,6 @@
       "element": "Ether",
       "faction": "Angels of Delusion",
       "image_url": "images/Agent Nangong Yu Portrait.png",
-      "body_hashes": [
-        "4586e530",
-        "5f2741ff"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "156cm (5'1\")",
@@ -1707,7 +1698,17 @@
             "dreamy_dancer"
           ],
           "image_url": "images/Agent Nangong Yu Portrait.png",
-          "icon_url": "images/Outfit Dreamy Dancer Icon.png"
+          "icon_url": "images/Outfit Dreamy Dancer Icon.png",
+          "body_hashes": [
+            "4586e530",
+            "5f2741ff"
+          ],
+          "hair_hashes": [
+            "969152d4"
+          ],
+          "face_hashes": [
+            "d643e19a"
+          ]
         },
         {
           "id": "rhapsody_s_muse",
@@ -1716,18 +1717,22 @@
             "rhapsody_s_muse"
           ],
           "image_url": "images/Agent Nangong Yu Rhapsodys Muse Portrait.png",
-          "icon_url": "images/Outfit Rhapsodys Muse Icon.png"
+          "icon_url": "images/Outfit Rhapsodys Muse Icon.png",
+          "hair_hashes": [
+            "969152d4"
+          ],
+          "body_hashes": [
+            "5f2741ff"
+          ],
+          "face_hashes": [
+            "d643e19a"
+          ],
+          "last_verified_version": "2026-07-26"
         }
       ],
       "icon_url": "images/Agent Nangong Yu Icon.png",
       "mindscape_url": "images/Mindscape Nangong Yu Full.png",
       "role": "Stun",
-      "hair_hashes": [
-        "969152d4"
-      ],
-      "face_hashes": [
-        "d643e19a"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1737,9 +1742,6 @@
       "element": "Fire",
       "faction": "External Strategy Department",
       "image_url": "images/Agent Norma Hollowell Portrait.png",
-      "body_hashes": [
-        "773f390c"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "150cm (5'0\")",
@@ -1756,18 +1758,21 @@
             "immunity_to_fools"
           ],
           "image_url": "images/Agent Norma Hollowell Portrait.png",
-          "icon_url": "images/Outfit Immunity to Fools Icon.png"
+          "icon_url": "images/Outfit Immunity to Fools Icon.png",
+          "body_hashes": [
+            "773f390c"
+          ],
+          "hair_hashes": [
+            "a2150d3b"
+          ],
+          "face_hashes": [
+            "4fafb136"
+          ]
         }
       ],
       "icon_url": "images/Agent Norma Hollowell Icon.png",
       "mindscape_url": "images/Mindscape Norma Hollowell Full.png",
       "role": "Stun",
-      "hair_hashes": [
-        "a2150d3b"
-      ],
-      "face_hashes": [
-        "4fafb136"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1777,9 +1782,6 @@
       "element": "Fire",
       "faction": "Obol Squad",
       "image_url": "images/Agent Orphie Magnusson  Magus Portrait.png",
-      "body_hashes": [
-        "a5eac582"
-      ],
       "real_name": "Orpheus Magnusson",
       "gender": "Female",
       "height": "158cm (5'2\")",
@@ -1796,18 +1798,21 @@
             "two_banks_of_the_river"
           ],
           "image_url": "images/Agent Orphie Magnusson  Magus Portrait.png",
-          "icon_url": "images/Outfit Two Banks of the River Icon.png"
+          "icon_url": "images/Outfit Two Banks of the River Icon.png",
+          "body_hashes": [
+            "a5eac582"
+          ],
+          "hair_hashes": [
+            "6988bfcd"
+          ],
+          "face_hashes": [
+            "ed85f33b"
+          ]
         }
       ],
       "icon_url": "images/Agent Orphie Magnusson  Magus Icon.png",
       "mindscape_url": "images/Mindscape Orphie Magnusson  Magus Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "6988bfcd"
-      ],
-      "face_hashes": [
-        "ed85f33b"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1817,9 +1822,6 @@
       "element": "Physical",
       "faction": "Yunkui Summit",
       "image_url": "images/Agent Pan Yinhu Portrait.png",
-      "body_hashes": [
-        "cb1a6db9"
-      ],
       "real_name": "",
       "gender": "Male",
       "height": "192cm (6’4\")",
@@ -1838,7 +1840,8 @@
           "image_url": "images/Agent Pan Yinhu Culinary Jewel Portrait.png",
           "icon_url": "images/Outfit Culinary Jewel Icon.png",
           "body_hashes": [
-            "b518e540"
+            "b518e540",
+            "cb1a6db9"
           ],
           "face_hashes": [
             "ebb6a59b"
@@ -1858,9 +1861,6 @@
       "icon_url": "images/Agent Pan Yinhu Icon.png",
       "mindscape_url": "images/Mindscape Pan Yinhu Full.png",
       "role": "Defense",
-      "face_hashes": [
-        "ebb6a59b"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1870,9 +1870,6 @@
       "element": "Physical",
       "faction": "Sons of Calydon",
       "image_url": "images/Agent Piper Wheel Portrait.png",
-      "body_hashes": [
-        "585da98b"
-      ],
       "real_name": "Piper Wheel",
       "gender": "Female",
       "height": "151cm (4'11\")",
@@ -1889,18 +1886,21 @@
             "lazy_speed"
           ],
           "image_url": "images/Agent Piper Wheel Portrait.png",
-          "icon_url": "images/Outfit Lazy Speed Icon.png"
+          "icon_url": "images/Outfit Lazy Speed Icon.png",
+          "body_hashes": [
+            "585da98b"
+          ],
+          "hair_hashes": [
+            "940454ef"
+          ],
+          "face_hashes": [
+            "e11baad9"
+          ]
         }
       ],
       "icon_url": "images/Agent Piper Wheel Icon.png",
       "mindscape_url": "images/Mindscape Piper Wheel Full.png",
       "role": "Anomaly",
-      "hair_hashes": [
-        "940454ef"
-      ],
-      "face_hashes": [
-        "e11baad9"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1910,7 +1910,6 @@
       "element": "Ice",
       "faction": "Krampus Compliance Authority",
       "image_url": "images/Agent Promeia Portrait.png",
-      "body_hashes": [],
       "real_name": "",
       "gender": "Female",
       "height": "174cm (5'8.5\")",
@@ -1927,18 +1926,18 @@
             "shrouded_in_frost"
           ],
           "image_url": "images/Agent Promeia Portrait.png",
-          "icon_url": "images/Outfit Shrouded in Frost Icon.png"
+          "icon_url": "images/Outfit Shrouded in Frost Icon.png",
+          "hair_hashes": [
+            "31178971"
+          ],
+          "face_hashes": [
+            "ef3c4506"
+          ]
         }
       ],
       "icon_url": "images/Agent Promeia Icon.png",
       "mindscape_url": "images/Mindscape Promeia Full.png",
       "role": "Anomaly",
-      "hair_hashes": [
-        "31178971"
-      ],
-      "face_hashes": [
-        "ef3c4506"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1948,9 +1947,6 @@
       "element": "Physical",
       "faction": "Sons of Calydon",
       "image_url": "images/Agent Pulchra Fellini Portrait.png",
-      "body_hashes": [
-        "bd385763"
-      ],
       "real_name": "Pulchra Fellini",
       "gender": "Female",
       "height": "173cm (5'8\")",
@@ -1967,15 +1963,18 @@
             "rest_for_a_weary_tail"
           ],
           "image_url": "images/Agent Pulchra Fellini Portrait.png",
-          "icon_url": "images/Outfit Rest for a Weary Tail Icon.png"
+          "icon_url": "images/Outfit Rest for a Weary Tail Icon.png",
+          "body_hashes": [
+            "bd385763"
+          ],
+          "face_hashes": [
+            "62de5837"
+          ]
         }
       ],
       "icon_url": "images/Agent Pulchra Fellini Icon.png",
       "mindscape_url": "images/Mindscape Pulchra Fellini Full.png",
       "role": "Stun",
-      "face_hashes": [
-        "62de5837"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -1985,9 +1984,6 @@
       "element": "Ether",
       "faction": "Phaethon",
       "image_url": "images/Agent Pyrois Portrait.png",
-      "body_hashes": [
-        "d347d859"
-      ],
       "real_name": "",
       "gender": "Unspecified",
       "height": "",
@@ -2004,14 +2000,17 @@
             "dawn_s_guardian"
           ],
           "image_url": "images/Agent Pyrois Portrait.png",
-          "icon_url": "images/Outfit Dawns Guardian Icon.png"
+          "icon_url": "images/Outfit Dawns Guardian Icon.png",
+          "body_hashes": [
+            "d347d859"
+          ],
+          "hair_hashes": [
+            "d98c8923"
+          ]
         }
       ],
       "icon_url": "images/Agent Pyrois Icon.png",
       "role": "Attack",
-      "hair_hashes": [
-        "d98c8923"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2021,9 +2020,6 @@
       "element": "Electric",
       "faction": "Obol Squad",
       "image_url": "images/Agent Seed Portrait.png",
-      "body_hashes": [
-        "634ac589"
-      ],
       "real_name": "Flora",
       "gender": "Female",
       "height": "153cm (5'0\")/240cm (7'8\", mech)",
@@ -2040,18 +2036,21 @@
             "flower_in_bloom"
           ],
           "image_url": "images/Agent Seed Portrait.png",
-          "icon_url": "images/Outfit Flower in Bloom Icon.png"
+          "icon_url": "images/Outfit Flower in Bloom Icon.png",
+          "body_hashes": [
+            "634ac589"
+          ],
+          "hair_hashes": [
+            "6cb35165"
+          ],
+          "face_hashes": [
+            "09d9dca7"
+          ]
         }
       ],
       "icon_url": "images/Agent Seed Icon.png",
       "mindscape_url": "images/Mindscape Seed Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "6cb35165"
-      ],
-      "face_hashes": [
-        "09d9dca7"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2061,7 +2060,6 @@
       "element": "Electric",
       "faction": "Defense Force - Silver Squad",
       "image_url": "images/Agent Soldier 0 - Anby Portrait.png",
-      "body_hashes": [],
       "real_name": "Soldier 0 - Anby Demara",
       "gender": "Female",
       "height": "156 cm (5'1\")",
@@ -2078,12 +2076,22 @@
             "silver_soldier"
           ],
           "image_url": "images/Agent Soldier 0 - Anby Portrait.png",
-          "icon_url": "images/Outfit Silver Soldier Icon.png"
+          "icon_url": "images/Outfit Silver Soldier Icon.png",
+          "body_hashes": [
+            "53d3f4e5"
+          ],
+          "hair_hashes": [
+            "217ec790"
+          ],
+          "face_hashes": [
+            "e30ca87f"
+          ]
         }
       ],
       "icon_url": "images/Agent Soldier 0 - Anby Icon.png",
       "mindscape_url": "images/Mindscape Soldier 0 - Anby Full.png",
-      "role": "Attack"
+      "role": "Attack",
+      "last_verified_version": "2026-07-26"
     },
     {
       "id": "starlight_billy_kid",
@@ -2092,7 +2100,6 @@
       "element": "Physical",
       "faction": "Cunning Hares",
       "image_url": "images/Agent Starlight - Billy Kid Portrait.png",
-      "body_hashes": [],
       "real_name": "",
       "gender": "Male",
       "height": "188cm (6'2\")",
@@ -2123,10 +2130,6 @@
       "element": "Physical",
       "faction": "Angels of Delusion",
       "image_url": "images/Agent Sunna Portrait.png",
-      "body_hashes": [
-        "b3c6ea5a",
-        "ee17c9a2"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "154cm (5'1\")",
@@ -2143,7 +2146,19 @@
             "afternoon_tea_break"
           ],
           "image_url": "images/Agent Sunna Afternoon Tea Break Portrait.png",
-          "icon_url": "images/Outfit Afternoon Tea Break Icon.png"
+          "icon_url": "images/Outfit Afternoon Tea Break Icon.png",
+          "hair_hashes": [
+            "a6d82ba5",
+            "904ecd0f"
+          ],
+          "body_hashes": [
+            "ee17c9a2",
+            "b3c6ea5a"
+          ],
+          "face_hashes": [
+            "1a2c8573"
+          ],
+          "last_verified_version": "2026-07-26"
         },
         {
           "id": "dreams_on_loop",
@@ -2158,13 +2173,6 @@
       "icon_url": "images/Agent Sunna Icon.png",
       "mindscape_url": "images/Mindscape Sunna Full.png",
       "role": "Support",
-      "hair_hashes": [
-        "904ecd0f",
-        "a6d82ba5"
-      ],
-      "face_hashes": [
-        "1a2c8573"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2174,9 +2182,6 @@
       "element": "Electric",
       "faction": "Obol Squad",
       "image_url": "images/Agent Trigger Portrait.png",
-      "body_hashes": [
-        "7f32eeae"
-      ],
       "gender": "Female",
       "height": "173cm (5'8\")",
       "birthday": "April 21st",
@@ -2192,19 +2197,22 @@
             "gaze_into_the_light"
           ],
           "image_url": "images/Agent Trigger Portrait.png",
-          "icon_url": "images/Outfit Gaze Into the Light Icon.png"
+          "icon_url": "images/Outfit Gaze Into the Light Icon.png",
+          "body_hashes": [
+            "7f32eeae"
+          ],
+          "hair_hashes": [
+            "8e98ef9a"
+          ],
+          "face_hashes": [
+            "40cd4182"
+          ]
         }
       ],
       "icon_url": "images/Agent Trigger Icon.png",
       "mindscape_url": "images/Mindscape Trigger Full.png",
       "role": "Stun",
       "real_name": "",
-      "hair_hashes": [
-        "8e98ef9a"
-      ],
-      "face_hashes": [
-        "40cd4182"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2214,9 +2222,6 @@
       "element": "Electric",
       "faction": "Hollow Special Operations Section 6",
       "image_url": "images/Agent Tsukishiro Yanagi Portrait.png",
-      "body_hashes": [
-        "f478ee4c"
-      ],
       "gender": "Female",
       "height": "169 cm (5'7\")",
       "birthday": "September 21st",
@@ -2231,19 +2236,23 @@
           "aliases": [
             "flowing_moonshade_outfit_"
           ],
-          "image_url": "images/Agent Tsukishiro Yanagi Portrait.png"
+          "image_url": "images/Agent Tsukishiro Yanagi Portrait.png",
+          "icon_url": "images/Agent Tsukishiro Yanagi Icon.png",
+          "body_hashes": [
+            "f478ee4c"
+          ],
+          "hair_hashes": [
+            "9e12899f"
+          ],
+          "face_hashes": [
+            "0817204c"
+          ]
         }
       ],
       "icon_url": "images/Agent Tsukishiro Yanagi Icon.png",
       "mindscape_url": "images/Mindscape Tsukishiro Yanagi Full.png",
       "role": "Anomaly",
       "real_name": "",
-      "hair_hashes": [
-        "9e12899f"
-      ],
-      "face_hashes": [
-        "0817204c"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2253,10 +2262,6 @@
       "element": "Physical",
       "faction": "Spook Shack",
       "image_url": "images/Agent Ukinami Yuzuha Portrait.png",
-      "body_hashes": [
-        "5144c409",
-        "b298482d"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "162cm (5’4”)",
@@ -2273,7 +2278,18 @@
             "tanuki_in_broad_daylight"
           ],
           "image_url": "images/Agent Ukinami Yuzuha Tanuki in Broad Daylight Portrait.png",
-          "icon_url": "images/Outfit Tanuki in Broad Daylight Icon.png"
+          "icon_url": "images/Outfit Tanuki in Broad Daylight Icon.png",
+          "hair_hashes": [
+            "7a504287"
+          ],
+          "body_hashes": [
+            "b298482d",
+            "5144c409"
+          ],
+          "face_hashes": [
+            "507384ea"
+          ],
+          "last_verified_version": "2026-07-26"
         },
         {
           "id": "tanuki_under_the_shade",
@@ -2288,12 +2304,6 @@
       "icon_url": "images/Agent Ukinami Yuzuha Icon.png",
       "mindscape_url": "images/Mindscape Ukinami Yuzuha Full.png",
       "role": "Support",
-      "hair_hashes": [
-        "7a504287"
-      ],
-      "face_hashes": [
-        "507384ea"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2303,10 +2313,6 @@
       "element": "Wind",
       "faction": "External Strategy Department",
       "image_url": "images/Agent Velina Airgid Portrait.png",
-      "body_hashes": [
-        "1300e048",
-        "0479bb8f"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "172cm (5'8\")",
@@ -2323,7 +2329,17 @@
             "elegant_silver_cascade"
           ],
           "image_url": "images/Agent Velina Airgid Portrait.png",
-          "icon_url": "images/Outfit Elegant Silver Cascade Icon.png"
+          "icon_url": "images/Outfit Elegant Silver Cascade Icon.png",
+          "body_hashes": [
+            "1300e048",
+            "0479bb8f"
+          ],
+          "hair_hashes": [
+            "5eb66b57"
+          ],
+          "face_hashes": [
+            "6cfb2498"
+          ]
         },
         {
           "id": "shade_of_leisure",
@@ -2332,18 +2348,22 @@
             "shade_of_leisure"
           ],
           "image_url": "images/Agent Velina Airgid Shade of Leisure Portrait.png",
-          "icon_url": "images/Outfit Shade of Leisure Icon.png"
+          "icon_url": "images/Outfit Shade of Leisure Icon.png",
+          "hair_hashes": [
+            "5eb66b57"
+          ],
+          "body_hashes": [
+            "0479bb8f"
+          ],
+          "face_hashes": [
+            "6cfb2498"
+          ],
+          "last_verified_version": "2026-07-26"
         }
       ],
       "icon_url": "images/Agent Velina Airgid Icon.png",
       "mindscape_url": "images/Mindscape Velina Airgid Full.png",
       "role": "Anomaly",
-      "hair_hashes": [
-        "5eb66b57"
-      ],
-      "face_hashes": [
-        "6cfb2498"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2353,10 +2373,6 @@
       "element": "Ether",
       "faction": "Mockingbird",
       "image_url": "images/Agent Vivian Banshee Portrait.png",
-      "body_hashes": [
-        "cd609d98",
-        "3060793b"
-      ],
       "real_name": "Vivian Banshee",
       "gender": "Female",
       "height": "162cm (5’4”)",
@@ -2373,7 +2389,18 @@
             "fluttering_violet"
           ],
           "image_url": "images/Agent Vivian Banshee Portrait.png",
-          "icon_url": "images/Outfit Fluttering Violet Icon.png"
+          "icon_url": "images/Outfit Fluttering Violet Icon.png",
+          "body_hashes": [
+            "cd609d98",
+            "3060793b"
+          ],
+          "hair_hashes": [
+            "c4eb6168",
+            "4108c0da"
+          ],
+          "face_hashes": [
+            "39944f20"
+          ]
         },
         {
           "id": "iris_of_the_shore",
@@ -2382,19 +2409,22 @@
             "iris_of_the_shore"
           ],
           "image_url": "images/Agent Vivian Banshee Iris of the Shore Portrait.png",
-          "icon_url": "images/Outfit Iris of the Shore Icon.png"
+          "icon_url": "images/Outfit Iris of the Shore Icon.png",
+          "hair_hashes": [
+            "4108c0da"
+          ],
+          "body_hashes": [
+            "3060793b"
+          ],
+          "face_hashes": [
+            "39944f20"
+          ],
+          "last_verified_version": "2026-07-26"
         }
       ],
       "icon_url": "images/Agent Vivian Banshee Icon.png",
       "mindscape_url": "images/Mindscape Vivian Banshee Full.png",
       "role": "Anomaly",
-      "hair_hashes": [
-        "c4eb6168",
-        "4108c0da"
-      ],
-      "face_hashes": [
-        "39944f20"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2404,10 +2434,6 @@
       "element": "Honed Edge",
       "faction": "Yunkui Summit",
       "image_url": "images/Agent Ye Shunguang Portrait.png",
-      "body_hashes": [
-        "c209c22b",
-        "8e7f72d5"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "162cm (5'4\")",
@@ -2424,7 +2450,22 @@
             "clouddrift_illumination"
           ],
           "image_url": "images/Agent Ye Shunguang Portrait.png",
-          "icon_url": "images/Outfit Clouddrift Illumination Icon.png"
+          "icon_url": "images/Outfit Clouddrift Illumination Icon.png",
+          "body_hashes": [
+            "c209c22b",
+            "8e7f72d5"
+          ],
+          "hair_hashes": [
+            "999bff94",
+            "01ef4403",
+            "38b3bd13",
+            "9258d5f8",
+            "ae840e72",
+            "f383537b"
+          ],
+          "face_hashes": [
+            "c28e6303"
+          ]
         },
         {
           "id": "touch_of_dawnlight",
@@ -2453,17 +2494,6 @@
       "icon_url": "images/Agent Ye Shunguang Icon.png",
       "mindscape_url": "images/Mindscape Ye Shunguang Full.png",
       "role": "Attack",
-      "hair_hashes": [
-        "999bff94",
-        "01ef4403",
-        "38b3bd13",
-        "9258d5f8",
-        "ae840e72",
-        "f383537b"
-      ],
-      "face_hashes": [
-        "c28e6303"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2473,9 +2503,6 @@
       "element": "Ice",
       "faction": "Spook Shack",
       "image_url": "images/Agent Yidhari Murphy Portrait.png",
-      "body_hashes": [
-        "12251f42"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "171cm (5'7\")",
@@ -2492,18 +2519,21 @@
             "stream_of_consciousness"
           ],
           "image_url": "images/Agent Yidhari Murphy Portrait.png",
-          "icon_url": "images/Outfit Stream of Consciousness Icon.png"
+          "icon_url": "images/Outfit Stream of Consciousness Icon.png",
+          "body_hashes": [
+            "12251f42"
+          ],
+          "hair_hashes": [
+            "2022936e"
+          ],
+          "face_hashes": [
+            "a2406060"
+          ]
         }
       ],
       "icon_url": "images/Agent Yidhari Murphy Icon.png",
       "mindscape_url": "images/Mindscape Yidhari Murphy Full.png",
       "role": "Rupture",
-      "hair_hashes": [
-        "2022936e"
-      ],
-      "face_hashes": [
-        "a2406060"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2513,9 +2543,6 @@
       "element": "Auric Ink",
       "faction": "Yunkui Summit",
       "image_url": "images/Agent Yixuan Portrait.png",
-      "body_hashes": [
-        "029c1f5a"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "172cm (5’8”)",
@@ -2532,7 +2559,17 @@
             "summit_of_clouds"
           ],
           "image_url": "images/Agent Yixuan Portrait.png",
-          "icon_url": "images/Outfit Summit of Clouds Icon.png"
+          "icon_url": "images/Outfit Summit of Clouds Icon.png",
+          "body_hashes": [
+            "029c1f5a"
+          ],
+          "hair_hashes": [
+            "ac8e9ee3",
+            "892858fd"
+          ],
+          "face_hashes": [
+            "8b067f99"
+          ]
         },
         {
           "id": "trails_of_ink",
@@ -2557,13 +2594,6 @@
       "icon_url": "images/Agent Yixuan Icon.png",
       "mindscape_url": "images/Mindscape Yixuan Full.png",
       "role": "Rupture",
-      "hair_hashes": [
-        "ac8e9ee3",
-        "892858fd"
-      ],
-      "face_hashes": [
-        "8b067f99"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2573,9 +2603,6 @@
       "element": "Ice",
       "faction": "Krampus Compliance Authority",
       "image_url": "images/Agent Zhao Portrait.png",
-      "body_hashes": [
-        "6a57d06b"
-      ],
       "real_name": "",
       "gender": "Female",
       "height": "118cm (3'10\")",
@@ -2592,18 +2619,21 @@
             "cuddly_executor"
           ],
           "image_url": "images/Agent Zhao Portrait.png",
-          "icon_url": "images/Outfit Cuddly Executor Icon.png"
+          "icon_url": "images/Outfit Cuddly Executor Icon.png",
+          "body_hashes": [
+            "6a57d06b"
+          ],
+          "hair_hashes": [
+            "2d519056"
+          ],
+          "face_hashes": [
+            "43c3c5a0"
+          ]
         }
       ],
       "icon_url": "images/Agent Zhao Icon.png",
       "mindscape_url": "images/Mindscape Zhao Full.png",
       "role": "Defense",
-      "hair_hashes": [
-        "2d519056"
-      ],
-      "face_hashes": [
-        "43c3c5a0"
-      ],
       "last_verified_version": "2026-07-26"
     },
     {
@@ -2614,10 +2644,6 @@
       "faction": "Phaethon",
       "image_url": "images/Agent Wise Portrait.png",
       "icon_url": "images/Agent Wise Icon.png",
-      "body_hashes": [
-        "8d6acf4e",
-        "19a3f02e"
-      ],
       "skins": [
         {
           "id": "oath_of_skies",
@@ -2628,10 +2654,13 @@
           "image_url": "images/Agent Wise Oath of Skies Portrait.png",
           "icon_url": "images/Outfit Oath of Skies Icon.png",
           "hair_hashes": [
-            "d5ca0411"
+            "d5ca0411",
+            "0ec31440"
           ],
           "body_hashes": [
-            "22fe3236"
+            "22fe3236",
+            "8d6acf4e",
+            "19a3f02e"
           ],
           "face_hashes": [
             "1fdaf388"
@@ -2645,7 +2674,17 @@
             "peaceful_waves"
           ],
           "image_url": "images/Agent Wise Peaceful Waves Portrait.png",
-          "icon_url": "images/Outfit Peaceful Waves Icon.png"
+          "icon_url": "images/Outfit Peaceful Waves Icon.png",
+          "hair_hashes": [
+            "0ec31440"
+          ],
+          "body_hashes": [
+            "19a3f02e"
+          ],
+          "face_hashes": [
+            "1fdaf388"
+          ],
+          "last_verified_version": "2026-07-26"
         },
         {
           "id": "ridu_stroll",
@@ -2684,13 +2723,6 @@
       "height": "",
       "birthday": "",
       "w_engine": "",
-      "hair_hashes": [
-        "d5ca0411",
-        "0ec31440"
-      ],
-      "face_hashes": [
-        "1fdaf388"
-      ],
       "last_verified_version": "2026-07-26"
     }
   ]
