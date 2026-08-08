@@ -1,0 +1,7 @@
+# Ignore non-db test folders and helper scripts
+Tests-Do_Not_Upload/
+test_json/
+scripts/
+merge_report.json
+update.py
+rewrite_sync.py

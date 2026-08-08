@@ -7,31 +7,137 @@
       "Fairy NPC"
     ],
     "faction": "Phaethon",
-    "image_url": "",
+    "image_url": "images/NPC Fairy.png",
     "release_date": "2024-07-04"
   },
   {
     "id": "rain",
     "name": "Rain",
-    "aliases": [],
-    "faction": "Pages_Using_DPL_Parser_Function",
-    "image_url": "",
-    "release_date": ""
+    "aliases": [
+      "rain",
+      "Rain NPC"
+    ],
+    "faction": "Sixth Street",
+    "image_url": "images/NPC Rain.png",
+    "release_date": "2024-07-04"
   },
   {
     "id": "shepherd",
     "name": "Shepherd",
-    "aliases": [],
-    "faction": "Pages_Using_DPL_Parser_Function",
-    "image_url": "",
-    "release_date": ""
+    "aliases": [
+      "shepherd",
+      "Shepherd NPC"
+    ],
+    "faction": "Hollow Investigator",
+    "image_url": "images/NPC Shepherd.png",
+    "release_date": "2024-07-04"
   },
   {
     "id": "venus",
     "name": "Venus",
-    "aliases": [],
-    "faction": "Pages_Using_DPL_Parser_Function",
+    "aliases": [
+      "venus",
+      "Venus NPC"
+    ],
+    "faction": "Promenade",
     "image_url": "images/NPC Venus.png",
-    "release_date": ""
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "asha",
+    "name": "Asha",
+    "aliases": [
+      "asha",
+      "Asha Arcade"
+    ],
+    "faction": "Godfinger",
+    "image_url": "images/NPC Asha.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "elfy",
+    "name": "Elfy",
+    "aliases": [
+      "elfy",
+      "Elfy Music"
+    ],
+    "faction": "Bardic Needle",
+    "image_url": "images/NPC Elfy.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "tin_master",
+    "name": "Tin Master",
+    "aliases": [
+      "tin_master",
+      "Tin Master Coffee"
+    ],
+    "faction": "Coff Cafe",
+    "image_url": "images/NPC Tin Master.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "sjal",
+    "name": "Sjal",
+    "aliases": [
+      "sjal"
+    ],
+    "faction": "Waterfall Soup",
+    "image_url": "images/NPC Sjal.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "general_chop",
+    "name": "General Chop",
+    "aliases": [
+      "general_chop",
+      "General Chop Ramen"
+    ],
+    "faction": "Waterfall Soup",
+    "image_url": "images/NPC General Chop.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "enzo",
+    "name": "Enzo",
+    "aliases": [
+      "enzo",
+      "Enzo Workshop"
+    ],
+    "faction": "Turbo Remaster",
+    "image_url": "images/NPC Enzo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "susannah",
+    "name": "Susannah",
+    "aliases": [
+      "susannah"
+    ],
+    "faction": "Newsstand",
+    "image_url": "images/NPC Susannah.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "howl",
+    "name": "Howl",
+    "aliases": [
+      "howl",
+      "Howl Dog"
+    ],
+    "faction": "Newsstand",
+    "image_url": "images/NPC Howl.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "officer_mewmew",
+    "name": "Officer Mewmew",
+    "aliases": [
+      "officer_mewmew",
+      "Mewmew"
+    ],
+    "faction": "Public Security",
+    "image_url": "images/NPC Officer Mewmew.png",
+    "release_date": "2024-07-04"
   }
 ]

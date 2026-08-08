@@ -2,9 +2,199 @@
   {
     "id": "eous",
     "name": "Eous",
-    "aliases": ["eous", "Eous Bangboo"],
+    "aliases": [
+      "eous",
+      "Eous Bangboo"
+    ],
     "faction": "Phaethon",
-    "image_url": "",
+    "image_url": "images/Bangboo Eous.png",
     "release_date": "2024-07-04"
+  },
+  {
+    "id": "amillion",
+    "name": "Amillion",
+    "aliases": [
+      "amillion",
+      "Amillion Bangboo"
+    ],
+    "faction": "Cunning Hares",
+    "image_url": "images/Bangboo Amillion.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "sharkboo",
+    "name": "Sharkboo",
+    "aliases": [
+      "sharkboo",
+      "Sharkboo Bangboo"
+    ],
+    "faction": "Victoria Housekeeping Co.",
+    "image_url": "images/Bangboo Sharkboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "butler",
+    "name": "Butler",
+    "aliases": [
+      "butler",
+      "Butler Bangboo"
+    ],
+    "faction": "Victoria Housekeeping Co.",
+    "image_url": "images/Bangboo Butler.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "rocketboo",
+    "name": "Rocketboo",
+    "aliases": [
+      "rocketboo",
+      "Rocketboo Bangboo"
+    ],
+    "faction": "Belobog Heavy Industries",
+    "image_url": "images/Bangboo Rocketboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "safety",
+    "name": "Safety",
+    "aliases": [
+      "safety",
+      "Safety Bangboo"
+    ],
+    "faction": "Belobog Heavy Industries",
+    "image_url": "images/Bangboo Safety.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "plugaboo",
+    "name": "Plugaboo",
+    "aliases": [
+      "plugaboo",
+      "Plugaboo Bangboo"
+    ],
+    "faction": "Electric",
+    "image_url": "images/Bangboo Plugaboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "resonaboo",
+    "name": "Resonaboo",
+    "aliases": [
+      "resonaboo",
+      "Resonaboo Bangboo"
+    ],
+    "faction": "Ether",
+    "image_url": "images/Bangboo Resonaboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "red_moccus",
+    "name": "Red Moccus",
+    "aliases": [
+      "red_moccus",
+      "Red Moccus Bangboo"
+    ],
+    "faction": "Sons of Calydon",
+    "image_url": "images/Bangboo Red Moccus.png",
+    "release_date": "2024-09-25"
+  },
+  {
+    "id": "officer_cui",
+    "name": "Officer Cui",
+    "aliases": [
+      "officer_cui",
+      "Officer Cui Bangboo"
+    ],
+    "faction": "Criminal Investigation Special Response Team",
+    "image_url": "images/Bangboo Officer Cui.png",
+    "release_date": "2024-08-14"
+  },
+  {
+    "id": "avocaboo",
+    "name": "Avocaboo",
+    "aliases": [
+      "avocaboo",
+      "Avocaboo Bangboo"
+    ],
+    "faction": "Support",
+    "image_url": "images/Bangboo Avocaboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "bagboo",
+    "name": "Bagboo",
+    "aliases": [
+      "bagboo",
+      "Bagboo Bangboo"
+    ],
+    "faction": "Attack",
+    "image_url": "images/Bangboo Bagboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "devilboo",
+    "name": "Devilboo",
+    "aliases": [
+      "devilboo",
+      "Devilboo Bangboo"
+    ],
+    "faction": "Ether",
+    "image_url": "images/Bangboo Devilboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "exploreboo",
+    "name": "Exploreboo",
+    "aliases": [
+      "exploreboo",
+      "Exploreboo Bangboo"
+    ],
+    "faction": "Anomaly",
+    "image_url": "images/Bangboo Exploreboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "paperboo",
+    "name": "Paperboo",
+    "aliases": [
+      "paperboo",
+      "Paperboo Bangboo"
+    ],
+    "faction": "Defense",
+    "image_url": "images/Bangboo Paperboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "penguinboo",
+    "name": "Penguinboo",
+    "aliases": [
+      "penguinboo",
+      "Penguinboo Bangboo"
+    ],
+    "faction": "Ice",
+    "image_url": "images/Bangboo Penguinboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "sumoboo",
+    "name": "Sumoboo",
+    "aliases": [
+      "sumoboo",
+      "Sumoboo Bangboo"
+    ],
+    "faction": "Stun",
+    "image_url": "images/Bangboo Sumoboo.png",
+    "release_date": "2024-07-04"
+  },
+  {
+    "id": "luckyboo",
+    "name": "Luckyboo",
+    "aliases": [
+      "luckyboo",
+      "Luckyboo Bangboo"
+    ],
+    "faction": "Event",
+    "image_url": "images/Bangboo Luckyboo.png",
+    "release_date": "2024-07-11"
   }
 ]
