@@ -5,3 +5,4 @@ scripts/
 merge_report.json
 update.py
 rewrite_sync.py
+character_health_report.json
