@@ -29,7 +29,10 @@
         {
           "id": "head_maid_s_perfection",
           "name": "Head Maid's Perfection",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "8ca7dc4b",
@@ -65,11 +68,12 @@
             }
           },
           "image_url": "images/Agent Alexandrina Sebastiane Portrait.png",
-          "icon_url": "images/Outfit Head Maids Perfection Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Head Maids Perfection Icon.png"
         }
       ],
-      "height_cm": 173
+      "height_cm": 173,
+      "base_skin_id": "head_maid_s_perfection",
+      "type": "Playable"
     },
     {
       "id": "alice_thymefield",
@@ -99,7 +103,10 @@
         {
           "id": "celestian_etiquette",
           "name": "Celestian Etiquette",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "d515e182",
@@ -168,8 +175,7 @@
             }
           },
           "image_url": "images/Agent Alice Thymefield Portrait.png",
-          "icon_url": "images/Outfit Celestian Etiquette Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Celestian Etiquette Icon.png"
         },
         {
           "id": "sea_of_thyme",
@@ -234,11 +240,12 @@
             }
           },
           "image_url": "images/Agent Alice Thymefield Sea of Thyme Portrait.png",
-          "icon_url": "images/Outfit Sea of Thyme Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Sea of Thyme Icon.png"
         }
       ],
-      "height_cm": 163
+      "height_cm": 163,
+      "base_skin_id": "celestian_etiquette",
+      "type": "Playable"
     },
     {
       "id": "anby_demara",
@@ -268,7 +275,10 @@
         {
           "id": "street_streak",
           "name": "Street Streak",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "91ffb01c",
@@ -304,11 +314,12 @@
             }
           },
           "image_url": "images/Agent Anby Demara Portrait.png",
-          "icon_url": "images/Outfit Street Streak Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Street Streak Icon.png"
         }
       ],
-      "height_cm": 156
+      "height_cm": 156,
+      "base_skin_id": "street_streak",
+      "type": "Playable"
     },
     {
       "id": "anton_ivanov",
@@ -338,7 +349,10 @@
         {
           "id": "earthshaking_axle",
           "name": "Earthshaking Axle",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "d46d8476",
@@ -387,11 +401,12 @@
             }
           },
           "image_url": "images/Agent Anton Ivanov Portrait.png",
-          "icon_url": "images/Outfit Earthshaking Axle Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Earthshaking Axle Icon.png"
         }
       ],
-      "height_cm": 190
+      "height_cm": 190,
+      "base_skin_id": "earthshaking_axle",
+      "type": "Playable"
     },
     {
       "id": "aria",
@@ -475,13 +490,15 @@
             }
           },
           "image_url": "images/Agent Aria Discordant Note Portrait.png",
-          "icon_url": "images/Outfit Discordant Note Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Discordant Note Icon.png"
         },
         {
           "id": "energetic_idol",
           "name": "Energetic Idol",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {},
           "image_url": "images/Agent Aria Portrait.png",
           "icon_url": "images/Outfit Energetic Idol Icon.png"
@@ -491,7 +508,9 @@
       "form_type": "base",
       "alternate_forms": [
         "aria_robot"
-      ]
+      ],
+      "base_skin_id": "energetic_idol",
+      "type": "Playable"
     },
     {
       "id": "aria_robot",
@@ -669,7 +688,10 @@
         {
           "id": "full_fledged_strings",
           "name": "Full-Fledged Strings",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "9f75c05c",
@@ -731,11 +753,12 @@
             }
           },
           "image_url": "images/Agent Asaba Harumasa Portrait.png",
-          "icon_url": "images/Outfit Full-Fledged Strings Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Full-Fledged Strings Icon.png"
         }
       ],
-      "height_cm": 173
+      "height_cm": 173,
+      "base_skin_id": "full_fledged_strings",
+      "type": "Playable"
     },
     {
       "id": "astra_yao",
@@ -814,15 +837,16 @@
             }
           },
           "image_url": "images/Agent Astra Yao Chandelier Portrait.png",
-          "icon_url": "images/Outfit Chandelier Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Chandelier Icon.png"
         },
         {
           "id": "scarlet_rock",
           "name": "Scarlet Rock",
           "aliases": [
             "astrachandelier",
+            "base",
             "chandelier",
+            "default",
             "scarlet_rock"
           ],
           "components": {
@@ -860,11 +884,12 @@
             }
           },
           "image_url": "images/Agent Astra Yao Portrait.png",
-          "icon_url": "images/Outfit Scarlet Rock Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Scarlet Rock Icon.png"
         }
       ],
-      "height_cm": 176
+      "height_cm": 176,
+      "base_skin_id": "scarlet_rock",
+      "type": "Playable"
     },
     {
       "id": "banyue",
@@ -888,7 +913,10 @@
         {
           "id": "blazestone_heart",
           "name": "Blazestone Heart",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "0a12bb17",
@@ -931,11 +959,12 @@
             }
           },
           "image_url": "images/Agent Banyue Portrait.png",
-          "icon_url": "images/Outfit Blazestone Heart Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Blazestone Heart Icon.png"
         }
       ],
-      "height_cm": 200
+      "height_cm": 200,
+      "base_skin_id": "blazestone_heart",
+      "type": "Playable"
     },
     {
       "id": "ben_bigger",
@@ -965,7 +994,10 @@
         {
           "id": "fluffy_beastking",
           "name": "Fluffy Beastking",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Body": {
               "draw_vb": "dfd93ee5",
@@ -991,11 +1023,12 @@
             }
           },
           "image_url": "images/Agent Ben Bigger Portrait.png",
-          "icon_url": "images/Outfit Fluffy Beastking Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Fluffy Beastking Icon.png"
         }
       ],
-      "height_cm": 192
+      "height_cm": 192,
+      "base_skin_id": "fluffy_beastking",
+      "type": "Playable"
     },
     {
       "id": "billy_kid",
@@ -1025,7 +1058,10 @@
         {
           "id": "shining_starlight_costume",
           "name": "Shining Starlight Costume",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "3e4c0174",
@@ -1064,11 +1100,12 @@
             }
           },
           "image_url": "images/Agent Billy Kid Portrait.png",
-          "icon_url": "images/Outfit Shining Starlight Costume Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Shining Starlight Costume Icon.png"
         }
       ],
-      "height_cm": 188
+      "height_cm": 188,
+      "base_skin_id": "shining_starlight_costume",
+      "type": "Playable"
     },
     {
       "id": "burnice_white",
@@ -1098,7 +1135,10 @@
         {
           "id": "wildfire_rave",
           "name": "Wildfire Rave",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Face": {
               "ib": "b3f6fcb3",
@@ -1134,11 +1174,12 @@
             }
           },
           "image_url": "images/Agent Burnice White Portrait.png",
-          "icon_url": "images/Outfit Wildfire Rave Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Wildfire Rave Icon.png"
         }
       ],
-      "height_cm": 160
+      "height_cm": 160,
+      "base_skin_id": "wildfire_rave",
+      "type": "Playable"
     },
     {
       "id": "caesar_king",
@@ -1168,7 +1209,10 @@
         {
           "id": "inferno_joyride",
           "name": "Inferno Joyride",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "bb723235",
@@ -1204,11 +1248,12 @@
             }
           },
           "image_url": "images/Agent Caesar King Portrait.png",
-          "icon_url": "images/Outfit Inferno Joyride Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Inferno Joyride Icon.png"
         }
       ],
-      "height_cm": 176
+      "height_cm": 176,
+      "base_skin_id": "inferno_joyride",
+      "type": "Playable"
     },
     {
       "id": "cissia",
@@ -1232,7 +1277,10 @@
         {
           "id": "snake_mouse_game",
           "name": "Snake & Mouse Game",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "33b532e5",
@@ -1289,11 +1337,12 @@
             }
           },
           "image_url": "images/Agent Cissia Portrait.png",
-          "icon_url": "images/Outfit Snake  Mouse Game Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Snake  Mouse Game Icon.png"
         }
       ],
-      "height_cm": 156
+      "height_cm": 156,
+      "base_skin_id": "snake_mouse_game",
+      "type": "Playable"
     },
     {
       "id": "corin_wickes",
@@ -1323,7 +1372,10 @@
         {
           "id": "matcha_profiterole",
           "name": "Matcha Profiterole",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "d345e472",
@@ -1372,11 +1424,12 @@
             }
           },
           "image_url": "images/Agent Corin Wickes Portrait.png",
-          "icon_url": "images/Outfit Matcha Profiterole Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Matcha Profiterole Icon.png"
         }
       ],
-      "height_cm": 141
+      "height_cm": 141,
+      "base_skin_id": "matcha_profiterole",
+      "type": "Playable"
     },
     {
       "id": "dialyn",
@@ -1400,7 +1453,10 @@
         {
           "id": "ringing_judgment",
           "name": "Ringing Judgment",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "00e453e9",
@@ -1455,11 +1511,12 @@
             }
           },
           "image_url": "images/Agent Dialyn Portrait.png",
-          "icon_url": "images/Outfit Ringing Judgment Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Ringing Judgment Icon.png"
         }
       ],
-      "height_cm": 145
+      "height_cm": 145,
+      "base_skin_id": "ringing_judgment",
+      "type": "Playable"
     },
     {
       "id": "ellen_joe",
@@ -1489,7 +1546,10 @@
         {
           "id": "ellen_scissorhands",
           "name": "Ellen Scissorhands",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "77ac5f85",
@@ -1525,8 +1585,7 @@
             }
           },
           "image_url": "images/Agent Ellen Joe Portrait.png",
-          "icon_url": "images/Outfit Ellen Scissorhands Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Ellen Scissorhands Icon.png"
         },
         {
           "id": "on_campus",
@@ -1585,11 +1644,12 @@
             }
           },
           "image_url": "images/Agent Ellen Joe On Campus Portrait.png",
-          "icon_url": "images/Outfit On Campus Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit On Campus Icon.png"
         }
       ],
-      "height_cm": 161
+      "height_cm": 161,
+      "base_skin_id": "ellen_scissorhands",
+      "type": "Playable"
     },
     {
       "id": "evelyn_chevalier",
@@ -1619,7 +1679,10 @@
         {
           "id": "a_moth_to_light",
           "name": "A Moth to Light",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Jacket": {
               "draw_vb": "1fb9dfe2",
@@ -1681,11 +1744,12 @@
             }
           },
           "image_url": "images/Agent Evelyn Chevalier Portrait.png",
-          "icon_url": "images/Outfit A Moth to Light Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit A Moth to Light Icon.png"
         }
       ],
-      "height_cm": 173
+      "height_cm": 173,
+      "base_skin_id": "a_moth_to_light",
+      "type": "Playable"
     },
     {
       "id": "grace_howard",
@@ -1715,7 +1779,10 @@
         {
           "id": "the_iron_witch_outfit_",
           "name": "The Iron Witch (Outfit)",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "9e96a54f",
@@ -1750,11 +1817,12 @@
               }
             }
           },
-          "image_url": "images/Agent Grace Howard Portrait.png",
-          "last_verified_version": "zzmi_assets_import"
+          "image_url": "images/Agent Grace Howard Portrait.png"
         }
       ],
-      "height_cm": 170
+      "height_cm": 170,
+      "base_skin_id": "the_iron_witch_outfit_",
+      "type": "Playable"
     },
     {
       "id": "hoshimi_miyabi",
@@ -1833,14 +1901,15 @@
             }
           },
           "image_url": "images/Agent Hoshimi Miyabi Dignified Blossom Portrait.png",
-          "icon_url": "images/Outfit Dignified Blossom Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Dignified Blossom Icon.png"
         },
         {
           "id": "frostgleam_dew",
           "name": "Frostgleam Dew",
           "aliases": [
+            "base",
             "blossom",
+            "default",
             "dignified_blossom",
             "miyabiblossom"
           ],
@@ -1893,11 +1962,12 @@
             }
           },
           "image_url": "images/Agent Hoshimi Miyabi Portrait.png",
-          "icon_url": "images/Outfit Frostgleam Dew Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Frostgleam Dew Icon.png"
         }
       ],
-      "height_cm": 170
+      "height_cm": 170,
+      "base_skin_id": "frostgleam_dew",
+      "type": "Playable"
     },
     {
       "id": "hugo_vlad",
@@ -1932,7 +2002,10 @@
         {
           "id": "crownless_rebellion",
           "name": "Crownless Rebellion",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "ab8eb2e6",
@@ -1994,11 +2067,12 @@
             }
           },
           "image_url": "images/Agent Hugo Vlad Portrait.png",
-          "icon_url": "images/Outfit Crownless Rebellion Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Crownless Rebellion Icon.png"
         }
       ],
-      "height_cm": 185
+      "height_cm": 185,
+      "base_skin_id": "crownless_rebellion",
+      "type": "Playable"
     },
     {
       "id": "jane_doe",
@@ -2029,7 +2103,10 @@
         {
           "id": "hidden_nightfade",
           "name": "Hidden Nightfade",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "74bc0b7f",
@@ -2078,8 +2155,7 @@
             }
           },
           "image_url": "images/Agent Jane Doe Portrait.png",
-          "icon_url": "images/Outfit Hidden Nightfade Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Hidden Nightfade Icon.png"
         },
         {
           "id": "nocturne_of_light",
@@ -2135,11 +2211,12 @@
             }
           },
           "image_url": "images/Agent Jane Doe Nocturne of Light Portrait.png",
-          "icon_url": "images/Outfit Nocturne of Light Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Nocturne of Light Icon.png"
         }
       ],
-      "height_cm": 170
+      "height_cm": 170,
+      "base_skin_id": "hidden_nightfade",
+      "type": "Playable"
     },
     {
       "id": "ju_fufu",
@@ -2169,7 +2246,10 @@
         {
           "id": "summit_s_cute_tiger",
           "name": "Summit's Cute Tiger",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "77d02cb1",
@@ -2218,11 +2298,12 @@
             }
           },
           "image_url": "images/Agent Ju Fufu Portrait.png",
-          "icon_url": "images/Outfit Summits Cute Tiger Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Summits Cute Tiger Icon.png"
         }
       ],
-      "height_cm": 142
+      "height_cm": 142,
+      "base_skin_id": "summit_s_cute_tiger",
+      "type": "Playable"
     },
     {
       "id": "koleda_belobog",
@@ -2252,7 +2333,10 @@
         {
           "id": "heart_hammer",
           "name": "Heart & Hammer",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "366e92ac",
@@ -2288,11 +2372,12 @@
             }
           },
           "image_url": "images/Agent Koleda Belobog Portrait.png",
-          "icon_url": "images/Outfit Heart  Hammer Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Heart  Hammer Icon.png"
         }
       ],
-      "height_cm": 150
+      "height_cm": 150,
+      "base_skin_id": "heart_hammer",
+      "type": "Playable"
     },
     {
       "id": "komano_manato",
@@ -2322,7 +2407,10 @@
         {
           "id": "loyal_wild_soul",
           "name": "Loyal Wild Soul",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "0932100e",
@@ -2384,8 +2472,7 @@
             }
           },
           "image_url": "images/Agent Komano Manato Portrait.png",
-          "icon_url": "images/Outfit Loyal Wild Soul Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Loyal Wild Soul Icon.png"
         },
         {
           "id": "white_heart_silhouette",
@@ -2396,7 +2483,9 @@
           "icon_url": "images/Outfit White Heart Silhouette Icon.png"
         }
       ],
-      "height_cm": 198
+      "height_cm": 198,
+      "base_skin_id": "loyal_wild_soul",
+      "type": "Playable"
     },
     {
       "id": "lighter",
@@ -2420,7 +2509,10 @@
         {
           "id": "everburn_embers",
           "name": "Everburn Embers",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "bd669b85",
@@ -2469,11 +2561,12 @@
             }
           },
           "image_url": "images/Agent Lighter Portrait.png",
-          "icon_url": "images/Outfit Everburn Embers Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Everburn Embers Icon.png"
         }
       ],
-      "height_cm": 185
+      "height_cm": 185,
+      "base_skin_id": "everburn_embers",
+      "type": "Playable"
     },
     {
       "id": "lucia_elowen",
@@ -2503,7 +2596,10 @@
         {
           "id": "whispering_dreams",
           "name": "Whispering Dreams",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "fed6eef6",
@@ -2565,11 +2661,12 @@
             }
           },
           "image_url": "images/Agent Lucia Elowen Portrait.png",
-          "icon_url": "images/Outfit Whispering Dreams Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Whispering Dreams Icon.png"
         }
       ],
-      "height_cm": 160
+      "height_cm": 160,
+      "base_skin_id": "whispering_dreams",
+      "type": "Playable"
     },
     {
       "id": "luciana_de_montefio",
@@ -2602,7 +2699,10 @@
         {
           "id": "ironfist_gentlewoman",
           "name": "Ironfist Gentlewoman",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "5661afc3",
@@ -2690,8 +2790,7 @@
             }
           },
           "image_url": "images/Agent Luciana de Montefio Portrait.png",
-          "icon_url": "images/Outfit Ironfist Gentlewoman Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Ironfist Gentlewoman Icon.png"
         },
         {
           "id": "princess_on_holiday",
@@ -2706,7 +2805,9 @@
           "icon_url": "images/Outfit Princess on Holiday Icon.png"
         }
       ],
-      "height_cm": 152
+      "height_cm": 152,
+      "base_skin_id": "ironfist_gentlewoman",
+      "type": "Playable"
     },
     {
       "id": "nangong_yu",
@@ -2736,7 +2837,10 @@
         {
           "id": "dreamy_dancer",
           "name": "Dreamy Dancer",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "536345c3",
@@ -2806,8 +2910,7 @@
             }
           },
           "image_url": "images/Agent Nangong Yu Portrait.png",
-          "icon_url": "images/Outfit Dreamy Dancer Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Dreamy Dancer Icon.png"
         },
         {
           "id": "rhapsody_s_muse",
@@ -2886,11 +2989,12 @@
             }
           },
           "image_url": "images/Agent Nangong Yu Rhapsodys Muse Portrait.png",
-          "icon_url": "images/Outfit Rhapsodys Muse Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Rhapsodys Muse Icon.png"
         }
       ],
-      "height_cm": 156
+      "height_cm": 156,
+      "base_skin_id": "dreamy_dancer",
+      "type": "Playable"
     },
     {
       "id": "nekomiya_mana",
@@ -2921,7 +3025,10 @@
         {
           "id": "cat_s_gratitude",
           "name": "Cat's Gratitude",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Body": {
               "draw_vb": "0c01e6a5",
@@ -2970,11 +3077,12 @@
             }
           },
           "image_url": "images/Agent Nekomiya Mana Portrait.png",
-          "icon_url": "images/Outfit Cats Gratitude Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Cats Gratitude Icon.png"
         }
       ],
-      "height_cm": 148
+      "height_cm": 148,
+      "base_skin_id": "cat_s_gratitude",
+      "type": "Playable"
     },
     {
       "id": "nicole_demara",
@@ -3054,14 +3162,15 @@
             }
           },
           "image_url": "images/Agent Nicole Demara Cunning Cutie Portrait.png",
-          "icon_url": "images/Outfit Cunning Cutie Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Cunning Cutie Icon.png"
         },
         {
           "id": "lil_sassy",
           "name": "Lil Sassy",
           "aliases": [
+            "base",
             "cutie",
+            "default",
             "nicolecutie",
             "sassy"
           ],
@@ -3127,11 +3236,12 @@
             }
           },
           "image_url": "images/Agent Nicole Demara Portrait.png",
-          "icon_url": "images/Outfit Lil Sassy Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Lil Sassy Icon.png"
         }
       ],
-      "height_cm": 165
+      "height_cm": 165,
+      "base_skin_id": "lil_sassy",
+      "type": "Playable"
     },
     {
       "id": "norma_hollowell",
@@ -3161,7 +3271,10 @@
         {
           "id": "immunity_to_fools",
           "name": "Immunity to Fools",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "62c935b1",
@@ -3218,11 +3331,12 @@
             }
           },
           "image_url": "images/Agent Norma Hollowell Portrait.png",
-          "icon_url": "images/Outfit Immunity to Fools Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Immunity to Fools Icon.png"
         }
       ],
-      "height_cm": 150
+      "height_cm": 150,
+      "base_skin_id": "immunity_to_fools",
+      "type": "Playable"
     },
     {
       "id": "orphie_magnusson_magus",
@@ -3257,7 +3371,10 @@
         {
           "id": "two_banks_of_the_river",
           "name": "Two Banks of the River",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "9f1dfc45",
@@ -3345,11 +3462,12 @@
             }
           },
           "image_url": "images/Agent Orphie Magnusson  Magus Portrait.png",
-          "icon_url": "images/Outfit Two Banks of the River Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Two Banks of the River Icon.png"
         }
       ],
-      "height_cm": 158
+      "height_cm": 158,
+      "base_skin_id": "two_banks_of_the_river",
+      "type": "Playable"
     },
     {
       "id": "pan_yinhu",
@@ -3418,14 +3536,15 @@
             }
           },
           "image_url": "images/Agent Pan Yinhu Culinary Jewel Portrait.png",
-          "icon_url": "images/Outfit Culinary Jewel Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Culinary Jewel Icon.png"
         },
         {
           "id": "hundred_flavors",
           "name": "Hundred Flavors",
           "aliases": [
+            "base",
             "culinary_jewel",
+            "default",
             "jewel",
             "panyinhujewel"
           ],
@@ -3468,11 +3587,12 @@
             }
           },
           "image_url": "images/Agent Pan Yinhu Portrait.png",
-          "icon_url": "images/Outfit Hundred Flavors Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Hundred Flavors Icon.png"
         }
       ],
-      "height_cm": 192
+      "height_cm": 192,
+      "base_skin_id": "hundred_flavors",
+      "type": "Playable"
     },
     {
       "id": "piper_wheel",
@@ -3502,7 +3622,10 @@
         {
           "id": "lazy_speed",
           "name": "Lazy Speed",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "da8a2564",
@@ -3551,11 +3674,12 @@
             }
           },
           "image_url": "images/Agent Piper Wheel Portrait.png",
-          "icon_url": "images/Outfit Lazy Speed Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Lazy Speed Icon.png"
         }
       ],
-      "height_cm": 151
+      "height_cm": 151,
+      "base_skin_id": "lazy_speed",
+      "type": "Playable"
     },
     {
       "id": "promeia",
@@ -3579,7 +3703,10 @@
         {
           "id": "shrouded_in_frost",
           "name": "Shrouded in Frost",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "2d4c7c18",
@@ -3662,11 +3789,12 @@
             }
           },
           "image_url": "images/Agent Promeia Portrait.png",
-          "icon_url": "images/Outfit Shrouded in Frost Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Shrouded in Frost Icon.png"
         }
       ],
-      "height_cm": 174
+      "height_cm": 174,
+      "base_skin_id": "shrouded_in_frost",
+      "type": "Playable"
     },
     {
       "id": "pulchra_fellini",
@@ -3696,7 +3824,10 @@
         {
           "id": "rest_for_a_weary_tail",
           "name": "Rest for a Weary Tail",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Mask": {
               "draw_vb": "992028e7",
@@ -3732,11 +3863,12 @@
             }
           },
           "image_url": "images/Agent Pulchra Fellini Portrait.png",
-          "icon_url": "images/Outfit Rest for a Weary Tail Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Rest for a Weary Tail Icon.png"
         }
       ],
-      "height_cm": 173
+      "height_cm": 173,
+      "base_skin_id": "rest_for_a_weary_tail",
+      "type": "Playable"
     },
     {
       "id": "pyrois",
@@ -3760,7 +3892,10 @@
         {
           "id": "dawn_s_guardian",
           "name": "Dawn's Guardian",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "6204c171",
@@ -3825,11 +3960,12 @@
             }
           },
           "image_url": "images/Agent Pyrois Portrait.png",
-          "icon_url": "images/Outfit Dawns Guardian Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Dawns Guardian Icon.png"
         }
       ],
-      "height_cm": null
+      "height_cm": null,
+      "base_skin_id": "dawn_s_guardian",
+      "type": "Playable"
     },
     {
       "id": "qingyi",
@@ -3855,7 +3991,10 @@
         {
           "id": "clarity_peace_and_joy",
           "name": "Clarity, Peace, and Joy",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "7b43d317",
@@ -3904,11 +4043,12 @@
             }
           },
           "image_url": "images/Agent Qingyi Portrait.png",
-          "icon_url": "images/Outfit Clarity Peace and Joy Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Clarity Peace and Joy Icon.png"
         }
       ],
-      "height_cm": 142
+      "height_cm": 142,
+      "base_skin_id": "clarity_peace_and_joy",
+      "type": "Playable"
     },
     {
       "id": "remielle_dan",
@@ -3939,6 +4079,8 @@
           "id": "feathered_murmurs",
           "name": "Feathered Murmurs",
           "aliases": [
+            "base",
+            "default",
             "feathered",
             "murmurs"
           ],
@@ -3969,7 +4111,9 @@
           "icon_url": "images/Outfit Seashade Pas Seul Icon.png"
         }
       ],
-      "height_cm": 167
+      "height_cm": 167,
+      "base_skin_id": "feathered_murmurs",
+      "type": "Playable"
     },
     {
       "id": "seed",
@@ -3995,7 +4139,10 @@
         {
           "id": "flower_in_bloom",
           "name": "Flower in Bloom",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "12bd16f4",
@@ -4057,11 +4204,12 @@
             }
           },
           "image_url": "images/Agent Seed Portrait.png",
-          "icon_url": "images/Outfit Flower in Bloom Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Flower in Bloom Icon.png"
         }
       ],
-      "height_cm": 153
+      "height_cm": 153,
+      "base_skin_id": "flower_in_bloom",
+      "type": "Playable"
     },
     {
       "id": "seth_lowell",
@@ -4091,7 +4239,10 @@
         {
           "id": "incorruptible_heart",
           "name": "Incorruptible Heart",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "d18b1600",
@@ -4127,11 +4278,12 @@
             }
           },
           "image_url": "images/Agent Seth Lowell Portrait.png",
-          "icon_url": "images/Outfit Incorruptible Heart Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Incorruptible Heart Icon.png"
         }
       ],
-      "height_cm": 174
+      "height_cm": 174,
+      "base_skin_id": "incorruptible_heart",
+      "type": "Playable"
     },
     {
       "id": "soldier_0_anby",
@@ -4160,13 +4312,18 @@
         {
           "id": "silver_soldier",
           "name": "Silver Soldier",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {},
           "image_url": "images/Agent Soldier 0 - Anby Portrait.png",
           "icon_url": "images/Outfit Silver Soldier Icon.png"
         }
       ],
-      "height_cm": 156
+      "height_cm": 156,
+      "base_skin_id": "silver_soldier",
+      "type": "Playable"
     },
     {
       "id": "soldier_11",
@@ -4197,7 +4354,10 @@
         {
           "id": "elite_soldier",
           "name": "Elite Soldier",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "ba0c408b",
@@ -4233,11 +4393,12 @@
             }
           },
           "image_url": "images/Agent Soldier 11 Portrait.png",
-          "icon_url": "images/Outfit Elite Soldier Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Elite Soldier Icon.png"
         }
       ],
-      "height_cm": 160
+      "height_cm": 160,
+      "base_skin_id": "elite_soldier",
+      "type": "Playable"
     },
     {
       "id": "soukaku",
@@ -4261,7 +4422,10 @@
         {
           "id": "dance_of_azure_ice",
           "name": "Dance of Azure Ice",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "5432bbb8",
@@ -4310,11 +4474,12 @@
             }
           },
           "image_url": "images/Agent Soukaku Portrait.png",
-          "icon_url": "images/Outfit Dance of Azure Ice Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Dance of Azure Ice Icon.png"
         }
       ],
-      "height_cm": 145
+      "height_cm": 145,
+      "base_skin_id": "dance_of_azure_ice",
+      "type": "Playable"
     },
     {
       "id": "starlight_billy_kid",
@@ -4345,13 +4510,18 @@
         {
           "id": "starlight_armaments",
           "name": "Starlight Armaments",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {},
           "image_url": "images/Agent Starlight - Billy Kid Portrait.png",
           "icon_url": "images/Outfit Starlight Armaments Icon.png"
         }
       ],
-      "height_cm": 188
+      "height_cm": 188,
+      "base_skin_id": "starlight_armaments",
+      "type": "Playable"
     },
     {
       "id": "sunna",
@@ -4439,13 +4609,14 @@
             }
           },
           "image_url": "images/Agent Sunna Afternoon Tea Break Portrait.png",
-          "icon_url": "images/Outfit Afternoon Tea Break Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Afternoon Tea Break Icon.png"
         },
         {
           "id": "dreams_on_loop",
           "name": "Dreams on Loop",
           "aliases": [
+            "base",
+            "default",
             "maid",
             "sunnamaid"
           ],
@@ -4505,11 +4676,12 @@
             }
           },
           "image_url": "images/Agent Sunna Portrait.png",
-          "icon_url": "images/Outfit Dreams on Loop Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Dreams on Loop Icon.png"
         }
       ],
-      "height_cm": 154
+      "height_cm": 154,
+      "base_skin_id": "dreams_on_loop",
+      "type": "Playable"
     },
     {
       "id": "trigger",
@@ -4533,7 +4705,10 @@
         {
           "id": "gaze_into_the_light",
           "name": "Gaze Into the Light",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "b0625293",
@@ -4569,11 +4744,12 @@
             }
           },
           "image_url": "images/Agent Trigger Portrait.png",
-          "icon_url": "images/Outfit Gaze Into the Light Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Gaze Into the Light Icon.png"
         }
       ],
-      "height_cm": 173
+      "height_cm": 173,
+      "base_skin_id": "gaze_into_the_light",
+      "type": "Playable"
     },
     {
       "id": "tsukishiro_yanagi",
@@ -4603,7 +4779,10 @@
         {
           "id": "flowing_moonshade_outfit_",
           "name": "Flowing Moonshade (Outfit)",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "daba2b23",
@@ -4664,11 +4843,12 @@
               }
             }
           },
-          "image_url": "images/Agent Tsukishiro Yanagi Portrait.png",
-          "last_verified_version": "zzmi_assets_import"
+          "image_url": "images/Agent Tsukishiro Yanagi Portrait.png"
         }
       ],
-      "height_cm": 169
+      "height_cm": 169,
+      "base_skin_id": "flowing_moonshade_outfit_",
+      "type": "Playable"
     },
     {
       "id": "ukinami_yuzuha",
@@ -4760,13 +4940,14 @@
             }
           },
           "image_url": "images/Agent Ukinami Yuzuha Tanuki in Broad Daylight Portrait.png",
-          "icon_url": "images/Outfit Tanuki in Broad Daylight Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Tanuki in Broad Daylight Icon.png"
         },
         {
           "id": "tanuki_under_the_shade",
           "name": "Tanuki Under the Shade",
           "aliases": [
+            "base",
+            "default",
             "summer",
             "yuzuhasummer"
           ],
@@ -4831,11 +5012,12 @@
             }
           },
           "image_url": "images/Agent Ukinami Yuzuha Portrait.png",
-          "icon_url": "images/Outfit Tanuki Under the Shade Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Tanuki Under the Shade Icon.png"
         }
       ],
-      "height_cm": 162
+      "height_cm": 162,
+      "base_skin_id": "tanuki_under_the_shade",
+      "type": "Playable"
     },
     {
       "id": "velina_airgid",
@@ -4865,7 +5047,10 @@
         {
           "id": "elegant_silver_cascade",
           "name": "Elegant Silver Cascade",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "c60af8f1",
@@ -4928,8 +5113,7 @@
             }
           },
           "image_url": "images/Agent Velina Airgid Portrait.png",
-          "icon_url": "images/Outfit Elegant Silver Cascade Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Elegant Silver Cascade Icon.png"
         },
         {
           "id": "shade_of_leisure",
@@ -5000,11 +5184,12 @@
             }
           },
           "image_url": "images/Agent Velina Airgid Shade of Leisure Portrait.png",
-          "icon_url": "images/Outfit Shade of Leisure Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Shade of Leisure Icon.png"
         }
       ],
-      "height_cm": 172
+      "height_cm": 172,
+      "base_skin_id": "elegant_silver_cascade",
+      "type": "Playable"
     },
     {
       "id": "vivian_banshee",
@@ -5034,7 +5219,10 @@
         {
           "id": "fluttering_violet",
           "name": "Fluttering Violet",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "2e01f7f7",
@@ -5083,8 +5271,7 @@
             }
           },
           "image_url": "images/Agent Vivian Banshee Portrait.png",
-          "icon_url": "images/Outfit Fluttering Violet Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Fluttering Violet Icon.png"
         },
         {
           "id": "iris_of_the_shore",
@@ -5141,11 +5328,12 @@
             }
           },
           "image_url": "images/Agent Vivian Banshee Iris of the Shore Portrait.png",
-          "icon_url": "images/Outfit Iris of the Shore Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Iris of the Shore Icon.png"
         }
       ],
-      "height_cm": 162
+      "height_cm": 162,
+      "base_skin_id": "fluttering_violet",
+      "type": "Playable"
     },
     {
       "id": "von_lycaon",
@@ -5175,7 +5363,10 @@
         {
           "id": "moonlight_prowl",
           "name": "Moonlight Prowl",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "cc59d8d6",
@@ -5237,11 +5428,12 @@
             }
           },
           "image_url": "images/Agent Von Lycaon Portrait.png",
-          "icon_url": "images/Outfit Moonlight Prowl Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Moonlight Prowl Icon.png"
         }
       ],
-      "height_cm": 198
+      "height_cm": 198,
+      "base_skin_id": "moonlight_prowl",
+      "type": "Playable"
     },
     {
       "id": "ye_shunguang",
@@ -5271,7 +5463,10 @@
         {
           "id": "clouddrift_illumination",
           "name": "Clouddrift Illumination",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "FrontHair": {
               "draw_vb": "01d5a625",
@@ -5424,8 +5619,7 @@
             }
           },
           "image_url": "images/Agent Ye Shunguang Portrait.png",
-          "icon_url": "images/Outfit Clouddrift Illumination Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Clouddrift Illumination Icon.png"
         },
         {
           "id": "touch_of_dawnlight",
@@ -5573,11 +5767,12 @@
             }
           },
           "image_url": "images/Agent Ye Shunguang Touch of Dawnlight Portrait.png",
-          "icon_url": "images/Outfit Touch of Dawnlight Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Touch of Dawnlight Icon.png"
         }
       ],
-      "height_cm": 162
+      "height_cm": 162,
+      "base_skin_id": "clouddrift_illumination",
+      "type": "Playable"
     },
     {
       "id": "yidhari_murphy",
@@ -5607,7 +5802,10 @@
         {
           "id": "stream_of_consciousness",
           "name": "Stream of Consciousness",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "2736d089",
@@ -5665,11 +5863,12 @@
             }
           },
           "image_url": "images/Agent Yidhari Murphy Portrait.png",
-          "icon_url": "images/Outfit Stream of Consciousness Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Stream of Consciousness Icon.png"
         }
       ],
-      "height_cm": 171
+      "height_cm": 171,
+      "base_skin_id": "stream_of_consciousness",
+      "type": "Playable"
     },
     {
       "id": "yixuan",
@@ -5693,7 +5892,10 @@
         {
           "id": "summit_of_clouds",
           "name": "Summit of Clouds",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "36a68b27",
@@ -5786,8 +5988,7 @@
             }
           },
           "image_url": "images/Agent Yixuan Portrait.png",
-          "icon_url": "images/Outfit Summit of Clouds Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Summit of Clouds Icon.png"
         },
         {
           "id": "trails_of_ink",
@@ -5849,11 +6050,12 @@
             }
           },
           "image_url": "images/Agent Yixuan Trails of Ink Portrait.png",
-          "icon_url": "images/Outfit Trails of Ink Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Trails of Ink Icon.png"
         }
       ],
-      "height_cm": 172
+      "height_cm": 172,
+      "base_skin_id": "summit_of_clouds",
+      "type": "Playable"
     },
     {
       "id": "zhao",
@@ -5877,7 +6079,10 @@
         {
           "id": "cuddly_executor",
           "name": "Cuddly Executor",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "9bfc82f2",
@@ -5913,11 +6118,12 @@
             }
           },
           "image_url": "images/Agent Zhao Portrait.png",
-          "icon_url": "images/Outfit Cuddly Executor Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Cuddly Executor Icon.png"
         }
       ],
-      "height_cm": 118
+      "height_cm": 118,
+      "base_skin_id": "cuddly_executor",
+      "type": "Playable"
     },
     {
       "id": "zhu_yuan",
@@ -5947,7 +6153,10 @@
         {
           "id": "suppressor_of_evil",
           "name": "Suppressor of Evil",
-          "aliases": [],
+          "aliases": [
+            "base",
+            "default"
+          ],
           "components": {
             "Hair": {
               "draw_vb": "a3091843",
@@ -6022,11 +6231,12 @@
             }
           },
           "image_url": "images/Agent Zhu Yuan Portrait.png",
-          "icon_url": "images/Outfit Suppressor of Evil Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Suppressor of Evil Icon.png"
         }
       ],
-      "height_cm": 175
+      "height_cm": 175,
+      "base_skin_id": "suppressor_of_evil",
+      "type": "Playable"
     },
     {
       "id": "belle",
@@ -6125,8 +6335,7 @@
             }
           },
           "image_url": "images/Agent Belle Brilliance of Stars Portrait.png",
-          "icon_url": "images/Outfit Brilliance of Stars Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Brilliance of Stars Icon.png"
         },
         {
           "id": "delicate_sunlight",
@@ -6273,16 +6482,17 @@
             }
           },
           "image_url": "images/Agent Belle Summer Skies Portrait.png",
-          "icon_url": "images/Outfit Summer Skies Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Summer Skies Icon.png"
         },
         {
           "id": "vibrant_store_manager",
           "name": "Vibrant Store Manager",
           "aliases": [
+            "base",
             "bellebrilliance",
             "brilliance",
-            "brilliance_of_stars"
+            "brilliance_of_stars",
+            "default"
           ],
           "components": {
             "Hair": {
@@ -6385,11 +6595,12 @@
             }
           },
           "image_url": "images/Agent Belle Portrait.png",
-          "icon_url": "images/Outfit Vibrant Store Manager Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Vibrant Store Manager Icon.png"
         }
       ],
-      "height_cm": null
+      "height_cm": null,
+      "base_skin_id": "vibrant_store_manager",
+      "type": "Protagonist"
     },
     {
       "id": "wise",
@@ -6462,8 +6673,7 @@
             }
           },
           "image_url": "images/Agent Wise Oath of Skies Portrait.png",
-          "icon_url": "images/Outfit Oath of Skies Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Oath of Skies Icon.png"
         },
         {
           "id": "peaceful_waves",
@@ -6508,13 +6718,14 @@
             }
           },
           "image_url": "images/Agent Wise Peaceful Waves Portrait.png",
-          "icon_url": "images/Outfit Peaceful Waves Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Peaceful Waves Icon.png"
         },
         {
           "id": "ridu_stroll",
           "name": "Ridu Stroll",
           "aliases": [
+            "base",
+            "default",
             "oath_of_skies",
             "skies",
             "wiseskies"
@@ -6581,8 +6792,7 @@
             }
           },
           "image_url": "images/Agent Wise Portrait.png",
-          "icon_url": "images/Outfit Ridu Stroll Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Ridu Stroll Icon.png"
         },
         {
           "id": "soaring_crane",
@@ -6653,11 +6863,12 @@
             }
           },
           "image_url": "images/Agent Wise Soaring Crane Portrait.png",
-          "icon_url": "images/Outfit Soaring Crane Icon.png",
-          "last_verified_version": "zzmi_assets_import"
+          "icon_url": "images/Outfit Soaring Crane Icon.png"
         }
       ],
-      "height_cm": null
+      "height_cm": null,
+      "base_skin_id": "ridu_stroll",
+      "type": "Protagonist"
     }
   ]
 }
