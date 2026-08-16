@@ -1,0 +1,46 @@
+{
+  "community_feed": {
+    "messages": [
+      {
+        "id": "welcome-v101",
+        "type": "info",
+        "title": "🎉 Welcome to ZZZ Mod Hub v1.0.1!",
+        "content": "We've added a ton of new features, including this Community Feed! Here you will find the latest news, patch notes, and mods personally recommended by the developer."
+      },
+      {
+        "id": "tip-drag-drop",
+        "type": "tip",
+        "title": "💡 Pro Tip: Drag & Drop",
+        "content": "Did you know you can drag and drop .zip or .rar mod archives directly into the app to install them instantly? Try it out!"
+      },
+      {
+        "id": "announcement-discord",
+        "type": "announcement",
+        "title": "👾 Join our Discord",
+        "content": "Need help with modding or want to share your favorite creations? Join our community Discord to talk with other modders."
+      },
+      {
+        "id": "poll-next-mod",
+        "type": "poll",
+        "title": "📊 What should we mod next?",
+        "content": "Vote for the next character you want to see a mod for on GameBanana!",
+        "link": "https://gamebanana.com/polls/example",
+        "buttonText": "Vote on GameBanana"
+      }
+    ],
+    "recommended_mods": [
+      {
+        "id": 515280,
+        "reason": "Essential UI improvement! This makes the game feel much cleaner and removes unnecessary clutter during combat."
+      },
+      {
+        "id": 512313,
+        "reason": "⭐ Editor's Pick: This is currently my favorite mod for fixing the weird texture bugs on certain characters."
+      },
+      {
+        "id": 515151,
+        "reason": "Highly requested! A huge Quality of Life change for exploring the hub areas faster."
+      }
+    ]
+  }
+}
