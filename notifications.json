@@ -1,12 +1,22 @@
 [
   {
+    "id": "1.0.1-release",
+    "title": "ZZZ Mod Hub Update 1.0.1 🚀",
+    "message": "### What's New in v1.0.1:\n- **Language Hub & Translator**: Visual in-app translation editor with side-by-side editing, 1-click import/export, and safe local file sync.\n- **Smart Mod Sorting Fixes**: Unconditionally respects user character choices for new characters, ignores generic flat normal maps (`ebac056e`) to prevent false multi-character detections, and preserves accurate alternate skin routing.\n- **Conflict Scanner Polish**: Eliminated false hash collision alerts on shared engine textures.\n- **Installer & Performance**: Clean modern NSIS installer with optimized chunk loading.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.0.1 🚀",
+    "message_pt_BR": "### Novidades da v1.0.1:\n- **Central de Idiomas & Tradutor**: Editor visual de traduções no app com edição lado a lado, importação/exportação em 1 clique e sincronização segura de arquivos locais.\n- **Correções na Organização de Mods**: Respeita escolhas manuais para novos personagens, ignora mapas normais genéricos (`ebac056e`) para evitar falsos avisos de múltiplos personagens e preserva o direcionamento correto de skins alternativas.\n- **Scanner de Conflitos Refinado**: Eliminados alertas falsos de colisão em texturas padrão do jogo.\n- **Instalador & Desempenho**: Instalador NSIS moderno e leve com carregamento otimizado.",
+    "title_zh": "ZZZ Mod Hub 1.0.1 更新 🚀",
+    "message_zh": "### v1.0.1 更新内容：\n- **语言中心与翻译器**：应用内可视化翻译编辑器，支持并排编辑、一键导入/导出及本地文件安全隔离同步。\n- **智能分类修复**：无条件尊重用户对新角色的选择，忽略全局通用法线贴图（`ebac056e`）以避免误报多角色冲突，并保持准确的换装/备用皮肤分类识别。\n- **冲突扫描器优化**：消除了针对通用引擎贴图的误报冲突提示。\n- **安装包与性能提升**：全新的轻量化 NSIS 安装程序及模块分块加载优化。",
+    "date": "2026-08-17T02:00:00Z"
+  },
+  {
     "id": "1.0-release",
-    "title": "Welcome to ZZZ Mod Manager 1.0! 🎉",
+    "title": "Welcome to ZZZ Mod Hub 1.0! 🎉",
     "message": "I'm thrilled to release version 1.0. This update brings full GameBanana integration, smart folder categorization, dynamic background glass mode, and more. Thanks for joining!",
-    "title_pt_BR": "Bem-vindo ao ZZZ Mod Manager 1.0! 🎉",
+    "title_pt_BR": "Bem-vindo ao ZZZ Mod Hub 1.0! 🎉",
     "message_pt_BR": "Estou muito feliz em lançar a versão 1.0. Esta atualização traz integração total com o GameBanana, categorização inteligente de pastas, modo de vidro dinâmico no fundo e muito mais. Obrigado por se juntar a nós!",
-    "title_zh": "欢迎使用 ZZZ Mod Manager 1.0！ 🎉",
+    "title_zh": "欢迎使用 ZZZ Mod Hub 1.0！ 🎉",
     "message_zh": "我很高兴发布 1.0 版本。此次更新带来了完整的 GameBanana 集成、智能文件夹分类、动态背景玻璃模式等更多功能。感谢您的加入！",
-    "date": "1978-03-08 T22:30:00Z"
+    "date": "2026-08-10T12:00:00Z"
   }
 ]
