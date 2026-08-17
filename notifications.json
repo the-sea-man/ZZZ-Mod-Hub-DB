@@ -1,13 +1,13 @@
 [
   {
-    "id": "1.0.1-release",
-    "title": "ZZZ Mod Hub Update 1.0.1 🚀",
-    "message": "### What's New in v1.0.1:\n- **Language Hub & Translator**: Visual in-app translation editor with side-by-side editing, 1-click import/export, and safe local file sync.\n- **Smart Mod Sorting Fixes**: Unconditionally respects user character choices for new characters, ignores generic flat normal maps (`ebac056e`) to prevent false multi-character detections, and preserves accurate alternate skin routing.\n- **Conflict Scanner Polish**: Eliminated false hash collision alerts on shared engine textures.\n- **Installer & Performance**: Clean modern NSIS installer with optimized chunk loading.",
-    "title_pt_BR": "Atualização ZZZ Mod Hub 1.0.1 🚀",
-    "message_pt_BR": "### Novidades da v1.0.1:\n- **Central de Idiomas & Tradutor**: Editor visual de traduções no app com edição lado a lado, importação/exportação em 1 clique e sincronização segura de arquivos locais.\n- **Correções na Organização de Mods**: Respeita escolhas manuais para novos personagens, ignora mapas normais genéricos (`ebac056e`) para evitar falsos avisos de múltiplos personagens e preserva o direcionamento correto de skins alternativas.\n- **Scanner de Conflitos Refinado**: Eliminados alertas falsos de colisão em texturas padrão do jogo.\n- **Instalador & Desempenho**: Instalador NSIS moderno e leve com carregamento otimizado.",
-    "title_zh": "ZZZ Mod Hub 1.0.1 更新 🚀",
-    "message_zh": "### v1.0.1 更新内容：\n- **语言中心与翻译器**：应用内可视化翻译编辑器，支持并排编辑、一键导入/导出及本地文件安全隔离同步。\n- **智能分类修复**：无条件尊重用户对新角色的选择，忽略全局通用法线贴图（`ebac056e`）以避免误报多角色冲突，并保持准确的换装/备用皮肤分类识别。\n- **冲突扫描器优化**：消除了针对通用引擎贴图的误报冲突提示。\n- **安装包与性能提升**：全新的轻量化 NSIS 安装程序及模块分块加载优化。",
-    "date": "2026-08-17T02:00:00Z"
+    "id": "1.0.2-release",
+    "title": "ZZZ Mod Hub Update 1.0.2 🚀",
+    "message": "### What's New in v1.0.2:\n- **Language Hub & Translator**: Visual in-app translation editor with side-by-side editing, 1-click import/export, and safe local file sync.\n- **Smart Mod Sorting Fixes**: Unconditionally respects user character choices for new characters, ignores generic flat normal maps (`ebac056e`) to prevent false multi-character detections, and preserves accurate alternate skin routing.\n- **Seamless Auto-Updates**: In-place user installer with automatic legacy cleanup and self-healing shortcuts.\n- **Conflict Scanner Polish**: Eliminated false hash collision alerts on shared engine textures.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.0.2 🚀",
+    "message_pt_BR": "### Novidades da v1.0.2:\n- **Central de Idiomas & Tradutor**: Editor visual de traduções no app com edição lado a lado, importação/exportação em 1 clique e sincronização segura de arquivos locais.\n- **Correções na Organização de Mods**: Respeita escolhas manuais para novos personagens, ignora mapas normais genéricos (`ebac056e`) para evitar falsos avisos de múltiplos personagens e preserva o direcionamento correto de skins alternativas.\n- **Atualizações Automáticas Fluidas**: Instalador em modo de usuário com limpeza automática de versões legadas e auto-reparo de atalhos.\n- **Scanner de Conflitos Refinado**: Eliminados alertas falsos de colisão em texturas padrão do jogo.",
+    "title_zh": "ZZZ Mod Hub 1.0.2 更新 🚀",
+    "message_zh": "### v1.0.2 更新内容：\n- **语言中心与翻译器**：应用内可视化翻译编辑器，支持并排编辑、一键导入/导出及本地文件安全隔离同步。\n- **智能分类修复**：无条件尊重用户对新角色的选择，忽略全局通用法线贴图（`ebac056e`）以避免误报多角色冲突，并保持准确的换装/备用皮肤分类识别。\n- **无缝自动更新**：全新的用户级自动更新流程，支持旧版残留清理与快捷方式自动修复。\n- **冲突扫描器优化**：消除了针对通用引擎贴图的误报冲突提示。",
+    "date": "2026-08-17T09:40:00Z"
   },
   {
     "id": "1.0-release",
