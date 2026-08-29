@@ -8,3 +8,6 @@ rewrite_sync.py
 character_health_report.json
 test.json
 README.md
+.agents/
+.agents
+

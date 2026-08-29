@@ -7,7 +7,7 @@
       "Eous Bangboo"
     ],
     "faction": "Phaethon",
-    "image_url": "images/Bangboo Eous.png",
+    "image_url": "images/Eous Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -18,7 +18,7 @@
       "Amillion Bangboo"
     ],
     "faction": "Cunning Hares",
-    "image_url": "images/Bangboo Amillion.png",
+    "image_url": "images/Amillion Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -29,7 +29,7 @@
       "Sharkboo Bangboo"
     ],
     "faction": "Victoria Housekeeping Co.",
-    "image_url": "images/Bangboo Sharkboo.png",
+    "image_url": "images/Sharkboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -40,7 +40,7 @@
       "Butler Bangboo"
     ],
     "faction": "Victoria Housekeeping Co.",
-    "image_url": "images/Bangboo Butler.png",
+    "image_url": "images/Butler Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -51,7 +51,7 @@
       "Rocketboo Bangboo"
     ],
     "faction": "Belobog Heavy Industries",
-    "image_url": "images/Bangboo Rocketboo.png",
+    "image_url": "images/Rocketboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -62,7 +62,7 @@
       "Safety Bangboo"
     ],
     "faction": "Belobog Heavy Industries",
-    "image_url": "images/Bangboo Safety.png",
+    "image_url": "images/Safety Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -73,7 +73,7 @@
       "Plugaboo Bangboo"
     ],
     "faction": "Electric",
-    "image_url": "images/Bangboo Plugaboo.png",
+    "image_url": "images/Plugboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -84,7 +84,7 @@
       "Resonaboo Bangboo"
     ],
     "faction": "Ether",
-    "image_url": "images/Bangboo Resonaboo.png",
+    "image_url": "images/Resonaboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -95,7 +95,7 @@
       "Red Moccus Bangboo"
     ],
     "faction": "Sons of Calydon",
-    "image_url": "images/Bangboo Red Moccus.png",
+    "image_url": "images/Red Moccus Portrait.png",
     "release_date": "2024-09-25"
   },
   {
@@ -106,7 +106,7 @@
       "Officer Cui Bangboo"
     ],
     "faction": "Criminal Investigation Special Response Team",
-    "image_url": "images/Bangboo Officer Cui.png",
+    "image_url": "images/Officer Cui Portrait.png",
     "release_date": "2024-08-14"
   },
   {
@@ -117,7 +117,7 @@
       "Avocaboo Bangboo"
     ],
     "faction": "Support",
-    "image_url": "images/Bangboo Avocaboo.png",
+    "image_url": "images/Avocaboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -128,7 +128,7 @@
       "Bagboo Bangboo"
     ],
     "faction": "Attack",
-    "image_url": "images/Bangboo Bagboo.png",
+    "image_url": "images/Bagboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -139,7 +139,7 @@
       "Devilboo Bangboo"
     ],
     "faction": "Ether",
-    "image_url": "images/Bangboo Devilboo.png",
+    "image_url": "images/Devilboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -150,7 +150,7 @@
       "Exploreboo Bangboo"
     ],
     "faction": "Anomaly",
-    "image_url": "images/Bangboo Exploreboo.png",
+    "image_url": "images/Exploreboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -161,7 +161,7 @@
       "Paperboo Bangboo"
     ],
     "faction": "Defense",
-    "image_url": "images/Bangboo Paperboo.png",
+    "image_url": "images/Paperboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -172,7 +172,7 @@
       "Penguinboo Bangboo"
     ],
     "faction": "Ice",
-    "image_url": "images/Bangboo Penguinboo.png",
+    "image_url": "images/Penguinboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -183,7 +183,7 @@
       "Sumoboo Bangboo"
     ],
     "faction": "Stun",
-    "image_url": "images/Bangboo Sumoboo.png",
+    "image_url": "images/Sumoboo Portrait.png",
     "release_date": "2024-07-04"
   },
   {
@@ -194,7 +194,7 @@
       "Luckyboo Bangboo"
     ],
     "faction": "Event",
-    "image_url": "images/Bangboo Luckyboo.png",
+    "image_url": "images/Luckyboo Portrait.png",
     "release_date": "2024-07-11"
   }
 ]
