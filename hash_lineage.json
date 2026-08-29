@@ -1,7 +1,57 @@
 {
   "version": "3.1",
-  "total_lineage_entries": 574,
+  "total_lineage_entries": 641,
   "characters": {
+    "AliceSeaOfTime": {
+      "name": "AliceSeaOfTime",
+      "components": {
+        "AliceSeaOfTime Sword Blend VB Hash": {
+          "current_hash": "e52f08c3",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "e52f08c3",
+              "migrated_to": "4fbccfe1"
+            },
+            {
+              "version": "2.3",
+              "hash": "4fbccfe1",
+              "migrated_to": "e52f08c3"
+            }
+          ]
+        },
+        "AliceSeaOfTime Sword Texcoord VB Hash": {
+          "current_hash": "3136fbad",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "3136fbad",
+              "migrated_to": "c6899a42"
+            },
+            {
+              "version": "2.3",
+              "hash": "c6899a42",
+              "migrated_to": "3136fbad"
+            }
+          ]
+        },
+        "AliceSeaOfTime Sword Position VB Hash": {
+          "current_hash": "5324c543",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "5324c543",
+              "migrated_to": "e3a50a16"
+            },
+            {
+              "version": "2.3",
+              "hash": "e3a50a16",
+              "migrated_to": "5324c543"
+            }
+          ]
+        }
+      }
+    },
     "Anby": {
       "name": "Anby",
       "components": {
@@ -342,6 +392,96 @@
         }
       }
     },
+    "AstraChandelier": {
+      "name": "AstraChandelier",
+      "components": {
+        "AstraChandelier Weapon Diffuse [Legacy]": {
+          "current_hash": "b5a20274",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "d652aa31",
+              "migrated_to": "b5a20274"
+            }
+          ]
+        },
+        "AstraChandelier Weapon LightMap [Legacy]": {
+          "current_hash": "57c44e60",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "91c63955",
+              "migrated_to": "57c44e60"
+            }
+          ]
+        },
+        "AstraChandelier Weapon MaterialMap [Legacy]": {
+          "current_hash": "fdb82c44",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "98e011bc",
+              "migrated_to": "fdb82c44"
+            }
+          ]
+        },
+        "AstraChandelier BodyA MaterialMap 2048p Hash": {
+          "current_hash": "fa2f509f",
+          "history": [
+            {
+              "version": "1.6",
+              "hash": "43a4d256",
+              "migrated_to": "fa2f509f"
+            }
+          ]
+        },
+        "AstraChandelier BodyA MaterialMap 1024p Hash": {
+          "current_hash": "03df0be9",
+          "history": [
+            {
+              "version": "1.5",
+              "hash": "6989dc5a",
+              "migrated_to": "6da1b76a"
+            },
+            {
+              "version": "1.6",
+              "hash": "6da1b76a",
+              "migrated_to": "03df0be9"
+            }
+          ]
+        },
+        "AstraChandelier BodyA LightMap 1024p Hash": {
+          "current_hash": "cf8ecb3b",
+          "history": [
+            {
+              "version": "1.6",
+              "hash": "83ede428",
+              "migrated_to": "cf8ecb3b"
+            }
+          ]
+        },
+        "AstraChandelier BodyA LightMap Hash [Legacy]": {
+          "current_hash": "515f9beb",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "7ce9f1db",
+              "migrated_to": "515f9beb"
+            }
+          ]
+        },
+        "AstraChandelier BodyA MaterialMap Hash [Legacy]": {
+          "current_hash": "fa2f509f",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "56abc3a3",
+              "migrated_to": "fa2f509f"
+            }
+          ]
+        }
+      }
+    },
     "AstraYao": {
       "name": "AstraYao",
       "components": {
@@ -500,7 +640,7 @@
     "AstraYaoChandelier": {
       "name": "AstraYaoChandelier",
       "components": {
-        "AstraYaoChandelier BodyA LightMap Hash": {
+        "AstraChandelier BodyA LightMap Hash [Legacy]": {
           "current_hash": "515f9beb",
           "history": [
             {
@@ -510,7 +650,7 @@
             }
           ]
         },
-        "AstraSkin BodyA LightMap 1024p Hash": {
+        "AstraChandelier BodyA LightMap 1024p Hash": {
           "current_hash": "cf8ecb3b",
           "history": [
             {
@@ -520,14 +660,19 @@
             }
           ]
         },
-        "AstraYaoChandelier BodyA MaterialMap Hash": {
-          "current_hash": "fa2f509f",
+        "AstraChandelier BodyA MaterialMap Hash [Legacy]": {
+          "current_hash": "43a4d256",
           "history": [
             {
               "version": "1.5",
               "hash": "56abc3a3",
               "migrated_to": "43a4d256"
-            },
+            }
+          ]
+        },
+        "AstraChandelier BodyA MaterialMap 2048p Hash": {
+          "current_hash": "fa2f509f",
+          "history": [
             {
               "version": "1.6",
               "hash": "43a4d256",
@@ -535,7 +680,7 @@
             }
           ]
         },
-        "AstraSkin BodyA MaterialMap 1024p Hash": {
+        "AstraChandelier BodyA MaterialMap 1024p Hash": {
           "current_hash": "03df0be9",
           "history": [
             {
@@ -685,6 +830,16 @@
             }
           ]
         },
+        "Belle Face VB Hash": {
+          "current_hash": "228f5a8b",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "d3000b22",
+              "migrated_to": "228f5a8b"
+            }
+          ]
+        },
         "Belle Face texcoord_vb Hash": {
           "current_hash": "d3000b22",
           "history": [
@@ -717,6 +872,16 @@
               "version": "3.0",
               "hash": "639ad374",
               "migrated_to": "d9dc65da"
+            }
+          ]
+        },
+        "Belle Face VB Hash": {
+          "current_hash": "228f5a8b",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "d3000b22",
+              "migrated_to": "228f5a8b"
             }
           ]
         }
@@ -897,50 +1062,30 @@
         }
       }
     },
-    "BelleSummerSkies": {
-      "name": "BelleSummerSkies",
+    "BelleSummer": {
+      "name": "BelleSummer",
       "components": {
-        "BelleSummerSkies Body IB Hash": {
+        "BelleSummer Tshirt Blend": {
+          "current_hash": "0a00d846",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "0139f7e8",
+              "migrated_to": "0a00d846"
+            }
+          ]
+        },
+        "BelleSummer Body IB Hash [Legacy]": {
           "current_hash": "619c5c94",
           "history": [
             {
-              "version": "1.0",
+              "version": "2.1",
               "hash": "43ed3c22",
               "migrated_to": "619c5c94"
             }
           ]
         },
-        "BelleSummerSkies Hair IB Hash": {
-          "current_hash": "a7683988",
-          "history": [
-            {
-              "version": "1.0",
-              "hash": "ea055cac",
-              "migrated_to": "a7683988"
-            }
-          ]
-        },
-        "BelleSummerSkies BodyA LightMap 2048p Hash": {
-          "current_hash": "60250d24",
-          "history": [
-            {
-              "version": "2.8",
-              "hash": "e0a86379",
-              "migrated_to": "60250d24"
-            }
-          ]
-        },
-        "BelleSummerSkies BodyA LightMap 1024p Hash": {
-          "current_hash": "5978a2ca",
-          "history": [
-            {
-              "version": "2.8",
-              "hash": "a189eccd",
-              "migrated_to": "5978a2ca"
-            }
-          ]
-        },
-        "BellesWimwear Tshirt Texcoord": {
+        "BelleSummer Tshirt Texcoord": {
           "current_hash": "325b4a1c",
           "history": [
             {
@@ -950,14 +1095,144 @@
             }
           ]
         },
-        "BellesWimwear Tshirt Blend": {
-          "current_hash": "0a00d846",
+        "Belle Hair IB Hash": {
+          "current_hash": "3acf9aea",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "bea4a483",
+              "migrated_to": "3acf9aea"
+            }
+          ]
+        },
+        "BelleSummer LightMap 2048p Hash [Legacy]": {
+          "current_hash": "60250d24",
+          "history": [
+            {
+              "version": "2.4",
+              "hash": "e0a86379",
+              "migrated_to": "60250d24"
+            }
+          ]
+        },
+        "BelleSummer Hair IB Hash [Legacy]": {
+          "current_hash": "a7683988",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "ea055cac",
+              "migrated_to": "a7683988"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Face blend_vb Hash": {
+          "current_hash": "359e4502",
+          "history": [
+            {
+              "version": "2.5",
+              "hash": "0c9a075b",
+              "migrated_to": "359e4502"
+            }
+          ]
+        },
+        "Belle blend_vb Hash [Legacy]": {
+          "current_hash": "0139f7e8",
           "history": [
             {
               "version": "2.1",
               "hash": "65481194",
               "migrated_to": "0139f7e8"
-            },
+            }
+          ]
+        },
+        "BelleSummer Body Blend": {
+          "current_hash": "4f3ddd5c",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "6af00597",
+              "migrated_to": "4f3ddd5c"
+            }
+          ]
+        },
+        "Belle LightMap 1024p Hash [Legacy]": {
+          "current_hash": "5978a2ca",
+          "history": [
+            {
+              "version": "2.4",
+              "hash": "a189eccd",
+              "migrated_to": "5978a2ca"
+            }
+          ]
+        }
+      }
+    },
+    "BelleSummerSkies": {
+      "name": "BelleSummerSkies",
+      "components": {
+        "BelleSummer Body IB Hash [Legacy]": {
+          "current_hash": "619c5c94",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "43ed3c22",
+              "migrated_to": "619c5c94"
+            }
+          ]
+        },
+        "BelleSummer Hair IB Hash [Legacy]": {
+          "current_hash": "a7683988",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "ea055cac",
+              "migrated_to": "a7683988"
+            }
+          ]
+        },
+        "BelleSummer LightMap 2048p Hash [Legacy]": {
+          "current_hash": "60250d24",
+          "history": [
+            {
+              "version": "2.4",
+              "hash": "e0a86379",
+              "migrated_to": "60250d24"
+            }
+          ]
+        },
+        "Belle LightMap 1024p Hash [Legacy]": {
+          "current_hash": "5978a2ca",
+          "history": [
+            {
+              "version": "2.4",
+              "hash": "a189eccd",
+              "migrated_to": "5978a2ca"
+            }
+          ]
+        },
+        "BelleSummer Tshirt Texcoord": {
+          "current_hash": "325b4a1c",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "881514bf",
+              "migrated_to": "325b4a1c"
+            }
+          ]
+        },
+        "Belle blend_vb Hash [Legacy]": {
+          "current_hash": "0139f7e8",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "65481194",
+              "migrated_to": "0139f7e8"
+            }
+          ]
+        },
+        "BelleSummer Tshirt Blend": {
+          "current_hash": "0a00d846",
+          "history": [
             {
               "version": "2.8",
               "hash": "0139f7e8",
@@ -965,13 +1240,248 @@
             }
           ]
         },
-        "BellesWimwear Body Blend": {
+        "BelleSummer Body Blend": {
           "current_hash": "4f3ddd5c",
           "history": [
             {
               "version": "2.1",
               "hash": "6af00597",
               "migrated_to": "4f3ddd5c"
+            }
+          ]
+        }
+      }
+    },
+    "BelleTemple": {
+      "name": "BelleTemple",
+      "components": {
+        "BelleDelicateSunlight Neck IB Hash": {
+          "current_hash": "d0627e1f",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "62ed56cc",
+              "migrated_to": "d0627e1f"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Hair Blend Hash": {
+          "current_hash": "8f7ae834",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "39ac6700",
+              "migrated_to": "8f7ae834"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Face blend_vb Hash": {
+          "current_hash": "359e4502",
+          "history": [
+            {
+              "version": "2.5",
+              "hash": "0c9a075b",
+              "migrated_to": "359e4502"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Face texcoord_vb Hash": {
+          "current_hash": "bcfc3326",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "ccc76aea",
+              "migrated_to": "bcfc3326"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Neck draw_vb Hash": {
+          "current_hash": "3f594476",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "4c215c73",
+              "migrated_to": "3f594476"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Neck position_vb Hash": {
+          "current_hash": "e2ee9309",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "be75a4be",
+              "migrated_to": "e2ee9309"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Neck texcoord_vb Hash": {
+          "current_hash": "2f7f6398",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "dd2b89aa",
+              "migrated_to": "2f7f6398"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Neck blend_vb Hash": {
+          "current_hash": "0a11b1d7",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "3bd79a0b",
+              "migrated_to": "0a11b1d7"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Body Blend Hash": {
+          "current_hash": "4d74d5e9",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "f3dedb50",
+              "migrated_to": "4d74d5e9"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Leg Blend Hash": {
+          "current_hash": "922a7db6",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "f53b2eba",
+              "migrated_to": "922a7db6"
+            }
+          ]
+        },
+        "Updating BelleDelicateSunlight Body blend_vb to f3dedb50": {
+          "current_hash": "f3dedb50",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "01b0c8b6",
+              "migrated_to": "f3dedb50"
+            }
+          ]
+        },
+        "Updating BelleDelicateSunlight Body texcoord_vb to d761e076": {
+          "current_hash": "d761e076",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "862dc27a",
+              "migrated_to": "d761e076"
+            }
+          ]
+        },
+        "Updating BelleDelicateSunlight Body position_vb to 8a4e97cd": {
+          "current_hash": "8a4e97cd",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "0b3c5e7c",
+              "migrated_to": "8a4e97cd"
+            }
+          ]
+        },
+        "Updating BelleDelicateSunlight Body draw_vb to 19e5f486": {
+          "current_hash": "19e5f486",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "02c9dc4b",
+              "migrated_to": "19e5f486"
+            }
+          ]
+        },
+        "Updating BelleDelicateSunlight Body IB to d509bdd4": {
+          "current_hash": "d509bdd4",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "860e1558",
+              "migrated_to": "d509bdd4"
+            }
+          ]
+        },
+        "Belle Body Texcoord Hash [Legacy] 2.0": {
+          "current_hash": "91fbd2fa",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "f425bd04",
+              "migrated_to": "91fbd2fa"
+            }
+          ]
+        },
+        "Belle BodyA Diffuse 2048p Hash [Legacy] Old": {
+          "current_hash": "da2bfe2f",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "84529dab",
+              "migrated_to": "da2bfe2f"
+            }
+          ]
+        },
+        "Belle BodyA Diffuse 1024p Hash [Legacy] Old": {
+          "current_hash": "0a2e0f42",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "ef76b675",
+              "migrated_to": "0a2e0f42"
+            }
+          ]
+        },
+        "BelleDelicateSunlight Headwear Blend Hash": {
+          "current_hash": "f18dd23f",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "db7add33",
+              "migrated_to": "f18dd23f"
+            }
+          ]
+        },
+        "BelleSkin BodyA Diffuse 2048p Hash": {
+          "current_hash": "da2bfe2f",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "cac9fd5d",
+              "migrated_to": "da2bfe2f"
+            }
+          ]
+        },
+        "Belle Face texcoord_vb Hash": {
+          "current_hash": "d3000b22",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "1de8fc08",
+              "migrated_to": "d3000b22"
+            }
+          ]
+        },
+        "BelleSkin BodyA Diffuse 1024p Hash": {
+          "current_hash": "fdf0b49e",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "59218fac",
+              "migrated_to": "fdf0b49e"
+            }
+          ]
+        },
+        "Alice HairA, LegsA, BodyA, BackpackA NormalMap Hash": {
+          "current_hash": "798adba3",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "ebac056e",
+              "migrated_to": "798adba3"
             }
           ]
         }
@@ -1462,6 +1972,36 @@
               "version": "1.0",
               "hash": "6ff0e4ad",
               "migrated_to": "3d7e53cf"
+            }
+          ]
+        },
+        "Dialyn WeaponGrip Blend VB Hash": {
+          "current_hash": "8fe19cc1",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "35709db4",
+              "migrated_to": "8fe19cc1"
+            }
+          ]
+        },
+        "Dialyn WeaponGrip Position VB Hash": {
+          "current_hash": "fd32eb72",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "79fc6a95",
+              "migrated_to": "fd32eb72"
+            }
+          ]
+        },
+        "Dialyn WeaponGrip Texcoord VB Hash": {
+          "current_hash": "5455d3c6",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "c0f5d550",
+              "migrated_to": "5455d3c6"
             }
           ]
         }
@@ -2234,6 +2774,101 @@
               "migrated_to": "1fa404c1"
             }
           ]
+        },
+        "JaneDoe Face VB Hash": {
+          "current_hash": "3c32a411",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "1fa404c1",
+              "migrated_to": "3c32a411"
+            }
+          ]
+        },
+        "Jane Hair Shadow IB Hash (inferred)": {
+          "current_hash": "27805144",
+          "history": [
+            {
+              "version": "2.4",
+              "hash": "7c6eb690",
+              "migrated_to": "27805144"
+            }
+          ]
+        },
+        "Jane Hair Shadow Position Hash (inferred)": {
+          "current_hash": "7c08cd53",
+          "history": [
+            {
+              "version": "2.4",
+              "hash": "5f8ea758",
+              "migrated_to": "7c08cd53"
+            }
+          ]
+        },
+        "Jane Hair Shadow Texcoord Hash (inferred)": {
+          "current_hash": "93c5b49a",
+          "history": [
+            {
+              "version": "2.4",
+              "hash": "3ac849d5",
+              "migrated_to": "93c5b49a"
+            }
+          ]
+        },
+        "Jane Hair Shadow Blend Hash (inferred)": {
+          "current_hash": "6af472f5",
+          "history": [
+            {
+              "version": "2.4",
+              "hash": "c5a06055",
+              "migrated_to": "6af472f5"
+            }
+          ]
+        },
+        "Jane Hand Blade Position Hash": {
+          "current_hash": "eace2dfa",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "850d4cbf",
+              "migrated_to": "eace2dfa"
+            }
+          ]
+        },
+        "Jane Hand Blade Texcoord Hash": {
+          "current_hash": "535e2453",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "7fd655de",
+              "migrated_to": "535e2453"
+            }
+          ]
+        },
+        "Jane Hand Blade Blend Hash": {
+          "current_hash": "7310ad6a",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "a14461d9",
+              "migrated_to": "7310ad6a"
+            }
+          ]
+        }
+      }
+    },
+    "JaneDoeNocturneOfLight": {
+      "name": "JaneDoeNocturneOfLight",
+      "components": {
+        "JaneDoe Face VB Hash": {
+          "current_hash": "3c32a411",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "1fa404c1",
+              "migrated_to": "3c32a411"
+            }
+          ]
         }
       }
     },
@@ -2402,6 +3037,16 @@
               "version": "2.7",
               "hash": "d5ba9ea6",
               "migrated_to": "d331b850"
+            }
+          ]
+        },
+        "Lighter Face VB Hash": {
+          "current_hash": "04cc2dfd",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "af14829b",
+              "migrated_to": "04cc2dfd"
             }
           ]
         },
@@ -2652,6 +3297,16 @@
               "version": "1.2",
               "hash": "6275f052",
               "migrated_to": "1ca0ae1a"
+            }
+          ]
+        },
+        "Lucy Face VB Hash": {
+          "current_hash": "e78a4ee2",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "1ca0ae1a",
+              "migrated_to": "e78a4ee2"
             }
           ]
         },
@@ -3497,6 +4152,26 @@
               "version": "3.0",
               "hash": "02cbd89d",
               "migrated_to": "798adba3"
+            }
+          ]
+        },
+        "Norma Weapon VB Hash": {
+          "current_hash": "aa195b0b",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "38e511a4",
+              "migrated_to": "07e51b64"
+            },
+            {
+              "version": "1.0",
+              "hash": "89a25f1a",
+              "migrated_to": "c4173b6e"
+            },
+            {
+              "version": "1.0",
+              "hash": "d3a66db9",
+              "migrated_to": "aa195b0b"
             }
           ]
         },
@@ -4389,6 +5064,16 @@
               "migrated_to": "ebac056e"
             }
           ]
+        },
+        "Qingyi Face VB Hash": {
+          "current_hash": "db1f2dfa",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "6a492df0",
+              "migrated_to": "db1f2dfa"
+            }
+          ]
         }
       }
     },
@@ -4412,6 +5097,46 @@
               "version": "1.0",
               "hash": "97637a8f",
               "migrated_to": "ebac056e"
+            }
+          ]
+        }
+      }
+    },
+    "Seed": {
+      "name": "Seed",
+      "components": {
+        "Seed weapon VB Hash": {
+          "current_hash": "567f9bcd",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "56979e94",
+              "migrated_to": "030e0aca"
+            },
+            {
+              "version": "1.0",
+              "hash": "b095c5cf",
+              "migrated_to": "567f9bcd"
+            }
+          ]
+        },
+        "Seed weapon NormalMap 2048p Hash": {
+          "current_hash": "b35534a9",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "fc59be11",
+              "migrated_to": "b35534a9"
+            }
+          ]
+        },
+        "2.3-2.7: Seed weapon NormalMap 2048p Hash": {
+          "current_hash": "b87d9c50",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "b35534a9",
+              "migrated_to": "b87d9c50"
             }
           ]
         }
@@ -4507,6 +5232,91 @@
               "version": "1.1",
               "hash": "62b047c5",
               "migrated_to": "ebac056e"
+            }
+          ]
+        },
+        "Seth Face VB Hash": {
+          "current_hash": "b3f6842f",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "bff3e0b3",
+              "migrated_to": "b3f6842f"
+            }
+          ]
+        }
+      }
+    },
+    "Sigrid": {
+      "name": "Sigrid",
+      "components": {
+        "Sigrid Body IB Hash": {
+          "current_hash": "38daef11",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "a23aa8a3",
+              "migrated_to": "38daef11"
+            }
+          ]
+        },
+        "Sigrid Body VB Hash": {
+          "current_hash": "018ea72c",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "01b35c45",
+              "migrated_to": "d0bf0e87"
+            },
+            {
+              "version": "1.0",
+              "hash": "08c15b45",
+              "migrated_to": "e2a28287"
+            },
+            {
+              "version": "1.0",
+              "hash": "f6474154",
+              "migrated_to": "08ddaed3"
+            },
+            {
+              "version": "1.0",
+              "hash": "8c0622d7",
+              "migrated_to": "018ea72c"
+            }
+          ]
+        }
+      }
+    },
+    "SigridMajesticWavechaser": {
+      "name": "SigridMajesticWavechaser",
+      "components": {
+        "SigridMajesticWavechaser Body Diffuse TEX Hash": {
+          "current_hash": "3a0cfbd4",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "b07c43ef",
+              "migrated_to": "8874c184"
+            },
+            {
+              "version": "1.0",
+              "hash": "82a7f32e",
+              "migrated_to": "3a0cfbd4"
+            }
+          ]
+        },
+        "SigridMajesticWavechaser Body LightMap TEX Hash": {
+          "current_hash": "cfc4ac8a",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "5e907c41",
+              "migrated_to": "2772f644"
+            },
+            {
+              "version": "1.0",
+              "hash": "1b4edd7b",
+              "migrated_to": "cfc4ac8a"
             }
           ]
         }
@@ -4814,6 +5624,26 @@
               "migrated_to": "d4a12ab7"
             }
           ]
+        },
+        "Trigger Magazine Position Hash": {
+          "current_hash": "862efc96",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "988144a6",
+              "migrated_to": "862efc96"
+            }
+          ]
+        },
+        "Trigger Magazine Texcoord Hash": {
+          "current_hash": "a58b916d",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "b6d507d9",
+              "migrated_to": "a58b916d"
+            }
+          ]
         }
       }
     },
@@ -4887,6 +5717,41 @@
               "version": "2.3",
               "hash": "f32eec8a",
               "migrated_to": "723bccec"
+            }
+          ]
+        }
+      }
+    },
+    "VivianSummer": {
+      "name": "VivianSummer",
+      "components": {
+        "VivianSkin Body Blend Hash": {
+          "current_hash": "723bccec",
+          "history": [
+            {
+              "version": "2.3",
+              "hash": "f32eec8a",
+              "migrated_to": "723bccec"
+            }
+          ]
+        },
+        "VivianIrisOfTheShore weapon TEX Hash": {
+          "current_hash": "6ecc2389",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "756ebf6b",
+              "migrated_to": "1dbeec1f"
+            },
+            {
+              "version": "2.0",
+              "hash": "d96fe324",
+              "migrated_to": "7270dab3"
+            },
+            {
+              "version": "2.0",
+              "hash": "6af50aef",
+              "migrated_to": "6ecc2389"
             }
           ]
         }
@@ -5011,7 +5876,7 @@
           ]
         },
         "Wise Body Texcoord Hash": {
-          "current_hash": "91fbd2fa",
+          "current_hash": "f425bd04",
           "history": [
             {
               "version": "1.0",
@@ -5022,11 +5887,6 @@
               "version": "1.5",
               "hash": "a9d5b70d",
               "migrated_to": "f425bd04"
-            },
-            {
-              "version": "2.0",
-              "hash": "f425bd04",
-              "migrated_to": "91fbd2fa"
             }
           ]
         },
@@ -5085,7 +5945,7 @@
             }
           ]
         },
-        "1.0 - 1.1: Wise BodyA Diffuse 2048p Hash": {
+        "Belle BodyA Diffuse 2048p Hash [Legacy] Old": {
           "current_hash": "868709f2",
           "history": [
             {
@@ -5110,7 +5970,7 @@
             }
           ]
         },
-        "1.0 - 1.1: Wise BodyA Diffuse 1024p Hash": {
+        "Belle BodyA Diffuse 1024p Hash [Legacy] Old": {
           "current_hash": "3d7a53b0",
           "history": [
             {
@@ -5145,6 +6005,16 @@
             }
           ]
         },
+        "Belle Body Texcoord Hash [Legacy] 2.0": {
+          "current_hash": "91fbd2fa",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "f425bd04",
+              "migrated_to": "91fbd2fa"
+            }
+          ]
+        },
         "Wise Head Texcoord Hash": {
           "current_hash": "c83b6cbf",
           "history": [
@@ -5160,6 +6030,16 @@
             }
           ]
         },
+        "Wise Face VB Hash": {
+          "current_hash": "2b320847",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "c83b6cbf",
+              "migrated_to": "2b320847"
+            }
+          ]
+        },
         "Wise Face Blend Hash": {
           "current_hash": "015fbf96",
           "history": [
@@ -5167,6 +6047,21 @@
               "version": "1.0",
               "hash": "757bc7cc",
               "migrated_to": "015fbf96"
+            }
+          ]
+        }
+      }
+    },
+    "WiseOathOfSkies": {
+      "name": "WiseOathOfSkies",
+      "components": {
+        "Wise Face VB Hash": {
+          "current_hash": "2b320847",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "c83b6cbf",
+              "migrated_to": "2b320847"
             }
           ]
         }
@@ -5202,6 +6097,16 @@
               "version": "1.0",
               "hash": "3f771e63",
               "migrated_to": "8d08b190"
+            }
+          ]
+        },
+        "Wise Face VB Hash": {
+          "current_hash": "2b320847",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "c83b6cbf",
+              "migrated_to": "2b320847"
             }
           ]
         },
@@ -5320,6 +6225,16 @@
             }
           ]
         },
+        "Wise Face VB Hash": {
+          "current_hash": "2b320847",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "c83b6cbf",
+              "migrated_to": "2b320847"
+            }
+          ]
+        },
         "Wise Face Blend Hash": {
           "current_hash": "015fbf96",
           "history": [
@@ -5327,6 +6242,381 @@
               "version": "1.0",
               "hash": "757bc7cc",
               "migrated_to": "015fbf96"
+            }
+          ]
+        }
+      }
+    },
+    "WiseSummer": {
+      "name": "WiseSummer",
+      "components": {
+        "WisePeacefulWaves Body IB Hash": {
+          "current_hash": "19a3f02e",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "4fe696c8",
+              "migrated_to": "19a3f02e"
+            }
+          ]
+        },
+        "WisePeacefulWaves Hair IB Hash": {
+          "current_hash": "0ec31440",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "cb272754",
+              "migrated_to": "0ec31440"
+            }
+          ]
+        },
+        "WiseSummer HairShadow position_vb Hash [Legacy]": {
+          "current_hash": "4af493e5",
+          "history": [
+            {
+              "version": "2.7",
+              "hash": "1a438b0d",
+              "migrated_to": "4af493e5"
+            }
+          ]
+        },
+        "WisePeacefulWaves Hair Shadow IB Hash": {
+          "current_hash": "8d08b190",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "3f771e63",
+              "migrated_to": "8d08b190"
+            }
+          ]
+        },
+        "WiseSummer HairShadow blend_vb Hash [Legacy]": {
+          "current_hash": "795e9a7c",
+          "history": [
+            {
+              "version": "2.7",
+              "hash": "52bd07dd",
+              "migrated_to": "795e9a7c"
+            }
+          ]
+        },
+        "WiseSummer HairShadow texcoord_vb Hash [Legacy]": {
+          "current_hash": "ad7d7eca",
+          "history": [
+            {
+              "version": "2.7",
+              "hash": "7b7957fa",
+              "migrated_to": "ad7d7eca"
+            }
+          ]
+        },
+        "WiseSummer HairShadow IB Hash [Legacy]": {
+          "current_hash": "8d08b190",
+          "history": [
+            {
+              "version": "2.7",
+              "hash": "83e07a1b",
+              "migrated_to": "8d08b190"
+            }
+          ]
+        },
+        "WiseSummer HairShadow draw_vb Hash [Legacy]": {
+          "current_hash": "681651f9",
+          "history": [
+            {
+              "version": "2.7",
+              "hash": "af5fc216",
+              "migrated_to": "681651f9"
+            }
+          ]
+        },
+        "Wiseswimwear Body Blend Hash": {
+          "current_hash": "d4147320",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "9741e2f0",
+              "migrated_to": "d4147320"
+            }
+          ]
+        }
+      }
+    },
+    "WiseTemple": {
+      "name": "WiseTemple",
+      "components": {
+        "Wise Hair Blend Hash": {
+          "current_hash": "edfd1666",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "edfd1666",
+              "migrated_to": "68e4f572"
+            },
+            {
+              "version": "1.0",
+              "hash": "1273c7b0",
+              "migrated_to": "edfd1666"
+            }
+          ]
+        },
+        "Wise Neck Blend Hash": {
+          "current_hash": "e0b1e734",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "458bbde3",
+              "migrated_to": "e0b1e734"
+            }
+          ]
+        },
+        "WiseSoaringCrane Body Blend Hash": {
+          "current_hash": "f28a6363",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "8612559a",
+              "migrated_to": "f28a6363"
+            }
+          ]
+        },
+        "Wise Face Blend Hash": {
+          "current_hash": "015fbf96",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "757bc7cc",
+              "migrated_to": "015fbf96"
+            }
+          ]
+        },
+        "WiseSoaringCrane Body IB Hash \u2192 WiseSoaringCrane Body IB Hash": {
+          "current_hash": "1eca2097",
+          "history": [
+            {
+              "version": "2.5",
+              "hash": "6acc1eb8",
+              "migrated_to": "1eca2097"
+            }
+          ]
+        },
+        "WiseSoaringCrane Body Position \u2192 WiseSoaringCrane Body Position": {
+          "current_hash": "a388eb6b",
+          "history": [
+            {
+              "version": "2.5",
+              "hash": "ae59eabb",
+              "migrated_to": "a388eb6b"
+            }
+          ]
+        },
+        "WiseSoaringCrane Body Texcoord \u2192 WiseSoaringCrane Body Texcoord": {
+          "current_hash": "b39870e1",
+          "history": [
+            {
+              "version": "2.5",
+              "hash": "a83ada4e",
+              "migrated_to": "b39870e1"
+            }
+          ]
+        },
+        "WiseSoaringCrane Body Blend \u2192 WiseSoaringCrane Body Blend": {
+          "current_hash": "8612559a",
+          "history": [
+            {
+              "version": "2.5",
+              "hash": "177ad7e8",
+              "migrated_to": "8612559a"
+            }
+          ]
+        },
+        "WiseSoaringCrane Body Draw \u2192 WiseSoaringCrane Body Draw": {
+          "current_hash": "ca02f614",
+          "history": [
+            {
+              "version": "2.5",
+              "hash": "4fa228f9",
+              "migrated_to": "ca02f614"
+            }
+          ]
+        },
+        "Belle Body Texcoord Hash [Legacy] 2.0": {
+          "current_hash": "91fbd2fa",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "f425bd04",
+              "migrated_to": "91fbd2fa"
+            }
+          ]
+        },
+        "Belle BodyA Diffuse 2048p Hash [Legacy] Old": {
+          "current_hash": "f2fb7a37",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "84529dab",
+              "migrated_to": "f2fb7a37"
+            }
+          ]
+        },
+        "Belle BodyA Diffuse 1024p Hash [Legacy] Old": {
+          "current_hash": "3d7a53b0",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "ef76b675",
+              "migrated_to": "3d7a53b0"
+            }
+          ]
+        },
+        "Wise BodyA Diffuse 2048p Hash": {
+          "current_hash": "f2fb7a37",
+          "history": [
+            {
+              "version": "2.6",
+              "hash": "868709f2",
+              "migrated_to": "f2fb7a37"
+            }
+          ]
+        },
+        "Wise Hair IB Hash": {
+          "current_hash": "d5ca0411",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "f6cac296",
+              "migrated_to": "d5ca0411"
+            }
+          ]
+        },
+        "Wise Hair Draw Hash": {
+          "current_hash": "ef9c0510",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "ba59bf09",
+              "migrated_to": "ef9c0510"
+            }
+          ]
+        },
+        "Wise Hair Position Hash": {
+          "current_hash": "e8df7ff3",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "6235fa7f",
+              "migrated_to": "e8df7ff3"
+            }
+          ]
+        },
+        "Wise Hair Texcoord Hash": {
+          "current_hash": "774071dd",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "fe89498c",
+              "migrated_to": "774071dd"
+            }
+          ]
+        },
+        "WiseSummer HairShadow IB Hash [Legacy]": {
+          "current_hash": "8d08b190",
+          "history": [
+            {
+              "version": "2.7",
+              "hash": "83e07a1b",
+              "migrated_to": "8d08b190"
+            }
+          ]
+        },
+        "WiseSummer HairShadow draw_vb Hash [Legacy]": {
+          "current_hash": "681651f9",
+          "history": [
+            {
+              "version": "2.7",
+              "hash": "af5fc216",
+              "migrated_to": "681651f9"
+            }
+          ]
+        },
+        "WiseSummer HairShadow position_vb Hash [Legacy]": {
+          "current_hash": "4af493e5",
+          "history": [
+            {
+              "version": "2.7",
+              "hash": "1a438b0d",
+              "migrated_to": "4af493e5"
+            }
+          ]
+        },
+        "WiseSummer HairShadow texcoord_vb Hash [Legacy]": {
+          "current_hash": "ad7d7eca",
+          "history": [
+            {
+              "version": "2.7",
+              "hash": "7b7957fa",
+              "migrated_to": "ad7d7eca"
+            }
+          ]
+        },
+        "WiseSummer HairShadow blend_vb Hash [Legacy]": {
+          "current_hash": "795e9a7c",
+          "history": [
+            {
+              "version": "2.7",
+              "hash": "52bd07dd",
+              "migrated_to": "795e9a7c"
+            }
+          ]
+        },
+        "WiseSoaringCrane BodyA Diffuse 2048p Hash": {
+          "current_hash": "669191ec",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "81406abe",
+              "migrated_to": "669191ec"
+            }
+          ]
+        },
+        "WisePeacefulWaves Hair Shadow IB Hash": {
+          "current_hash": "8d08b190",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "3f771e63",
+              "migrated_to": "8d08b190"
+            }
+          ]
+        },
+        "Wise Head Texcoord Hash": {
+          "current_hash": "c83b6cbf",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "ebe9f31b",
+              "migrated_to": "c83b6cbf"
+            }
+          ]
+        },
+        "Alice HairA, LegsA, BodyA, BackpackA NormalMap Hash": {
+          "current_hash": "798adba3",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "ebac056e",
+              "migrated_to": "798adba3"
+            }
+          ]
+        },
+        "WiseSoaringCrane BodyA Diffuse 1024p Hash": {
+          "current_hash": "23876240",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "9fc3646e",
+              "migrated_to": "23876240"
             }
           ]
         }
@@ -5377,6 +6667,61 @@
               "version": "1.0",
               "hash": "d1ffd339",
               "migrated_to": "dbb027eb"
+            }
+          ]
+        }
+      }
+    },
+    "YeShunguangSkin": {
+      "name": "YeShunguangSkin",
+      "components": {
+        "YeShunguang Eyebrow VB Hash": {
+          "current_hash": "a5182b8a",
+          "history": [
+            {
+              "version": "1.0",
+              "hash": "287c161c",
+              "migrated_to": "a5182b8a"
+            }
+          ]
+        },
+        "YeShunguang Sword VB Hash": {
+          "current_hash": "7eb1ca38",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "f927c4bb",
+              "migrated_to": "7eb1ca38"
+            }
+          ]
+        },
+        "MiyabiDignifiedBlossom Sword TEX Hash": {
+          "current_hash": "a355e13d",
+          "history": [
+            {
+              "version": "2.8",
+              "hash": "f9ec3ac8",
+              "migrated_to": "7eb1ca38"
+            },
+            {
+              "version": "2.8",
+              "hash": "9d2adcc5",
+              "migrated_to": "90250152"
+            },
+            {
+              "version": "2.8",
+              "hash": "0f21a6c9",
+              "migrated_to": "90250152"
+            },
+            {
+              "version": "2.8",
+              "hash": "4659445f",
+              "migrated_to": "a355e13d"
+            },
+            {
+              "version": "2.8",
+              "hash": "e6eab72f",
+              "migrated_to": "a355e13d"
             }
           ]
         }
@@ -5507,30 +6852,40 @@
         }
       }
     },
-    "YuzuhaTanukiInBroadDaylight": {
-      "name": "YuzuhaTanukiInBroadDaylight",
+    "YuzuhaSummer": {
+      "name": "YuzuhaSummer",
       "components": {
-        "YuzuhaSkin Body IB Hash": {
-          "current_hash": "b298482d",
+        "YuzuhaSummer Weapon Umbrella Diffuse [Legacy]": {
+          "current_hash": "caeee529",
           "history": [
             {
-              "version": "2.1",
-              "hash": "f34fdc84",
-              "migrated_to": "b298482d"
+              "version": "2.0",
+              "hash": "c8cb308c",
+              "migrated_to": "caeee529"
             }
           ]
         },
-        "YuzuhaSkin Body Draw Hash": {
-          "current_hash": "07437c27",
+        "YuzuhaSummer Weapon Umbrella LightMap [Legacy]": {
+          "current_hash": "f74f81e8",
           "history": [
             {
-              "version": "2.1",
-              "hash": "cf3319f6",
-              "migrated_to": "07437c27"
+              "version": "2.0",
+              "hash": "dc683116",
+              "migrated_to": "f74f81e8"
             }
           ]
         },
-        "YuzuhaSkin Body Position Hash": {
+        "YuzuhaSummer Weapon Umbrella MaterialMap [Legacy]": {
+          "current_hash": "6657efd2",
+          "history": [
+            {
+              "version": "2.0",
+              "hash": "114dafdf",
+              "migrated_to": "6657efd2"
+            }
+          ]
+        },
+        "YuzuhaSummer Body Position Hash": {
           "current_hash": "2a7b9144",
           "history": [
             {
@@ -5540,7 +6895,7 @@
             }
           ]
         },
-        "YuzuhaSkin Body Texcoord Hash": {
+        "YuzuhaSummer Body Texcoord Hash": {
           "current_hash": "0c9062c5",
           "history": [
             {
@@ -5550,7 +6905,82 @@
             }
           ]
         },
-        "YuzuhaSkin Body Blend Hash": {
+        "YuzuhaSummer Body Blend Hash": {
+          "current_hash": "523cf99d",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "be70426a",
+              "migrated_to": "523cf99d"
+            }
+          ]
+        },
+        "YuzuhaSummer Body Draw Hash": {
+          "current_hash": "07437c27",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "cf3319f6",
+              "migrated_to": "07437c27"
+            }
+          ]
+        },
+        "YuzuhaSummer Body IB Hash": {
+          "current_hash": "b298482d",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "f34fdc84",
+              "migrated_to": "b298482d"
+            }
+          ]
+        }
+      }
+    },
+    "YuzuhaTanukiInBroadDaylight": {
+      "name": "YuzuhaTanukiInBroadDaylight",
+      "components": {
+        "YuzuhaSummer Body IB Hash": {
+          "current_hash": "b298482d",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "f34fdc84",
+              "migrated_to": "b298482d"
+            }
+          ]
+        },
+        "YuzuhaSummer Body Draw Hash": {
+          "current_hash": "07437c27",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "cf3319f6",
+              "migrated_to": "07437c27"
+            }
+          ]
+        },
+        "YuzuhaSummer Body Position Hash": {
+          "current_hash": "2a7b9144",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "a3b56c9b",
+              "migrated_to": "2a7b9144"
+            }
+          ]
+        },
+        "YuzuhaSummer Body Texcoord Hash": {
+          "current_hash": "0c9062c5",
+          "history": [
+            {
+              "version": "2.1",
+              "hash": "3d3199c5",
+              "migrated_to": "0c9062c5"
+            }
+          ]
+        },
+        "YuzuhaSummer Body Blend Hash": {
           "current_hash": "523cf99d",
           "history": [
             {
@@ -5789,6 +7219,48 @@
     }
   },
   "hash_to_lineage": {
+    "e52f08c3": {
+      "character": "AliceSeaOfTime",
+      "component": "AliceSeaOfTime Sword Blend VB Hash",
+      "latest_hash": "4fbccfe1",
+      "version_from": "2.1",
+      "version_to": "2.2"
+    },
+    "3136fbad": {
+      "character": "AliceSeaOfTime",
+      "component": "AliceSeaOfTime Sword Texcoord VB Hash",
+      "latest_hash": "c6899a42",
+      "version_from": "2.1",
+      "version_to": "2.2"
+    },
+    "5324c543": {
+      "character": "AliceSeaOfTime",
+      "component": "AliceSeaOfTime Sword Position VB Hash",
+      "latest_hash": "e3a50a16",
+      "version_from": "2.1",
+      "version_to": "2.2"
+    },
+    "4fbccfe1": {
+      "character": "AliceSeaOfTime",
+      "component": "AliceSeaOfTime Sword Blend VB Hash",
+      "latest_hash": "e52f08c3",
+      "version_from": "2.3",
+      "version_to": "2.4"
+    },
+    "c6899a42": {
+      "character": "AliceSeaOfTime",
+      "component": "AliceSeaOfTime Sword Texcoord VB Hash",
+      "latest_hash": "3136fbad",
+      "version_from": "2.3",
+      "version_to": "2.4"
+    },
+    "e3a50a16": {
+      "character": "AliceSeaOfTime",
+      "component": "AliceSeaOfTime Sword Position VB Hash",
+      "latest_hash": "5324c543",
+      "version_from": "2.3",
+      "version_to": "2.4"
+    },
     "39538886": {
       "character": "Anby",
       "component": "Anby Hair Texcoord Hash",
@@ -6020,6 +7492,69 @@
       "version_from": "2.6",
       "version_to": "2.7"
     },
+    "d652aa31": {
+      "character": "AstraChandelier",
+      "component": "AstraChandelier Weapon Diffuse [Legacy]",
+      "latest_hash": "b5a20274",
+      "version_from": "2.0",
+      "version_to": "2.8"
+    },
+    "91c63955": {
+      "character": "AstraChandelier",
+      "component": "AstraChandelier Weapon LightMap [Legacy]",
+      "latest_hash": "57c44e60",
+      "version_from": "2.0",
+      "version_to": "2.8"
+    },
+    "98e011bc": {
+      "character": "AstraChandelier",
+      "component": "AstraChandelier Weapon MaterialMap [Legacy]",
+      "latest_hash": "fdb82c44",
+      "version_from": "2.0",
+      "version_to": "2.8"
+    },
+    "43a4d256": {
+      "character": "AstraYaoChandelier",
+      "component": "AstraChandelier BodyA MaterialMap 2048p Hash",
+      "latest_hash": "fa2f509f",
+      "version_from": "1.6",
+      "version_to": "2.0"
+    },
+    "6989dc5a": {
+      "character": "AstraYaoChandelier",
+      "component": "AstraChandelier BodyA MaterialMap 1024p Hash",
+      "latest_hash": "6da1b76a",
+      "version_from": "1.5",
+      "version_to": "1.6"
+    },
+    "6da1b76a": {
+      "character": "AstraYaoChandelier",
+      "component": "AstraChandelier BodyA MaterialMap 1024p Hash",
+      "latest_hash": "03df0be9",
+      "version_from": "1.6",
+      "version_to": "2.0"
+    },
+    "83ede428": {
+      "character": "AstraYaoChandelier",
+      "component": "AstraChandelier BodyA LightMap 1024p Hash",
+      "latest_hash": "cf8ecb3b",
+      "version_from": "1.6",
+      "version_to": "2.0"
+    },
+    "7ce9f1db": {
+      "character": "AstraYaoChandelier",
+      "component": "AstraChandelier BodyA LightMap Hash [Legacy]",
+      "latest_hash": "515f9beb",
+      "version_from": "1.5",
+      "version_to": "2.8"
+    },
+    "56abc3a3": {
+      "character": "AstraYaoChandelier",
+      "component": "AstraChandelier BodyA MaterialMap Hash [Legacy]",
+      "latest_hash": "43a4d256",
+      "version_from": "1.5",
+      "version_to": "2.8"
+    },
     "f8b92870": {
       "character": "AstraYao",
       "component": "AstraYao Hair Texcoord Hash",
@@ -6125,53 +7660,11 @@
       "version_from": "1.5",
       "version_to": "1.6"
     },
-    "7ce9f1db": {
-      "character": "AstraYaoChandelier",
-      "component": "AstraYaoChandelier BodyA LightMap Hash",
-      "latest_hash": "515f9beb",
-      "version_from": "1.5",
-      "version_to": "2.5"
-    },
-    "83ede428": {
-      "character": "AstraYaoChandelier",
-      "component": "AstraSkin BodyA LightMap 1024p Hash",
-      "latest_hash": "cf8ecb3b",
-      "version_from": "1.6",
-      "version_to": "2.0"
-    },
-    "56abc3a3": {
-      "character": "AstraYaoChandelier",
-      "component": "AstraYaoChandelier BodyA MaterialMap Hash",
-      "latest_hash": "43a4d256",
-      "version_from": "1.5",
-      "version_to": "1.6"
-    },
-    "43a4d256": {
-      "character": "AstraYaoChandelier",
-      "component": "AstraYaoChandelier BodyA MaterialMap Hash",
-      "latest_hash": "fa2f509f",
-      "version_from": "1.6",
-      "version_to": "2.5"
-    },
-    "6989dc5a": {
-      "character": "AstraYaoChandelier",
-      "component": "AstraSkin BodyA MaterialMap 1024p Hash",
-      "latest_hash": "6da1b76a",
-      "version_from": "1.5",
-      "version_to": "1.6"
-    },
-    "6da1b76a": {
-      "character": "AstraYaoChandelier",
-      "component": "AstraSkin BodyA MaterialMap 1024p Hash",
-      "latest_hash": "03df0be9",
-      "version_from": "1.6",
-      "version_to": "2.0"
-    },
     "bea4a483": {
-      "character": "Belle",
+      "character": "BelleSummer",
       "component": "Belle Hair IB Hash",
       "latest_hash": "3acf9aea",
-      "version_from": "1.0",
+      "version_from": "2.0",
       "version_to": "1.0"
     },
     "1817f3ca": {
@@ -6258,11 +7751,18 @@
       "version_from": "1.0",
       "version_to": "2.5"
     },
+    "d3000b22": {
+      "character": "BelleBrillianceOfStars",
+      "component": "Belle Face VB Hash",
+      "latest_hash": "228f5a8b",
+      "version_from": "1.0",
+      "version_to": "3.0"
+    },
     "1de8fc08": {
-      "character": "Belle",
+      "character": "BelleTemple",
       "component": "Belle Face texcoord_vb Hash",
       "latest_hash": "d3000b22",
-      "version_from": "1.0",
+      "version_from": "2.8",
       "version_to": "2.8"
     },
     "36138f65": {
@@ -6280,77 +7780,77 @@
       "version_to": "3.1"
     },
     "62ed56cc": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "BelleDelicateSunlight Neck IB Hash",
       "latest_hash": "d0627e1f",
-      "version_from": "1.0",
+      "version_from": "2.8",
       "version_to": "2.5"
     },
     "39ac6700": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "BelleDelicateSunlight Hair Blend Hash",
       "latest_hash": "8f7ae834",
       "version_from": "2.8",
       "version_to": "3.0"
     },
     "0c9a075b": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "BelleDelicateSunlight Face blend_vb Hash",
       "latest_hash": "359e4502",
       "version_from": "2.5",
       "version_to": "3.0"
     },
     "ccc76aea": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "BelleDelicateSunlight Face texcoord_vb Hash",
       "latest_hash": "bcfc3326",
-      "version_from": "1.0",
+      "version_from": "2.8",
       "version_to": "2.5"
     },
     "f3dedb50": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "BelleDelicateSunlight Body Blend Hash",
       "latest_hash": "4d74d5e9",
       "version_from": "2.8",
       "version_to": "3.0"
     },
     "f53b2eba": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "BelleDelicateSunlight Leg Blend Hash",
       "latest_hash": "922a7db6",
       "version_from": "2.8",
       "version_to": "3.0"
     },
     "01b0c8b6": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "Updating BelleDelicateSunlight Body blend_vb to f3dedb50",
       "latest_hash": "f3dedb50",
       "version_from": "1.0",
       "version_to": "2.5"
     },
     "862dc27a": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "Updating BelleDelicateSunlight Body texcoord_vb to d761e076",
       "latest_hash": "d761e076",
       "version_from": "1.0",
       "version_to": "2.5"
     },
     "0b3c5e7c": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "Updating BelleDelicateSunlight Body position_vb to 8a4e97cd",
       "latest_hash": "8a4e97cd",
       "version_from": "1.0",
       "version_to": "2.5"
     },
     "02c9dc4b": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "Updating BelleDelicateSunlight Body draw_vb to 19e5f486",
       "latest_hash": "19e5f486",
       "version_from": "1.0",
       "version_to": "2.5"
     },
     "860e1558": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "Updating BelleDelicateSunlight Body IB to d509bdd4",
       "latest_hash": "d509bdd4",
       "version_from": "1.0",
@@ -6378,81 +7878,137 @@
       "version_to": "2.5"
     },
     "db7add33": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "BelleDelicateSunlight Headwear Blend Hash",
       "latest_hash": "f18dd23f",
       "version_from": "2.8",
       "version_to": "3.0"
     },
     "cac9fd5d": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "BelleSkin BodyA Diffuse 2048p Hash",
       "latest_hash": "da2bfe2f",
       "version_from": "2.0",
       "version_to": "2.1"
     },
     "59218fac": {
-      "character": "BelleDelicateSunlight",
+      "character": "BelleTemple",
       "component": "BelleSkin BodyA Diffuse 1024p Hash",
       "latest_hash": "fdf0b49e",
       "version_from": "2.0",
       "version_to": "2.1"
     },
-    "43ed3c22": {
-      "character": "BelleSummerSkies",
-      "component": "BelleSummerSkies Body IB Hash",
-      "latest_hash": "619c5c94",
-      "version_from": "1.0",
-      "version_to": "2.5"
-    },
-    "ea055cac": {
-      "character": "BelleSummerSkies",
-      "component": "BelleSummerSkies Hair IB Hash",
-      "latest_hash": "a7683988",
-      "version_from": "1.0",
-      "version_to": "2.5"
-    },
-    "e0a86379": {
-      "character": "BelleSummerSkies",
-      "component": "BelleSummerSkies BodyA LightMap 2048p Hash",
-      "latest_hash": "60250d24",
-      "version_from": "2.8",
-      "version_to": "3.0"
-    },
-    "a189eccd": {
-      "character": "BelleSummerSkies",
-      "component": "BelleSummerSkies BodyA LightMap 1024p Hash",
-      "latest_hash": "5978a2ca",
-      "version_from": "2.8",
-      "version_to": "3.0"
-    },
-    "881514bf": {
-      "character": "BelleSummerSkies",
-      "component": "BellesWimwear Tshirt Texcoord",
-      "latest_hash": "325b4a1c",
-      "version_from": "2.8",
-      "version_to": "3.0"
-    },
-    "65481194": {
-      "character": "BelleSummerSkies",
-      "component": "BellesWimwear Tshirt Blend",
-      "latest_hash": "0139f7e8",
-      "version_from": "2.1",
-      "version_to": "2.2"
-    },
     "0139f7e8": {
       "character": "BelleSummerSkies",
-      "component": "BellesWimwear Tshirt Blend",
+      "component": "BelleSummer Tshirt Blend",
       "latest_hash": "0a00d846",
       "version_from": "2.8",
       "version_to": "3.0"
     },
+    "43ed3c22": {
+      "character": "BelleSummerSkies",
+      "component": "BelleSummer Body IB Hash [Legacy]",
+      "latest_hash": "619c5c94",
+      "version_from": "2.1",
+      "version_to": "2.2"
+    },
+    "881514bf": {
+      "character": "BelleSummerSkies",
+      "component": "BelleSummer Tshirt Texcoord",
+      "latest_hash": "325b4a1c",
+      "version_from": "2.8",
+      "version_to": "3.0"
+    },
+    "e0a86379": {
+      "character": "BelleSummerSkies",
+      "component": "BelleSummer LightMap 2048p Hash [Legacy]",
+      "latest_hash": "60250d24",
+      "version_from": "2.4",
+      "version_to": "2.5"
+    },
+    "ea055cac": {
+      "character": "BelleSummerSkies",
+      "component": "BelleSummer Hair IB Hash [Legacy]",
+      "latest_hash": "a7683988",
+      "version_from": "2.1",
+      "version_to": "2.2"
+    },
+    "65481194": {
+      "character": "BelleSummerSkies",
+      "component": "Belle blend_vb Hash [Legacy]",
+      "latest_hash": "0139f7e8",
+      "version_from": "2.1",
+      "version_to": "2.2"
+    },
     "6af00597": {
       "character": "BelleSummerSkies",
-      "component": "BellesWimwear Body Blend",
+      "component": "BelleSummer Body Blend",
       "latest_hash": "4f3ddd5c",
       "version_from": "2.1",
       "version_to": "2.2"
+    },
+    "a189eccd": {
+      "character": "BelleSummerSkies",
+      "component": "Belle LightMap 1024p Hash [Legacy]",
+      "latest_hash": "5978a2ca",
+      "version_from": "2.4",
+      "version_to": "2.5"
+    },
+    "4c215c73": {
+      "character": "BelleTemple",
+      "component": "BelleDelicateSunlight Neck draw_vb Hash",
+      "latest_hash": "3f594476",
+      "version_from": "2.8",
+      "version_to": "2.5"
+    },
+    "be75a4be": {
+      "character": "BelleTemple",
+      "component": "BelleDelicateSunlight Neck position_vb Hash",
+      "latest_hash": "e2ee9309",
+      "version_from": "2.8",
+      "version_to": "2.5"
+    },
+    "dd2b89aa": {
+      "character": "BelleTemple",
+      "component": "BelleDelicateSunlight Neck texcoord_vb Hash",
+      "latest_hash": "2f7f6398",
+      "version_from": "2.8",
+      "version_to": "2.5"
+    },
+    "3bd79a0b": {
+      "character": "BelleTemple",
+      "component": "BelleDelicateSunlight Neck blend_vb Hash",
+      "latest_hash": "0a11b1d7",
+      "version_from": "2.8",
+      "version_to": "2.5"
+    },
+    "f425bd04": {
+      "character": "WiseTemple",
+      "component": "Belle Body Texcoord Hash [Legacy] 2.0",
+      "latest_hash": "91fbd2fa",
+      "version_from": "2.0",
+      "version_to": "2.8"
+    },
+    "84529dab": {
+      "character": "WiseTemple",
+      "component": "Belle BodyA Diffuse 2048p Hash [Legacy] Old",
+      "latest_hash": "f2fb7a37",
+      "version_from": "1.0",
+      "version_to": "2.8"
+    },
+    "ef76b675": {
+      "character": "WiseTemple",
+      "component": "Belle BodyA Diffuse 1024p Hash [Legacy] Old",
+      "latest_hash": "3d7a53b0",
+      "version_from": "1.0",
+      "version_to": "2.8"
+    },
+    "ebac056e": {
+      "character": "WiseTemple",
+      "component": "Alice HairA, LegsA, BodyA, BackpackA NormalMap Hash",
+      "latest_hash": "798adba3",
+      "version_from": "2.8",
+      "version_to": "2.5"
     },
     "cc195dc5": {
       "character": "Ben",
@@ -6775,6 +8331,27 @@
       "latest_hash": "3d7e53cf",
       "version_from": "1.0",
       "version_to": "2.5"
+    },
+    "35709db4": {
+      "character": "Dialyn",
+      "component": "Dialyn WeaponGrip Blend VB Hash",
+      "latest_hash": "8fe19cc1",
+      "version_from": "1.0",
+      "version_to": "2.4"
+    },
+    "79fc6a95": {
+      "character": "Dialyn",
+      "component": "Dialyn WeaponGrip Position VB Hash",
+      "latest_hash": "fd32eb72",
+      "version_from": "1.0",
+      "version_to": "2.4"
+    },
+    "c0f5d550": {
+      "character": "Dialyn",
+      "component": "Dialyn WeaponGrip Texcoord VB Hash",
+      "latest_hash": "5455d3c6",
+      "version_from": "1.0",
+      "version_to": "2.4"
     },
     "9c7fac5a": {
       "character": "Ellen",
@@ -7329,6 +8906,62 @@
       "version_from": "2.4",
       "version_to": "2.5"
     },
+    "1fa404c1": {
+      "character": "JaneDoeNocturneOfLight",
+      "component": "JaneDoe Face VB Hash",
+      "latest_hash": "3c32a411",
+      "version_from": "1.0",
+      "version_to": "3.0"
+    },
+    "7c6eb690": {
+      "character": "JaneDoe",
+      "component": "Jane Hair Shadow IB Hash (inferred)",
+      "latest_hash": "27805144",
+      "version_from": "2.4",
+      "version_to": "2.5"
+    },
+    "5f8ea758": {
+      "character": "JaneDoe",
+      "component": "Jane Hair Shadow Position Hash (inferred)",
+      "latest_hash": "7c08cd53",
+      "version_from": "2.4",
+      "version_to": "2.5"
+    },
+    "3ac849d5": {
+      "character": "JaneDoe",
+      "component": "Jane Hair Shadow Texcoord Hash (inferred)",
+      "latest_hash": "93c5b49a",
+      "version_from": "2.4",
+      "version_to": "2.5"
+    },
+    "c5a06055": {
+      "character": "JaneDoe",
+      "component": "Jane Hair Shadow Blend Hash (inferred)",
+      "latest_hash": "6af472f5",
+      "version_from": "2.4",
+      "version_to": "2.5"
+    },
+    "850d4cbf": {
+      "character": "JaneDoe",
+      "component": "Jane Hand Blade Position Hash",
+      "latest_hash": "eace2dfa",
+      "version_from": "2.1",
+      "version_to": "2.2"
+    },
+    "7fd655de": {
+      "character": "JaneDoe",
+      "component": "Jane Hand Blade Texcoord Hash",
+      "latest_hash": "535e2453",
+      "version_from": "2.1",
+      "version_to": "2.2"
+    },
+    "a14461d9": {
+      "character": "JaneDoe",
+      "component": "Jane Hand Blade Blend Hash",
+      "latest_hash": "7310ad6a",
+      "version_from": "2.1",
+      "version_to": "2.2"
+    },
     "1a9b182a": {
       "character": "Koleda",
       "component": "Koleda Hair Texcoord Hash",
@@ -7447,6 +9080,13 @@
       "latest_hash": "d331b850",
       "version_from": "2.7",
       "version_to": "2.8"
+    },
+    "af14829b": {
+      "character": "Lighter",
+      "component": "Lighter Face VB Hash",
+      "latest_hash": "04cc2dfd",
+      "version_from": "1.0",
+      "version_to": "3.0"
     },
     "af2e48a6": {
       "character": "Lighter",
@@ -7622,6 +9262,13 @@
       "latest_hash": "1ca0ae1a",
       "version_from": "1.2",
       "version_to": "1.3"
+    },
+    "1ca0ae1a": {
+      "character": "Lucy",
+      "component": "Lucy Face VB Hash",
+      "latest_hash": "e78a4ee2",
+      "version_from": "1.0",
+      "version_to": "3.0"
     },
     "80efa5cb": {
       "character": "Lucy",
@@ -8161,6 +9808,27 @@
       "latest_hash": "ebac056e",
       "version_from": "3.0",
       "version_to": "3.1"
+    },
+    "38e511a4": {
+      "character": "Norma",
+      "component": "Norma Weapon VB Hash",
+      "latest_hash": "07e51b64",
+      "version_from": "1.0",
+      "version_to": "3.0"
+    },
+    "89a25f1a": {
+      "character": "Norma",
+      "component": "Norma Weapon VB Hash",
+      "latest_hash": "c4173b6e",
+      "version_from": "1.0",
+      "version_to": "3.0"
+    },
+    "d3a66db9": {
+      "character": "Norma",
+      "component": "Norma Weapon VB Hash",
+      "latest_hash": "aa195b0b",
+      "version_from": "1.0",
+      "version_to": "3.0"
     },
     "4050da0a": {
       "character": "Norma",
@@ -8862,6 +10530,13 @@
       "version_from": "1.1",
       "version_to": "2.5"
     },
+    "6a492df0": {
+      "character": "Qingyi",
+      "component": "Qingyi Face VB Hash",
+      "latest_hash": "db1f2dfa",
+      "version_from": "1.0",
+      "version_to": "3.0"
+    },
     "83ac7993": {
       "character": "Rina",
       "component": "Rina HairA NormalMap 2048p Hash",
@@ -8875,6 +10550,34 @@
       "latest_hash": "ebac056e",
       "version_from": "1.0",
       "version_to": "2.5"
+    },
+    "56979e94": {
+      "character": "Seed",
+      "component": "Seed weapon VB Hash",
+      "latest_hash": "030e0aca",
+      "version_from": "1.0",
+      "version_to": "2.2"
+    },
+    "b095c5cf": {
+      "character": "Seed",
+      "component": "Seed weapon VB Hash",
+      "latest_hash": "567f9bcd",
+      "version_from": "1.0",
+      "version_to": "2.2"
+    },
+    "fc59be11": {
+      "character": "Seed",
+      "component": "Seed weapon NormalMap 2048p Hash",
+      "latest_hash": "b35534a9",
+      "version_from": "1.0",
+      "version_to": "2.2"
+    },
+    "b35534a9": {
+      "character": "Seed",
+      "component": "2.3-2.7: Seed weapon NormalMap 2048p Hash",
+      "latest_hash": "b87d9c50",
+      "version_from": "1.0",
+      "version_to": "Latest"
     },
     "a72f760f": {
       "character": "Seth",
@@ -8938,6 +10641,76 @@
       "latest_hash": "ebac056e",
       "version_from": "1.1",
       "version_to": "2.5"
+    },
+    "bff3e0b3": {
+      "character": "Seth",
+      "component": "Seth Face VB Hash",
+      "latest_hash": "b3f6842f",
+      "version_from": "1.0",
+      "version_to": "3.0"
+    },
+    "a23aa8a3": {
+      "character": "Sigrid",
+      "component": "Sigrid Body IB Hash",
+      "latest_hash": "38daef11",
+      "version_from": "1.0",
+      "version_to": "3.1"
+    },
+    "01b35c45": {
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "latest_hash": "d0bf0e87",
+      "version_from": "1.0",
+      "version_to": "3.1"
+    },
+    "08c15b45": {
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "latest_hash": "e2a28287",
+      "version_from": "1.0",
+      "version_to": "3.1"
+    },
+    "f6474154": {
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "latest_hash": "08ddaed3",
+      "version_from": "1.0",
+      "version_to": "3.1"
+    },
+    "8c0622d7": {
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "latest_hash": "018ea72c",
+      "version_from": "1.0",
+      "version_to": "3.1"
+    },
+    "b07c43ef": {
+      "character": "SigridMajesticWavechaser",
+      "component": "SigridMajesticWavechaser Body Diffuse TEX Hash",
+      "latest_hash": "8874c184",
+      "version_from": "1.0",
+      "version_to": "3.1"
+    },
+    "82a7f32e": {
+      "character": "SigridMajesticWavechaser",
+      "component": "SigridMajesticWavechaser Body Diffuse TEX Hash",
+      "latest_hash": "3a0cfbd4",
+      "version_from": "1.0",
+      "version_to": "3.1"
+    },
+    "5e907c41": {
+      "character": "SigridMajesticWavechaser",
+      "component": "SigridMajesticWavechaser Body LightMap TEX Hash",
+      "latest_hash": "2772f644",
+      "version_from": "1.0",
+      "version_to": "3.1"
+    },
+    "1b4edd7b": {
+      "character": "SigridMajesticWavechaser",
+      "component": "SigridMajesticWavechaser Body LightMap TEX Hash",
+      "latest_hash": "cfc4ac8a",
+      "version_from": "1.0",
+      "version_to": "3.1"
     },
     "464847b3": {
       "character": "Soldier0",
@@ -9135,6 +10908,20 @@
       "version_from": "2.2",
       "version_to": "2.3"
     },
+    "988144a6": {
+      "character": "Trigger",
+      "component": "Trigger Magazine Position Hash",
+      "latest_hash": "862efc96",
+      "version_from": "2.0",
+      "version_to": "2.1"
+    },
+    "b6d507d9": {
+      "character": "Trigger",
+      "component": "Trigger Magazine Texcoord Hash",
+      "latest_hash": "a58b916d",
+      "version_from": "2.0",
+      "version_to": "2.1"
+    },
     "6cfb2498": {
       "character": "VelinaShadeOfLeisure",
       "component": "Velina Face IB Hash",
@@ -9157,42 +10944,63 @@
       "version_to": "3.1"
     },
     "f32eec8a": {
-      "character": "VivianIrisOfTheShore",
+      "character": "VivianSummer",
       "component": "VivianSkin Body Blend Hash",
       "latest_hash": "723bccec",
       "version_from": "2.3",
       "version_to": "2.4"
     },
+    "756ebf6b": {
+      "character": "VivianSummer",
+      "component": "VivianIrisOfTheShore weapon TEX Hash",
+      "latest_hash": "1dbeec1f",
+      "version_from": "2.0",
+      "version_to": "3.0"
+    },
+    "d96fe324": {
+      "character": "VivianSummer",
+      "component": "VivianIrisOfTheShore weapon TEX Hash",
+      "latest_hash": "7270dab3",
+      "version_from": "2.0",
+      "version_to": "3.0"
+    },
+    "6af50aef": {
+      "character": "VivianSummer",
+      "component": "VivianIrisOfTheShore weapon TEX Hash",
+      "latest_hash": "6ecc2389",
+      "version_from": "2.0",
+      "version_to": "3.0"
+    },
     "f6cac296": {
-      "character": "Wise",
+      "character": "WiseTemple",
       "component": "Wise Hair IB Hash",
       "latest_hash": "d5ca0411",
       "version_from": "1.0",
       "version_to": "2.5"
     },
     "ba59bf09": {
-      "character": "Wise",
+      "character": "WiseTemple",
       "component": "Wise Hair Draw Hash",
       "latest_hash": "ef9c0510",
       "version_from": "1.0",
       "version_to": "2.5"
     },
     "1273c7b0": {
-      "character": "Wise",
+      "character": "WiseTemple",
       "component": "Wise Hair Blend Hash",
       "latest_hash": "edfd1666",
       "version_from": "1.0",
       "version_to": "2.5"
     },
     "6235fa7f": {
-      "character": "Wise",
+      "character": "WiseTemple",
       "component": "Wise Hair Position Hash",
       "latest_hash": "e8df7ff3",
       "version_from": "1.0",
       "version_to": "2.5"
     },
     "fe89498c": {
-      "character": "Wise",
+      "character": "WiseTemple",
       "component": "Wise Hair Texcoord Hash",
       "latest_hash": "774071dd",
       "version_from": "1.0",
@@ -9289,26 +11097,12 @@
       "version_from": "1.0",
       "version_to": "2.5"
     },
-    "84529dab": {
-      "character": "Wise",
-      "component": "1.0 - 1.1: Wise BodyA Diffuse 2048p Hash",
-      "latest_hash": "868709f2",
-      "version_from": "1.0",
-      "version_to": "Latest"
-    },
     "868709f2": {
-      "character": "Wise",
+      "character": "WiseTemple",
       "component": "Wise BodyA Diffuse 2048p Hash",
       "latest_hash": "f2fb7a37",
       "version_from": "2.6",
       "version_to": "2.7"
-    },
-    "ef76b675": {
-      "character": "Wise",
-      "component": "1.0 - 1.1: Wise BodyA Diffuse 1024p Hash",
-      "latest_hash": "3d7a53b0",
-      "version_from": "1.0",
-      "version_to": "Latest"
     },
     "3d7a53b0": {
       "character": "Wise",
@@ -9339,18 +11133,11 @@
       "version_to": "2.5"
     },
     "edfd1666": {
-      "character": "Wise",
+      "character": "WiseTemple",
       "component": "Wise Hair Blend Hash",
       "latest_hash": "68e4f572",
       "version_from": "2.8",
       "version_to": "3.0"
-    },
-    "f425bd04": {
-      "character": "Wise",
-      "component": "Wise Body Texcoord Hash",
-      "latest_hash": "91fbd2fa",
-      "version_from": "2.0",
-      "version_to": "2.1"
     },
     "46462bd8": {
       "character": "Wise",
@@ -9374,109 +11161,151 @@
       "version_to": "2.0"
     },
     "ebe9f31b": {
-      "character": "Wise",
+      "character": "WiseTemple",
       "component": "Wise Head Texcoord Hash",
       "latest_hash": "c83b6cbf",
       "version_from": "2.0",
       "version_to": "2.1"
     },
-    "757bc7cc": {
+    "c83b6cbf": {
       "character": "WiseSoaringCrane",
+      "component": "Wise Face VB Hash",
+      "latest_hash": "2b320847",
+      "version_from": "1.0",
+      "version_to": "3.0"
+    },
+    "757bc7cc": {
+      "character": "WiseTemple",
       "component": "Wise Face Blend Hash",
       "latest_hash": "015fbf96",
-      "version_from": "1.0",
+      "version_from": "2.8",
       "version_to": "2.8"
     },
     "4fe696c8": {
-      "character": "WisePeacefulWaves",
+      "character": "WiseSummer",
       "component": "WisePeacefulWaves Body IB Hash",
       "latest_hash": "19a3f02e",
-      "version_from": "1.0",
+      "version_from": "2.1",
       "version_to": "2.5"
     },
     "cb272754": {
-      "character": "WisePeacefulWaves",
+      "character": "WiseSummer",
       "component": "WisePeacefulWaves Hair IB Hash",
       "latest_hash": "0ec31440",
-      "version_from": "1.0",
+      "version_from": "2.1",
       "version_to": "2.5"
     },
     "3f771e63": {
-      "character": "WisePeacefulWaves",
+      "character": "WiseTemple",
       "component": "WisePeacefulWaves Hair Shadow IB Hash",
       "latest_hash": "8d08b190",
-      "version_from": "1.0",
+      "version_from": "2.8",
       "version_to": "2.8"
     },
     "9741e2f0": {
-      "character": "WisePeacefulWaves",
+      "character": "WiseSummer",
       "component": "Wiseswimwear Body Blend Hash",
       "latest_hash": "d4147320",
       "version_from": "2.1",
       "version_to": "2.2"
     },
     "6acc1eb8": {
-      "character": "WiseSoaringCrane",
+      "character": "WiseTemple",
       "component": "WiseSoaringCrane Body IB Hash \u2192 WiseSoaringCrane Body IB Hash",
       "latest_hash": "1eca2097",
-      "version_from": "1.0",
+      "version_from": "2.5",
       "version_to": "2.5"
     },
     "a83ada4e": {
-      "character": "WiseSoaringCrane",
+      "character": "WiseTemple",
       "component": "WiseSoaringCrane Body Texcoord \u2192 WiseSoaringCrane Body Texcoord",
       "latest_hash": "b39870e1",
-      "version_from": "1.0",
+      "version_from": "2.5",
       "version_to": "2.5"
     },
     "177ad7e8": {
-      "character": "WiseSoaringCrane",
+      "character": "WiseTemple",
       "component": "WiseSoaringCrane Body Blend \u2192 WiseSoaringCrane Body Blend",
       "latest_hash": "8612559a",
-      "version_from": "1.0",
+      "version_from": "2.5",
       "version_to": "2.5"
     },
     "ae59eabb": {
-      "character": "WiseSoaringCrane",
+      "character": "WiseTemple",
       "component": "WiseSoaringCrane Body Position \u2192 WiseSoaringCrane Body Position",
       "latest_hash": "a388eb6b",
-      "version_from": "1.0",
+      "version_from": "2.5",
       "version_to": "2.5"
     },
     "4fa228f9": {
-      "character": "WiseSoaringCrane",
+      "character": "WiseTemple",
       "component": "WiseSoaringCrane Body Draw \u2192 WiseSoaringCrane Body Draw",
       "latest_hash": "ca02f614",
-      "version_from": "1.0",
+      "version_from": "2.5",
       "version_to": "2.5"
     },
     "8612559a": {
-      "character": "WiseSoaringCrane",
+      "character": "WiseTemple",
       "component": "WiseSoaringCrane Body Blend Hash",
       "latest_hash": "f28a6363",
       "version_from": "2.8",
       "version_to": "3.0"
     },
     "81406abe": {
-      "character": "WiseSoaringCrane",
+      "character": "WiseTemple",
       "component": "WiseSoaringCrane BodyA Diffuse 2048p Hash",
       "latest_hash": "669191ec",
       "version_from": "2.8",
       "version_to": "3.0"
     },
     "9fc3646e": {
-      "character": "WiseSoaringCrane",
+      "character": "WiseTemple",
       "component": "WiseSoaringCrane BodyA Diffuse 1024p Hash",
       "latest_hash": "23876240",
       "version_from": "2.8",
       "version_to": "3.0"
     },
     "458bbde3": {
-      "character": "WiseSoaringCrane",
+      "character": "WiseTemple",
       "component": "Wise Neck Blend Hash",
       "latest_hash": "e0b1e734",
       "version_from": "2.8",
       "version_to": "3.0"
+    },
+    "1a438b0d": {
+      "character": "WiseTemple",
+      "component": "WiseSummer HairShadow position_vb Hash [Legacy]",
+      "latest_hash": "4af493e5",
+      "version_from": "2.7",
+      "version_to": "2.8"
+    },
+    "52bd07dd": {
+      "character": "WiseTemple",
+      "component": "WiseSummer HairShadow blend_vb Hash [Legacy]",
+      "latest_hash": "795e9a7c",
+      "version_from": "2.7",
+      "version_to": "2.8"
+    },
+    "7b7957fa": {
+      "character": "WiseTemple",
+      "component": "WiseSummer HairShadow texcoord_vb Hash [Legacy]",
+      "latest_hash": "ad7d7eca",
+      "version_from": "2.7",
+      "version_to": "2.8"
+    },
+    "83e07a1b": {
+      "character": "WiseTemple",
+      "component": "WiseSummer HairShadow IB Hash [Legacy]",
+      "latest_hash": "8d08b190",
+      "version_from": "2.7",
+      "version_to": "2.8"
+    },
+    "af5fc216": {
+      "character": "WiseTemple",
+      "component": "WiseSummer HairShadow draw_vb Hash [Legacy]",
+      "latest_hash": "681651f9",
+      "version_from": "2.7",
+      "version_to": "2.8"
     },
     "fd363c76": {
       "character": "Yanagi",
@@ -9505,6 +11334,55 @@
       "latest_hash": "dbb027eb",
       "version_from": "1.0",
       "version_to": "2.5"
+    },
+    "287c161c": {
+      "character": "YeShunguangSkin",
+      "component": "YeShunguang Eyebrow VB Hash",
+      "latest_hash": "a5182b8a",
+      "version_from": "1.0",
+      "version_to": "3.0"
+    },
+    "f927c4bb": {
+      "character": "YeShunguangSkin",
+      "component": "YeShunguang Sword VB Hash",
+      "latest_hash": "7eb1ca38",
+      "version_from": "2.8",
+      "version_to": "3.0"
+    },
+    "f9ec3ac8": {
+      "character": "YeShunguangSkin",
+      "component": "MiyabiDignifiedBlossom Sword TEX Hash",
+      "latest_hash": "7eb1ca38",
+      "version_from": "2.8",
+      "version_to": "3.0"
+    },
+    "9d2adcc5": {
+      "character": "YeShunguangSkin",
+      "component": "MiyabiDignifiedBlossom Sword TEX Hash",
+      "latest_hash": "90250152",
+      "version_from": "2.8",
+      "version_to": "3.0"
+    },
+    "0f21a6c9": {
+      "character": "YeShunguangSkin",
+      "component": "MiyabiDignifiedBlossom Sword TEX Hash",
+      "latest_hash": "90250152",
+      "version_from": "2.8",
+      "version_to": "3.0"
+    },
+    "4659445f": {
+      "character": "YeShunguangSkin",
+      "component": "MiyabiDignifiedBlossom Sword TEX Hash",
+      "latest_hash": "a355e13d",
+      "version_from": "2.8",
+      "version_to": "3.0"
+    },
+    "e6eab72f": {
+      "character": "YeShunguangSkin",
+      "component": "MiyabiDignifiedBlossom Sword TEX Hash",
+      "latest_hash": "a355e13d",
+      "version_from": "2.8",
+      "version_to": "3.0"
     },
     "2ae9bee8": {
       "character": "Yidhari",
@@ -9583,38 +11461,59 @@
       "version_from": "2.0",
       "version_to": "2.1"
     },
-    "f34fdc84": {
-      "character": "YuzuhaTanukiInBroadDaylight",
-      "component": "YuzuhaSkin Body IB Hash",
-      "latest_hash": "b298482d",
-      "version_from": "2.1",
-      "version_to": "2.11"
+    "c8cb308c": {
+      "character": "YuzuhaSummer",
+      "component": "YuzuhaSummer Weapon Umbrella Diffuse [Legacy]",
+      "latest_hash": "caeee529",
+      "version_from": "2.0",
+      "version_to": "2.8"
     },
-    "cf3319f6": {
-      "character": "YuzuhaTanukiInBroadDaylight",
-      "component": "YuzuhaSkin Body Draw Hash",
-      "latest_hash": "07437c27",
-      "version_from": "2.1",
-      "version_to": "2.11"
+    "dc683116": {
+      "character": "YuzuhaSummer",
+      "component": "YuzuhaSummer Weapon Umbrella LightMap [Legacy]",
+      "latest_hash": "f74f81e8",
+      "version_from": "2.0",
+      "version_to": "2.8"
+    },
+    "114dafdf": {
+      "character": "YuzuhaSummer",
+      "component": "YuzuhaSummer Weapon Umbrella MaterialMap [Legacy]",
+      "latest_hash": "6657efd2",
+      "version_from": "2.0",
+      "version_to": "2.8"
     },
     "a3b56c9b": {
       "character": "YuzuhaTanukiInBroadDaylight",
-      "component": "YuzuhaSkin Body Position Hash",
+      "component": "YuzuhaSummer Body Position Hash",
       "latest_hash": "2a7b9144",
       "version_from": "2.1",
       "version_to": "2.11"
     },
     "3d3199c5": {
       "character": "YuzuhaTanukiInBroadDaylight",
-      "component": "YuzuhaSkin Body Texcoord Hash",
+      "component": "YuzuhaSummer Body Texcoord Hash",
       "latest_hash": "0c9062c5",
       "version_from": "2.1",
       "version_to": "2.11"
     },
     "be70426a": {
       "character": "YuzuhaTanukiInBroadDaylight",
-      "component": "YuzuhaSkin Body Blend Hash",
+      "component": "YuzuhaSummer Body Blend Hash",
       "latest_hash": "523cf99d",
+      "version_from": "2.1",
+      "version_to": "2.11"
+    },
+    "cf3319f6": {
+      "character": "YuzuhaTanukiInBroadDaylight",
+      "component": "YuzuhaSummer Body Draw Hash",
+      "latest_hash": "07437c27",
+      "version_from": "2.1",
+      "version_to": "2.11"
+    },
+    "f34fdc84": {
+      "character": "YuzuhaTanukiInBroadDaylight",
+      "component": "YuzuhaSummer Body IB Hash",
+      "latest_hash": "b298482d",
       "version_from": "2.1",
       "version_to": "2.11"
     },
