@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.1.0-release",
+    "title": "ZZZ Mod Hub Update 1.1.0 ⚡",
+    "message": "### What's New in v1.1.0:\n- **Interactive Download History**: Live download ETA & speed tracking, immediate folder awareness, and 1-click 'View in Library' or 'Open Folder' actions.\n- **Page Updated Inspector**: Safely review GameBanana mod updates, author patch notes, and full file rosters with options to install as a new mod or replace with automatic backup (`DISABLED [Backup ...]`).\n- **Dual-Gate UI & Recolor Protection**: Intelligent auto-sorting guarantees pure UI/HUD mods stay in `Unassigned` while character texture recolors (.dds) correctly sort to character folders.\n- **Performance Boost & 8K Texture OOM Fix**: Fast thumbnailing prevents memory crashes on 8K DDS textures, plus a new Low Performance Mode in Settings.\n- **Experimental Safety Gate**: High-impact developer tools (Native Mod Fixer & Splitter) safely opt-in.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.1.0 ⚡",
+    "message_pt_BR": "### Novidades da v1.1.0:\n- **Histórico Interativo de Downloads**: Acompanhe velocidade e tempo estimado em tempo real, veja a pasta de destino de imediato e acesse ações de 1 clique para 'Ver na Biblioteca' ou 'Abrir Pasta'.\n- **Inspetor de Atualizações Seguras**: Analise atualizações do GameBanana com notas do autor e lista de arquivos, com opções para instalar como novo mod ou substituir com backup automático (`DISABLED [Backup ...]`).\n- **Proteção para Mods de UI e Recolors**: Classificação inteligente garante que mods de UI/HUD fiquem no `Unassigned`, enquanto recolors (.dds) vão direto para o personagem correto.\n- **Otimização de Desempenho e Correção de Texturas 8K**: Carregamento rápido de miniaturas evita erros de memória em texturas 8K, além do novo Modo de Baixo Desempenho nas Configurações.\n- **Recursos Experimentais com Trava de Segurança**: Ferramentas avançadas (Corretor de Mods e Separador) protegidas por ativação opcional.",
+    "title_zh": "ZZZ Mod Hub 1.1.0 更新 ⚡",
+    "message_zh": "### v1.1.0 更新内容：\n- **交互式下载历史**：实时下载速度与预计时间追踪，直观显示解压目标文件夹，支持一键“在库中查看”或“打开文件夹”。\n- **页面更新安全检查器**：安全查看 GameBanana 模组更新内容与更新日志，支持安装为新模组或自动备份旧版本（`DISABLED [Backup ...]`）进行替换。\n- **UI 与换色模组智能隔离**：双重分类保护，确保纯 UI/HUD 模组安全归入 `Unassigned`，同时角色纯贴图换色（.dds）精准归类至角色文件夹。\n- **性能优化与 8K 贴图内存修复**：高速缩略图生成彻底消除 8K DDS 贴图导致的内存溢出（OOM）崩溃，新增设置中的低性能模式选项。\n- **实验性功能安全锁**：高级开发工具（原生模组修复器与拆分器）支持手动安全开启。",
+    "date": "2026-08-29T22:05:00Z"
+  },
+  {
     "id": "1.0.2-release",
     "title": "ZZZ Mod Hub Update 1.0.2 🚀",
     "message": "### What's New in v1.0.2:\n- **Language Hub & Translator**: Visual in-app translation editor with side-by-side editing, 1-click import/export, and safe local file sync.\n- **Smart Mod Sorting Fixes**: Unconditionally respects user character choices for new characters, ignores generic flat normal maps (`ebac056e`) to prevent false multi-character detections, and preserves accurate alternate skin routing.\n- **Seamless Auto-Updates**: In-place user installer with automatic legacy cleanup and self-healing shortcuts.\n- **Conflict Scanner Polish**: Eliminated false hash collision alerts on shared engine textures.",
