@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.1.1-release",
+    "title": "ZZZ Mod Hub Update 1.1.1 🛠️",
+    "message": "### What's New in v1.1.1:\n- **Interactive Help & Troubleshooting**: Having trouble with a mod? Use the new Troubleshooting hub to fix missing textures, outfit variants, game update issues, or mod conflicts in 1 click!\n- **Clearer Mod Fixer Previews**: When updating broken or outdated mods, you can now preview the exact changes before applying them.\n- **Smoother & Faster UI**: Huge performance upgrade! Browsing your library is silky-smooth with zero lag, and memory crashes on giant 8K textures are completely fixed.\n- **Mod Splitter & Download Polish**: Splitting multi-part mods is more reliable than ever, and GameBanana browsing pagination is fully fixed.\n- **Accurate Folder Sizes**: Mod cards now display the exact storage size across all textures and subfolders.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.1.1 🛠️",
+    "message_pt_BR": "### Novidades da v1.1.1:\n- **Central de Ajuda e Soluções**: Teve problemas com algum mod? Use a nova Central de Ajuda para corrigir texturas invisíveis/roxas, variantes de roupas, erros pós-atualização e conflitos com 1 clique!\n- **Visualização do Corretor de Mods**: Ao recuperar mods antigos ou quebrados, veja exatamente o que será atualizado antes de aplicar a correção.\n- **Interface Mais Leve e Rápida**: Grande melhoria de desempenho! A navegação na biblioteca está super fluida, sem travamentos, e erros de memória em texturas 8K foram eliminados.\n- **Polimento no Separador e Downloads**: Separar mods com várias partes ficou ainda mais preciso, e a navegação de páginas no GameBanana foi corrigida.\n- **Tamanho Real dos Mods**: Os cards agora mostram o tamanho exato ocupado no disco somando todas as pastas e texturas.",
+    "title_zh": "ZZZ Mod Hub 1.1.1 更新 🛠️",
+    "message_zh": "### v1.1.1 更新内容：\n- **交互式故障排除与帮助中心**：模组遇到问题？通过全新的排错中心，一键修复贴图丢失/紫黑网格、换装变体、游戏更新失效及按键冲突！\n- **修复器直观预览**：修复旧版本或损坏模组时，可直观查看即将应用的修复规则与网格转换详情。\n- **更流畅迅捷的界面体验**：大幅性能优化！海量模组浏览极致流畅不卡顿，彻底解决 8K 超大贴图导致的闪退与内存溢出。\n- **拆分器与下载优化**：多部件模组拆分更加稳定精准，彻底修复 GameBanana 浏览页面提前截止的问题。\n- **精准显示文件大小**：模组卡片现已准确计算包括所有子文件夹与贴图在内的真实硬盘占用大小。",
+    "date": "2026-08-30T22:00:00Z"
+  },
+  {
     "id": "1.1.0-release",
     "title": "ZZZ Mod Hub Update 1.1.0 ⚡",
     "message": "### What's New in v1.1.0:\n- **Interactive Download History**: Live download ETA & speed tracking, immediate folder awareness, and 1-click 'View in Library' or 'Open Folder' actions.\n- **Page Updated Inspector**: Safely review GameBanana mod updates, author patch notes, and full file rosters with options to install as a new mod or replace with automatic backup (`DISABLED [Backup ...]`).\n- **Dual-Gate UI & Recolor Protection**: Intelligent auto-sorting guarantees pure UI/HUD mods stay in `Unassigned` while character texture recolors (.dds) correctly sort to character folders.\n- **Performance Boost & 8K Texture OOM Fix**: Fast thumbnailing prevents memory crashes on 8K DDS textures, plus a new Low Performance Mode in Settings.\n- **Experimental Safety Gate**: High-impact developer tools (Native Mod Fixer & Splitter) safely opt-in.",

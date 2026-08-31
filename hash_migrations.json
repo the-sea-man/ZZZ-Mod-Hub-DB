@@ -1,7 +1,7 @@
 {
   "version": "3.1",
-  "total_rules": 5419,
-  "total_migrations": 645,
+  "total_rules": 5371,
+  "total_migrations": 604,
   "modules_processed": 100,
   "rules": {
     "d131acb1": {
@@ -5089,84 +5089,6 @@
           ],
           "section_title": "AliceSummer.WeaponSword.IB",
           "section_content": "match_priority = 0\n"
-        }
-      ]
-    },
-    "e52f08c3": {
-      "hash": "e52f08c3",
-      "character": "AliceSeaOfTime",
-      "description": "AliceSeaOfTime Sword Blend VB Hash",
-      "version_from": "2.1",
-      "version_to": "2.2",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "4fbccfe1"
-        }
-      ]
-    },
-    "3136fbad": {
-      "hash": "3136fbad",
-      "character": "AliceSeaOfTime",
-      "description": "AliceSeaOfTime Sword Texcoord VB Hash",
-      "version_from": "2.1",
-      "version_to": "2.2",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "c6899a42"
-        }
-      ]
-    },
-    "5324c543": {
-      "hash": "5324c543",
-      "character": "AliceSeaOfTime",
-      "description": "AliceSeaOfTime Sword Position VB Hash",
-      "version_from": "2.1",
-      "version_to": "2.2",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "e3a50a16"
-        }
-      ]
-    },
-    "4fbccfe1": {
-      "hash": "4fbccfe1",
-      "character": "AliceSeaOfTime",
-      "description": "AliceSeaOfTime Sword Blend VB Hash",
-      "version_from": "2.3",
-      "version_to": "2.4",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "e52f08c3"
-        }
-      ]
-    },
-    "c6899a42": {
-      "hash": "c6899a42",
-      "character": "AliceSeaOfTime",
-      "description": "AliceSeaOfTime Sword Texcoord VB Hash",
-      "version_from": "2.3",
-      "version_to": "2.4",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "3136fbad"
-        }
-      ]
-    },
-    "e3a50a16": {
-      "hash": "e3a50a16",
-      "character": "AliceSeaOfTime",
-      "description": "AliceSeaOfTime Sword Position VB Hash",
-      "version_from": "2.3",
-      "version_to": "2.4",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "5324c543"
         }
       ]
     },
@@ -13399,9 +13321,145 @@
         },
         {
           "type": "update_blend_indices",
-          "hash": "",
-          "old_indices": [],
-          "new_indices": []
+          "hash": "d2844c01",
+          "old_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            126,
+            127
+          ],
+          "new_indices": [
+            6,
+            7,
+            3,
+            5,
+            4,
+            18,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            21,
+            25,
+            24,
+            20,
+            22,
+            23,
+            38,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            47,
+            48,
+            53,
+            56,
+            45,
+            46,
+            49,
+            50,
+            51,
+            52,
+            54,
+            55,
+            60,
+            61,
+            66,
+            58,
+            59,
+            62,
+            63,
+            64,
+            65,
+            104,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            127,
+            126
+          ]
         }
       ]
     },
@@ -15075,20 +15133,12 @@
           "section_content": "match_priority = 0\n"
         },
         {
-          "type": "update_hash",
-          "new_hash": "228f5a8b"
-        },
-        {
           "type": "add_section_if_missing",
           "equiv_hashes": [
             "9a9780a7"
           ],
           "section_title": "BelleBrillianceOfStars.Face.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "228f5a8b"
         },
         {
           "type": "add_section_if_missing",
@@ -22261,14 +22311,6 @@
         }
       ]
     },
-    "893553e3": {
-      "hash": "893553e3",
-      "character": "Ben",
-      "description": "Ben Face Texcoord Hash",
-      "version_from": "",
-      "version_to": "2.2",
-      "actions": []
-    },
     "21e98aeb": {
       "hash": "21e98aeb",
       "character": "Billy",
@@ -28583,77 +28625,6 @@
         }
       ]
     },
-    "35709db4": {
-      "hash": "35709db4",
-      "character": "Dialyn",
-      "description": "Dialyn WeaponGrip Blend VB Hash",
-      "version_from": "",
-      "version_to": "2.4",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "8fe19cc1"
-        }
-      ]
-    },
-    "79fc6a95": {
-      "hash": "79fc6a95",
-      "character": "Dialyn",
-      "description": "Dialyn WeaponGrip Position VB Hash",
-      "version_from": "",
-      "version_to": "2.4",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "fd32eb72"
-        }
-      ]
-    },
-    "c0f5d550": {
-      "hash": "c0f5d550",
-      "character": "Dialyn",
-      "description": "Dialyn WeaponGrip Texcoord VB Hash",
-      "version_from": "",
-      "version_to": "2.4",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "5455d3c6"
-        }
-      ]
-    },
-    "3c007110": {
-      "hash": "3c007110",
-      "character": "Dialyn",
-      "description": "Dialyn Hair Shadow Draw VB Hash",
-      "version_from": "",
-      "version_to": "2.4",
-      "actions": []
-    },
-    "42501c05": {
-      "hash": "42501c05",
-      "character": "Dialyn",
-      "description": "Dialyn Hair Shadow Position VB Hash",
-      "version_from": "",
-      "version_to": "2.4",
-      "actions": []
-    },
-    "923b7623": {
-      "hash": "923b7623",
-      "character": "Dialyn",
-      "description": "Dialyn Hair Shadow Blend VB Hash",
-      "version_from": "",
-      "version_to": "2.4",
-      "actions": []
-    },
-    "a935146f": {
-      "hash": "a935146f",
-      "character": "Dialyn",
-      "description": "Dialyn Hair Shadow Texcoord VB Hash",
-      "version_from": "",
-      "version_to": "2.4",
-      "actions": []
-    },
     "d44a8015": {
       "hash": "d44a8015",
       "character": "Ellen",
@@ -28842,9 +28813,39 @@
       "actions": [
         {
           "type": "update_blend_indices",
-          "hash": "",
-          "old_indices": [],
-          "new_indices": []
+          "hash": "52188576",
+          "old_indices": [
+            34,
+            35,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            49,
+            50
+          ],
+          "new_indices": [
+            39,
+            34,
+            40,
+            35,
+            38,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            41,
+            50,
+            49
+          ]
         },
         {
           "type": "update_hash",
@@ -32166,46 +32167,6 @@
         }
       ]
     },
-    "06c6a436": {
-      "hash": "06c6a436",
-      "character": "Evelyn",
-      "description": "2.2-2.3: Evelyn Silk String Position 2048p Hash",
-      "version_from": "",
-      "version_to": "",
-      "actions": []
-    },
-    "2c5dcebd": {
-      "hash": "2c5dcebd",
-      "character": "Evelyn",
-      "description": "2.2-2.3: Evelyn Silk String Texcoord 2048p Hash",
-      "version_from": "",
-      "version_to": "",
-      "actions": []
-    },
-    "99555cf2": {
-      "hash": "99555cf2",
-      "character": "Evelyn",
-      "description": "2.2-2.3: Evelyn Silk String Blend 2048p Hash",
-      "version_from": "",
-      "version_to": "",
-      "actions": []
-    },
-    "3e2abfae": {
-      "hash": "3e2abfae",
-      "character": "Evelyn",
-      "description": "Evelyn Weapon Open Position Hash",
-      "version_from": "",
-      "version_to": "2.2",
-      "actions": []
-    },
-    "691f1157": {
-      "hash": "691f1157",
-      "character": "Evelyn",
-      "description": "Evelyn Weapon Open Texcoord Hash",
-      "version_from": "",
-      "version_to": "2.2",
-      "actions": []
-    },
     "89299f56": {
       "hash": "89299f56",
       "character": "Grace",
@@ -32311,9 +32272,121 @@
         },
         {
           "type": "update_blend_indices",
-          "hash": "",
-          "old_indices": [],
-          "new_indices": []
+          "hash": "8855c5cf",
+          "old_indices": [
+            35,
+            34,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ],
+          "new_indices": [
+            34,
+            35,
+            80,
+            85,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            51,
+            47,
+            48,
+            49,
+            50,
+            52,
+            54,
+            53,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            66,
+            65,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            89,
+            78,
+            79,
+            81,
+            82,
+            83,
+            84,
+            86,
+            87,
+            88
+          ]
         }
       ]
     },
@@ -37836,20 +37909,12 @@
           "section_content": "match_priority = 0\n"
         },
         {
-          "type": "update_hash",
-          "new_hash": "3c32a411"
-        },
-        {
           "type": "add_section_if_missing",
           "equiv_hashes": [
             "ef86fc9f"
           ],
           "section_title": "JaneDoeNocturneOfLight.Face.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "3c32a411"
         }
       ]
     },
@@ -38059,121 +38124,6 @@
           ],
           "section_title": "JaneDoeNocturneOfLight.weapon.IB",
           "section_content": "match_priority = 0\n"
-        }
-      ]
-    },
-    "7c6eb690": {
-      "hash": "7c6eb690",
-      "character": "JaneDoe",
-      "description": "Jane Hair Shadow IB Hash (inferred)",
-      "version_from": "2.4",
-      "version_to": "2.5",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "27805144"
-        }
-      ]
-    },
-    "5f8ea758": {
-      "hash": "5f8ea758",
-      "character": "JaneDoe",
-      "description": "Jane Hair Shadow Position Hash (inferred)",
-      "version_from": "2.4",
-      "version_to": "2.5",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "7c08cd53"
-        }
-      ]
-    },
-    "3ac849d5": {
-      "hash": "3ac849d5",
-      "character": "JaneDoe",
-      "description": "Jane Hair Shadow Texcoord Hash (inferred)",
-      "version_from": "2.4",
-      "version_to": "2.5",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "93c5b49a"
-        }
-      ]
-    },
-    "c5a06055": {
-      "hash": "c5a06055",
-      "character": "JaneDoe",
-      "description": "Jane Hair Shadow Blend Hash (inferred)",
-      "version_from": "2.4",
-      "version_to": "2.5",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "6af472f5"
-        }
-      ]
-    },
-    "eace2dfa": {
-      "hash": "eace2dfa",
-      "character": "JaneDoe",
-      "description": "2.2-2.4: Jane Hand Blade Position Hash",
-      "version_from": "",
-      "version_to": "",
-      "actions": []
-    },
-    "535e2453": {
-      "hash": "535e2453",
-      "character": "JaneDoe",
-      "description": "2.2-2.4: Jane Hand Blade Texcoord Hash",
-      "version_from": "",
-      "version_to": "",
-      "actions": []
-    },
-    "7310ad6a": {
-      "hash": "7310ad6a",
-      "character": "JaneDoe",
-      "description": "2.2-2.4: Jane Hand Blade Blend Hash",
-      "version_from": "",
-      "version_to": "",
-      "actions": []
-    },
-    "850d4cbf": {
-      "hash": "850d4cbf",
-      "character": "JaneDoe",
-      "description": "Jane Hand Blade Position Hash",
-      "version_from": "2.1",
-      "version_to": "2.2",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "eace2dfa"
-        }
-      ]
-    },
-    "7fd655de": {
-      "hash": "7fd655de",
-      "character": "JaneDoe",
-      "description": "Jane Hand Blade Texcoord Hash",
-      "version_from": "2.1",
-      "version_to": "2.2",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "535e2453"
-        }
-      ]
-    },
-    "a14461d9": {
-      "hash": "a14461d9",
-      "character": "JaneDoe",
-      "description": "Jane Hand Blade Blend Hash",
-      "version_from": "2.1",
-      "version_to": "2.2",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "7310ad6a"
         }
       ]
     },
@@ -41809,10 +41759,6 @@
           ],
           "section_title": "Lighter.Face.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "04cc2dfd"
         }
       ]
     },
@@ -44345,10 +44291,6 @@
           ],
           "section_title": "Lucy.Face.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "e78a4ee2"
         }
       ]
     },
@@ -45411,9 +45353,45 @@
         },
         {
           "type": "update_blend_indices",
-          "hash": "",
-          "old_indices": [],
-          "new_indices": []
+          "hash": "8c7775ae",
+          "old_indices": [
+            50,
+            51,
+            89,
+            90,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "new_indices": [
+            51,
+            50,
+            90,
+            89,
+            669,
+            669,
+            669,
+            669,
+            669,
+            669,
+            669,
+            669,
+            669,
+            98,
+            99,
+            100,
+            101
+          ]
         }
       ]
     },
@@ -45430,9 +45408,45 @@
         },
         {
           "type": "update_blend_indices",
-          "hash": "",
-          "old_indices": [],
-          "new_indices": []
+          "hash": "f2d1a929",
+          "old_indices": [
+            50,
+            51,
+            89,
+            90,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "new_indices": [
+            51,
+            50,
+            90,
+            89,
+            669,
+            669,
+            669,
+            669,
+            669,
+            669,
+            669,
+            669,
+            669,
+            98,
+            99,
+            100,
+            101
+          ]
         }
       ]
     },
@@ -55539,10 +55553,6 @@
           ],
           "section_title": "Norma.Weapon.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "07e51b64"
         }
       ]
     },
@@ -55560,10 +55570,6 @@
           ],
           "section_title": "Norma.Weapon.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "c4173b6e"
         }
       ]
     },
@@ -55581,10 +55587,6 @@
           ],
           "section_title": "Norma.Weapon.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "aa195b0b"
         }
       ]
     },
@@ -64650,10 +64652,6 @@
           ],
           "section_title": "Qingyi.Face.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "db1f2dfa"
         }
       ]
     },
@@ -65067,18 +65065,6 @@
       "hash": "acfa670a",
       "character": "Remielle",
       "description": "Remielle Injector IB Hash",
-      "version_from": "",
-      "version_to": "3.1",
-      "actions": [
-        {
-          "type": "add_ib_check_if_missing"
-        }
-      ]
-    },
-    "760c8064": {
-      "hash": "760c8064",
-      "character": "Remielle",
-      "description": "Remielle Injector2 IB Hash",
       "version_from": "",
       "version_to": "3.1",
       "actions": [
@@ -70862,66 +70848,6 @@
         }
       ]
     },
-    "56979e94": {
-      "hash": "56979e94",
-      "character": "Seed",
-      "description": "Seed weapon VB Hash",
-      "version_from": "",
-      "version_to": "2.2",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "030e0aca"
-        }
-      ]
-    },
-    "b095c5cf": {
-      "hash": "b095c5cf",
-      "character": "Seed",
-      "description": "Seed weapon VB Hash",
-      "version_from": "",
-      "version_to": "2.2",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "567f9bcd"
-        }
-      ]
-    },
-    "fc59be11": {
-      "hash": "fc59be11",
-      "character": "Seed",
-      "description": "Seed weapon NormalMap 2048p Hash",
-      "version_from": "",
-      "version_to": "2.2",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "b35534a9"
-        }
-      ]
-    },
-    "b87d9c50": {
-      "hash": "b87d9c50",
-      "character": "Seed",
-      "description": "2.2-2.3: Seed weapon NormalMap 1024p Hash",
-      "version_from": "",
-      "version_to": "",
-      "actions": []
-    },
-    "b35534a9": {
-      "hash": "b35534a9",
-      "character": "Seed",
-      "description": "2.3-2.7: Seed weapon NormalMap 2048p Hash",
-      "version_from": "",
-      "version_to": "",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "b87d9c50"
-        }
-      ]
-    },
     "35cf83ad": {
       "hash": "35cf83ad",
       "character": "Seth",
@@ -71651,10 +71577,6 @@
           ],
           "section_title": "Seth.Face.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "b3f6842f"
         }
       ]
     },
@@ -72012,22 +71934,6 @@
     },
     "a23aa8a3": {
       "hash": "a23aa8a3",
-      "character": "Sigrid",
-      "description": "Sigrid Body IB Hash",
-      "version_from": "",
-      "version_to": "3.1",
-      "actions": [
-        {
-          "type": "add_ib_check_if_missing"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "38daef11"
-        }
-      ]
-    },
-    "38daef11": {
-      "hash": "38daef11",
       "character": "Sigrid",
       "description": "Sigrid Body IB Hash",
       "version_from": "",
@@ -72416,10 +72322,6 @@
           ],
           "section_title": "Sigrid.Body.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "d0bf0e87"
         }
       ]
     },
@@ -72437,10 +72339,6 @@
           ],
           "section_title": "Sigrid.Body.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "e2a28287"
         }
       ]
     },
@@ -72458,10 +72356,6 @@
           ],
           "section_title": "Sigrid.Body.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "08ddaed3"
         }
       ]
     },
@@ -72476,78 +72370,6 @@
           "type": "add_section_if_missing",
           "equiv_hashes": [
             "a23aa8a3"
-          ],
-          "section_title": "Sigrid.Body.IB",
-          "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "018ea72c"
-        }
-      ]
-    },
-    "d0bf0e87": {
-      "hash": "d0bf0e87",
-      "character": "Sigrid",
-      "description": "Sigrid Body VB Hash",
-      "version_from": "",
-      "version_to": "3.1",
-      "actions": [
-        {
-          "type": "add_section_if_missing",
-          "equiv_hashes": [
-            "38daef11"
-          ],
-          "section_title": "Sigrid.Body.IB",
-          "section_content": "match_priority = 0\n"
-        }
-      ]
-    },
-    "e2a28287": {
-      "hash": "e2a28287",
-      "character": "Sigrid",
-      "description": "Sigrid Body VB Hash",
-      "version_from": "",
-      "version_to": "3.1",
-      "actions": [
-        {
-          "type": "add_section_if_missing",
-          "equiv_hashes": [
-            "38daef11"
-          ],
-          "section_title": "Sigrid.Body.IB",
-          "section_content": "match_priority = 0\n"
-        }
-      ]
-    },
-    "08ddaed3": {
-      "hash": "08ddaed3",
-      "character": "Sigrid",
-      "description": "Sigrid Body VB Hash",
-      "version_from": "",
-      "version_to": "3.1",
-      "actions": [
-        {
-          "type": "add_section_if_missing",
-          "equiv_hashes": [
-            "38daef11"
-          ],
-          "section_title": "Sigrid.Body.IB",
-          "section_content": "match_priority = 0\n"
-        }
-      ]
-    },
-    "018ea72c": {
-      "hash": "018ea72c",
-      "character": "Sigrid",
-      "description": "Sigrid Body VB Hash",
-      "version_from": "",
-      "version_to": "3.1",
-      "actions": [
-        {
-          "type": "add_section_if_missing",
-          "equiv_hashes": [
-            "38daef11"
           ],
           "section_title": "Sigrid.Body.IB",
           "section_content": "match_priority = 0\n"
@@ -73848,10 +73670,6 @@
           ],
           "section_title": "SigridMajesticWavechaser.Body.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "8874c184"
         }
       ]
     },
@@ -73869,10 +73687,6 @@
           ],
           "section_title": "SigridMajesticWavechaser.Body.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "3a0cfbd4"
         }
       ]
     },
@@ -73890,87 +73704,11 @@
           ],
           "section_title": "SigridMajesticWavechaser.Body.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "2772f644"
         }
       ]
     },
     "1b4edd7b": {
       "hash": "1b4edd7b",
-      "character": "SigridMajesticWavechaser",
-      "description": "SigridMajesticWavechaser Body LightMap TEX Hash",
-      "version_from": "",
-      "version_to": "3.1",
-      "actions": [
-        {
-          "type": "add_section_if_missing",
-          "equiv_hashes": [
-            "d9e49957"
-          ],
-          "section_title": "SigridMajesticWavechaser.Body.IB",
-          "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "cfc4ac8a"
-        }
-      ]
-    },
-    "3a0cfbd4": {
-      "hash": "3a0cfbd4",
-      "character": "SigridMajesticWavechaser",
-      "description": "SigridMajesticWavechaser Body Diffuse TEX Hash",
-      "version_from": "",
-      "version_to": "3.1",
-      "actions": [
-        {
-          "type": "add_section_if_missing",
-          "equiv_hashes": [
-            "d9e49957"
-          ],
-          "section_title": "SigridMajesticWavechaser.Body.IB",
-          "section_content": "match_priority = 0\n"
-        }
-      ]
-    },
-    "cfc4ac8a": {
-      "hash": "cfc4ac8a",
-      "character": "SigridMajesticWavechaser",
-      "description": "SigridMajesticWavechaser Body LightMap TEX Hash",
-      "version_from": "",
-      "version_to": "3.1",
-      "actions": [
-        {
-          "type": "add_section_if_missing",
-          "equiv_hashes": [
-            "d9e49957"
-          ],
-          "section_title": "SigridMajesticWavechaser.Body.IB",
-          "section_content": "match_priority = 0\n"
-        }
-      ]
-    },
-    "8874c184": {
-      "hash": "8874c184",
-      "character": "SigridMajesticWavechaser",
-      "description": "SigridMajesticWavechaser Body Diffuse TEX Hash",
-      "version_from": "",
-      "version_to": "3.1",
-      "actions": [
-        {
-          "type": "add_section_if_missing",
-          "equiv_hashes": [
-            "d9e49957"
-          ],
-          "section_title": "SigridMajesticWavechaser.Body.IB",
-          "section_content": "match_priority = 0\n"
-        }
-      ]
-    },
-    "2772f644": {
-      "hash": "2772f644",
       "character": "SigridMajesticWavechaser",
       "description": "SigridMajesticWavechaser Body LightMap TEX Hash",
       "version_from": "",
@@ -81853,48 +81591,6 @@
         }
       ]
     },
-    "862efc96": {
-      "hash": "862efc96",
-      "character": "Trigger",
-      "description": "2.1-2.2: Trigger Magazine Position Hash",
-      "version_from": "",
-      "version_to": "",
-      "actions": []
-    },
-    "a58b916d": {
-      "hash": "a58b916d",
-      "character": "Trigger",
-      "description": "2.1-2.2: Trigger Magazine Texcoord Hash",
-      "version_from": "",
-      "version_to": "",
-      "actions": []
-    },
-    "988144a6": {
-      "hash": "988144a6",
-      "character": "Trigger",
-      "description": "Trigger Magazine Position Hash",
-      "version_from": "2.0",
-      "version_to": "2.1",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "862efc96"
-        }
-      ]
-    },
-    "b6d507d9": {
-      "hash": "b6d507d9",
-      "character": "Trigger",
-      "description": "Trigger Magazine Texcoord Hash",
-      "version_from": "2.0",
-      "version_to": "2.1",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "a58b916d"
-        }
-      ]
-    },
     "1300e048": {
       "hash": "1300e048",
       "character": "Velina",
@@ -88577,20 +88273,12 @@
           "section_content": "match_priority = 0\n"
         },
         {
-          "type": "update_hash",
-          "new_hash": "2b320847"
-        },
-        {
           "type": "add_section_if_missing",
           "equiv_hashes": [
             "1fdaf388"
           ],
           "section_title": "WiseOathOfSkies.Face.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "2b320847"
         },
         {
           "type": "add_section_if_missing",
@@ -88601,20 +88289,12 @@
           "section_content": "match_priority = 0\n"
         },
         {
-          "type": "update_hash",
-          "new_hash": "2b320847"
-        },
-        {
           "type": "add_section_if_missing",
           "equiv_hashes": [
             "1fdaf388"
           ],
           "section_title": "WiseSoaringCrane.Face.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "2b320847"
         },
         {
           "type": "add_section_if_missing",
@@ -107858,54 +107538,6 @@
   },
   "migrations": [
     {
-      "old_hash": "e52f08c3",
-      "new_hash": "4fbccfe1",
-      "character": "AliceSeaOfTime",
-      "component": "AliceSeaOfTime Sword Blend VB Hash",
-      "version_from": "2.1",
-      "version_to": "2.2"
-    },
-    {
-      "old_hash": "3136fbad",
-      "new_hash": "c6899a42",
-      "character": "AliceSeaOfTime",
-      "component": "AliceSeaOfTime Sword Texcoord VB Hash",
-      "version_from": "2.1",
-      "version_to": "2.2"
-    },
-    {
-      "old_hash": "5324c543",
-      "new_hash": "e3a50a16",
-      "character": "AliceSeaOfTime",
-      "component": "AliceSeaOfTime Sword Position VB Hash",
-      "version_from": "2.1",
-      "version_to": "2.2"
-    },
-    {
-      "old_hash": "4fbccfe1",
-      "new_hash": "e52f08c3",
-      "character": "AliceSeaOfTime",
-      "component": "AliceSeaOfTime Sword Blend VB Hash",
-      "version_from": "2.3",
-      "version_to": "2.4"
-    },
-    {
-      "old_hash": "c6899a42",
-      "new_hash": "3136fbad",
-      "character": "AliceSeaOfTime",
-      "component": "AliceSeaOfTime Sword Texcoord VB Hash",
-      "version_from": "2.3",
-      "version_to": "2.4"
-    },
-    {
-      "old_hash": "e3a50a16",
-      "new_hash": "5324c543",
-      "character": "AliceSeaOfTime",
-      "component": "AliceSeaOfTime Sword Position VB Hash",
-      "version_from": "2.3",
-      "version_to": "2.4"
-    },
-    {
       "old_hash": "39538886",
       "new_hash": "496a781d",
       "character": "Anby",
@@ -108472,14 +108104,6 @@
       "component": "Belle BodyA NormalMap 2048p Hash",
       "version_from": "1.0",
       "version_to": "2.5"
-    },
-    {
-      "old_hash": "d3000b22",
-      "new_hash": "228f5a8b",
-      "character": "Belle",
-      "component": "Belle Face VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
     },
     {
       "old_hash": "1de8fc08",
@@ -109138,30 +108762,6 @@
       "version_to": "2.5"
     },
     {
-      "old_hash": "35709db4",
-      "new_hash": "8fe19cc1",
-      "character": "Dialyn",
-      "component": "Dialyn WeaponGrip Blend VB Hash",
-      "version_from": "1.0",
-      "version_to": "2.4"
-    },
-    {
-      "old_hash": "79fc6a95",
-      "new_hash": "fd32eb72",
-      "character": "Dialyn",
-      "component": "Dialyn WeaponGrip Position VB Hash",
-      "version_from": "1.0",
-      "version_to": "2.4"
-    },
-    {
-      "old_hash": "c0f5d550",
-      "new_hash": "5455d3c6",
-      "character": "Dialyn",
-      "component": "Dialyn WeaponGrip Texcoord VB Hash",
-      "version_from": "1.0",
-      "version_to": "2.4"
-    },
-    {
       "old_hash": "9c7fac5a",
       "new_hash": "f6ef8f3a",
       "character": "Ellen",
@@ -109794,70 +109394,6 @@
       "version_to": "2.5"
     },
     {
-      "old_hash": "1fa404c1",
-      "new_hash": "3c32a411",
-      "character": "JaneDoe",
-      "component": "JaneDoe Face VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
-    },
-    {
-      "old_hash": "7c6eb690",
-      "new_hash": "27805144",
-      "character": "JaneDoe",
-      "component": "Jane Hair Shadow IB Hash (inferred)",
-      "version_from": "2.4",
-      "version_to": "2.5"
-    },
-    {
-      "old_hash": "5f8ea758",
-      "new_hash": "7c08cd53",
-      "character": "JaneDoe",
-      "component": "Jane Hair Shadow Position Hash (inferred)",
-      "version_from": "2.4",
-      "version_to": "2.5"
-    },
-    {
-      "old_hash": "3ac849d5",
-      "new_hash": "93c5b49a",
-      "character": "JaneDoe",
-      "component": "Jane Hair Shadow Texcoord Hash (inferred)",
-      "version_from": "2.4",
-      "version_to": "2.5"
-    },
-    {
-      "old_hash": "c5a06055",
-      "new_hash": "6af472f5",
-      "character": "JaneDoe",
-      "component": "Jane Hair Shadow Blend Hash (inferred)",
-      "version_from": "2.4",
-      "version_to": "2.5"
-    },
-    {
-      "old_hash": "850d4cbf",
-      "new_hash": "eace2dfa",
-      "character": "JaneDoe",
-      "component": "Jane Hand Blade Position Hash",
-      "version_from": "2.1",
-      "version_to": "2.2"
-    },
-    {
-      "old_hash": "7fd655de",
-      "new_hash": "535e2453",
-      "character": "JaneDoe",
-      "component": "Jane Hand Blade Texcoord Hash",
-      "version_from": "2.1",
-      "version_to": "2.2"
-    },
-    {
-      "old_hash": "a14461d9",
-      "new_hash": "7310ad6a",
-      "character": "JaneDoe",
-      "component": "Jane Hand Blade Blend Hash",
-      "version_from": "2.1",
-      "version_to": "2.2"
-    },
-    {
       "old_hash": "1a9b182a",
       "new_hash": "e35571a9",
       "character": "Koleda",
@@ -109992,14 +109528,6 @@
       "component": "Lighter HairA MaterialMap 2048p Hash",
       "version_from": "2.7",
       "version_to": "2.8"
-    },
-    {
-      "old_hash": "af14829b",
-      "new_hash": "04cc2dfd",
-      "character": "Lighter",
-      "component": "Lighter Face VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
     },
     {
       "old_hash": "af2e48a6",
@@ -110200,14 +109728,6 @@
       "component": "Lucy Head Texcoord Hash",
       "version_from": "1.2",
       "version_to": "1.3"
-    },
-    {
-      "old_hash": "1ca0ae1a",
-      "new_hash": "e78a4ee2",
-      "character": "Lucy",
-      "component": "Lucy Face VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
     },
     {
       "old_hash": "80efa5cb",
@@ -110824,30 +110344,6 @@
       "component": "Norma Body TEX Hash",
       "version_from": "3.0",
       "version_to": "3.1"
-    },
-    {
-      "old_hash": "38e511a4",
-      "new_hash": "07e51b64",
-      "character": "Norma",
-      "component": "Norma Weapon VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
-    },
-    {
-      "old_hash": "89a25f1a",
-      "new_hash": "c4173b6e",
-      "character": "Norma",
-      "component": "Norma Weapon VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
-    },
-    {
-      "old_hash": "d3a66db9",
-      "new_hash": "aa195b0b",
-      "character": "Norma",
-      "component": "Norma Weapon VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
     },
     {
       "old_hash": "4050da0a",
@@ -111650,14 +111146,6 @@
       "version_to": "2.5"
     },
     {
-      "old_hash": "6a492df0",
-      "new_hash": "db1f2dfa",
-      "character": "Qingyi",
-      "component": "Qingyi Face VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
-    },
-    {
       "old_hash": "83ac7993",
       "new_hash": "ebac056e",
       "character": "Rina",
@@ -111672,38 +111160,6 @@
       "component": "Rina BodyA NormalMap 2048p Hash",
       "version_from": "1.0",
       "version_to": "2.5"
-    },
-    {
-      "old_hash": "56979e94",
-      "new_hash": "030e0aca",
-      "character": "Seed",
-      "component": "Seed weapon VB Hash",
-      "version_from": "1.0",
-      "version_to": "2.2"
-    },
-    {
-      "old_hash": "b095c5cf",
-      "new_hash": "567f9bcd",
-      "character": "Seed",
-      "component": "Seed weapon VB Hash",
-      "version_from": "1.0",
-      "version_to": "2.2"
-    },
-    {
-      "old_hash": "fc59be11",
-      "new_hash": "b35534a9",
-      "character": "Seed",
-      "component": "Seed weapon NormalMap 2048p Hash",
-      "version_from": "1.0",
-      "version_to": "2.2"
-    },
-    {
-      "old_hash": "b35534a9",
-      "new_hash": "b87d9c50",
-      "character": "Seed",
-      "component": "2.3-2.7: Seed weapon NormalMap 2048p Hash",
-      "version_from": "1.0",
-      "version_to": "Latest"
     },
     {
       "old_hash": "a72f760f",
@@ -111776,86 +111232,6 @@
       "component": "Seth BodyA NormalMap 1024p Hash",
       "version_from": "1.1",
       "version_to": "2.5"
-    },
-    {
-      "old_hash": "bff3e0b3",
-      "new_hash": "b3f6842f",
-      "character": "Seth",
-      "component": "Seth Face VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
-    },
-    {
-      "old_hash": "a23aa8a3",
-      "new_hash": "38daef11",
-      "character": "Sigrid",
-      "component": "Sigrid Body IB Hash",
-      "version_from": "1.0",
-      "version_to": "3.1"
-    },
-    {
-      "old_hash": "01b35c45",
-      "new_hash": "d0bf0e87",
-      "character": "Sigrid",
-      "component": "Sigrid Body VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.1"
-    },
-    {
-      "old_hash": "08c15b45",
-      "new_hash": "e2a28287",
-      "character": "Sigrid",
-      "component": "Sigrid Body VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.1"
-    },
-    {
-      "old_hash": "f6474154",
-      "new_hash": "08ddaed3",
-      "character": "Sigrid",
-      "component": "Sigrid Body VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.1"
-    },
-    {
-      "old_hash": "8c0622d7",
-      "new_hash": "018ea72c",
-      "character": "Sigrid",
-      "component": "Sigrid Body VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.1"
-    },
-    {
-      "old_hash": "b07c43ef",
-      "new_hash": "8874c184",
-      "character": "SigridMajesticWavechaser",
-      "component": "SigridMajesticWavechaser Body Diffuse TEX Hash",
-      "version_from": "1.0",
-      "version_to": "3.1"
-    },
-    {
-      "old_hash": "82a7f32e",
-      "new_hash": "3a0cfbd4",
-      "character": "SigridMajesticWavechaser",
-      "component": "SigridMajesticWavechaser Body Diffuse TEX Hash",
-      "version_from": "1.0",
-      "version_to": "3.1"
-    },
-    {
-      "old_hash": "5e907c41",
-      "new_hash": "2772f644",
-      "character": "SigridMajesticWavechaser",
-      "component": "SigridMajesticWavechaser Body LightMap TEX Hash",
-      "version_from": "1.0",
-      "version_to": "3.1"
-    },
-    {
-      "old_hash": "1b4edd7b",
-      "new_hash": "cfc4ac8a",
-      "character": "SigridMajesticWavechaser",
-      "component": "SigridMajesticWavechaser Body LightMap TEX Hash",
-      "version_from": "1.0",
-      "version_to": "3.1"
     },
     {
       "old_hash": "464847b3",
@@ -112080,22 +111456,6 @@
       "component": "Trigger Face Texcoord",
       "version_from": "2.2",
       "version_to": "2.3"
-    },
-    {
-      "old_hash": "988144a6",
-      "new_hash": "862efc96",
-      "character": "Trigger",
-      "component": "Trigger Magazine Position Hash",
-      "version_from": "2.0",
-      "version_to": "2.1"
-    },
-    {
-      "old_hash": "b6d507d9",
-      "new_hash": "a58b916d",
-      "character": "Trigger",
-      "component": "Trigger Magazine Texcoord Hash",
-      "version_from": "2.0",
-      "version_to": "2.1"
     },
     {
       "old_hash": "6cfb2498",
@@ -112392,14 +111752,6 @@
       "component": "Wise Head Texcoord Hash",
       "version_from": "2.0",
       "version_to": "2.1"
-    },
-    {
-      "old_hash": "c83b6cbf",
-      "new_hash": "2b320847",
-      "character": "Wise",
-      "component": "Wise Face VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
     },
     {
       "old_hash": "757bc7cc",

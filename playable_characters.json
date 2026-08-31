@@ -1864,8 +1864,8 @@
       "type": "Playable",
       "skins": [
         {
-          "id": "the_iron_witch_outfit_",
-          "name": "The Iron Witch (Outfit)",
+          "id": "the_iron_witch",
+          "name": "The Iron Witch",
           "aliases": [
             "base",
             "default"
@@ -5392,8 +5392,8 @@
       "type": "Playable",
       "skins": [
         {
-          "id": "flowing_moonshade_outfit_",
-          "name": "Flowing Moonshade (Outfit)",
+          "id": "flowing_moonshade",
+          "name": "Flowing Moonshade",
           "aliases": [
             "base",
             "default"
