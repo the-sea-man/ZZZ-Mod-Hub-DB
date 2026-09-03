@@ -24569,9 +24569,19 @@
         },
         {
           "type": "remap_texcoord",
-          "id": "",
-          "old_format": [],
-          "new_format": []
+          "id": "13_Caesar_hair",
+          "old_format": [
+            "4B",
+            "2e",
+            "2f",
+            "2e"
+          ],
+          "new_format": [
+            "4B",
+            "2f",
+            "2f",
+            "2f"
+          ]
         }
       ]
     },
@@ -24596,9 +24606,21 @@
         },
         {
           "type": "remap_texcoord",
-          "id": "",
-          "old_format": [],
-          "new_format": []
+          "id": "13_Caesar_body",
+          "old_format": [
+            "4B",
+            "2e",
+            "2f",
+            "2e",
+            "2e"
+          ],
+          "new_format": [
+            "4B",
+            "2f",
+            "2f",
+            "2f",
+            "2f"
+          ]
         }
       ]
     },
@@ -28768,9 +28790,21 @@
         },
         {
           "type": "remap_texcoord",
-          "id": "",
-          "old_format": [],
-          "new_format": []
+          "id": "11_Ellen_Hair",
+          "old_format": [
+            "4B",
+            "2e",
+            "2f",
+            "2e",
+            "2e"
+          ],
+          "new_format": [
+            "4f",
+            "2e",
+            "2f",
+            "2e",
+            "2e"
+          ]
         }
       ]
     },
@@ -39717,9 +39751,19 @@
         },
         {
           "type": "remap_texcoord",
-          "id": "",
-          "old_format": [],
-          "new_format": []
+          "id": "13_koleda_hair",
+          "old_format": [
+            "4B",
+            "2e",
+            "2f",
+            "2e"
+          ],
+          "new_format": [
+            "4B",
+            "2f",
+            "2f",
+            "2f"
+          ]
         }
       ]
     },
@@ -39736,9 +39780,19 @@
         },
         {
           "type": "remap_texcoord",
-          "id": "",
-          "old_format": [],
-          "new_format": []
+          "id": "13_koleda_body",
+          "old_format": [
+            "4B",
+            "2e",
+            "2f",
+            "2e"
+          ],
+          "new_format": [
+            "4B",
+            "2f",
+            "2f",
+            "2f"
+          ]
         }
       ]
     },
@@ -70897,9 +70951,19 @@
         },
         {
           "type": "remap_texcoord",
-          "id": "",
-          "old_format": [],
-          "new_format": []
+          "id": "14_Seth_Hair",
+          "old_format": [
+            "4f",
+            "2e",
+            "2f",
+            "2e"
+          ],
+          "new_format": [
+            "4B",
+            "2e",
+            "2f",
+            "2e"
+          ]
         }
       ]
     },

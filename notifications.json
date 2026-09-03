@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.2.0-release",
+    "title": "ZZZ Mod Hub Update 1.2.0 🚀",
+    "message": "### What's New in v1.2.0:\n- **Anti-Fail Downloader & 4x Speed**: Solved GameBanana's 'impossible to download' errors with automatic Cloudflare CDN failover, plus 4-chunk multi-threaded downloads for mods over 5MB.\n- **3D Viewer Camera Presets**: Dedicated orbit camera presets (Face, Full Body, Feet), wireframe mode, and mesh component toggles.\n- **Smooth Skeleton Startup**: Instant responsive skeleton loading states for the character sidebar and mod gallery.\n- **Refined Mod Management**: New dedicated Rename, Move, and Conflict Resolution dialogs, plus faster batch actions.\n- **Mod Fixer & Splitter Polish**: Deeper vertex buffer remapping (half-float f16, bone weights) and multi-part outfit decomposition.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.0 🚀",
+    "message_pt_BR": "### Novidades da v1.2.0:\n- **Download Sem Falhas & Velocidade 4x**: Corrigidos os erros de download travado no GameBanana com troca automática de servidores (CDN Cloudflare) e downloads acelerados em 4 partes.\n- **Visualizador 3D com Predefinições**: Novos ângulos de câmera (Rosto, Corpo Inteiro, Pés), modo aramado e controle de partes de malha.\n- **Carregamento Fluido com Skeleton**: Transições visuais suaves na barra lateral e na galeria ao abrir o app.\n- **Gerenciamento Refinado de Mods**: Novas telas dedicadas para Renomear, Mover e Resolver Conflitos, com ações em lote aprimoradas.\n- **Corretor e Separador de Mods**: Remapeamento avançado de malhas (f16, ossos) e divisão inteligente de pacotes de mods.",
+    "title_zh": "ZZZ Mod Hub 1.2.0 更新 🚀",
+    "message_zh": "### v1.2.0 更新内容：\n- **防断连高速下载与 4 线程加速**：彻底解决 GameBanana 节点断连导致的“无法下载”问题，新增自动 CDN 故障转移镜像，5MB 以上模组支持 4 线程并行加速！\n- **3D 预览器视角预设**：新增一键切换视角预设（面部特写、全身、腿部特写），支持线框模式与独立网格部件控制。\n- **骨架屏丝滑启动**：为侧边栏与模组网格新增骨架加载状态，彻底告别白屏与卡顿。\n- **模组管理精细化**：新增独立的重命名、移动分类与冲突解决面板，批量操作更为敏捷。\n- **修复器与拆分器深度升级**：支持更深层次的顶点缓冲区重映射（半精度浮点、骨骼权重）及多部件服装拆分。",
+    "date": "2026-09-03T18:00:00Z"
+  },
+  {
     "id": "1.1.1-release",
     "title": "ZZZ Mod Hub Update 1.1.1 🛠️",
     "message": "### What's New in v1.1.1:\n- **Interactive Help & Troubleshooting**: Having trouble with a mod? Use the new Troubleshooting hub to fix missing textures, outfit variants, game update issues, or mod conflicts in 1 click!\n- **Clearer Mod Fixer Previews**: When updating broken or outdated mods, you can now preview the exact changes before applying them.\n- **Smoother & Faster UI**: Huge performance upgrade! Browsing your library is silky-smooth with zero lag, and memory crashes on giant 8K textures are completely fixed.\n- **Mod Splitter & Download Polish**: Splitting multi-part mods is more reliable than ever, and GameBanana browsing pagination is fully fixed.\n- **Accurate Folder Sizes**: Mod cards now display the exact storage size across all textures and subfolders.",
