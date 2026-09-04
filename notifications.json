@@ -1,5 +1,15 @@
 [
   {
+    "id": "poll-rename-2026-09",
+    "title": "Vote: Help Us Choose a Name for Mod Hub! 🗳️",
+    "message": "We are looking for the perfect official name for the mod manager, and your voice matters!\n\nPlease take a second to vote in our community poll on GameBanana:\n👉 [Vote in the Name Poll on GameBanana](https://gamebanana.com/polls/5134)\n\nThank you for helping shape the future of the app!",
+    "title_pt_BR": "Votação: Ajude a escolher o nome do Mod Hub! 🗳️",
+    "message_pt_BR": "Estamos escolhendo o nome oficial definitivo para o nosso gerenciador de mods, e a sua opinião é fundamental!\n\nVote agora na enquete da comunidade no GameBanana:\n👉 [Votar na Enquete do GameBanana](https://gamebanana.com/polls/5134)\n\nMuito obrigado pelo apoio e por fazer parte da nossa comunidade!",
+    "title_zh": "投票：帮助我们为 Mod Hub 确定正式名称！ 🗳️",
+    "message_zh": "我们正在为模组管理器挑选最合适的正式名称，您的建议至关重要！\n\n请前往 GameBanana 参与社区投票：\n👉 [参与 GameBanana 命名投票](https://gamebanana.com/polls/5134)\n\n感谢您一直以来的支持与贡献！",
+    "date": "2026-09-03T21:30:00Z"
+  },
+  {
     "id": "1.2.0-release",
     "title": "ZZZ Mod Hub Update 1.2.0 🚀",
     "message": "### What's New in v1.2.0:\n- **Anti-Fail Downloader & 4x Speed**: Solved GameBanana's 'impossible to download' errors with automatic Cloudflare CDN failover, plus 4-chunk multi-threaded downloads for mods over 5MB.\n- **3D Viewer Camera Presets**: Dedicated orbit camera presets (Face, Full Body, Feet), wireframe mode, and mesh component toggles.\n- **Smooth Skeleton Startup**: Instant responsive skeleton loading states for the character sidebar and mod gallery.\n- **Refined Mod Management**: New dedicated Rename, Move, and Conflict Resolution dialogs, plus faster batch actions.\n- **Mod Fixer & Splitter Polish**: Deeper vertex buffer remapping (half-float f16, bone weights) and multi-part outfit decomposition.",
