@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.2.1-release",
+    "title": "ZZZ Mod Hub Update 1.2.1 🛠️",
+    "message": "### What's New in v1.2.1:\n- **Mod Toggle & State Persistence Fix**: Full support for ZZMI namespaces and relative path sections in `d3dx_user.ini` constants—your mod toggle states and custom variables are now 100% safely preserved across disabling and re-enabling!\n- **GameBanana Multi-Mod Query Chunking**: Chunked multi-mod queries by 50 to prevent hitting API limits and query timeouts.\n- **Batch Actions Polish**: Improved batch selection toolbar reliability, toggle sound feedback, and automatic in-game F10 hot-reload during bulk toggles.\n- **Storage Safety Upgrades**: Replaced direct `localStorage` operations with safe typed wrappers to prevent white-screen crashes.\n- **Diagnostics & Performance Profiles**: Refined balanced vs low performance profile settings for conflict and script warnings scans.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.1 🛠️",
+    "message_pt_BR": "### Novidades da v1.2.1:\n- **Correção na Persistência de Estados e Toggles**: Suporte completo a namespaces do ZZMI e caminhos relativos em `d3dx_user.ini`—suas variáveis de toggle agora são 100% preservadas ao desativar e reativar mods!\n- **Otimização de Consultas no GameBanana**: Consultas de múltiplos mods divididas em lotes de 50 para evitar limites de API e timeouts.\n- **Polimento nas Ações em Lote**: Maior estabilidade na barra de ações em lote, feedback sonoro e envio automático de F10 com o jogo aberto.\n- **Segurança de Armazenamento**: Substituição de acessos diretos ao `localStorage` por wrappers tipados para evitar travamentos.\n- **Diagnósticos e Perfis de Desempenho**: Ajuste fino nos perfis balanceado e baixo para escaneamento de conflitos e scripts.",
+    "title_zh": "ZZZ Mod Hub 1.2.1 更新 🛠️",
+    "message_zh": "### v1.2.1 更新内容：\n- **模组状态与 Toggle 持久化修复**：全面支持 ZZMI 命名空间与相对路径常数，在 `d3dx_user.ini` 中安全持久化模组 Toggle 状态，禁用和重新启用模组不再丢失状态！\n- **GameBanana 查询分批优化**：将多模组批量查询分片（每批 50 项），彻底防止触碰 API 速率限制及超时。\n- **批量操作全面优化**：提升批量选择工具栏的稳定性，批量切换时新增音效与在游戏内自动触发 F10 热重载。\n- **存储安全升级**：替换底层直接调用 `localStorage` 为安全类型包装，杜绝数据损坏导致的白屏闪退。\n- **诊断与性能配置调优**：细化平衡模式与低性能模式下的脚本与哈希冲突扫描逻辑。",
+    "date": "2026-09-05T18:00:00Z"
+  },
+  {
     "id": "poll-rename-2026-09",
     "title": "Vote: Help Us Choose a Name for Mod Hub!",
     "message": "We are looking for the perfect official name for the mod manager. \n\nPlease take a second to vote in our community poll on GameBanana:\n [Vote in the Name Poll on GameBanana](https://gamebanana.com/polls/5134)\n\n",
