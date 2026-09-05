@@ -2,44 +2,62 @@
   "community_feed": {
     "messages": [
       {
-        "id": "welcome-v101",
-        "type": "info",
-        "title": "🎉 Welcome to ZZZ Mod Hub v1.0.1!",
-        "content": "We've added a ton of new features, including this Community Feed! Here you will find the latest news, patch notes, and mods personally recommended by the developer."
-      },
-      {
-        "id": "tip-drag-drop",
-        "type": "tip",
-        "title": "💡 Pro Tip: Drag & Drop",
-        "content": "Did you know you can drag and drop .zip or .rar mod archives directly into the app to install them instantly? Try it out!"
-      },
-      {
-        "id": "announcement-discord",
-        "type": "announcement",
-        "title": "👾 Join our Discord",
-        "content": "Need help with modding or want to share your favorite creations? Join our community Discord to talk with other modders."
-      },
-      {
-        "id": "poll-next-mod",
+        "id": "poll-rename-manager",
         "type": "poll",
-        "title": "📊 What should we mod next?",
-        "content": "Vote for the next character you want to see a mod for on GameBanana!",
-        "link": "https://gamebanana.com/polls/example",
+        "title": "Community Vote: Should We Rename the Mod Manager?",
+        "content": "Help decide the future name and identity of the mod manager. Cast your vote on GameBanana to share your thoughts.",
+        "link": "https://gamebanana.com/polls/5134",
         "buttonText": "Vote on GameBanana"
+      },
+      {
+        "id": "welcome-hub",
+        "type": "info",
+        "title": "Curated Recommendations",
+        "content": "These mods and tools are personally recommended for quality, stability, and utility. Frameworks and accessibility tweaks listed here enhance the overall game experience."
       }
     ],
     "recommended_mods": [
       {
-        "id": 515280,
-        "reason": "Essential UI improvement! This makes the game feel much cleaner and removes unnecessary clutter during combat."
+        "id": 531649,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/531649",
+        "reason": "Essential framework mod. It removes built-in censorship meshes and provides the required shader foundation for any mods utilizing glowing textures or emissive effects."
       },
       {
-        "id": 512313,
-        "reason": "⭐ Editor's Pick: This is currently my favorite mod for fixing the weird texture bugs on certain characters."
+        "id": 23590,
+        "type": "Tool",
+        "url": "https://gamebanana.com/tools/23590",
+        "reason": "A standalone 3DMigoto mod viewer and renderer with advanced tools, ideal for taking a deep dive into your own mods and inspecting mesh files outside the game."
       },
       {
-        "id": 515151,
-        "reason": "Highly requested! A huge Quality of Life change for exploring the hub areas faster."
+        "id": 680899,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/680899",
+        "reason": "Very clean, creative designs from Arttmadness. The creator consistently produces well-crafted models, and their recent Zhao skins are a great showcase."
+      },
+      {
+        "id": 600543,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/600543",
+        "reason": "Versatile inspection tool providing creative camera angles and green-screen backdrops, useful for screenshots, video edits, and showcases."
+      },
+      {
+        "id": 535405,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/535405",
+        "reason": "Great combat accessibility tweak that recolors the parry flash indicators, helping visual cues stand out clearly against bright particle effects."
+      },
+      {
+        "id": 631336,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/631336",
+        "reason": "Thoughtful accessibility overlay that repositions critical battle HUD elements closer to center view. Check out the creator's profile for other helpful tweaks."
+      },
+      {
+        "id": 533978,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/533978",
+        "reason": "Replaces Lucy's guard boars with Ugandan Knuckles. Why not? A fun, humorous mod that works surprisingly well in combat."
       }
     ]
   }
