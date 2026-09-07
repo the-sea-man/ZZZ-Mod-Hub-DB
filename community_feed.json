@@ -13,7 +13,23 @@
         "id": "welcome-hub",
         "type": "info",
         "title": "Curated Recommendations",
-        "content": "These mods and tools are personally recommended for quality, stability, and utility. Frameworks and accessibility tweaks listed here enhance the overall game experience."
+        "content": "These mods and tools are personally recommended for quality, stability, and utility, there's plenty of NSFW mod's around so i'll try to focus on the Safe mods. Frameworks and accessibility tweaks listed here enhance the overall game experience."
+      },
+      {
+        "id": "guides-season-bagel",
+        "type": "guide",
+        "title": "Season Missions & Operation Bagel Guides",
+        "content": "I know it's a little late but, for anyone struggling with the grind to finish all the season missions, here are two very useful guides. One breaks down the maps in detail so you can plan routing in advance, and the other covers scoring and survival strategies to use once inside the Hollow.",
+        "buttons": [
+          {
+            "label": "Map Layouts & Routing (HoYoLAB)",
+            "url": "https://www.hoyolab.com/article/46308905"
+          },
+          {
+            "label": "Operation Bagel 5M+ Strategy (Reddit)",
+            "url": "https://www.reddit.com/r/ZZZ_Discussion/comments/1vn1zn4/a_guide_to_earning_5million_avg_in_operation_bagel/"
+          }
+        ]
       }
     ],
     "recommended_mods": [
