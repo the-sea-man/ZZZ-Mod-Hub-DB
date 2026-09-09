@@ -5,7 +5,7 @@
         "id": "poll-rename-manager",
         "type": "poll",
         "title": "Community Vote: Should We Rename the Mod Manager?",
-        "content": "Help decide the future name and identity of the mod manager. Cast your vote on GameBanana to share your thoughts.",
+        "content": "Help decide the future name and identity of the mod manager.",
         "link": "https://gamebanana.com/polls/5134",
         "buttonText": "Vote on GameBanana"
       },
@@ -13,7 +13,7 @@
         "id": "welcome-hub",
         "type": "info",
         "title": "Curated Recommendations",
-        "content": "These mods and tools are personally recommended for quality, stability, and utility, there's plenty of NSFW mod's around so i'll try to focus on the Safe mods. Frameworks and accessibility tweaks listed here enhance the overall game experience."
+        "content": "These mods and tools are personally recommended for quality, stability, and utility, there's plenty of NSFW mod's around so i'll try to focus on the Safe mods."
       },
       {
         "id": "guides-season-bagel",
@@ -37,7 +37,7 @@
         "id": 531649,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/531649",
-        "reason": "Essential framework mod. It removes built-in censorship meshes and provides the required shader foundation for any mods utilizing glowing textures or emissive effects."
+        "reason": "Removes built-in censorship meshes and fixes shaders for any mod that uses glowing or emissive textures."
       },
       {
         "id": 23590,
@@ -49,13 +49,13 @@
         "id": 565171,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/565171",
-        "reason": "One of the most talented creators in the community in my humble opinion. While many of her designs lean NSFW, the craftsmanship, detail, and polish are top tier."
+        "reason": "In my opinion one of the best creators around. Most of her mods can be NSFW, but the models, textures work and overall ideation of the project are are top tier."
       },
       {
         "id": 680899,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/680899",
-        "reason": "Very clean, creative designs from Arttmadness. The creator consistently produces well-crafted models, and their recent Zhao skins are a great showcase."
+        "reason": "has many incredible mod designs and concepts but it seems to be focusing only on zhao for now, nonetheless the quality is still incredible, i just hope some day he releases Zhao 2B."
       },
       {
         "id": 605681,
@@ -109,7 +109,7 @@
         "id": 631336,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/631336",
-        "reason": "Thoughtful accessibility overlay that repositions critical battle HUD elements closer to center view. Check out the creator's profile for other helpful tweaks."
+        "reason": "Moves battle HUD elements closer to the center of the screen so they are easier to track. Check out the creator's profile for other tweaks."
       },
       {
         "id": 694279,
@@ -127,13 +127,13 @@
         "id": 711134,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/711134",
-        "reason": "An elegant, floral-inspired retexture and outfit design for Lucia with intricate lace detailing."
+        "reason": "Lucia outfit with floral patterns and detailed lace work."
       },
       {
         "id": 541522,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/541522",
-        "reason": "Awesome crossover importing A.B.A and Paracelsus over Piper, capturing Guilty Gear's signature style flawlessly."
+        "reason": "I like Guilty Gear sue me."
       },
       {
         "id": 644061,
@@ -217,7 +217,7 @@
         "id": 535405,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/535405",
-        "reason": "Great combat accessibility tweak that recolors the parry flash indicators, helping visual cues stand out clearly against bright particle effects."
+        "reason": "Recolors the parry flash indicators so they stand out clearly against bright particle effects."
       },
       {
         "id": 601174,
@@ -235,25 +235,25 @@
         "id": 623336,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/623336",
-        "reason": "Adjusts character outline thickness across the game. Great for achieving a bolder, more animated or comic-book aesthetic."
+        "reason": "Changes character outline thickness across the game for a bolder, more animated look."
       },
       {
         "id": 565870,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/565870",
-        "reason": "Clean and convenient tool for hiding on-screen UI elements, perfect for taking clean screenshots or focusing entirely on the action."
+        "reason": "Hides on-screen UI elements, useful for clean screenshots."
       },
       {
         "id": 537703,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/537703",
-        "reason": "Very helpful quick-reference overlay for beginners displaying enemy weaknesses and resistances, though it has not been updated in a while."
+        "reason": "Overlay for beginners that displays enemy weaknesses and resistances. Note that it has not been updated in a while."
       },
       {
         "id": 600543,
         "type": "Mod",
         "url": "https://gamebanana.com/mods/600543",
-        "reason": "Versatile inspection tool providing creative camera angles and green-screen backdrops, useful for screenshots, video edits, and showcases."
+        "reason": "Free camera tool with green-screen backgrounds for taking screenshots or recording video."
       },
       {
         "id": 533978,
