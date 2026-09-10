@@ -139,5 +139,27 @@
     "faction": "Public Security",
     "image_url": "images/NPC Officer Mewmew.png",
     "release_date": "2024-07-04"
+  },
+  {
+    "id": "gingerbread",
+    "name": "Gingerbread",
+    "aliases": [
+      "gingerbread",
+      "Gingerbread NPC"
+    ],
+    "faction": "Lumina Square",
+    "image_url": "images/NPC Gingerbread.png",
+    "release_date": "2026-04-10"
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "aliases": [
+      "potato",
+      "Potato NPC"
+    ],
+    "faction": "Lumina Square",
+    "image_url": "images/NPC Potato.png",
+    "release_date": "2026-04-10"
   }
 ]

@@ -566,6 +566,74 @@
           "image_url": "images/Agent Aria Portrait.png",
           "icon_url": "images/Outfit Energetic Idol Icon.png",
           "last_verified_version": "zzmi_assets_import"
+        },
+        {
+          "id": "crispy_delight",
+          "name": "Crispy Delight",
+          "aliases": [
+            "ariakfc",
+            "crispy",
+            "kfc"
+          ],
+          "components": {
+            "Hair": {
+              "draw_vb": "697c6c6a",
+              "position_vb": "6a495335",
+              "blend_vb": "8183ba3e",
+              "texcoord_vb": "bcde58e5",
+              "ib": "8a7ae9c2",
+              "textures": {
+                "Diffuse": "a572a368",
+                "NormalMap": "ebac056e",
+                "LightMap": "34c4faaa",
+                "MaterialMap": "4309b48e"
+              }
+            },
+            "Body": {
+              "draw_vb": "39aa6fb1",
+              "position_vb": "0f807bb9",
+              "blend_vb": "74dfb803",
+              "texcoord_vb": "0e41a5a0",
+              "ib": "175a0c0a",
+              "textures": {
+                "Diffuse": "6d0ce8c7",
+                "NormalMap": "ebac056e",
+                "LightMap": "6193ed20",
+                "MaterialMap": "a9bf33e2"
+              }
+            },
+            "Legs": {
+              "draw_vb": "f678c8e5",
+              "position_vb": "14ab176f",
+              "blend_vb": "1db87491",
+              "texcoord_vb": "1f60e6f6",
+              "ib": "73976aee",
+              "textures": {
+                "Diffuse": "e227c76b",
+                "NormalMap": "ebac056e",
+                "LightMap": "34c4faaa",
+                "MaterialMap": "4309b48e"
+              }
+            },
+            "Eyebrows": {
+              "blend_vb": "3b2d89e0",
+              "ib": "c0b0db5f",
+              "textures": {
+                "Diffuse": "1b2ae01f"
+              }
+            },
+            "Face": {
+              "draw_vb": "fc43d4db",
+              "position_vb": "c651479c",
+              "blend_vb": "3f418ccb",
+              "texcoord_vb": "c493b91c",
+              "ib": "27966f80",
+              "textures": {
+                "Diffuse": "1b2ae01f"
+              }
+            }
+          },
+          "last_verified_version": "zzmi_assets_import"
         }
       ],
       "height_cm": 150,
@@ -1905,11 +1973,12 @@
             }
           },
           "image_url": "images/Agent Grace Howard Portrait.png",
-          "last_verified_version": "zzmi_assets_import"
+          "last_verified_version": "zzmi_assets_import",
+          "icon_url": "images/Outfit The Iron Witch Icon.png"
         }
       ],
       "height_cm": 170,
-      "base_skin_id": "the_iron_witch_outfit_"
+      "base_skin_id": "the_iron_witch"
     },
     {
       "id": "hoshimi_miyabi",
@@ -3215,6 +3284,85 @@
           "image_url": "images/Agent Nangong Yu Rhapsodys Muse Portrait.png",
           "icon_url": "images/Outfit Rhapsodys Muse Icon.png",
           "last_verified_version": "zzmi_assets_import"
+        },
+        {
+          "id": "crispy_delight",
+          "name": "Crispy Delight",
+          "aliases": [
+            "crispy",
+            "kfc",
+            "nangongyukfc",
+            "rapsodykfc"
+          ],
+          "components": {
+            "Hair": {
+              "draw_vb": "536345c3",
+              "position_vb": "d1a15d0e",
+              "blend_vb": "56699a62",
+              "texcoord_vb": "e67f6a3c",
+              "ib": "969152d4",
+              "textures": {
+                "Diffuse": "df39b77c",
+                "NormalMap": "ebac056e",
+                "LightMap": "d94a0c41",
+                "MaterialMap": "a458a615"
+              }
+            },
+            "Body": {
+              "draw_vb": "722e2eda",
+              "position_vb": "3a34be2f",
+              "blend_vb": "d5dd663f",
+              "texcoord_vb": "c6657eaa",
+              "ib": "fb76d934",
+              "textures": {
+                "Diffuse": "f0e8f22e",
+                "NormalMap": "ebac056e",
+                "LightMap": "fee3d533",
+                "MaterialMap": "beb11b78"
+              }
+            },
+            "Halo": {
+              "draw_vb": "5aac7571",
+              "position_vb": "74cbadea",
+              "blend_vb": "82509f4f",
+              "texcoord_vb": "00cbd7a8",
+              "ib": "cd884c0a",
+              "textures": {
+                "Diffuse": "f0e8f22e",
+                "NormalMap": "ebac056e",
+                "LightMap": "fee3d533",
+                "MaterialMap": "beb11b78"
+              }
+            },
+            "Wings": {
+              "draw_vb": "6ab572d9",
+              "position_vb": "b90d042a",
+              "blend_vb": "4d677fbd",
+              "texcoord_vb": "e062b6fc",
+              "ib": "3b4190ce",
+              "textures": {
+                "Diffuse": "11254966",
+                "NormalMap": "ebac056e",
+                "LightMap": "fee3d533",
+                "MaterialMap": "beb11b78"
+              }
+            },
+            "Eyebrows": {
+              "blend_vb": "09fa4349",
+              "ib": "ba598cf9",
+              "textures": {
+                "Diffuse": "1fd77103"
+              }
+            },
+            "Face": {
+              "blend_vb": "93c1ec0c",
+              "ib": "d643e19a",
+              "textures": {
+                "Diffuse": "1fd77103"
+              }
+            }
+          },
+          "last_verified_version": "zzmi_assets_import"
         }
       ],
       "height_cm": 156,
@@ -4323,7 +4471,7 @@
       "role": "Anomaly",
       "real_name": "Remielle Dan",
       "gender": "Female",
-      "height": "167 cm (5'5.75\")",
+      "height": "167 cm (5'6\")",
       "birthday": "March 14th",
       "species": "Thiren",
       "model_type": "Size 02",
@@ -4354,11 +4502,11 @@
               }
             },
             "Body": {
-              "draw_vb": "7a92a10a",
-              "position_vb": "679a1bd8",
-              "blend_vb": "9e8a27ae",
-              "texcoord_vb": "9e33a8b6",
-              "ib": "785b21f5",
+              "draw_vb": "97664f2f",
+              "position_vb": "d16f6790",
+              "blend_vb": "da54a57a",
+              "texcoord_vb": "b943ec9e",
+              "ib": "28e05a59",
               "textures": {
                 "Diffuse": "e51be5d1",
                 "NormalMap": "ebac056e",
@@ -5289,6 +5437,71 @@
           "image_url": "images/Agent Sunna Portrait.png",
           "icon_url": "images/Outfit Dreams on Loop Icon.png",
           "last_verified_version": "zzmi_assets_import"
+        },
+        {
+          "id": "crispy_delight",
+          "name": "Crispy Delight",
+          "aliases": [
+            "crispy",
+            "kfc",
+            "sunnakfc"
+          ],
+          "components": {
+            "Hair": {
+              "draw_vb": "20a4edef",
+              "position_vb": "3f76f9c3",
+              "blend_vb": "a7fc2b98",
+              "texcoord_vb": "97a6b567",
+              "ib": "d1e30827",
+              "textures": {
+                "Diffuse": "2fcfee64",
+                "NormalMap": "ebac056e",
+                "LightMap": "8cd786f7",
+                "MaterialMap": "3f11dfd9"
+              }
+            },
+            "Body": {
+              "draw_vb": "e085bc47",
+              "position_vb": "a0ea50ef",
+              "blend_vb": "89e781e6",
+              "texcoord_vb": "85f8b8c0",
+              "ib": "7efbdabd",
+              "textures": {
+                "Diffuse": "92795007",
+                "NormalMap": "ebac056e",
+                "LightMap": "6193ed20",
+                "MaterialMap": "a9bf33e2"
+              }
+            },
+            "Hammer": {
+              "draw_vb": "953975c0",
+              "position_vb": "a28ba31c",
+              "blend_vb": "16e2d8ea",
+              "texcoord_vb": "b642db41",
+              "ib": "337a62c1",
+              "textures": {
+                "Diffuse": "6c04b56d",
+                "NormalMap": "ebac056e",
+                "LightMap": "39dac70b",
+                "MaterialMap": "95070f7f"
+              }
+            },
+            "Eyebrows": {
+              "blend_vb": "f5daa764",
+              "ib": "30ea5791",
+              "textures": {
+                "Diffuse": "c9b5c6ce"
+              }
+            },
+            "Face": {
+              "blend_vb": "21299f88",
+              "ib": "1a2c8573",
+              "textures": {
+                "Diffuse": "c9b5c6ce"
+              }
+            }
+          },
+          "last_verified_version": "zzmi_assets_import"
         }
       ],
       "height_cm": 154,
@@ -5459,11 +5672,12 @@
             }
           },
           "image_url": "images/Agent Tsukishiro Yanagi Portrait.png",
-          "last_verified_version": "zzmi_assets_import"
+          "last_verified_version": "zzmi_assets_import",
+          "icon_url": "images/Outfit Flowing Moonshade Icon.png"
         }
       ],
       "height_cm": 169,
-      "base_skin_id": "flowing_moonshade_outfit_"
+      "base_skin_id": "flowing_moonshade"
     },
     {
       "id": "ukinami_yuzuha",
@@ -7762,14 +7976,20 @@
               "position_vb": "53d5d966",
               "blend_vb": "380ee24b",
               "texcoord_vb": "6b1c911c",
-              "ib": "84618ee0"
+              "ib": "84618ee0",
+              "textures": {
+                "Diffuse": "0c4bea0f",
+                "NormalMap": "ebac056e",
+                "LightMap": "da6a6f0b",
+                "MaterialMap": "f5da0fcd"
+              }
             },
             "Body": {
-              "draw_vb": "01b35c45",
-              "position_vb": "08c15b45",
-              "blend_vb": "8c0622d7",
-              "texcoord_vb": "f6474154",
-              "ib": "a23aa8a3",
+              "draw_vb": "d0bf0e87",
+              "position_vb": "e2a28287",
+              "blend_vb": "018ea72c",
+              "texcoord_vb": "08ddaed3",
+              "ib": "38daef11",
               "textures": {
                 "Diffuse": "5b733af8",
                 "NormalMap": "ebac056e",
@@ -7854,6 +8074,19 @@
               "ib": "48625d6d",
               "textures": {
                 "Diffuse": "18b20f06"
+              }
+            },
+            "Shield": {
+              "draw_vb": "914dcde9",
+              "position_vb": "fe91db45",
+              "blend_vb": "0bacf856",
+              "texcoord_vb": "cd92341a",
+              "ib": "d892c658",
+              "textures": {
+                "Diffuse": "4fa99352",
+                "NormalMap": "798adba3",
+                "LightMap": "980d9016",
+                "MaterialMap": "1f036c21"
               }
             }
           },
@@ -7959,7 +8192,7 @@
       "role": "Attack",
       "real_name": "Sigrid",
       "gender": "Female",
-      "height": "175cm (5'8.9\")",
+      "height": "175cm (5'9\")",
       "species": "Thiren",
       "model_type": "Size 03",
       "icon_url": "images/Agent Sigrid de LAzur Icon.png",
@@ -7969,6 +8202,113 @@
       "type": "Playable",
       "mindscape_url": "images/Mindscape Sigrid de LAzur Full.png",
       "height_cm": 175
+    },
+    {
+      "id": "claret_flint",
+      "name": "Claret Flint",
+      "aliases": [
+        "Claret",
+        "ClaretFlint",
+        "Flint",
+        "Flint Claret",
+        "FlintClaret"
+      ],
+      "element": "Electric",
+      "faction": "Flint Workshop",
+      "image_url": "images/Agent Claret Flint Portrait.png",
+      "icon_url": "images/Agent Claret Flint Icon.png",
+      "mindscape_url": "images/Mindscape Claret Flint Full.png",
+      "role": "Armorer",
+      "real_name": "Claret Flint",
+      "gender": "Female",
+      "height": "166cm (5'5\")",
+      "birthday": "July 23rd",
+      "species": "Human",
+      "model_type": "Size 02",
+      "w_engine": "Crimson Thirst",
+      "release_date": "2026-09-09",
+      "type": "Playable",
+      "skins": [
+        {
+          "id": "base",
+          "name": "",
+          "aliases": [
+            "base",
+            "default"
+          ],
+          "components": {
+            "Hair": {
+              "draw_vb": "afd59133",
+              "position_vb": "a15b4977",
+              "blend_vb": "8b8a3aee",
+              "texcoord_vb": "3323e267",
+              "ib": "13596d7b",
+              "textures": {
+                "Diffuse": "27ff9425",
+                "NormalMap": "ebac056e",
+                "LightMap": "54af7ec2",
+                "MaterialMap": "f328bcde"
+              }
+            },
+            "Body": {
+              "draw_vb": "d2c8aa32",
+              "position_vb": "a71005c1",
+              "blend_vb": "9e4b673e",
+              "texcoord_vb": "774b873a",
+              "ib": "d942b3a7",
+              "textures": {
+                "Diffuse": "49f33d8f",
+                "NormalMap": "ebac056e",
+                "LightMap": "3327e83f",
+                "MaterialMap": "875e4282"
+              }
+            },
+            "Legs": {
+              "draw_vb": "4e0b27d3",
+              "position_vb": "5db64c7a",
+              "blend_vb": "350e55b3",
+              "texcoord_vb": "ea4c2d82",
+              "ib": "98ece166",
+              "textures": {
+                "Diffuse": "54b5a00b",
+                "NormalMap": "ebac056e",
+                "LightMap": "83d81888",
+                "MaterialMap": "6c63f8ce"
+              }
+            },
+            "Bows": {
+              "draw_vb": "3633bc1d",
+              "position_vb": "39f0a7d8",
+              "blend_vb": "f3e22ccc",
+              "texcoord_vb": "8bdb2003",
+              "ib": "480eeade",
+              "textures": {
+                "Diffuse": "27ff9425",
+                "NormalMap": "ebac056e",
+                "LightMap": "54af7ec2",
+                "MaterialMap": "f328bcde"
+              }
+            },
+            "Eyebrows": {
+              "blend_vb": "b39381ba",
+              "ib": "a56d773c",
+              "textures": {
+                "Diffuse": "05b25205"
+              }
+            },
+            "Face": {
+              "blend_vb": "c21ac1a5",
+              "ib": "6467d6c6",
+              "textures": {
+                "Diffuse": "05b25205"
+              }
+            }
+          },
+          "last_verified_version": "zzmi_assets_import"
+        }
+      ],
+      "height_cm": 166,
+      "base_skin_id": "base"
     }
   ]
 }
