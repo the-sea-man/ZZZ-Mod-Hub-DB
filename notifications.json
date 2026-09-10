@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.2.2-release",
+    "title": "ZZZ Mod Hub Update 1.2.2",
+    "message": "### What's New in v1.2.2:\n- **5 New Languages Added**: Full translations for Spanish, Japanese, Korean, Russian, and Traditional Chinese, bringing total built-in languages to 8.\n- **Cancel Long Tasks**: Cancel heavy loading tasks like 3D model parsing, archive extraction, and batch scans instantly without freezing the app.\n- **Mod Fixer Stride Auto-Sync**: Automatically updates `stride` values in mod `.ini` files when remapping vertex buffers, preventing stretched meshes and game crashes.\n- **GameBanana Discover & Tools**: Browse tools directly in the Discover feed alongside character mods, with integrated community poll banners.\n- **Performance & Stability**: Parallelized category warning scans for faster library loading, hardened 3D viewer memory handling, and broader test coverage.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.2",
+    "message_pt_BR": "### Novidades da v1.2.2:\n- **5 Novos Idiomas Adicionados**: Traduções completas para Espanhol, Japonês, Coreano, Russo e Chinês Tradicional, totalizando 8 idiomas disponíveis.\n- **Cancelamento de Tarefas**: Cancele tarefas pesadas como carregamento 3D, extração de arquivos e varreduras em lote imediatamente sem travar o aplicativo.\n- **Correção Automática de Stride no Mod Fixer**: Atualiza automaticamente valores de `stride` nos arquivos `.ini` ao remapear buffers de vértices, evitando modelos esticados e travamentos.\n- **GameBanana Discover e Ferramentas**: Navegue por ferramentas diretamente na aba Descobrir, com exibição de enquetes da comunidade.\n- **Desempenho e Estabilidade**: Varredura paralela de alertas nas categorias para carregamento mais rápido, melhorias de memória no visualizador 3D e maior estabilidade geral.",
+    "title_zh": "ZZZ Mod Hub 1.2.2 更新",
+    "message_zh": "### v1.2.2 更新内容：\n- **新增 5 种语言**：支持西班牙语、日语、韩语、俄语与繁体中文，内置语言扩展至 8 种。\n- **随时取消耗时任务**：解析 3D 模型、解压压缩包或进行批量扫描时支持即时取消，避免界面卡住。\n- **模组修复器步长自动同步**：重映射顶点缓冲区时自动修正 `.ini` 中的 `stride` 数值，防止网格拉伸和游戏闪退。\n- **GameBanana 发现页与工具支持**：在发现页直接浏览实用工具，并嵌入展示社区投票条目。\n- **性能与稳定性提升**：并行处理分类警告扫描加速启动，优化 3D 预览器内存管理，全面提升稳定性。",
+    "date": "2026-09-10T18:00:00Z"
+  },
+  {
     "id": "1.2.1-release",
     "title": "ZZZ Mod Hub Update 1.2.1",
     "message": "### What's New in v1.2.1:\n- **Mod Toggle & State Persistence**: Preserves ZZMI namespaces and relative path sections in `d3dx_user.ini` constants so toggle states and custom variables are saved when disabling and re-enabling mods.\n- **GameBanana Multi-Mod Query Chunking**: Queries mods in batches of 50 to prevent API rate limits and timeouts.\n- **Batch Actions**: Improves batch toolbar reliability, adds toggle sound feedback, and sends F10 reload in-game during bulk toggles.\n- **Storage Safety**: Uses typed storage helpers for `localStorage` data to prevent crashes from corrupted entries.\n- **Performance Profiles**: Refines conflict and script warning scan rules for balanced and low-performance profiles.",

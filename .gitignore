@@ -1,14 +1,26 @@
-# Ignore non-db test folders and helper scripts
-Tests-Do_Not_Upload/
-test_json/
-scripts/
-merge_report.json
-update.py
-rewrite_sync.py
-character_health_report.json
-test.json
-README.md
-.agents/
-.agents
+# =======================================================
+# Permanent Whitelist: Only Track Distribution Database Files
+# =======================================================
 
-CODEMAP.md
+# 1. Ignore everything by default
+/*
+
+# 2. Whitelist distribution JSON database files
+!/*.json
+
+# 3. Whitelist image assets
+!/images/
+!/images/**
+
+# 4. Whitelist Git configuration
+!/.gitignore
+
+# 5. Exclude internal reports, temporary files, and scratch artifacts
+/character_health_report.json
+/merge_report.json
+/test*.json
+*.tmp
+*.bak
+*.log
+__pycache__/
+*.pyc
