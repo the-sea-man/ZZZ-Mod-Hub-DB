@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.2.3-release",
+    "title": "ZZZ Mod Hub Update 1.2.3",
+    "message": "### What's New in v1.2.3:\n- **3-Mode Mod Splitter**: Split mods by character pack, by accessory toggle (glasses, hats), or by body part (top, bottom, hair) so you can mix and match parts across mods.\n- **Mesh Protection Warnings**: Detects when a mod is sculpted as a single unified piece and warns you before splitting, preventing missing limbs in-game.\n- **Mod Fixer Improvements**: Preserves original texture and resource bindings when generating multi-resolution overrides for older mods.\n- **Self-Healing Script Scanner**: Restores mod script sections that were commented out by mistake, and cleans up vertex limit warnings without duplicate lines.\n- **In-Game UI Cleanup**: Automatically removes overlay menu files when a mod is disabled to prevent ghost menus.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.3",
+    "message_pt_BR": "### Novidades da v1.2.3:\n- **Separador de Mods em 3 Modos**: Divida mods por pacote de personagens, por acessórios e toggles (óculos, chapéus) ou por partes do corpo (superior, inferior, cabelo) para combinar partes de mods diferentes.\n- **Aviso de Proteção de Malha**: Detecta modelos esculpidos em peça única e avisa antes de dividir, evitando membros invisíveis no jogo.\n- **Melhorias no Corretor de Mods**: Preserva vínculos originais de texturas e recursos ao criar ajustes para múltiplas resoluções em mods antigos.\n- **Scanner com Auto-Recuperação**: Restaura seções comentadas por engano nos scripts dos mods e corrige limites de vértices sem duplicar linhas.\n- **Limpeza de Menus no Jogo**: Remove automaticamente arquivos de menu de sobreposição ao desativar um mod, evitando menus fantasmas.",
+    "title_zh": "ZZZ Mod Hub 1.2.3 更新",
+    "message_zh": "### v1.2.3 更新内容：\n- **三模式模组拆分器**：支持按角色包、按配件与开关（眼镜、帽子）、或按身体部位（上装、下装、发型）拆分，方便跨模组自由混搭。\n- **网格保护警告**：自动检测一体化雕刻的单网格模型并在拆分前发出警告，防止游戏中出现肢体缺失或模型穿帮。\n- **模组修复器升级**：为旧版模组生成多分辨率兼容配置时，完整保留原始贴图与资源绑定。\n- **自愈式脚本扫描器**：安全恢复此前误注释的脚本段落，修复顶点限制警告且不产生多余重复行。\n- **游戏内界面清理**：禁用模组时自动清理残余的悬浮菜单文件，避免残留幽灵按键与失效菜单。",
+    "date": "2026-09-11T05:00:00Z"
+  },
+  {
     "id": "1.2.2-release",
     "title": "ZZZ Mod Hub Update 1.2.2",
     "message": "### What's New in v1.2.2:\n- **5 New Languages Added**: Full translations for Spanish, Japanese, Korean, Russian, and Traditional Chinese, bringing total built-in languages to 8.\n- **Cancel Long Tasks**: Cancel heavy loading tasks like 3D model parsing, archive extraction, and batch scans instantly without freezing the app.\n- **Mod Fixer Stride Auto-Sync**: Automatically updates `stride` values in mod `.ini` files when remapping vertex buffers, preventing stretched meshes and game crashes.\n- **GameBanana Discover & Tools**: Browse tools directly in the Discover feed alongside character mods, with integrated community poll banners.\n- **Performance & Stability**: Parallelized category warning scans for faster library loading, hardened 3D viewer memory handling, and broader test coverage.",
