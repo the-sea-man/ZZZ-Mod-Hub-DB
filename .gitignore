@@ -19,6 +19,7 @@
 /character_health_report.json
 /merge_report.json
 /test*.json
+/Tests-Do_Not_Upload/
 *.tmp
 *.bak
 *.log
