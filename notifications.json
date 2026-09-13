@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.2.4-release",
+    "title": "ZZZ Mod Hub Update 1.2.4",
+    "message": "### What's New in v1.2.4:\n- **Auto-Translation Engine**: Built-in translation engine in Language Hub supporting 50+ world languages with real-time translation and custom pack export.\n- **Silent Archive Extraction**: Suppressed flashing console windows when installing `.rar` or `.7z` archives and launching game utilities.\n- **Hardened Path Security**: Strict path sanitization and URL validation preventing directory traversal attacks in downloaded mods.\n- **Clearer Warning Badges**: Blue badges specifically indicate fixable `.ini` script errors, while yellow badges highlight multi-entity characters sharing base hashes.\n- **GNU GPL v3 License & Docs**: Adopted GNU GPL v3 license, updated installer EULA, and expanded the user guide.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.4",
+    "message_pt_BR": "### Novidades da v1.2.4:\n- **Motor de Tradução Automática**: Tradutor integrado na Central de Idiomas com suporte a mais de 50 idiomas mundiais e exportação de pacotes.\n- **Extração Silenciosa de Arquivos**: Elimina janelas pretas piscando ao extrair arquivos `.rar` ou `.7z` e abrir ferramentas.\n- **Segurança Reforçada de Caminhos**: Sanitização rigorosa de caminhos e validação de URLs para evitar falhas de diretório em mods baixados.\n- **Distinção Clara de Alertas**: Selos azuis indicam erros corrigíveis em scripts `.ini`, enquanto selos amarelos destacam personagens com skins que compartilham hashes.\n- **Licença GNU GPL v3 e Guias**: Adoção da licença GNU GPL v3, atualização do contrato de instalação e manual de usuário expandido.",
+    "title_zh": "ZZZ Mod Hub 1.2.4 更新",
+    "message_zh": "### v1.2.4 更新内容：\n- **自动翻译引擎**：语言中心内置多语言翻译引擎，支持全球 50+ 种语言实时翻译与独立语言包导出。\n- **无感静默解压**：彻底解决安装 `.rar` 或 `.7z` 压缩包及启动工具时控制台黑框闪烁问题。\n- **路径安全加固**：严格过滤与校验外部路径与链接，杜绝路径穿越与恶意命令注入风险。\n- **警告角标规范化**：蓝色角标专指可自动修复的 `.ini` 脚本错误，黄色角标标明多皮肤实体共享特征哈希。\n- **GNU GPL v3 开源协议与文档**：正式采用 GNU GPL v3 协议，更新安装许可条款，提供完整使用指南。",
+    "date": "2026-09-13T19:00:00Z"
+  },
+  {
     "id": "1.2.3-release",
     "title": "ZZZ Mod Hub Update 1.2.3",
     "message": "### What's New in v1.2.3:\n- **3-Mode Mod Splitter**: Split mods by character pack, by accessory toggle (glasses, hats), or by body part (top, bottom, hair) so you can mix and match parts across mods.\n- **Mesh Protection Warnings**: Detects when a mod is sculpted as a single unified piece and warns you before splitting, preventing missing limbs in-game.\n- **Mod Fixer Improvements**: Preserves original texture and resource bindings when generating multi-resolution overrides for older mods.\n- **Self-Healing Script Scanner**: Restores mod script sections that were commented out by mistake, and cleans up vertex limit warnings without duplicate lines.\n- **In-Game UI Cleanup**: Automatically removes overlay menu files when a mod is disabled to prevent ghost menus.",
