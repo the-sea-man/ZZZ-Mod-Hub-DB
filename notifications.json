@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.2.6-release",
+    "title": "ZZZ Mod Hub Update 1.2.6",
+    "message": "### What's New in v1.2.6:\n- **Automated Build Environment**: Corrected frontend distribution stub creation during automated compilation workflows.\n- **Backend Code Cleanup**: Resolved Clippy compiler warnings across the logging and mod fixer modules.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.6",
+    "message_pt_BR": "### Novidades da v1.2.6:\n- **Ambiente de Build Automatizado**: Correção na criação de stubs da interface durante compilações automatizadas.\n- **Limpeza do Código Backend**: Resolução de avisos do compilador Clippy nos módulos de log e corretor de mods.",
+    "title_zh": "ZZZ Mod Hub 1.2.6 更新",
+    "message_zh": "### v1.2.6 更新内容：\n- **自动化构建环境修复**：修复自动化编译工作流中的前端资源占位生成。\n- **后端代码规范清理**：修复日志系统与模组修复器模块中的 Clippy 编译器警告。",
+    "date": "2026-09-17T11:00:00Z"
+  },
+  {
     "id": "1.2.5-release",
     "title": "ZZZ Mod Hub Update 1.2.5",
     "message": "### What's New in v1.2.5:\n- **Interactive Mod Backup Rollback**: Inspect backup dates and file sizes, and restore original mod files with one click whenever an update or edit breaks something.\n- **Card Appearance Customizer**: Personalize mod cards in Settings with theme presets (Default, Minimal, Cyber, Contrast), adjustable opacity, blur, borders, and button visibility toggles.\n- **Custom Category Folders**: Create, rename, or delete custom library categories and map them directly to character folders, with safety locks protecting essential system folders.\n- **Hardened Mod Profiles**: Fixed profile matching across disabled folders to prevent accidental cross-character collisions when switching presets.\n- **Patch Remapping in Mod Fixer**: Added submesh index remapping across game patches, keeping custom models aligned after major game updates.\n- **Dual Activity Logging**: Tracks mod changes and errors with a 1-click rollback button to undo accidental fixes or moves.\n- **Thai Language Added**: Added Thai localization, bringing built-in language support to 9 languages.",
