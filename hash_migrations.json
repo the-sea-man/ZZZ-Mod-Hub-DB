@@ -13193,23 +13193,15 @@
       "hash": "bea4a483",
       "character": "Belle",
       "description": "Belle Hair IB Hash",
-      "version_from": "2.0",
-      "version_to": "1.0",
+      "version_from": "1.0",
+      "version_to": "3.0",
       "actions": [
-        {
-          "type": "add_ib_check_if_missing"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "3acf9aea"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "3acf9aea"
-        },
         {
           "type": "update_hash",
           "new_hash": "aa9ffb85"
+        },
+        {
+          "type": "add_ib_check_if_missing"
         }
       ]
     },
@@ -13259,7 +13251,7 @@
     "3acf9aea": {
       "hash": "3acf9aea",
       "character": "Belle",
-      "description": "Belle Hair IB Hash",
+      "description": "Belle Hairpin IB Hash",
       "version_from": "",
       "version_to": "3.0",
       "actions": [
