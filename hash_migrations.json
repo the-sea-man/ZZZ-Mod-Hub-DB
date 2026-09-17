@@ -1,7 +1,7 @@
 {
-  "version": "3.1",
+  "version": "3.2",
   "total_rules": 5371,
-  "total_migrations": 604,
+  "total_migrations": 652,
   "modules_processed": 100,
   "rules": {
     "d131acb1": {
@@ -575,10 +575,6 @@
           ],
           "section_title": "BelleSummerSkies.Hat.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "798adba3"
         },
         {
           "type": "add_section_if_missing",
@@ -1608,10 +1604,6 @@
           ],
           "section_title": "WiseSummer.HairShadow.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "798adba3"
         },
         {
           "type": "add_section_if_missing",
@@ -9542,12 +9534,7 @@
       "description": "AriaDiscordantNote BodyA Diffuse 2048p Hash",
       "version_from": "2.6",
       "version_to": "2.7",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "677f73d9"
-        }
-      ]
+      "actions": []
     },
     "303c63bc": {
       "hash": "303c63bc",
@@ -13219,6 +13206,10 @@
         {
           "type": "update_hash",
           "new_hash": "3acf9aea"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "aa9ffb85"
         }
       ]
     },
@@ -15206,6 +15197,10 @@
           ],
           "section_title": "Belle.Hair.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "a5e62ece"
         }
       ]
     },
@@ -15223,6 +15218,10 @@
           ],
           "section_title": "Belle.Hair.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "992d149f"
         }
       ]
     },
@@ -15286,6 +15285,10 @@
           ],
           "section_title": "Belle.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "40a897ab"
         }
       ]
     },
@@ -15303,6 +15306,10 @@
           ],
           "section_title": "Belle.Hair.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "71d2bf80"
         }
       ]
     },
@@ -15320,6 +15327,10 @@
           ],
           "section_title": "Belle.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "bea2b94e"
         }
       ]
     },
@@ -15337,6 +15348,10 @@
           ],
           "section_title": "Belle.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "3ee01622"
         }
       ]
     },
@@ -15354,6 +15369,10 @@
           ],
           "section_title": "Belle.Hair.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "76a50b18"
         }
       ]
     },
@@ -15371,6 +15390,10 @@
           ],
           "section_title": "Belle.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "5838ad30"
         }
       ]
     },
@@ -16487,6 +16510,10 @@
         },
         {
           "type": "add_ib_check_if_missing"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "169e5f5d"
         }
       ]
     },
@@ -16562,6 +16589,10 @@
         },
         {
           "type": "add_ib_check_if_missing"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "e850777c"
         }
       ]
     },
@@ -17456,10 +17487,6 @@
       "version_to": "2.5",
       "actions": [
         {
-          "type": "update_hash",
-          "new_hash": "62ed56cc"
-        },
-        {
           "type": "add_ib_check_if_missing"
         }
       ]
@@ -17471,10 +17498,6 @@
       "version_from": "",
       "version_to": "2.5",
       "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "4c215c73"
-        },
         {
           "type": "add_section_if_missing",
           "equiv_hashes": [
@@ -17508,10 +17531,6 @@
       "version_from": "",
       "version_to": "2.5",
       "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "dd2b89aa"
-        },
         {
           "type": "add_section_if_missing",
           "equiv_hashes": [
@@ -18862,6 +18881,10 @@
           ],
           "section_title": "BelleTemple.RedKnotRope.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "81bc55f3"
         }
       ]
     },
@@ -18887,6 +18910,10 @@
           ],
           "section_title": "BelleTemple.RedKnotRope.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "c5c88de1"
         }
       ]
     },
@@ -18912,6 +18939,10 @@
           ],
           "section_title": "BelleTemple.RedKnotRope.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "0d4e5810"
         }
       ]
     },
@@ -19062,6 +19093,10 @@
           ],
           "section_title": "BelleTemple.Earrings1.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "e1d5dec8"
         }
       ]
     },
@@ -19087,6 +19122,10 @@
           ],
           "section_title": "BelleTemple.Earrings1.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "f3d824bf"
         }
       ]
     },
@@ -25880,12 +25919,7 @@
       "description": "Cissia BodyC Diffuse 2048p Hash",
       "version_from": "2.7",
       "version_to": "2.8",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "ec85e98d"
-        }
-      ]
+      "actions": []
     },
     "ec85e98d": {
       "hash": "ec85e98d",
@@ -32256,12 +32290,7 @@
       "description": "Grace Hair Texcoord Hash",
       "version_from": "1.2",
       "version_to": "1.3",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "d21f32ad"
-        }
-      ]
+      "actions": []
     },
     "d21f32ad": {
       "hash": "d21f32ad",
@@ -41194,12 +41223,7 @@
       "description": "Lighter HairA Diffuse 2048p Hash",
       "version_from": "2.7",
       "version_to": "2.8",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "4e088042"
-        }
-      ]
+      "actions": []
     },
     "4e088042": {
       "hash": "4e088042",
@@ -41256,12 +41280,7 @@
       "description": "Lighter HairA MaterialMap 2048p Hash",
       "version_from": "2.7",
       "version_to": "2.8",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "d331b850"
-        }
-      ]
+      "actions": []
     },
     "d331b850": {
       "hash": "d331b850",
@@ -45934,12 +45953,7 @@
       "description": "Lycaon BodyA Diffuse 2048p Hash",
       "version_from": "2.4",
       "version_to": "2.5",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "4cb6928e"
-        }
-      ]
+      "actions": []
     },
     "82ad0c28": {
       "hash": "82ad0c28",
@@ -49968,12 +49982,7 @@
       "description": "MiyabiDignifiedBlossom ClothesA Diffuse 2048p Hash",
       "version_from": "2.8",
       "version_to": "3.0",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "4e6c90bd"
-        }
-      ]
+      "actions": []
     },
     "4e6c90bd": {
       "hash": "4e6c90bd",
@@ -50060,12 +50069,7 @@
       "description": "MiyabiDignifiedBlossom ClothesA MaterialMap 2048p Hash",
       "version_from": "2.8",
       "version_to": "3.0",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "30590865"
-        }
-      ]
+      "actions": []
     },
     "30590865": {
       "hash": "30590865",
@@ -50705,12 +50709,7 @@
       "description": "NangongYu BodyA Diffuse 2048p Hash",
       "version_from": "2.7",
       "version_to": "2.8",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "11254966"
-        }
-      ]
+      "actions": []
     },
     "11254966": {
       "hash": "11254966",
@@ -55291,10 +55290,6 @@
           ],
           "section_title": "Norma.Hair.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "ebac056e"
         }
       ]
     },
@@ -55443,10 +55438,6 @@
           ],
           "section_title": "Norma.Body.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "ebac056e"
         }
       ]
     },
@@ -59092,6 +59083,10 @@
         {
           "type": "update_hash",
           "new_hash": "1c6d41af"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "fd1b9c29"
         }
       ]
     },
@@ -64986,6 +64981,10 @@
       "actions": [
         {
           "type": "add_ib_check_if_missing"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "28e05a59"
         }
       ]
     },
@@ -65273,6 +65272,10 @@
           ],
           "section_title": "Remielle.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "97664f2f"
         }
       ]
     },
@@ -65290,6 +65293,10 @@
           ],
           "section_title": "Remielle.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "d16f6790"
         }
       ]
     },
@@ -65307,6 +65314,10 @@
           ],
           "section_title": "Remielle.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "b943ec9e"
         }
       ]
     },
@@ -65324,6 +65335,10 @@
           ],
           "section_title": "Remielle.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "da54a57a"
         }
       ]
     },
@@ -66913,6 +66928,10 @@
       "actions": [
         {
           "type": "add_ib_check_if_missing"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "92cb56c9"
         }
       ]
     },
@@ -66925,6 +66944,10 @@
       "actions": [
         {
           "type": "add_ib_check_if_missing"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "24a512cb"
         }
       ]
     },
@@ -66942,6 +66965,10 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "6a0d36f2"
         }
       ]
     },
@@ -66959,6 +66986,10 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "0929171b"
         }
       ]
     },
@@ -66976,6 +67007,10 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "c24cc6a1"
         }
       ]
     },
@@ -66993,6 +67028,10 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "93b69961"
         }
       ]
     },
@@ -67010,6 +67049,10 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Leg.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "ea50e1d1"
         }
       ]
     },
@@ -67027,6 +67070,10 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Leg.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "11fbd4a3"
         }
       ]
     },
@@ -67044,6 +67091,10 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Leg.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "14ab0adc"
         }
       ]
     },
@@ -67061,6 +67112,10 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Leg.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "3841a909"
         }
       ]
     },
@@ -67093,6 +67148,10 @@
             "abb0d69d"
           ],
           "section_title": "RemielleMoonlightWhispers.Body.Diffuse.1024"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "bb0f08b9"
         }
       ]
     },
@@ -67125,6 +67184,10 @@
             "2aab9aa7"
           ],
           "section_title": "RemielleMoonlightWhispers.Body.LightMap.1024"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "0e9d14dc"
         }
       ]
     },
@@ -67157,6 +67220,10 @@
             "e9f33a20"
           ],
           "section_title": "RemielleMoonlightWhispers.Body.MaterialMap.1024"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "8240c688"
         }
       ]
     },
@@ -67189,6 +67256,10 @@
             "4c49a23c"
           ],
           "section_title": "RemielleMoonlightWhispers.Leg.Diffuse.1024"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "017c13e4"
         }
       ]
     },
@@ -67221,6 +67292,10 @@
             "17b9c313"
           ],
           "section_title": "RemielleMoonlightWhispers.Leg.LightMap.1024"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "0a902460"
         }
       ]
     },
@@ -67253,6 +67328,10 @@
             "2dce69bd"
           ],
           "section_title": "RemielleMoonlightWhispers.Leg.MaterialMap.1024"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "fb096287"
         }
       ]
     },
@@ -67297,6 +67376,10 @@
       "actions": [
         {
           "type": "add_ib_check_if_missing"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "2cd6516a"
         }
       ]
     },
@@ -67326,6 +67409,10 @@
           ],
           "section_title": "RemielleSeashadePasSeul.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "df41c403"
         }
       ]
     },
@@ -67343,6 +67430,10 @@
           ],
           "section_title": "RemielleSeashadePasSeul.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "22d04ad5"
         }
       ]
     },
@@ -67360,6 +67451,10 @@
           ],
           "section_title": "RemielleSeashadePasSeul.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "d637a74d"
         }
       ]
     },
@@ -67377,6 +67472,10 @@
           ],
           "section_title": "RemielleSeashadePasSeul.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "5ec5e567"
         }
       ]
     },
@@ -72005,6 +72104,10 @@
       "actions": [
         {
           "type": "add_ib_check_if_missing"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "38daef11"
         }
       ]
     },
@@ -72386,6 +72489,10 @@
           ],
           "section_title": "Sigrid.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "d0bf0e87"
         }
       ]
     },
@@ -72403,6 +72510,10 @@
           ],
           "section_title": "Sigrid.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "e2a28287"
         }
       ]
     },
@@ -72420,6 +72531,10 @@
           ],
           "section_title": "Sigrid.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "08ddaed3"
         }
       ]
     },
@@ -72437,6 +72552,10 @@
           ],
           "section_title": "Sigrid.Body.IB",
           "section_content": "match_priority = 0\n"
+        },
+        {
+          "type": "update_hash",
+          "new_hash": "018ea72c"
         }
       ]
     },
@@ -92969,12 +93088,7 @@
       "description": "YeShunguang TexCoord VB Hash",
       "version_from": "",
       "version_to": "2.5",
-      "actions": [
-        {
-          "type": "update_hash",
-          "new_hash": "dbb027eb"
-        }
-      ]
+      "actions": []
     },
     "6ed0c951": {
       "hash": "6ed0c951",
@@ -112432,6 +112546,390 @@
       "component": "ZhuYuan ExtrasB, ShoulderAmmoA, HipAmmoA NormalMap 2048p Hash",
       "version_from": "1.0",
       "version_to": "1.2"
+    },
+    {
+      "old_hash": "c92a17d8",
+      "new_hash": "3ee01622",
+      "character": "Belle",
+      "component": "Belle Body blend_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "d2844c01",
+      "new_hash": "5838ad30",
+      "character": "Belle",
+      "component": "Belle Body position_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "801edbf4",
+      "new_hash": "40a897ab",
+      "character": "Belle",
+      "component": "Belle Body texcoord_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "ac1c8f80",
+      "new_hash": "bea2b94e",
+      "character": "Belle",
+      "component": "Belle Body draw_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "bea4a483",
+      "new_hash": "aa9ffb85",
+      "character": "Belle",
+      "component": "Belle Hair IB Hash",
+      "version_from": "2.0",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "cc32660c",
+      "new_hash": "76a50b18",
+      "character": "Belle",
+      "component": "Belle Hair blend_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "a9673001",
+      "new_hash": "71d2bf80",
+      "character": "Belle",
+      "component": "Belle Hair position_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "11e38ebb",
+      "new_hash": "a5e62ece",
+      "character": "Belle",
+      "component": "Belle Hair texcoord_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "142ddbbc",
+      "new_hash": "992d149f",
+      "character": "Belle",
+      "component": "Belle Hair draw_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "c2189ddf",
+      "new_hash": "169e5f5d",
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Red Knot Rope IB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "83967fb0",
+      "new_hash": "0d4e5810",
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Red Knot Rope blend_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "903e5a55",
+      "new_hash": "81bc55f3",
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Red Knot Rope position_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "751107c4",
+      "new_hash": "c5c88de1",
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Red Knot Rope texcoord_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "c0fcc53d",
+      "new_hash": "e850777c",
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Earrings1 IB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "fc4bea64",
+      "new_hash": "e1d5dec8",
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Earrings1 position_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "dde5eb66",
+      "new_hash": "f3d824bf",
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Earrings1 texcoord_vb Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "8b6b17f8",
+      "new_hash": "fd1b9c29",
+      "character": "Piper",
+      "component": "Piper Hair Texcoord Hash",
+      "version_from": "1.3",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "785b21f5",
+      "new_hash": "28e05a59",
+      "character": "Remielle",
+      "component": "Remielle Body IB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "9e8a27ae",
+      "new_hash": "da54a57a",
+      "character": "Remielle",
+      "component": "Remielle Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "679a1bd8",
+      "new_hash": "d16f6790",
+      "character": "Remielle",
+      "component": "Remielle Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "9e33a8b6",
+      "new_hash": "b943ec9e",
+      "character": "Remielle",
+      "component": "Remielle Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "7a92a10a",
+      "new_hash": "97664f2f",
+      "character": "Remielle",
+      "component": "Remielle Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "f57f3e40",
+      "new_hash": "92cb56c9",
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Body IB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "7f6fe876",
+      "new_hash": "93b69961",
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "554d46cf",
+      "new_hash": "0929171b",
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "5dcc6ee1",
+      "new_hash": "c24cc6a1",
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "22ec622c",
+      "new_hash": "6a0d36f2",
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "09a51ed3",
+      "new_hash": "24a512cb",
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Leg IB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "ff05e5f9",
+      "new_hash": "3841a909",
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Leg VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "fa9635bc",
+      "new_hash": "11fbd4a3",
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Leg VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "7c0db158",
+      "new_hash": "14ab0adc",
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Leg VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "96dc0a8e",
+      "new_hash": "ea50e1d1",
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Leg VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "241deac5",
+      "new_hash": "2cd6516a",
+      "character": "RemielleSeashadePasSeul",
+      "component": "RemielleSeashadePasSeul Body IB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "9bca83d8",
+      "new_hash": "5ec5e567",
+      "character": "RemielleSeashadePasSeul",
+      "component": "RemielleSeashadePasSeul Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "13c77c3a",
+      "new_hash": "22d04ad5",
+      "character": "RemielleSeashadePasSeul",
+      "component": "RemielleSeashadePasSeul Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "c55c57ce",
+      "new_hash": "d637a74d",
+      "character": "RemielleSeashadePasSeul",
+      "component": "RemielleSeashadePasSeul Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "48288582",
+      "new_hash": "df41c403",
+      "character": "RemielleSeashadePasSeul",
+      "component": "RemielleSeashadePasSeul Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "a23aa8a3",
+      "new_hash": "38daef11",
+      "character": "Sigrid",
+      "component": "Sigrid Body IB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "8c0622d7",
+      "new_hash": "018ea72c",
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "08c15b45",
+      "new_hash": "e2a28287",
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "f6474154",
+      "new_hash": "08ddaed3",
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "01b35c45",
+      "new_hash": "d0bf0e87",
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "0e408177",
+      "new_hash": "bb0f08b9",
+      "character": "RemielleMoonlight",
+      "component": "Body Diffuse (3.2)",
+      "version_from": "3.1",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "6102ae18",
+      "new_hash": "0e9d14dc",
+      "character": "RemielleMoonlight",
+      "component": "Body LightMap (3.2)",
+      "version_from": "3.1",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "cccb8109",
+      "new_hash": "8240c688",
+      "character": "RemielleMoonlight",
+      "component": "Body MaterialMap (3.2)",
+      "version_from": "3.1",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "877b0ce6",
+      "new_hash": "017c13e4",
+      "character": "RemielleMoonlight",
+      "component": "Legs Diffuse (3.2)",
+      "version_from": "3.1",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "baeb2662",
+      "new_hash": "0a902460",
+      "character": "RemielleMoonlight",
+      "component": "Legs LightMap (3.2)",
+      "version_from": "3.1",
+      "version_to": "3.2"
+    },
+    {
+      "old_hash": "3b0c9e0a",
+      "new_hash": "fb096287",
+      "character": "RemielleMoonlight",
+      "component": "Legs MaterialMap (3.2)",
+      "version_from": "3.1",
+      "version_to": "3.2"
     }
   ]
 }

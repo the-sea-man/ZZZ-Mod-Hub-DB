@@ -1,6 +1,6 @@
 {
-  "version": "3.1",
-  "total_lineage_entries": 600,
+  "version": "3.2",
+  "total_lineage_entries": 646,
   "characters": {
     "Anby": {
       "name": "Anby",
@@ -651,7 +651,7 @@
       "name": "Belle",
       "components": {
         "Belle Hair IB Hash": {
-          "current_hash": "3acf9aea",
+          "current_hash": "aa9ffb85",
           "history": [
             {
               "version": "1.0",
@@ -797,6 +797,86 @@
               "version": "1.0",
               "hash": "36138f65",
               "migrated_to": "6ade3fdc"
+            }
+          ]
+        },
+        "Belle Body blend_vb Hash": {
+          "current_hash": "3ee01622",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "c92a17d8",
+              "migrated_to": "3ee01622"
+            }
+          ]
+        },
+        "Belle Body position_vb Hash": {
+          "current_hash": "5838ad30",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "d2844c01",
+              "migrated_to": "5838ad30"
+            }
+          ]
+        },
+        "Belle Body texcoord_vb Hash": {
+          "current_hash": "40a897ab",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "801edbf4",
+              "migrated_to": "40a897ab"
+            }
+          ]
+        },
+        "Belle Body draw_vb Hash": {
+          "current_hash": "bea2b94e",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "ac1c8f80",
+              "migrated_to": "bea2b94e"
+            }
+          ]
+        },
+        "Belle Hair blend_vb Hash": {
+          "current_hash": "76a50b18",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "cc32660c",
+              "migrated_to": "76a50b18"
+            }
+          ]
+        },
+        "Belle Hair position_vb Hash": {
+          "current_hash": "71d2bf80",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "a9673001",
+              "migrated_to": "71d2bf80"
+            }
+          ]
+        },
+        "Belle Hair texcoord_vb Hash": {
+          "current_hash": "a5e62ece",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "11e38ebb",
+              "migrated_to": "a5e62ece"
+            }
+          ]
+        },
+        "Belle Hair draw_vb Hash": {
+          "current_hash": "992d149f",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "142ddbbc",
+              "migrated_to": "992d149f"
             }
           ]
         }
@@ -987,6 +1067,76 @@
               "version": "2.0",
               "hash": "59218fac",
               "migrated_to": "fdf0b49e"
+            }
+          ]
+        },
+        "BelleSkin Red Knot Rope IB Hash": {
+          "current_hash": "169e5f5d",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "c2189ddf",
+              "migrated_to": "169e5f5d"
+            }
+          ]
+        },
+        "BelleSkin Red Knot Rope blend_vb Hash": {
+          "current_hash": "0d4e5810",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "83967fb0",
+              "migrated_to": "0d4e5810"
+            }
+          ]
+        },
+        "BelleSkin Red Knot Rope position_vb Hash": {
+          "current_hash": "81bc55f3",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "903e5a55",
+              "migrated_to": "81bc55f3"
+            }
+          ]
+        },
+        "BelleSkin Red Knot Rope texcoord_vb Hash": {
+          "current_hash": "c5c88de1",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "751107c4",
+              "migrated_to": "c5c88de1"
+            }
+          ]
+        },
+        "BelleSkin Earrings1 IB Hash": {
+          "current_hash": "e850777c",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "c0fcc53d",
+              "migrated_to": "e850777c"
+            }
+          ]
+        },
+        "BelleSkin Earrings1 position_vb Hash": {
+          "current_hash": "e1d5dec8",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "fc4bea64",
+              "migrated_to": "e1d5dec8"
+            }
+          ]
+        },
+        "BelleSkin Earrings1 texcoord_vb Hash": {
+          "current_hash": "f3d824bf",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "dde5eb66",
+              "migrated_to": "f3d824bf"
             }
           ]
         }
@@ -3986,7 +4136,7 @@
       "name": "Piper",
       "components": {
         "Piper Hair Texcoord Hash": {
-          "current_hash": "1c6d41af",
+          "current_hash": "fd1b9c29",
           "history": [
             {
               "version": "1.1",
@@ -6781,6 +6931,266 @@
           ]
         }
       }
+    },
+    "Remielle": {
+      "name": "Remielle",
+      "components": {
+        "Remielle Body IB Hash": {
+          "current_hash": "28e05a59",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "785b21f5",
+              "migrated_to": "28e05a59"
+            }
+          ]
+        },
+        "Remielle Body VB Hash": {
+          "current_hash": "97664f2f",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "9e8a27ae",
+              "migrated_to": "da54a57a"
+            },
+            {
+              "version": "Previous",
+              "hash": "679a1bd8",
+              "migrated_to": "d16f6790"
+            },
+            {
+              "version": "Previous",
+              "hash": "9e33a8b6",
+              "migrated_to": "b943ec9e"
+            },
+            {
+              "version": "Previous",
+              "hash": "7a92a10a",
+              "migrated_to": "97664f2f"
+            }
+          ]
+        }
+      }
+    },
+    "RemielleMoonlightWhispers": {
+      "name": "RemielleMoonlightWhispers",
+      "components": {
+        "RemielleMoonlightWhispers Body IB Hash": {
+          "current_hash": "92cb56c9",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "f57f3e40",
+              "migrated_to": "92cb56c9"
+            }
+          ]
+        },
+        "RemielleMoonlightWhispers Body VB Hash": {
+          "current_hash": "6a0d36f2",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "7f6fe876",
+              "migrated_to": "93b69961"
+            },
+            {
+              "version": "Previous",
+              "hash": "554d46cf",
+              "migrated_to": "0929171b"
+            },
+            {
+              "version": "Previous",
+              "hash": "5dcc6ee1",
+              "migrated_to": "c24cc6a1"
+            },
+            {
+              "version": "Previous",
+              "hash": "22ec622c",
+              "migrated_to": "6a0d36f2"
+            }
+          ]
+        },
+        "RemielleMoonlightWhispers Leg IB Hash": {
+          "current_hash": "24a512cb",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "09a51ed3",
+              "migrated_to": "24a512cb"
+            }
+          ]
+        },
+        "RemielleMoonlightWhispers Leg VB Hash": {
+          "current_hash": "ea50e1d1",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "ff05e5f9",
+              "migrated_to": "3841a909"
+            },
+            {
+              "version": "Previous",
+              "hash": "fa9635bc",
+              "migrated_to": "11fbd4a3"
+            },
+            {
+              "version": "Previous",
+              "hash": "7c0db158",
+              "migrated_to": "14ab0adc"
+            },
+            {
+              "version": "Previous",
+              "hash": "96dc0a8e",
+              "migrated_to": "ea50e1d1"
+            }
+          ]
+        }
+      }
+    },
+    "RemielleSeashadePasSeul": {
+      "name": "RemielleSeashadePasSeul",
+      "components": {
+        "RemielleSeashadePasSeul Body IB Hash": {
+          "current_hash": "2cd6516a",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "241deac5",
+              "migrated_to": "2cd6516a"
+            }
+          ]
+        },
+        "RemielleSeashadePasSeul Body VB Hash": {
+          "current_hash": "df41c403",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "9bca83d8",
+              "migrated_to": "5ec5e567"
+            },
+            {
+              "version": "Previous",
+              "hash": "13c77c3a",
+              "migrated_to": "22d04ad5"
+            },
+            {
+              "version": "Previous",
+              "hash": "c55c57ce",
+              "migrated_to": "d637a74d"
+            },
+            {
+              "version": "Previous",
+              "hash": "48288582",
+              "migrated_to": "df41c403"
+            }
+          ]
+        }
+      }
+    },
+    "Sigrid": {
+      "name": "Sigrid",
+      "components": {
+        "Sigrid Body IB Hash": {
+          "current_hash": "38daef11",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "a23aa8a3",
+              "migrated_to": "38daef11"
+            }
+          ]
+        },
+        "Sigrid Body VB Hash": {
+          "current_hash": "d0bf0e87",
+          "history": [
+            {
+              "version": "Previous",
+              "hash": "8c0622d7",
+              "migrated_to": "018ea72c"
+            },
+            {
+              "version": "Previous",
+              "hash": "08c15b45",
+              "migrated_to": "e2a28287"
+            },
+            {
+              "version": "Previous",
+              "hash": "f6474154",
+              "migrated_to": "08ddaed3"
+            },
+            {
+              "version": "Previous",
+              "hash": "01b35c45",
+              "migrated_to": "d0bf0e87"
+            }
+          ]
+        }
+      }
+    },
+    "RemielleMoonlight": {
+      "name": "RemielleMoonlight",
+      "components": {
+        "Body Diffuse (3.2)": {
+          "current_hash": "bb0f08b9",
+          "history": [
+            {
+              "version": "3.1",
+              "hash": "0e408177",
+              "migrated_to": "bb0f08b9"
+            }
+          ]
+        },
+        "Body LightMap (3.2)": {
+          "current_hash": "0e9d14dc",
+          "history": [
+            {
+              "version": "3.1",
+              "hash": "6102ae18",
+              "migrated_to": "0e9d14dc"
+            }
+          ]
+        },
+        "Body MaterialMap (3.2)": {
+          "current_hash": "8240c688",
+          "history": [
+            {
+              "version": "3.1",
+              "hash": "cccb8109",
+              "migrated_to": "8240c688"
+            }
+          ]
+        },
+        "Legs Diffuse (3.2)": {
+          "current_hash": "017c13e4",
+          "history": [
+            {
+              "version": "3.1",
+              "hash": "877b0ce6",
+              "migrated_to": "017c13e4"
+            }
+          ]
+        },
+        "Legs LightMap (3.2)": {
+          "current_hash": "0a902460",
+          "history": [
+            {
+              "version": "3.1",
+              "hash": "baeb2662",
+              "migrated_to": "0a902460"
+            }
+          ]
+        },
+        "Legs MaterialMap (3.2)": {
+          "current_hash": "fb096287",
+          "history": [
+            {
+              "version": "3.1",
+              "hash": "3b0c9e0a",
+              "migrated_to": "fb096287"
+            }
+          ]
+        }
+      }
     }
   },
   "hash_to_lineage": {
@@ -6789,4200 +7199,4522 @@
       "component": "Anby Hair Texcoord Hash",
       "latest_hash": "496a781d",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "cc114f4f": {
       "character": "Anby",
       "component": "Anby HeadA Diffuse 1024p Hash",
       "latest_hash": "692c6d2b",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "2a29cb9b": {
       "character": "Anby",
       "component": "Anby HeadA Diffuse 2048p Hash",
       "latest_hash": "05d7b504",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "2a23f612": {
       "character": "Anby",
       "component": "Anby HeadA Diffuse 2048p Hash",
       "latest_hash": "05d7b504",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "b54f2a3d": {
       "character": "Anby",
       "component": "Anby HairA LightMap 2048p Hash",
       "latest_hash": "057f3c55",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "9ceea795": {
       "character": "Anby",
       "component": "Anby HairA LightMap 1024p Hash",
       "latest_hash": "057f3c55",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "20890a00": {
       "character": "Anby",
       "component": "Anby HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "3101f0da": {
       "character": "Anby",
       "component": "Anby HairA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "b37c3b4e": {
       "character": "Anby",
       "component": "Anby BodyA Diffuse 2048p Hash",
       "latest_hash": "215ff74d",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "8bd7966f": {
       "character": "Anby",
       "component": "Anby BodyA Diffuse 1024p Hash",
       "latest_hash": "8df45cb8",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "7c24acc9": {
       "character": "Anby",
       "component": "Anby BodyA LightMap 2048p Hash",
       "latest_hash": "59b123c2",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "9cddbf1e": {
       "character": "Anby",
       "component": "Anby BodyA LightMap 1024p Hash",
       "latest_hash": "59b123c2",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "19226ead": {
       "character": "Anby",
       "component": "Anby BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "6346d69d": {
       "character": "Anby",
       "component": "Anby BodyA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "ba016a6e": {
       "character": "Anby",
       "component": "Anby Head Texcoord Hash",
       "latest_hash": "f818271a",
       "version_from": "1.7",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "ee06579e": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton HairA LightMap 2048p Hash",
       "latest_hash": "41601dfa",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "21ee9a3f": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton HairA LightMap 1024p Hash",
       "latest_hash": "41601dfa",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "24caeb1f": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton HairA MaterialMap 2048p Hash",
       "latest_hash": "d47c5823",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "6fc654e1": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton HairA MaterialMap 1024p Hash",
       "latest_hash": "d47c5823",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "b216f758": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "77ae203f": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton HairA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "17cf1b74": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton BodyA LightMap 2048p Hash",
       "latest_hash": "ed6f4199",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "8e5ba7d0": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton BodyA LightMap 1024p Hash",
       "latest_hash": "ed6f4199",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "0238b0ff": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton BodyA MaterialMap 2048p Hash",
       "latest_hash": "986c9716",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "b7ce5f0b": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton BodyA MaterialMap 1024p Hash",
       "latest_hash": "986c9716",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "1b4ad5b7": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "5b2ab0e0": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton BodyA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "886a664a": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton JacketA LightMap 2048p Hash",
       "latest_hash": "ef7880e3",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "c42628a5": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton JacketA LightMap 1024p Hash",
       "latest_hash": "ef7880e3",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "d7517d0e": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton JacketA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "ae3d5fb8": {
       "character": "Anton",
       "component": "1.0\u21922.5: Anton JacketA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "3c6bd181": {
       "character": "AriaDiscordantNote",
       "component": "AriaDiscordantNote BodyA Diffuse 1024p Hash",
       "latest_hash": "303c63bc",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "a55f187e": {
       "character": "AriaDiscordantNote",
       "component": "AriaDiscordantNote BodyA Diffuse 2048p Hash",
-      "latest_hash": "677f73d9",
+      "latest_hash": "a55f187e",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "d652aa31": {
       "character": "AstraChandelier",
       "component": "AstraChandelier Weapon Diffuse [Legacy]",
       "latest_hash": "b5a20274",
       "version_from": "2.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "91c63955": {
       "character": "AstraChandelier",
       "component": "AstraChandelier Weapon LightMap [Legacy]",
       "latest_hash": "57c44e60",
       "version_from": "2.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "98e011bc": {
       "character": "AstraChandelier",
       "component": "AstraChandelier Weapon MaterialMap [Legacy]",
       "latest_hash": "fdb82c44",
       "version_from": "2.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "43a4d256": {
       "character": "AstraYaoChandelier",
       "component": "AstraChandelier BodyA MaterialMap 2048p Hash",
       "latest_hash": "fa2f509f",
       "version_from": "1.6",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "6989dc5a": {
       "character": "AstraYaoChandelier",
       "component": "AstraChandelier BodyA MaterialMap 1024p Hash",
-      "latest_hash": "6da1b76a",
+      "latest_hash": "03df0be9",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "6da1b76a": {
       "character": "AstraYaoChandelier",
       "component": "AstraChandelier BodyA MaterialMap 1024p Hash",
       "latest_hash": "03df0be9",
       "version_from": "1.6",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "83ede428": {
       "character": "AstraYaoChandelier",
       "component": "AstraChandelier BodyA LightMap 1024p Hash",
       "latest_hash": "cf8ecb3b",
       "version_from": "1.6",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "7ce9f1db": {
       "character": "AstraYaoChandelier",
       "component": "AstraChandelier BodyA LightMap Hash [Legacy]",
       "latest_hash": "515f9beb",
       "version_from": "1.5",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "56abc3a3": {
       "character": "AstraYaoChandelier",
       "component": "AstraChandelier BodyA MaterialMap Hash [Legacy]",
-      "latest_hash": "43a4d256",
+      "latest_hash": "fa2f509f",
       "version_from": "1.5",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "f8b92870": {
       "character": "AstraYao",
       "component": "AstraYao Hair Texcoord Hash",
       "latest_hash": "8ba0b335",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "3cd13d03": {
       "character": "AstraYao",
       "component": "AstraYao Body Blend Hash",
       "latest_hash": "9d35c352",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "da86a32e": {
       "character": "AstraYao",
       "component": "AstraYao Legs Texcoord Hash",
       "latest_hash": "1433ee78",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "77670042": {
       "character": "AstraYao",
       "component": "AstraYao Face Diffuse 1024p Hash",
       "latest_hash": "3283b8be",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "3a8d0dfc": {
       "character": "AstraYao",
       "component": "AstraYao Face Diffuse 2048p Hash",
       "latest_hash": "c41341b2",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "da673df0": {
       "character": "AstraYao",
       "component": "1.5A -> 1.5B: AstraYao HairA, LegsA Diffuse 2048p Hash",
-      "latest_hash": "2daa2443",
+      "latest_hash": "e634238a",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "2daa2443": {
       "character": "AstraYao",
       "component": "AstraYao HairA, LegsA Diffuse 2048p Hash",
       "latest_hash": "e634238a",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "34aad3b4": {
       "character": "AstraYao",
       "component": "1.5A -> 1.5B: AstraYao HairA, LegsA LightMap 2048p Hash",
-      "latest_hash": "b085765e",
+      "latest_hash": "34f0706c",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "b085765e": {
       "character": "AstraYao",
       "component": "AstraYao HairA, LegsA LightMap 2048p Hash",
       "latest_hash": "34f0706c",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "b53b2e12": {
       "character": "AstraYao",
       "component": "AstraYao HairA, LegsA MaterialMap 2048p Hash",
       "latest_hash": "883a578f",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "7a507e4a": {
       "character": "AstraYao",
       "component": "1.5A -> 1.5B: AstraYao HairA, LegsA Diffuse 1024p Hash",
-      "latest_hash": "4b1c1b47",
+      "latest_hash": "56c71ea2",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "4b1c1b47": {
       "character": "AstraYao",
       "component": "AstraYao HairA, LegsA Diffuse 1024p Hash",
       "latest_hash": "56c71ea2",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "e4a4f975": {
       "character": "AstraYao",
       "component": "1.5A -> 1.5B: AstraYao HairA, LegsA LightMap 1024p Hash",
-      "latest_hash": "c47a524a",
+      "latest_hash": "fd3ca2a6",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "c47a524a": {
       "character": "AstraYao",
       "component": "AstraYao HairA, LegsA LightMap 1024p Hash",
       "latest_hash": "fd3ca2a6",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "0be99d44": {
       "character": "AstraYao",
       "component": "AstraYao HairA, LegsA MaterialMap 1024p Hash",
       "latest_hash": "759c15e0",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "bea4a483": {
-      "character": "BelleSummer",
+      "character": "Belle",
       "component": "Belle Hair IB Hash",
       "latest_hash": "3acf9aea",
       "version_from": "2.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "1817f3ca": {
       "character": "Belle",
       "component": "Belle Body IB Hash",
       "latest_hash": "c2b4ce3a",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "d7ca821f": {
       "character": "Belle",
       "component": "Belle Body Blend Hash",
-      "latest_hash": "c92a17d8",
+      "latest_hash": "3ee01622",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "caf95576": {
       "character": "Belle",
       "component": "Belle Body Texcoord Hash",
-      "latest_hash": "801edbf4",
+      "latest_hash": "40a897ab",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "f1ee2105": {
       "character": "Belle",
       "component": "Belle HairA LightMap 2048p Hash",
       "latest_hash": "7d562f53",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "24c47ca5": {
       "character": "Belle",
       "component": "Belle HairA MaterialMap 2048p Hash",
       "latest_hash": "34bdb036",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "4b6ef993": {
       "character": "Belle",
       "component": "Belle HairA MaterialMap 1024p Hash",
       "latest_hash": "7542ef4b",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "89b147ff": {
       "character": "Belle",
       "component": "Belle HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "d2960560": {
       "character": "Belle",
       "component": "Belle BodyA Diffuse 2048p Hash",
       "latest_hash": "24639b77",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "4454fb58": {
       "character": "Belle",
       "component": "Belle BodyA Diffuse 1024p Hash",
       "latest_hash": "b9c7f71b",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "bf286c84": {
       "character": "Belle",
       "component": "Belle BodyA LightMap 2048p Hash",
       "latest_hash": "7947679c",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "2ed82c57": {
       "character": "Belle",
       "component": "Belle BodyA LightMap 1024p Hash",
       "latest_hash": "a4d3687d",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "f04f7ab9": {
       "character": "Belle",
       "component": "Belle BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "1de8fc08": {
       "character": "BelleTemple",
       "component": "Belle Face texcoord_vb Hash",
       "latest_hash": "d3000b22",
       "version_from": "2.8",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "36138f65": {
       "character": "Belle",
       "component": "Belle Face blend_vb Hash",
       "latest_hash": "6ade3fdc",
       "version_from": "1.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "639ad374": {
       "character": "BelleBrillianceOfStars",
       "component": "BelleBrillianceOfStars BodyA Diffuse 1024p Hash",
       "latest_hash": "d9dc65da",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "62ed56cc": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Neck IB Hash",
       "latest_hash": "d0627e1f",
       "version_from": "2.8",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "39ac6700": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Hair Blend Hash",
       "latest_hash": "8f7ae834",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "0c9a075b": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Face blend_vb Hash",
       "latest_hash": "359e4502",
       "version_from": "2.5",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "ccc76aea": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Face texcoord_vb Hash",
       "latest_hash": "bcfc3326",
       "version_from": "2.8",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "f3dedb50": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Body Blend Hash",
       "latest_hash": "4d74d5e9",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "f53b2eba": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Leg Blend Hash",
       "latest_hash": "922a7db6",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "01b0c8b6": {
       "character": "BelleTemple",
       "component": "Updating BelleDelicateSunlight Body blend_vb to f3dedb50",
-      "latest_hash": "f3dedb50",
+      "latest_hash": "4d74d5e9",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "862dc27a": {
       "character": "BelleTemple",
       "component": "Updating BelleDelicateSunlight Body texcoord_vb to d761e076",
       "latest_hash": "d761e076",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "0b3c5e7c": {
       "character": "BelleTemple",
       "component": "Updating BelleDelicateSunlight Body position_vb to 8a4e97cd",
       "latest_hash": "8a4e97cd",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "02c9dc4b": {
       "character": "BelleTemple",
       "component": "Updating BelleDelicateSunlight Body draw_vb to 19e5f486",
       "latest_hash": "19e5f486",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "860e1558": {
       "character": "BelleTemple",
       "component": "Updating BelleDelicateSunlight Body IB to d509bdd4",
       "latest_hash": "d509bdd4",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "20d3a340": {
       "character": "BelleDelicateSunlight",
       "component": "Updating BelleDelicateSunlight Neck IB to 62ed56cc",
-      "latest_hash": "62ed56cc",
+      "latest_hash": "20d3a340",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "2f828e6a": {
       "character": "BelleDelicateSunlight",
       "component": "Updating BelleDelicateSunlight Neck draw_vb to 4c215c73",
-      "latest_hash": "4c215c73",
+      "latest_hash": "2f828e6a",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "cdd7fc8a": {
       "character": "BelleDelicateSunlight",
       "component": "Updating BelleDelicateSunlight Neck texcoord_vb to dd2b89aa",
-      "latest_hash": "dd2b89aa",
+      "latest_hash": "cdd7fc8a",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "db7add33": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Headwear Blend Hash",
       "latest_hash": "f18dd23f",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "cac9fd5d": {
       "character": "BelleTemple",
       "component": "BelleSkin BodyA Diffuse 2048p Hash",
       "latest_hash": "da2bfe2f",
       "version_from": "2.0",
-      "version_to": "2.1"
+      "version_to": "3.2"
     },
     "59218fac": {
       "character": "BelleTemple",
       "component": "BelleSkin BodyA Diffuse 1024p Hash",
       "latest_hash": "fdf0b49e",
       "version_from": "2.0",
-      "version_to": "2.1"
+      "version_to": "3.2"
     },
     "0139f7e8": {
       "character": "BelleSummerSkies",
       "component": "BelleSummer Tshirt Blend",
       "latest_hash": "0a00d846",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "43ed3c22": {
       "character": "BelleSummerSkies",
       "component": "BelleSummer Body IB Hash [Legacy]",
       "latest_hash": "619c5c94",
       "version_from": "2.1",
-      "version_to": "2.2"
+      "version_to": "3.2"
     },
     "881514bf": {
       "character": "BelleSummerSkies",
       "component": "BelleSummer Tshirt Texcoord",
       "latest_hash": "325b4a1c",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "e0a86379": {
       "character": "BelleSummerSkies",
       "component": "BelleSummer LightMap 2048p Hash [Legacy]",
       "latest_hash": "60250d24",
       "version_from": "2.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "ea055cac": {
       "character": "BelleSummerSkies",
       "component": "BelleSummer Hair IB Hash [Legacy]",
       "latest_hash": "a7683988",
       "version_from": "2.1",
-      "version_to": "2.2"
+      "version_to": "3.2"
     },
     "65481194": {
       "character": "BelleSummerSkies",
       "component": "Belle blend_vb Hash [Legacy]",
-      "latest_hash": "0139f7e8",
+      "latest_hash": "0a00d846",
       "version_from": "2.1",
-      "version_to": "2.2"
+      "version_to": "3.2"
     },
     "6af00597": {
       "character": "BelleSummerSkies",
       "component": "BelleSummer Body Blend",
       "latest_hash": "4f3ddd5c",
       "version_from": "2.1",
-      "version_to": "2.2"
+      "version_to": "3.2"
     },
     "a189eccd": {
       "character": "BelleSummerSkies",
       "component": "Belle LightMap 1024p Hash [Legacy]",
       "latest_hash": "5978a2ca",
       "version_from": "2.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "4c215c73": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Neck draw_vb Hash",
       "latest_hash": "3f594476",
       "version_from": "2.8",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "be75a4be": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Neck position_vb Hash",
       "latest_hash": "e2ee9309",
       "version_from": "2.8",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "dd2b89aa": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Neck texcoord_vb Hash",
       "latest_hash": "2f7f6398",
       "version_from": "2.8",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "3bd79a0b": {
       "character": "BelleTemple",
       "component": "BelleDelicateSunlight Neck blend_vb Hash",
       "latest_hash": "0a11b1d7",
       "version_from": "2.8",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "f425bd04": {
       "character": "WiseTemple",
       "component": "Belle Body Texcoord Hash [Legacy] 2.0",
       "latest_hash": "91fbd2fa",
       "version_from": "2.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "84529dab": {
       "character": "WiseTemple",
       "component": "Belle BodyA Diffuse 2048p Hash [Legacy] Old",
-      "latest_hash": "f2fb7a37",
+      "latest_hash": "da2bfe2f",
       "version_from": "1.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "ef76b675": {
       "character": "WiseTemple",
       "component": "Belle BodyA Diffuse 1024p Hash [Legacy] Old",
-      "latest_hash": "3d7a53b0",
+      "latest_hash": "0a2e0f42",
       "version_from": "1.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "ebac056e": {
       "character": "WiseTemple",
       "component": "Alice HairA, LegsA, BodyA, BackpackA NormalMap Hash",
-      "latest_hash": "798adba3",
+      "latest_hash": "ebac056e",
       "version_from": "2.8",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "cc195dc5": {
       "character": "Ben",
       "component": "Ben FaceA LightMap Hash (OLD)",
       "latest_hash": "2fa5ffa7",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "0bbceea0": {
       "character": "Ben",
       "component": "Ben FaceA MaterialMap Hash (OLD)",
       "latest_hash": "12e5120e",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "a2f79d33": {
       "character": "Ben",
       "component": "Ben Body Blend Hash (OLD)",
       "latest_hash": "21dd67a7",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "cb84ed5e": {
       "character": "Ben",
       "component": "Ben BodyA LightMap Hash (OLD)",
       "latest_hash": "d27a8f6b",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "3f4f6bc0": {
       "character": "Ben",
       "component": "Ben BodyA MaterialMap Hash (OLD)",
       "latest_hash": "2edd6f62",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "8d83daba": {
       "character": "Ben",
       "component": "Ben FaceA Diffuse 1024p Hash (LEGACY)",
       "latest_hash": "00002f2c",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "1439d2b9": {
       "character": "Ben",
       "component": "Ben FaceA LightMap 1024p Hash (LEGACY)",
       "latest_hash": "2fa5ffa7",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "d665246d": {
       "character": "Ben",
       "component": "Ben FaceA MaterialMap 1024p Hash (LEGACY)",
       "latest_hash": "12e5120e",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "894ea737": {
       "character": "Ben",
       "component": "Ben FaceA NormalMap 2048p Hash (LEGACY)",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "ba809960": {
       "character": "Ben",
       "component": "Ben FaceA NormalMap 1024p Hash (LEGACY)",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "d8dc4645": {
       "character": "Ben",
       "component": "Ben BodyA Diffuse 1024p Hash (LEGACY)",
       "latest_hash": "0313ed95",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "6a80c2d8": {
       "character": "Ben",
       "component": "Ben BodyA LightMap 1024p Hash (LEGACY)",
       "latest_hash": "d27a8f6b",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "decc28c5": {
       "character": "Ben",
       "component": "Ben BodyA MaterialMap 1024p Hash (LEGACY)",
       "latest_hash": "2edd6f62",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "1b79fa5c": {
       "character": "Ben",
       "component": "Ben BodyA NormalMap 2048p Hash (LEGACY)",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "f6ecc618": {
       "character": "Ben",
       "component": "Ben BodyA NormalMap 1024p Hash (LEGACY)",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "e5f2fc35": {
       "character": "Billy",
       "component": "Billy HeadA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "9f02ef2b": {
       "character": "Billy",
       "component": "Billy HeadA LightMap 2048p Hash",
       "latest_hash": "cf4769ce",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "d166c3e5": {
       "character": "Billy",
       "component": "Billy HeadA MaterialMap 2048p Hash",
       "latest_hash": "3a7d88a1",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "0475db07": {
       "character": "Billy",
       "component": "Billy HairA Diffuse 2048p Hash",
       "latest_hash": "ff939fb7",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "4817b1bc": {
       "character": "Billy",
       "component": "Billy HairA LightMap 2048p Hash",
       "latest_hash": "b6e1da4b",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "f6749665": {
       "character": "Billy",
       "component": "Billy HairA LightMap 1024p Hash",
       "latest_hash": "2edbc842",
       "version_from": "1.7",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "47bbe297": {
       "character": "Billy",
       "component": "Billy HairA NormalMap 2048p Hash",
       "latest_hash": "798adba3",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "789b054e": {
       "character": "Billy",
       "component": "Billy BodyA LightMap 2048p Hash",
       "latest_hash": "6305a7f4",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "56b5953e": {
       "character": "Billy",
       "component": "Billy BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "c9c87bb1": {
       "character": "Burnice",
       "component": "Burnice HeadA Diffuse 1024p Hash",
       "latest_hash": "68f0fb19",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "e338bb82": {
       "character": "Burnice",
       "component": "Burnice HeadA Diffuse 2048p Hash",
       "latest_hash": "c4b6bb10",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "438cf629": {
       "character": "Burnice",
       "component": "Burnice HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.2",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "0f2c69e2": {
       "character": "Burnice",
       "component": "Burnice BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.2",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "af291513": {
       "character": "Caesar",
       "component": "Caesar Hair Texcoord Hash",
       "latest_hash": "72537fa3",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "3b2a70a5": {
       "character": "Caesar",
       "component": "Caesar Body Texcoord Hash",
       "latest_hash": "0ca81129",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "bf19954f": {
       "character": "Caesar",
       "component": "Caesar HairA LightMap 2048p Hash",
       "latest_hash": "d5d3585b",
       "version_from": "1.2",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "10af3807": {
       "character": "Caesar",
       "component": "Caesar HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.2",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "c1f1e12f": {
       "character": "Caesar",
       "component": "Caesar BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.3",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "f1c6c309": {
       "character": "Caesar",
       "component": "1.4B -> 2.5: Caesar BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "36f39b49": {
       "character": "Caesar",
       "component": "Caesar BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "8cdf95d0": {
       "character": "Caesar",
       "component": "Caesar BodyA NormalMap 1024p Hash",
       "latest_hash": "a8abff9d",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "f5ecd616": {
       "character": "Cissia",
       "component": "Cissia BodyC Diffuse 1024p Hash",
       "latest_hash": "6d861173",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "f8739729": {
       "character": "Cissia",
       "component": "Cissia BodyC Diffuse 2048p Hash",
-      "latest_hash": "ec85e98d",
+      "latest_hash": "f8739729",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "8d999156": {
       "character": "Corin",
       "component": "Corin Hair Blend Hash (Old)",
       "latest_hash": "5fa50113",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "2cf242f4": {
       "character": "Corin",
       "component": "Corin Hair Texcoord Hash (Old)",
       "latest_hash": "abc95b03",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "929aca42": {
       "character": "Corin",
       "component": "Corin HairA LightMap 2048p Hash (Old)",
       "latest_hash": "74d66671",
       "version_from": "1.0",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "4a68ef99": {
       "character": "Corin",
       "component": "Corin HairA NormalMap 2048p Hash (Old)",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "75e05cdc": {
       "character": "Corin",
       "component": "Corin BodyA, BearA LightMap 2048p Hash (Old)",
       "latest_hash": "e1c1718f",
       "version_from": "1.0",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "50a0faea": {
       "character": "Corin",
       "component": "Corin BodyA, BearA MaterialMap 2048p Hash (Old)",
       "latest_hash": "e58d9767",
       "version_from": "1.0",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "289f4c58": {
       "character": "Corin",
       "component": "Corin BodyA, BearA NormalMap 2048p Hash (Old)",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "6ff0e4ad": {
       "character": "Dialyn",
       "component": "1 Dialyn Body blend",
       "latest_hash": "3d7e53cf",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "9c7fac5a": {
       "character": "Ellen",
       "component": "Ellen Head IB Hash",
       "latest_hash": "f6ef8f3a",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "7f89a2b3": {
       "character": "Ellen",
       "component": "Ellen Hair IB Hash",
       "latest_hash": "d44a8015",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "a72cfb34": {
       "character": "Ellen",
       "component": "Ellen Body IB Hash",
       "latest_hash": "e30fae03",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "4f4a54f0": {
       "character": "Ellen",
       "component": "Ellen Body Blend Hash",
-      "latest_hash": "89589539",
+      "latest_hash": "ed9cb852",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "83dfd744": {
       "character": "Ellen",
       "component": "Ellen Head Texcoord Hash",
       "latest_hash": "8744badf",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "d59a5fec": {
       "character": "Ellen",
       "component": "Ellen Hair Draw Hash",
       "latest_hash": "77ac5f85",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "a5448398": {
       "character": "Ellen",
       "component": "Ellen Hair Position Hash",
       "latest_hash": "ba0fe600",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "9cddb082": {
       "character": "Ellen",
       "component": "Ellen Hair Texcoord Hash",
-      "latest_hash": "5c33833e",
+      "latest_hash": "a27a8e1a",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "5c33833e": {
       "character": "Ellen",
       "component": "Ellen Hair Texcoord Hash",
       "latest_hash": "a27a8e1a",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "2f9df031": {
       "character": "Ellen",
       "component": "Ellen Hair Blend Hash",
-      "latest_hash": "52188576",
+      "latest_hash": "e91c93e0",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "52188576": {
       "character": "Ellen",
       "component": "Ellen Hair Blend Remap",
       "latest_hash": "e91c93e0",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "7bd3f8c2": {
       "character": "Ellen",
       "component": "Ellen Body Draw Hash",
       "latest_hash": "cdce1fc2",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "89d5fba4": {
       "character": "Ellen",
       "component": "Ellen Body Position Hash",
       "latest_hash": "b78f3616",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "26966844": {
       "character": "Ellen",
       "component": "Ellen Body Texcoord Hash",
       "latest_hash": "5ac6d5ee",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "89589539": {
       "character": "Ellen",
       "component": "Ellen Body Blend Hash",
       "latest_hash": "ed9cb852",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "09d55bce": {
       "character": "Ellen",
       "component": "Ellen HeadA Diffuse 2048p Hash",
       "latest_hash": "465a66eb",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "e6b27e31": {
       "character": "Ellen",
       "component": "Ellen HeadA Diffuse 1024p Hash",
       "latest_hash": "4808d050",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "aaadca31": {
       "character": "Ellen",
       "component": "Ellen HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "cf5f5fed": {
       "character": "Ellen",
       "component": "-> 1.1: Ellen BodyA Diffuse 2048p Hash",
       "latest_hash": "163e2559",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "94c15986": {
       "character": "Ellen",
       "component": "-> 1.1: Ellen BodyA Diffuse 1024p Hash",
       "latest_hash": "22fa0cd6",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "798c3a51": {
       "character": "Ellen",
       "component": "Ellen BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "0de025b4": {
       "character": "EllenCampus",
       "component": "EllenSkin HairA MaterialMap 2048p Hash",
       "latest_hash": "8740602f",
       "version_from": "1.7",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "0cf3cd79": {
       "character": "EllenCampus",
       "component": "EllenSkin HairA MaterialMap 1024p Hash",
       "latest_hash": "0ab940d8",
       "version_from": "1.5",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "d08f1a54": {
       "character": "EllenCampus",
       "component": "EllenSkin BodyA MaterialMap 2048p Hash",
       "latest_hash": "1d7b458d",
       "version_from": "1.7",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "a4b66af3": {
       "character": "EllenCampus",
       "component": "EllenSkin BodyA MaterialMap 1024p Hash",
       "latest_hash": "ae919d9f",
       "version_from": "1.5",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "abb51170": {
       "character": "EllenCampus",
       "component": "EllenSkin TailA MaterialMap 2048p Hash",
       "latest_hash": "51cc39d5",
       "version_from": "1.7",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "beb3f207": {
       "character": "EllenCampus",
       "component": "EllenSkin TailA MaterialMap 1024p Hash",
       "latest_hash": "cf37068c",
       "version_from": "1.5",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "50837a5c": {
       "character": "Grace",
       "component": "Grace Body Blend Hash",
       "latest_hash": "3b80154c",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "89d903ba": {
       "character": "Grace",
       "component": "Grace Hair Texcoord Hash",
-      "latest_hash": "d21f32ad",
+      "latest_hash": "89d903ba",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "d21f32ad": {
       "character": "Grace",
       "component": "Grace Hair Texcoord Hash",
       "latest_hash": "89d903ba",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "e5e04f6f": {
       "character": "Grace",
       "component": "Grace Body Draw Hash",
       "latest_hash": "f1cba806",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "26ffa186": {
       "character": "Grace",
       "component": "Grace Body Position Hash",
       "latest_hash": "8855c5cf",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "e536af35": {
       "character": "Grace",
       "component": "Grace Body Texcoord Hash",
       "latest_hash": "4bb45448",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "0f82a13e": {
       "character": "Grace",
       "component": "Grace Body IB Hash",
       "latest_hash": "8b240678",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "8eddd041": {
       "character": "Grace",
       "component": "Grace HairA LightMap 2048p Hash",
       "latest_hash": "a22d2c2c",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "3a38f6f9": {
       "character": "Grace",
       "component": "Grace HairA MaterialMap 2048p Hash",
       "latest_hash": "7bb81a4f",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "846fab9a": {
       "character": "Grace",
       "component": "Grace HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "993fe3e1": {
       "character": "Grace",
       "component": "Grace BodyA LightMap 2048p Hash",
       "latest_hash": "895fa458",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "1e794b69": {
       "character": "Grace",
       "component": "Grace BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "210b3ebf": {
       "character": "Grace",
       "component": "Grace BodyB Diffuse 2048p Hash",
       "latest_hash": "9c7057e8",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "21794bd6": {
       "character": "Grace",
       "component": "Grace BodyB Diffuse 1024p Hash",
       "latest_hash": "ac361185",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "06cb1413": {
       "character": "Grace",
       "component": "Grace BodyB NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "f51a89c1": {
       "character": "Harumasa",
       "component": "Harumasa Hair IB Hash",
       "latest_hash": "6324de38",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "fa851c10": {
       "character": "Harumasa",
       "component": "Harumasa Hair Draw Hash",
       "latest_hash": "9f75c05c",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "f5727f53": {
       "character": "Harumasa",
       "component": "Harumasa Hair Position Hash",
       "latest_hash": "eddb9012",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "52787e7d": {
       "character": "Harumasa",
       "component": "Harumasa Hair Blend Hash",
       "latest_hash": "2644c499",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "9879fba3": {
       "character": "Harumasa",
       "component": "Harumasa Hair Texcoord Hash",
       "latest_hash": "4f45a9c5",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "d4838b9d": {
       "character": "Harumasa",
       "component": "Harumasa HairA LightMap 2048p Hash",
       "latest_hash": "11041778",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "a1310b4f": {
       "character": "Harumasa",
       "component": "Harumasa HairA LightMap 1024p Hash",
       "latest_hash": "11041778",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "ba8e396b": {
       "character": "Harumasa",
       "component": "Harumasa LegsA MaterialMap 2048p Hash",
       "latest_hash": "72885950",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "bdbf66a1": {
       "character": "Harumasa",
       "component": "Harumasa LegsA MaterialMap 1024p Hash",
       "latest_hash": "72885950",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "78bea30d": {
       "character": "Harumasa",
       "component": "Harumasa Body IB Hash",
       "latest_hash": "79679a10",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "cafffd37": {
       "character": "Harumasa",
       "component": "Harumasa Body Draw Hash",
       "latest_hash": "1fb92e46",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "3fa41462": {
       "character": "Harumasa",
       "component": "Harumasa Body Position Hash",
       "latest_hash": "0899751e",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "c0b32d17": {
       "character": "Harumasa",
       "component": "Harumasa Body Blend Hash",
       "latest_hash": "347a0e9d",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "95ee1030": {
       "character": "Harumasa",
       "component": "Harumasa Body Texcoord Hash",
       "latest_hash": "e14fbc30",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "ba52ac92": {
       "character": "Harumasa",
       "component": "Harumasa BodyA Diffuse 2048p Hash",
       "latest_hash": "49f8aaf6",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "cd1e0187": {
       "character": "Harumasa",
       "component": "Harumasa BodyA MaterialMap 2048p Hash",
       "latest_hash": "6d105f7e",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "e0b0c6eb": {
       "character": "Harumasa",
       "component": "Harumasa BodyA Diffuse 1024p Hash",
       "latest_hash": "999ec526",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "2b0017d5": {
       "character": "Harumasa",
       "component": "Harumasa BodyA MaterialMap 1024p Hash",
       "latest_hash": "c90264db",
       "version_from": "1.4",
-      "version_to": "1.5"
+      "version_to": "3.2"
     },
     "c8ad344e": {
       "character": "JaneDoe",
       "component": "Jane Hair Texcoord Hash",
-      "latest_hash": "257a90d6",
+      "latest_hash": "fa617c9a",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "5721e4e7": {
       "character": "JaneDoe",
       "component": "Jane Hair Draw Hash",
-      "latest_hash": "2d06e785",
+      "latest_hash": "74bc0b7f",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "24323bf9": {
       "character": "JaneDoe",
       "component": "Jane Hair Position Hash",
-      "latest_hash": "e7a3b7dc",
+      "latest_hash": "33a09cfe",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "0a10c747": {
       "character": "JaneDoe",
       "component": "Jane Hair Blend Hash",
-      "latest_hash": "8721477f",
+      "latest_hash": "e42171df",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "257a90d6": {
       "character": "JaneDoe",
       "component": "Jane Hair Texcoord Hash",
-      "latest_hash": "acec29f8",
+      "latest_hash": "fa617c9a",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "7b16a708": {
       "character": "JaneDoe",
       "component": "Jane Hair IB Hash",
-      "latest_hash": "9268a5af",
+      "latest_hash": "3275b812",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "9268a5af": {
       "character": "JaneDoe",
       "component": "Jane Hair IB Hash",
       "latest_hash": "3275b812",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "8721477f": {
       "character": "JaneDoe",
       "component": "Jane Hair Blend Hash",
       "latest_hash": "e42171df",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "e7a3b7dc": {
       "character": "JaneDoe",
       "component": "Jane Hair Position Hash",
       "latest_hash": "33a09cfe",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "acec29f8": {
       "character": "JaneDoe",
       "component": "Jane Hair Texcoord Hash",
       "latest_hash": "fa617c9a",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "2d06e785": {
       "character": "JaneDoe",
       "component": "Jane Hair Draw Hash",
       "latest_hash": "74bc0b7f",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "d1aa4b85": {
       "character": "JaneDoe",
       "component": "Jane Body Draw Hash",
       "latest_hash": "0e1c6740",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "06f9bc49": {
       "character": "JaneDoe",
       "component": "Jane Body Position Hash",
       "latest_hash": "10050266",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "9727a184": {
       "character": "JaneDoe",
       "component": "Jane Body Blend Hash",
       "latest_hash": "e27f398e",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "8b85c03e": {
       "character": "JaneDoe",
       "component": "Jane Body Texcoord Hash",
       "latest_hash": "949549de",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "e2c0144e": {
       "character": "JaneDoe",
       "component": "Jane Body IB Hash",
       "latest_hash": "ba4255a5",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "689639a5": {
       "character": "JaneDoe",
       "component": "Jane HeadA Diffuse 1024p Hash",
       "latest_hash": "d823ac80",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "8974fb74": {
       "character": "JaneDoe",
       "component": "Jane HeadA Diffuse 2048p Hash",
       "latest_hash": "3b75aa2c",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "9f2f7c53": {
       "character": "JaneDoe",
       "component": "Jane Head Texcoord Hash",
       "latest_hash": "1fa404c1",
       "version_from": "2.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "1a9b182a": {
       "character": "Koleda",
       "component": "Koleda Hair Texcoord Hash",
       "latest_hash": "e35571a9",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "e3021a32": {
       "character": "Koleda",
       "component": "Koleda Body Texcoord Hash",
       "latest_hash": "38b31082",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "8042506d": {
       "character": "Koleda",
       "component": "Koleda HairA LightMap 2048p Hash",
       "latest_hash": "a451ca03",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "d1aac666": {
       "character": "Koleda",
       "component": "Koleda HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "78e0f9f5": {
       "character": "Koleda",
       "component": "Koleda BodyA LightMap 2048p Hash",
       "latest_hash": "7c1bce32",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "6f34885f": {
       "character": "Koleda",
       "component": "Koleda BodyA MaterialMap 2048p Hash",
       "latest_hash": "b60ace0c",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "e71d134f": {
       "character": "Koleda",
       "component": "Koleda BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "a5539a26": {
       "character": "Koleda",
       "component": "Koleda Head Texcoord Hash",
       "latest_hash": "f41b27e6",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "039f30cf": {
       "character": "Lighter",
       "component": "Lighter Face IB Hash",
       "latest_hash": "dcc7bb78",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "0baec6b7": {
       "character": "Lighter",
       "component": "Lighter Body Position Hash",
-      "latest_hash": "5e461440",
+      "latest_hash": "f6bbabb5",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "710bca71": {
       "character": "Lighter",
       "component": "Lighter Body Texcoord Hash",
-      "latest_hash": "25ad7289",
+      "latest_hash": "e1ae7f38",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "5e461440": {
       "character": "Lighter",
       "component": "Lighter Body Position Hash",
       "latest_hash": "f6bbabb5",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "25ad7289": {
       "character": "Lighter",
       "component": "Lighter Body Texcoord Hash",
       "latest_hash": "e1ae7f38",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "1cd2d442": {
       "character": "Lighter",
       "component": "Lighter HairA Diffuse 1024p Hash",
       "latest_hash": "0ee07935",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "8687f7b8": {
       "character": "Lighter",
       "component": "Lighter HairA MaterialMap 1024p Hash",
       "latest_hash": "99ad14f1",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "c5d60a1d": {
       "character": "Lighter",
       "component": "Lighter HairA Diffuse 2048p Hash",
-      "latest_hash": "4e088042",
+      "latest_hash": "c5d60a1d",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "d5ba9ea6": {
       "character": "Lighter",
       "component": "Lighter HairA MaterialMap 2048p Hash",
-      "latest_hash": "d331b850",
+      "latest_hash": "d5ba9ea6",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "af2e48a6": {
       "character": "Lighter",
       "component": "Lighter Arm Texcoord Hash",
       "latest_hash": "88aecee2",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "7bbe9c75": {
       "character": "Lighter",
       "component": "Lighter Face Position Hash",
       "latest_hash": "90653c42",
       "version_from": "1.6",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "5315f036": {
       "character": "Lucy",
       "component": "Lucy Hair Blend Hash",
       "latest_hash": "a37c7537",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "751e21a5": {
       "character": "Lucy",
       "component": "Lucy Hair Texcoord Hash",
       "latest_hash": "c8810832",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "198e99d7": {
       "character": "Lucy",
       "component": "Lucy Hair IB Hash",
       "latest_hash": "69ad9d08",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "5da9dafc": {
       "character": "Lucy",
       "component": "Lucy Body Position Hash",
       "latest_hash": "246b93e2",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "b94b02e8": {
       "character": "Lucy",
       "component": "Lucy Body Blend Hash",
       "latest_hash": "66948a0f",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "00f11ea6": {
       "character": "Lucy",
       "component": "Lucy Body Texcoord Hash",
       "latest_hash": "f60dbb9e",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "e0ad50ed": {
       "character": "Lucy",
       "component": "Lucy Body IB Hash",
       "latest_hash": "be5f4c7d",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "fca15ccb": {
       "character": "Lucy",
       "component": "Lucy Head IB Hash",
       "latest_hash": "df3e3965",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "483b418a": {
       "character": "Lucy",
       "component": "Lucy HeadA Diffuse 1024p Hash",
       "latest_hash": "2578d35b",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "2a6df536": {
       "character": "Lucy",
       "component": "Lucy HeadA Diffuse 1024p Hash",
       "latest_hash": "4e2d5baa",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "b50eb71c": {
       "character": "Lucy",
       "component": "Lucy HairA, SnoutA, BeltA Diffuse 1024p Hash",
       "latest_hash": "753baa45",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "d1241cfc": {
       "character": "Lucy",
       "component": "Lucy HairA, SnoutA, BeltA MaterialMap 1024p Hash",
       "latest_hash": "368f931c",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "aa513afa": {
       "character": "Lucy",
       "component": "Lucy HairA, SnoutA, BeltA Diffuse 2048p Hash",
       "latest_hash": "0fa60fe1",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "919b608c": {
       "character": "Lucy",
       "component": "Lucy HairA, SnoutA, BeltA MaterialMap 2048p Hash",
       "latest_hash": "068aba7f",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "edcb9661": {
       "character": "Lucy",
       "component": "Lucy HairA, SnoutA, BeltA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "9114c7c7": {
       "character": "Lucy",
       "component": "Lucy HairA, SnoutA, BeltA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "463b4f55": {
       "character": "Lucy",
       "component": "Lucy BodyA, RedClothA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "1711cafd": {
       "character": "Lucy",
       "component": "Lucy BodyA, RedClothA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "b3013a33": {
       "character": "Lucy",
       "component": "Lucy HelmetA MaterialMap 2048p Hash",
       "latest_hash": "0a99d9d5",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "4227db77": {
       "character": "Lucy",
       "component": "Lucy HelmetA MaterialMap 1024p Hash",
       "latest_hash": "0a99d9d5",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "ca5fd23a": {
       "character": "Lucy",
       "component": "Lucy HelmetA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "f4d44970": {
       "character": "Lucy",
       "component": "Lucy HelmetA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "6275f052": {
       "character": "Lucy",
       "component": "Lucy Head Texcoord Hash",
       "latest_hash": "1ca0ae1a",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "80efa5cb": {
       "character": "Lucy",
       "component": "Lucy Head Blend Hash",
       "latest_hash": "a2054778",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "9b4dfd86": {
       "character": "Lucy",
       "component": "Lucy HairWallpaper Position Hash",
       "latest_hash": "39cfd24c",
       "version_from": "1.3",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "395572dc": {
       "character": "Lycaon",
       "component": "Lycaon Hair Texcoord Hash",
       "latest_hash": "b092c043",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "25196b7a": {
       "character": "Lycaon",
       "component": "Lycaon Body IB Hash",
       "latest_hash": "6749b6e7",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "2a340ed5": {
       "character": "Lycaon",
       "component": "Lycaon Body Draw Hash",
       "latest_hash": "25418598",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "949e688a": {
       "character": "Lycaon",
       "component": "Lycaon Body Texcoord Hash",
       "latest_hash": "b950fda5",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "b68056b4": {
       "character": "Lycaon",
       "component": "Lycaon Body Position Hash",
       "latest_hash": "8c7775ae",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "a485180e": {
       "character": "Lycaon",
       "component": "Lycaon Body Blend Remap",
       "latest_hash": "f2d1a929",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "7074f97e": {
       "character": "Lycaon",
       "component": "Lycaon Head Draw Hash",
       "latest_hash": "44277f65",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "4a666a39": {
       "character": "Lycaon",
       "component": "Lycaon Head Position Hash",
       "latest_hash": "7e35ec22",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "c862a611": {
       "character": "Lycaon",
       "component": "Lycaon Head Blend Hash",
       "latest_hash": "e2d4c532",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "6902f441": {
       "character": "Lycaon",
       "component": "1.? -> 1.?: Lycaon Head Texcoord Hash",
-      "latest_hash": "b1edaf35",
+      "latest_hash": "3adaebb3",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "b1edaf35": {
       "character": "Lycaon",
       "component": "1.? -> 1.6: Lycaon Head Texcoord Hash",
       "latest_hash": "3adaebb3",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "7341e07b": {
       "character": "Lycaon",
       "component": "Lycaon Head IB Hash",
       "latest_hash": "6ffdfccb",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "4f098897": {
       "character": "Lycaon",
       "component": "Lycaon Head Diffuse 1024p Hash",
       "latest_hash": "2cc208a7",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "d14f3284": {
       "character": "Lycaon",
       "component": "Lycaon HeadA Diffuse 2048p Hash",
       "latest_hash": "7077ebb1",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "3d6eb388": {
       "character": "Lycaon",
       "component": "Lycaon HairA, MaskA LightMap 2048p Hash",
-      "latest_hash": "04d061fe",
+      "latest_hash": "f7daa6d9",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "04d061fe": {
       "character": "Lycaon",
       "component": "Lycaon HairA, MaskA LightMap 2048p Hash",
       "latest_hash": "f7daa6d9",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "4d4e8986": {
       "character": "Lycaon",
       "component": "Lycaon HairA, MaskA LightMap 1024p Hash",
-      "latest_hash": "4d878953",
+      "latest_hash": "ea10b0bb",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "4d878953": {
       "character": "Lycaon",
       "component": "Lycaon HairA, MaskA LightMap 1024p Hash",
       "latest_hash": "ea10b0bb",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "7169ec86": {
       "character": "Lycaon",
       "component": "Lycaon BodyA Diffuse 2048p Hash",
-      "latest_hash": "4cb6928e",
+      "latest_hash": "7169ec86",
       "version_from": "2.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "82ad0c28": {
       "character": "Lycaon",
       "component": "Lycaon BodyA Diffuse 1024p Hash",
       "latest_hash": "7a22ad61",
       "version_from": "2.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "565aa8be": {
       "character": "Lycaon",
       "component": "Lycaon Body LightMap 2048p Hash",
-      "latest_hash": "814db5bf",
+      "latest_hash": "fbf5a9b5",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "814db5bf": {
       "character": "Lycaon",
       "component": "Lycaon BodyA LightMap 2048p Hash",
       "latest_hash": "fbf5a9b5",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "7ea75154": {
       "character": "Lycaon",
       "component": "Lycaon Body LightMap 1024p Hash",
-      "latest_hash": "122c655e",
+      "latest_hash": "c5635a53",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "122c655e": {
       "character": "Lycaon",
       "component": "Lycaon BodyA LightMap 1024p Hash",
       "latest_hash": "c5635a53",
       "version_from": "1.4",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "072e6786": {
       "character": "Lycaon",
       "component": "Lycaon LegsA LightMap 2048p Hash",
       "latest_hash": "57b175c5",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "3dfdab95": {
       "character": "Lycaon",
       "component": "Lycaon LegsA LightMap 1024p Hash",
       "latest_hash": "9b0df25b",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "4a4ea6dc": {
       "character": "Lycaon",
       "component": "Lycaon LegsA MaterialMap 2048p Hash",
       "latest_hash": "4b18f890",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "288e7fbd": {
       "character": "Lycaon",
       "component": "Lycaon LegsA MaterialMap 1024p Hash",
       "latest_hash": "1de27b3a",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "88e357af": {
       "character": "MiyabiDignifiedBlossom",
       "component": "MiyabiDignifiedBlossom ClothesA Diffuse 1024p Hash",
       "latest_hash": "7d80f565",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "66724f5a": {
       "character": "MiyabiDignifiedBlossom",
       "component": "MiyabiDignifiedBlossom ClothesA Diffuse 2048p Hash",
-      "latest_hash": "4e6c90bd",
+      "latest_hash": "66724f5a",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "85aad660": {
       "character": "MiyabiDignifiedBlossom",
       "component": "MiyabiDignifiedBlossom ClothesA MaterialMap 1024p Hash",
       "latest_hash": "2fbabf2e",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "1e1485e7": {
       "character": "MiyabiDignifiedBlossom",
       "component": "MiyabiDignifiedBlossom ClothesA MaterialMap 2048p Hash",
-      "latest_hash": "30590865",
+      "latest_hash": "1e1485e7",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "f2f19cb2": {
       "character": "MiyabiDignifiedBlossom",
       "component": "MiyabiSkin Body Blend Hash",
       "latest_hash": "5121459b",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "fe06152c": {
       "character": "NangongYu",
       "component": "NangongYu BodyA Diffuse 1024p Hash",
       "latest_hash": "dc41fbbf",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "2d290490": {
       "character": "NangongYu",
       "component": "NangongYu BodyA Diffuse 2048p Hash",
-      "latest_hash": "11254966",
+      "latest_hash": "2d290490",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "d9370c84": {
       "character": "Nekomata",
       "component": "Nekomata HeadA Diffuse 1024p Hash",
       "latest_hash": "0834f635",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "fed3abbe": {
       "character": "Nekomata",
       "component": "Nekomata HeadA Diffuse 2048p Hash",
       "latest_hash": "ba411d22",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "2c317dda": {
       "character": "Nekomata",
       "component": "Nekomata Body Position Hash",
       "latest_hash": "eaad1408",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "b5a4c084": {
       "character": "Nekomata",
       "component": "Nekomata Body Texcoord Hash",
       "latest_hash": "f589a51f",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "d73bc96f": {
       "character": "Nekomata",
       "component": "Nekomata Body Blend Hash",
       "latest_hash": "d27d0e6b",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "6abb714e": {
       "character": "Nekomata",
       "component": "Nekomata Swords Position Hash",
       "latest_hash": "3c4015fd",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "70f4875e": {
       "character": "Nekomata",
       "component": "Nekomata Swords Texcoord Hash",
       "latest_hash": "2a4f8c9e",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "548c7f7d": {
       "character": "Nekomata",
       "component": "Nekomata HairA LightMap 2048p Hash",
       "latest_hash": "1c0193dc",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "0deeb9d2": {
       "character": "Nekomata",
       "component": "Nekomata HairA LightMap 1024p Hash",
       "latest_hash": "362c205e",
       "version_from": "1.7",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "4ca5efc6": {
       "character": "Nekomata",
       "component": "Nekomata HairA MaterialMap 2048p Hash",
       "latest_hash": "3f73186f",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "63687775": {
       "character": "Nekomata",
       "component": "Nekomata HairA MaterialMap 1024p Hash",
       "latest_hash": "378b282c",
       "version_from": "1.7",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "799eb07d": {
       "character": "Nekomata",
       "component": "Nekomata HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "d3f67c0d": {
       "character": "Nekomata",
       "component": "-> 1.1: Nekomata HairB, BodyA, SwordsA Diffuse 2048p Hash",
       "latest_hash": "207b8e63",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "37d3154d": {
       "character": "Nekomata",
       "component": "-> 1.1: Nekomata HairB, BodyA, SwordsA Diffuse 1024p Hash",
       "latest_hash": "60687646",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "fc53fc6f": {
       "character": "Nekomata",
       "component": "Nekomata HairB, BodyA, SwordsA LightMap 2048p Hash",
       "latest_hash": "25df29e7",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "f26828bd": {
       "character": "Nekomata",
       "component": "Nekomata HairB, BodyA, SwordsA MaterialMap 2048p Hash",
       "latest_hash": "b3286755",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "424da647": {
       "character": "Nekomata",
       "component": "Nekomata HairB, BodyA, SwordsA MaterialMap 1024p Hash",
       "latest_hash": "a5529690",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "ecaef71c": {
       "character": "Nekomata",
       "component": "Nekomata HairB, BodyA, SwordsA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "6847bbbd": {
       "character": "Nicole",
       "component": "Nicole Hair-\u5934\u53d1 IB Hash",
       "latest_hash": "7dcfe907",
       "version_from": "1.0",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "5a4c1ef3": {
       "character": "Nicole",
       "component": "Nicole Body-\u8eab\u4f53 IB Hash",
       "latest_hash": "e53364dd",
       "version_from": "1.0",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "7435fc0e": {
       "character": "NicoleCutie",
       "component": "1.0 - 2.8: Nicole Face-\u8138 IB Hash",
       "latest_hash": "93b02078",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "1dfd9e16": {
       "character": "Nicole",
       "component": "1.0-1.7: Nicole HairA LightMap 2048p Hash",
       "latest_hash": "8c9c25d5",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "bffb4a66": {
       "character": "Nicole",
       "component": "1.0-1.7: Nicole HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "8cf23419": {
       "character": "Nicole",
       "component": "1.0-1.7: Nicole BodyA, BangbooA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "f6344432": {
       "character": "Nicole",
       "component": "Nicole Hair-\u5934\u53d1 draw_vb Hash",
       "latest_hash": "d9b8d61a",
       "version_from": "2.4",
-      "version_to": "3.01"
+      "version_to": "3.2"
     },
     "199853eb": {
       "character": "Nicole",
       "component": "Nicole Hair-\u5934\u53d1 position_vb Hash",
       "latest_hash": "6f931ca7",
       "version_from": "2.4",
-      "version_to": "3.01"
+      "version_to": "3.2"
     },
     "06e4fd79": {
       "character": "Nicole",
       "component": "Nicole Hair-\u5934\u53d1 texcoord_vb Hash",
       "latest_hash": "e04f4893",
       "version_from": "2.4",
-      "version_to": "3.01"
+      "version_to": "3.2"
     },
     "347e4a48": {
       "character": "Nicole",
       "component": "Nicole Hair-\u5934\u53d1 blend_vb Hash",
       "latest_hash": "8171f5c9",
       "version_from": "2.4",
-      "version_to": "3.01"
+      "version_to": "3.2"
     },
     "322345a6": {
       "character": "Nicole",
       "component": "Nicole Hair Shadow Texcoord Hash",
       "latest_hash": "e6b9e50e",
       "version_from": "1.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "8cc1262b": {
       "character": "Nicole",
       "component": "Nicole Body-\u8eab\u4f53 draw_vb Hash",
       "latest_hash": "b19da99e",
       "version_from": "2.4",
-      "version_to": "3.01"
+      "version_to": "3.2"
     },
     "89df5a07": {
       "character": "Nicole",
       "component": "Nicole Body-\u8eab\u4f53 position_vb Hash",
       "latest_hash": "4af0a4cd",
       "version_from": "2.4",
-      "version_to": "3.01"
+      "version_to": "3.2"
     },
     "91c1b779": {
       "character": "Nicole",
       "component": "Nicole Body-\u8eab\u4f53 texcoord_vb Hash",
       "latest_hash": "ed4c47a9",
       "version_from": "2.4",
-      "version_to": "3.01"
+      "version_to": "3.2"
     },
     "7ecda89f": {
       "character": "Nicole",
       "component": "Nicole Body-\u8eab\u4f53 blend_vb Hash",
       "latest_hash": "b793c804",
       "version_from": "2.4",
-      "version_to": "3.01"
+      "version_to": "3.2"
     },
     "077c3500": {
       "character": "Nicole",
       "component": "Nicole Amillion-\u827e\u7c73\u8389\u5b89 texcoord_vb Hash",
       "latest_hash": "f9f810ed",
       "version_from": "2.4",
-      "version_to": "3.01"
+      "version_to": "3.2"
     },
     "5714e5e6": {
       "character": "NicoleCutie",
       "component": "Nicole Face Texcoord Hash",
       "latest_hash": "d5958556",
       "version_from": "1.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "9274e401": {
       "character": "NicoleCutie",
       "component": "Nicole Face VertexLimit Hash",
       "latest_hash": "967c2f1c",
       "version_from": "1.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "b25ebcf6": {
       "character": "NicoleCutie",
       "component": "Nicole Face Blend Hash",
       "latest_hash": "292d1b1f",
       "version_from": "1.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "a8667746": {
       "character": "NicoleCutie",
       "component": "NicoleCutie Face Position Hash",
       "latest_hash": "ac6ebc5b",
       "version_from": "1.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "fc98a89c": {
       "character": "Norma",
       "component": "Norma Hair TEX Hash",
-      "latest_hash": "ebac056e",
+      "latest_hash": "fc98a89c",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "37da98f5": {
       "character": "Norma",
       "component": "Norma Body TEX Hash",
-      "latest_hash": "ebac056e",
+      "latest_hash": "37da98f5",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "4050da0a": {
       "character": "Norma",
       "component": "Norma Weapon TEX Hash",
       "latest_hash": "ebac056e",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "7ae5f4d6": {
       "character": "Norma",
       "component": "Norma Weapon TEX Hash",
       "latest_hash": "79a583ad",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "e2a92567": {
       "character": "Norma",
       "component": "Norma Shell VB Hash",
       "latest_hash": "e3fafeeb",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "1d67e673": {
       "character": "Norma",
       "component": "Norma Shell VB Hash",
       "latest_hash": "44991f30",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "dc5bc6d9": {
       "character": "Norma",
       "component": "Norma Hair TEX Hash",
       "latest_hash": "798adba3",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "02cbd89d": {
       "character": "Norma",
       "component": "Norma Body TEX Hash",
       "latest_hash": "798adba3",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "0139f54e": {
       "character": "Norma",
       "component": "Norma Weapon TEX Hash",
       "latest_hash": "798adba3",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "1db67ade": {
       "character": "Norma",
       "component": "Norma Weapon TEX Hash",
       "latest_hash": "b70b6037",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "fd1b9c29": {
       "character": "Piper",
       "component": "Piper Hair Texcoord Hash",
-      "latest_hash": "8b6b17f8",
+      "latest_hash": "1c6d41af",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "8b6b17f8": {
       "character": "Piper",
       "component": "Piper Hair Texcoord Hash",
       "latest_hash": "1c6d41af",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "79953d32": {
       "character": "Piper",
       "component": "Piper HairA LightMap 2048p Hash",
       "latest_hash": "1146c5c3",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "92acb4d4": {
       "character": "Piper",
       "component": "Piper HairA LightMap 1024p Hash",
       "latest_hash": "46cbca7a",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "7ca957d8": {
       "character": "Piper",
       "component": "Piper HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "db7dccbf": {
       "character": "Piper",
       "component": "Piper HairA NormalMap 1024p Hash",
       "latest_hash": "8db36370",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "b2f3e6aa": {
       "character": "Piper",
       "component": "Piper Body Position Hash",
       "latest_hash": "ffe8fea7",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "764276de": {
       "character": "Piper",
       "component": "Piper Body Blend Hash",
       "latest_hash": "3d329807",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "a0d146b3": {
       "character": "Piper",
       "component": "Piper Body Texcoord Hash",
-      "latest_hash": "a011f94e",
+      "latest_hash": "6357b120",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "a011f94e": {
       "character": "Piper",
       "component": "Piper Body Texcoord Hash",
       "latest_hash": "6357b120",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "621564e5": {
       "character": "Piper",
       "component": "Piper BodyA Diffuse 1024p Hash",
       "latest_hash": "b450949d",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "b4b74e7e": {
       "character": "Piper",
       "component": "Piper BodyA Diffuse 2048p Hash",
       "latest_hash": "fed40302",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "9cc2aaa0": {
       "character": "Piper",
       "component": "Piper BodyA LightMap 2048p Hash",
       "latest_hash": "a32c39b9",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "db9c7abf": {
       "character": "Piper",
       "component": "Piper BodyA LightMap 1024p Hash",
       "latest_hash": "a0dcd60a",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "51f1ec36": {
       "character": "Piper",
       "component": "Piper BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "73a61e88": {
       "character": "Piper",
       "component": "Piper BodyA NormalMap 1024p Hash",
       "latest_hash": "8db36370",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "4b06ffe6": {
       "character": "Piper",
       "component": "Piper Face Diffuse 1024p Hash",
-      "latest_hash": "f1c8f946",
+      "latest_hash": "48c96e2e",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "f1c8f946": {
       "character": "Piper",
       "component": "Piper HeadA Diffuse 1024p Hash",
       "latest_hash": "48c96e2e",
       "version_from": "1.2",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "97a7862e": {
       "character": "Piper",
       "component": "Piper Face Diffuse 2048p Hash",
       "latest_hash": "3b2eb1d9",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "a633d5b7": {
       "character": "Promeia",
       "component": "Promeia Pinioned IB Hash",
-      "latest_hash": "36e794ea",
+      "latest_hash": "b386901d",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "36e794ea": {
       "character": "Promeia",
       "component": "Promeia Pinioned IB Hash",
       "latest_hash": "b386901d",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "68f34958": {
       "character": "Promeia",
       "component": "Promeia Clothes IB Hash",
-      "latest_hash": "93f1f568",
+      "latest_hash": "0ae14c24",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "93f1f568": {
       "character": "Promeia",
       "component": "Promeia Clothes IB Hash",
       "latest_hash": "0ae14c24",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "5ea47a32": {
       "character": "Promeia",
       "component": "Promeia Face IB Hash",
       "latest_hash": "ef3c4506",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "6cca89ab": {
       "character": "Promeia",
       "component": "Promeia Hair IB Hash",
       "latest_hash": "31178971",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "21871660": {
       "character": "Promeia",
       "component": "Promeia Leg IB Hash",
-      "latest_hash": "fd054d1d",
+      "latest_hash": "ec003379",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "fd054d1d": {
       "character": "Promeia",
       "component": "Promeia Leg IB Hash",
       "latest_hash": "ec003379",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "6abaa60a": {
       "character": "Promeia",
       "component": "Promeia Torso IB Hash",
-      "latest_hash": "62a6b4bd",
+      "latest_hash": "10c77d62",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "62a6b4bd": {
       "character": "Promeia",
       "component": "Promeia Torso IB Hash",
       "latest_hash": "10c77d62",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "406b1373": {
       "character": "Promeia",
       "component": "Promeia ClothesA Diffuse 1024p Hash",
       "latest_hash": "47d294f4",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "b9367016": {
       "character": "Promeia",
       "component": "Promeia ClothesA Diffuse 2048p Hash",
       "latest_hash": "e1492a53",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "044d2d39": {
       "character": "Promeia",
       "component": "Promeia ClothesA LightMap 1024p Hash",
       "latest_hash": "562616d5",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "d743acd0": {
       "character": "Promeia",
       "component": "Promeia ClothesA LightMap 2048p Hash",
       "latest_hash": "9bf7f5cc",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "01a5ba27": {
       "character": "Promeia",
       "component": "Promeia ClothesA MaterialMap 1024p Hash",
       "latest_hash": "73aaae54",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "31d7cbad": {
       "character": "Promeia",
       "component": "Promeia ClothesA MaterialMap 2048p Hash",
       "latest_hash": "d37b40a9",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "138bcaa1": {
       "character": "Promeia",
       "component": "Promeia WeaponA Diffuse 1024p Hash",
       "latest_hash": "7750fc88",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "d1399215": {
       "character": "Promeia",
       "component": "Promeia WeaponA Diffuse 2048p Hash",
       "latest_hash": "328135c5",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "5e59380e": {
       "character": "Promeia",
       "component": "Promeia WeaponA LightMap 1024p Hash",
       "latest_hash": "a1988612",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "369f0efd": {
       "character": "Promeia",
       "component": "Promeia WeaponA LightMap 2048p Hash",
       "latest_hash": "82f4146a",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "09271c02": {
       "character": "Promeia",
       "component": "Promeia WeaponA MaterialMap 1024p Hash",
       "latest_hash": "7559d574",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "a179a69c": {
       "character": "Promeia",
       "component": "Promeia WeaponA MaterialMap 2048p Hash",
       "latest_hash": "d672b87c",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "35096cb6": {
       "character": "Promeia",
       "component": "Promeia Hair Position Hash",
       "latest_hash": "681aceaa",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "9c0aad96": {
       "character": "Promeia",
       "component": "Promeia Hair Texcoord Hash",
       "latest_hash": "84d40d91",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "5a263750": {
       "character": "Promeia",
       "component": "Promeia Hair Blend Hash",
       "latest_hash": "3d4a4881",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "de6eb63b": {
       "character": "Promeia",
       "component": "Promeia Shadow IB Hash",
       "latest_hash": "ff223b2c",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "19ad87f6": {
       "character": "Promeia",
       "component": "Promeia Pinioned Draw Hash",
       "latest_hash": "dd86f5ae",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "a7769c93": {
       "character": "Promeia",
       "component": "Promeia Pinioned Position Hash",
-      "latest_hash": "ffaa183a",
+      "latest_hash": "68e2baef",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "ffaa183a": {
       "character": "Promeia",
       "component": "Promeia Pinioned Position Hash",
       "latest_hash": "68e2baef",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "bfcfb2f7": {
       "character": "Promeia",
       "component": "Promeia Pinioned Texcoord Hash",
-      "latest_hash": "2a9842a1",
+      "latest_hash": "6fe5f8c1",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "2a9842a1": {
       "character": "Promeia",
       "component": "Promeia Pinioned Texcoord Hash",
       "latest_hash": "6fe5f8c1",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "61c399b6": {
       "character": "Promeia",
       "component": "Promeia Pinioned Blend Hash",
-      "latest_hash": "dae4abd0",
+      "latest_hash": "112582ea",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "dae4abd0": {
       "character": "Promeia",
       "component": "Promeia Pinioned Blend Hash",
       "latest_hash": "112582ea",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "bf938187": {
       "character": "Promeia",
       "component": "Promeia Torso Position Hash",
       "latest_hash": "2dbfe8c9",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "b1ec331c": {
       "character": "Promeia",
       "component": "Promeia Torso Texcoord Hash",
-      "latest_hash": "d99d21e0",
+      "latest_hash": "1fc95f5b",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "d99d21e0": {
       "character": "Promeia",
       "component": "Promeia Torso Texcoord Hash",
       "latest_hash": "1fc95f5b",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "bca960d0": {
       "character": "Promeia",
       "component": "Promeia Torso Blend Hash",
-      "latest_hash": "575d8b1b",
+      "latest_hash": "ee35cc06",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "575d8b1b": {
       "character": "Promeia",
       "component": "Promeia Torso Blend Hash",
       "latest_hash": "ee35cc06",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "d43597aa": {
       "character": "Promeia",
       "component": "Promeia Clothes Position Hash",
-      "latest_hash": "1d63183b",
+      "latest_hash": "f6cc27b6",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "1d63183b": {
       "character": "Promeia",
       "component": "Promeia Clothes Position Hash",
       "latest_hash": "f6cc27b6",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "9f083955": {
       "character": "Promeia",
       "component": "Promeia Clothes Texcoord Hash",
-      "latest_hash": "826446a7",
+      "latest_hash": "bf00cc95",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "826446a7": {
       "character": "Promeia",
       "component": "Promeia Clothes Texcoord Hash",
       "latest_hash": "bf00cc95",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "870f56b5": {
       "character": "Promeia",
       "component": "Promeia Clothes Blend Hash",
-      "latest_hash": "58f42be3",
+      "latest_hash": "4b0d6867",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "58f42be3": {
       "character": "Promeia",
       "component": "Promeia Clothes Blend Hash",
       "latest_hash": "4b0d6867",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "595bd76e": {
       "character": "Promeia",
       "component": "Promeia Leg Position Hash",
-      "latest_hash": "0b822797",
+      "latest_hash": "4c1d0a70",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "0b822797": {
       "character": "Promeia",
       "component": "Promeia Leg Position Hash",
       "latest_hash": "4c1d0a70",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "2918714e": {
       "character": "Promeia",
       "component": "Promeia Leg Texcoord Hash",
-      "latest_hash": "f5fd0e92",
+      "latest_hash": "03d6f933",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "f5fd0e92": {
       "character": "Promeia",
       "component": "Promeia Leg Texcoord Hash",
       "latest_hash": "03d6f933",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "fd3c3d9f": {
       "character": "Promeia",
       "component": "Promeia Leg Blend Hash",
-      "latest_hash": "9839b071",
+      "latest_hash": "65bba179",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "9839b071": {
       "character": "Promeia",
       "component": "Promeia Leg Blend Hash",
       "latest_hash": "65bba179",
       "version_from": "2.81",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "cb9d17fc": {
       "character": "Promeia",
       "component": "Promeia Eyebrow IB Hash",
       "latest_hash": "e032287a",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "3a00aa76": {
       "character": "Promeia",
       "component": "Promeia Eyebrow Texcoord Hash",
       "latest_hash": "d3d65ca5",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "b7a6479f": {
       "character": "Promeia",
       "component": "Promeia Face Texcoord Hash",
       "latest_hash": "dcd61276",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "5ff41c34": {
       "character": "Promeia",
       "component": "Promeia Face Blend Hash",
       "latest_hash": "bf5b785d",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "947ceb88": {
       "character": "Promeia",
       "component": "Promeia Weapon IB Hash",
       "latest_hash": "8995db58",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "7d76d686": {
       "character": "Promeia",
       "component": "Promeia Weapon Draw Hash",
       "latest_hash": "0a06059e",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "21ac80fa": {
       "character": "Promeia",
       "component": "Promeia Weapon Blend Hash",
       "latest_hash": "a864dc82",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "2f3a560d": {
       "character": "Promeia",
       "component": "Promeia Weapon Position Hash",
       "latest_hash": "d242b77a",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "23587131": {
       "character": "Promeia",
       "component": "Promeia Weapon Texcoord Hash",
       "latest_hash": "f2f5bd28",
       "version_from": "2.8",
-      "version_to": "2.81"
+      "version_to": "3.2"
     },
     "820ded20": {
       "character": "Pulchra",
       "component": "Pulchra MaskA MaterialMap 1024p Hash",
       "latest_hash": "f1ee6734",
       "version_from": "1.7",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "d915de65": {
       "character": "Qingyi",
       "component": "Qingyi Body IB Hash",
       "latest_hash": "195857d8",
       "version_from": "1",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "0287b8fb": {
       "character": "Qingyi",
       "component": "Qingyi Body Blend Hash",
       "latest_hash": "88a6f633",
       "version_from": "1",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "dd421c3a": {
       "character": "Qingyi",
       "component": "Qingyi Body Position Hash",
       "latest_hash": "ac54012f",
       "version_from": "1",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "00487185": {
       "character": "Qingyi",
       "component": "Qingyi Body Texcoord Hash",
       "latest_hash": "4cbe7fbe",
       "version_from": "1",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "b1f382cd": {
       "character": "Qingyi",
       "component": "Qingyi Body Draw Hash",
       "latest_hash": "7be61bce",
       "version_from": "1",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "33f6d1f2": {
       "character": "Qingyi",
       "component": "Qingyi Hair IB Hash",
       "latest_hash": "3cacba0a",
       "version_from": "2",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "d196bd5c": {
       "character": "Qingyi",
       "component": "Qingyi Hair Blend Hash",
       "latest_hash": "6e7650bc",
       "version_from": "2",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "b6e5374d": {
       "character": "Qingyi",
       "component": "Qingyi Hair Position Hash",
       "latest_hash": "dd08951b",
       "version_from": "2",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "dae0117f": {
       "character": "Qingyi",
       "component": "Qingyi Hair Texcoord Hash",
-      "latest_hash": "0643440c",
+      "latest_hash": "53a2b66e",
       "version_from": "2",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "6a52010a": {
       "character": "Qingyi",
       "component": "Qingyi Hair Draw Hash",
       "latest_hash": "7b43d317",
       "version_from": "2",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "0643440c": {
       "character": "Qingyi",
       "component": "Qingyi Hair Texcoord Hash",
       "latest_hash": "53a2b66e",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "2910fbd0": {
       "character": "Qingyi",
       "component": "Qingyi HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "542c6b04": {
       "character": "Qingyi",
       "component": "Qingyi BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "83ac7993": {
       "character": "Rina",
       "component": "Rina HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "97637a8f": {
       "character": "Rina",
       "component": "Rina BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "a72f760f": {
       "character": "Seth",
       "component": "Seth Hair Texcoord Hash",
       "latest_hash": "a91eeef2",
       "version_from": "1.3",
-      "version_to": "1.4"
+      "version_to": "3.2"
     },
     "d4de9ec1": {
       "character": "Seth",
       "component": "Seth HairA LightMap 2048p Hash",
       "latest_hash": "a855884d",
       "version_from": "1.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "c01dbf6c": {
       "character": "Seth",
       "component": "Seth HairA LightMap 1024p Hash",
       "latest_hash": "a855884d",
       "version_from": "1.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "3376b58c": {
       "character": "Seth",
       "component": "Seth HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "24d52dd8": {
       "character": "Seth",
       "component": "Seth HairA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "3d97c2ef": {
       "character": "Seth",
       "component": "Seth BodyA LightMap 2048p Hash",
       "latest_hash": "5b205468",
       "version_from": "1.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "9436aa83": {
       "character": "Seth",
       "component": "Seth BodyA LightMap 1024p Hash",
       "latest_hash": "5b205468",
       "version_from": "1.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "dde45d3d": {
       "character": "Seth",
       "component": "Seth BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "62b047c5": {
       "character": "Seth",
       "component": "Seth BodyA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "464847b3": {
       "character": "Soldier0",
       "component": "Soldier0 HairA MaterialMap 2048p Hash (Old)",
       "latest_hash": "0b059f91",
       "version_from": "1.0",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "f2f539b8": {
       "character": "Soldier0",
       "component": "Soldier0 Face IB Hash (Old)",
       "latest_hash": "e30ca87f",
       "version_from": "1.0",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "3c8697e8": {
       "character": "Soldier11",
       "component": "Soldier11 HeadA Diffuse 1024p Hash",
       "latest_hash": "67821d9d",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "15f933dc": {
       "character": "Soldier11",
       "component": "Soldier11 HairA Diffuse 1024p Hash",
       "latest_hash": "b41b671a",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "787659b9": {
       "character": "Soldier11",
       "component": "Soldier11 HairA LightMap 2048p Hash",
       "latest_hash": "71993491",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "baa3c836": {
       "character": "Soldier11",
       "component": "Soldier11 HairA LightMap 1024p Hash",
       "latest_hash": "71993491",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "68d9644a": {
       "character": "Soldier11",
       "component": "Soldier11 HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "4e08e50b": {
       "character": "Soldier11",
       "component": "Soldier11 HairA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "d7f2269b": {
       "character": "Soldier11",
       "component": "Soldier11 BodyA Diffuse 1024p Hash",
       "latest_hash": "640a8c01",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "2f88092e": {
       "character": "Soldier11",
       "component": "Soldier11 BodyA LightMap 2048p Hash",
       "latest_hash": "33e8af55",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "ce581269": {
       "character": "Soldier11",
       "component": "Soldier11 BodyA LightMap 1024p Hash",
       "latest_hash": "33e8af55",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "81db8cbe": {
       "character": "Soldier11",
       "component": "Soldier11 BodyA MaterialMap 2048p Hash",
       "latest_hash": "8ab5b59d",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "874f9f68": {
       "character": "Soldier11",
       "component": "Soldier11 BodyA MaterialMap 1024p Hash",
       "latest_hash": "8ab5b59d",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "c94bb3d6": {
       "character": "Soldier11",
       "component": "Soldier11 BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "eb924a91": {
       "character": "Soldier11",
       "component": "Soldier11 BodyA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.0"
+      "version_to": "3.2"
     },
     "01f7369e": {
       "character": "Soukaku",
       "component": "1.0 - 1.1: Soukaku Head IB Hash",
       "latest_hash": "020f9ac6",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "04654e94": {
       "character": "Soukaku",
       "component": "1.0 - 1.7: Soukaku HairA LightMap 2048p Hash",
       "latest_hash": "a70e24a2",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "8498ee4d": {
       "character": "Soukaku",
       "component": "1.0 - 1.7: Soukaku HairA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "363e3d70": {
       "character": "Soukaku",
       "component": "1.0 - 1.7: Soukaku BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "ad41e2f6": {
       "character": "Soukaku",
       "component": "1.0 - 1.1: Soukaku Head Texcoord Hash",
       "latest_hash": "c2db08f0",
       "version_from": "1.0",
-      "version_to": "Latest"
+      "version_to": "3.2"
     },
     "6cc4d486": {
       "character": "SunnaAfternoonTeaBreak",
       "component": "SunnaAfternoonTeaBreak Hair IB Hash",
       "latest_hash": "a6d82ba5",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "327644ee": {
       "character": "SunnaAfternoonTeaBreak",
       "component": "ChinatsuSkin Hair Position Hash",
       "latest_hash": "4b93d8eb",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "5e70dde6": {
       "character": "SunnaAfternoonTeaBreak",
       "component": "ChinatsuSkin Hair Texcoord Hash",
       "latest_hash": "b9030f86",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "79de92c7": {
       "character": "SunnaAfternoonTeaBreak",
       "component": "ChinatsuSkin Hair Blend Hash",
       "latest_hash": "4a795f2a",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "c77b3235": {
       "character": "SunnaAfternoonTeaBreak",
       "component": "ChinatsuSkin Body Position Hash",
       "latest_hash": "25cf6bf7",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "0c6b95ca": {
       "character": "SunnaAfternoonTeaBreak",
       "component": "ChinatsuSkin Body Texcoord Hash",
       "latest_hash": "7a31eb8b",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "22c82346": {
       "character": "SunnaAfternoonTeaBreak",
       "component": "ChinatsuSkin Hair Draw Hash",
       "latest_hash": "74cc56df",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "b9f0d595": {
       "character": "Trigger",
       "component": "Trigger Face Texcoord",
       "latest_hash": "d4a12ab7",
       "version_from": "2.2",
-      "version_to": "2.3"
+      "version_to": "3.2"
     },
     "6cfb2498": {
       "character": "VelinaShadeOfLeisure",
       "component": "Velina Face IB Hash",
       "latest_hash": "2414f4b9",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "641bedfb": {
       "character": "VelinaShadeOfLeisure",
       "component": "Velina Face VB Hash",
       "latest_hash": "69304ff6",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "98ecf569": {
       "character": "VelinaShadeOfLeisure",
       "component": "Velina Face VB Hash",
       "latest_hash": "76fe8eed",
       "version_from": "3.0",
-      "version_to": "3.1"
+      "version_to": "3.2"
     },
     "f32eec8a": {
       "character": "VivianSummer",
       "component": "VivianSkin Body Blend Hash",
       "latest_hash": "723bccec",
       "version_from": "2.3",
-      "version_to": "2.4"
+      "version_to": "3.2"
     },
     "756ebf6b": {
       "character": "VivianSummer",
       "component": "VivianIrisOfTheShore weapon TEX Hash",
       "latest_hash": "1dbeec1f",
       "version_from": "2.0",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "d96fe324": {
       "character": "VivianSummer",
       "component": "VivianIrisOfTheShore weapon TEX Hash",
       "latest_hash": "7270dab3",
       "version_from": "2.0",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "6af50aef": {
       "character": "VivianSummer",
       "component": "VivianIrisOfTheShore weapon TEX Hash",
       "latest_hash": "6ecc2389",
       "version_from": "2.0",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "f6cac296": {
       "character": "WiseTemple",
       "component": "Wise Hair IB Hash",
       "latest_hash": "d5ca0411",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "ba59bf09": {
       "character": "WiseTemple",
       "component": "Wise Hair Draw Hash",
       "latest_hash": "ef9c0510",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "1273c7b0": {
       "character": "WiseTemple",
       "component": "Wise Hair Blend Hash",
-      "latest_hash": "edfd1666",
+      "latest_hash": "68e4f572",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "6235fa7f": {
       "character": "WiseTemple",
       "component": "Wise Hair Position Hash",
       "latest_hash": "e8df7ff3",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "fe89498c": {
       "character": "WiseTemple",
       "component": "Wise Hair Texcoord Hash",
       "latest_hash": "774071dd",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "4894246e": {
       "character": "Wise",
       "component": "Wise Head IB Hash",
       "latest_hash": "1fdaf388",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "054ea752": {
       "character": "Wise",
       "component": "Wise Body IB Hash",
       "latest_hash": "8d6acf4e",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "73c48816": {
       "character": "Wise",
       "component": "Wise Body Draw Hash",
       "latest_hash": "b581dc0a",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "1d55bd87": {
       "character": "Wise",
       "component": "Wise Body Blend Hash",
-      "latest_hash": "46462bd8",
+      "latest_hash": "03dadd2a",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "9581de22": {
       "character": "Wise",
       "component": "Wise Body Position Hash",
       "latest_hash": "67f21c9f",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "a012c752": {
       "character": "Wise",
       "component": "Wise Body Texcoord Hash",
       "latest_hash": "91fbd2fa",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "f6c5b9f3": {
       "character": "Wise",
       "component": "Wise Body Position Hash",
       "latest_hash": "67f21c9f",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "a9d5b70d": {
       "character": "Wise",
       "component": "Wise Body Texcoord Hash",
-      "latest_hash": "f425bd04",
+      "latest_hash": "91fbd2fa",
       "version_from": "1.5",
-      "version_to": "1.6"
+      "version_to": "3.2"
     },
     "cb22cb95": {
       "character": "Wise",
       "component": "Wise Bag Texcoord Hash",
       "latest_hash": "8d825ff1",
       "version_from": "1.2",
-      "version_to": "1.3"
+      "version_to": "3.2"
     },
     "6c4ae8ce": {
       "character": "Wise",
       "component": "Wise HeadA Diffuse 1024p Hash",
       "latest_hash": "588d7d2d",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "1f21c633": {
       "character": "Wise",
       "component": "Wise HairA, BagA LightMap 2048p Hash",
       "latest_hash": "8d8269f8",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "473f816d": {
       "character": "Wise",
       "component": "Wise HairA, BagA MaterialMap 2048p Hash",
       "latest_hash": "f1b20f3d",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "3b4f22ad": {
       "character": "Wise",
       "component": "Wise HairA, BagA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "868709f2": {
       "character": "WiseTemple",
       "component": "Wise BodyA Diffuse 2048p Hash",
-      "latest_hash": "f2fb7a37",
+      "latest_hash": "a9652fa4",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "3d7a53b0": {
       "character": "Wise",
       "component": "Wise BodyA Diffuse 1024p Hash",
-      "latest_hash": "dea7a8ca",
+      "latest_hash": "53b3623f",
       "version_from": "2.6",
-      "version_to": "2.7"
+      "version_to": "3.2"
     },
     "dea7a8ca": {
       "character": "Wise",
       "component": "Wise BodyA Diffuse 1024p Hash",
       "latest_hash": "53b3623f",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "f2fb7a37": {
       "character": "Wise",
       "component": "Wise BodyA Diffuse 2048p Hash",
       "latest_hash": "a9652fa4",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "f43c8025": {
       "character": "Wise",
       "component": "Wise BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "edfd1666": {
       "character": "WiseTemple",
       "component": "Wise Hair Blend Hash",
       "latest_hash": "68e4f572",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "46462bd8": {
       "character": "Wise",
       "component": "Wise Body Blend Hash",
       "latest_hash": "03dadd2a",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "2ae08ae7": {
       "character": "Wise",
       "component": "Wise Bag Texcoord Hash",
       "latest_hash": "8d825ff1",
       "version_from": "2.0",
-      "version_to": "2.1"
+      "version_to": "3.2"
     },
     "b300256d": {
       "character": "Wise",
       "component": "Wise Head Texcoord Hash",
-      "latest_hash": "ebe9f31b",
+      "latest_hash": "c83b6cbf",
       "version_from": "1.7",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "ebe9f31b": {
       "character": "WiseTemple",
       "component": "Wise Head Texcoord Hash",
       "latest_hash": "c83b6cbf",
       "version_from": "2.0",
-      "version_to": "2.1"
+      "version_to": "3.2"
     },
     "757bc7cc": {
       "character": "WiseTemple",
       "component": "Wise Face Blend Hash",
       "latest_hash": "015fbf96",
       "version_from": "2.8",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "4fe696c8": {
       "character": "WiseSummer",
       "component": "WisePeacefulWaves Body IB Hash",
       "latest_hash": "19a3f02e",
       "version_from": "2.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "cb272754": {
       "character": "WiseSummer",
       "component": "WisePeacefulWaves Hair IB Hash",
       "latest_hash": "0ec31440",
       "version_from": "2.1",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "3f771e63": {
       "character": "WiseTemple",
       "component": "WisePeacefulWaves Hair Shadow IB Hash",
       "latest_hash": "8d08b190",
       "version_from": "2.8",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "9741e2f0": {
       "character": "WiseSummer",
       "component": "Wiseswimwear Body Blend Hash",
       "latest_hash": "d4147320",
       "version_from": "2.1",
-      "version_to": "2.2"
+      "version_to": "3.2"
     },
     "6acc1eb8": {
       "character": "WiseTemple",
       "component": "WiseSoaringCrane Body IB Hash \u2192 WiseSoaringCrane Body IB Hash",
       "latest_hash": "1eca2097",
       "version_from": "2.5",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "a83ada4e": {
       "character": "WiseTemple",
       "component": "WiseSoaringCrane Body Texcoord \u2192 WiseSoaringCrane Body Texcoord",
       "latest_hash": "b39870e1",
       "version_from": "2.5",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "177ad7e8": {
       "character": "WiseTemple",
       "component": "WiseSoaringCrane Body Blend \u2192 WiseSoaringCrane Body Blend",
-      "latest_hash": "8612559a",
+      "latest_hash": "f28a6363",
       "version_from": "2.5",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "ae59eabb": {
       "character": "WiseTemple",
       "component": "WiseSoaringCrane Body Position \u2192 WiseSoaringCrane Body Position",
       "latest_hash": "a388eb6b",
       "version_from": "2.5",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "4fa228f9": {
       "character": "WiseTemple",
       "component": "WiseSoaringCrane Body Draw \u2192 WiseSoaringCrane Body Draw",
       "latest_hash": "ca02f614",
       "version_from": "2.5",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "8612559a": {
       "character": "WiseTemple",
       "component": "WiseSoaringCrane Body Blend Hash",
       "latest_hash": "f28a6363",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "81406abe": {
       "character": "WiseTemple",
       "component": "WiseSoaringCrane BodyA Diffuse 2048p Hash",
       "latest_hash": "669191ec",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "9fc3646e": {
       "character": "WiseTemple",
       "component": "WiseSoaringCrane BodyA Diffuse 1024p Hash",
       "latest_hash": "23876240",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "458bbde3": {
       "character": "WiseTemple",
       "component": "Wise Neck Blend Hash",
       "latest_hash": "e0b1e734",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "1a438b0d": {
       "character": "WiseTemple",
       "component": "WiseSummer HairShadow position_vb Hash [Legacy]",
       "latest_hash": "4af493e5",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "52bd07dd": {
       "character": "WiseTemple",
       "component": "WiseSummer HairShadow blend_vb Hash [Legacy]",
       "latest_hash": "795e9a7c",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "7b7957fa": {
       "character": "WiseTemple",
       "component": "WiseSummer HairShadow texcoord_vb Hash [Legacy]",
       "latest_hash": "ad7d7eca",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "83e07a1b": {
       "character": "WiseTemple",
       "component": "WiseSummer HairShadow IB Hash [Legacy]",
       "latest_hash": "8d08b190",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "af5fc216": {
       "character": "WiseTemple",
       "component": "WiseSummer HairShadow draw_vb Hash [Legacy]",
       "latest_hash": "681651f9",
       "version_from": "2.7",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "fd363c76": {
       "character": "Yanagi",
       "component": "Yanagi Body blend (old hash)",
       "latest_hash": "b558d482",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "2e92fc77": {
       "character": "Yanagi",
       "component": "Yanagi Glasses ib (old hash)",
       "latest_hash": "44d9123b",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "08933e28": {
       "character": "Yanagi",
       "component": "Yanagi BodyA LightMap 2048p Hash",
       "latest_hash": "616200aa",
       "version_from": "1.7",
-      "version_to": "2.0"
+      "version_to": "3.2"
     },
     "d1ffd339": {
       "character": "YeShunguang",
       "component": "YeShunguang TexCoord VB Hash",
-      "latest_hash": "dbb027eb",
+      "latest_hash": "d1ffd339",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "287c161c": {
       "character": "YeShunguangSkin",
       "component": "YeShunguang Eyebrow VB Hash",
       "latest_hash": "a5182b8a",
       "version_from": "1.0",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "f927c4bb": {
       "character": "YeShunguangSkin",
       "component": "YeShunguang Sword VB Hash",
       "latest_hash": "7eb1ca38",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "f9ec3ac8": {
       "character": "YeShunguangSkin",
       "component": "MiyabiDignifiedBlossom Sword TEX Hash",
       "latest_hash": "7eb1ca38",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "9d2adcc5": {
       "character": "YeShunguangSkin",
       "component": "MiyabiDignifiedBlossom Sword TEX Hash",
       "latest_hash": "90250152",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "0f21a6c9": {
       "character": "YeShunguangSkin",
       "component": "MiyabiDignifiedBlossom Sword TEX Hash",
       "latest_hash": "90250152",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "4659445f": {
       "character": "YeShunguangSkin",
       "component": "MiyabiDignifiedBlossom Sword TEX Hash",
       "latest_hash": "a355e13d",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "e6eab72f": {
       "character": "YeShunguangSkin",
       "component": "MiyabiDignifiedBlossom Sword TEX Hash",
       "latest_hash": "a355e13d",
       "version_from": "2.8",
-      "version_to": "3.0"
+      "version_to": "3.2"
     },
     "2ae9bee8": {
       "character": "Yidhari",
       "component": "Yidhair BodyA LightMap 2048p Hash",
       "latest_hash": "5b985a6f",
       "version_from": "2.3",
-      "version_to": "2.4"
+      "version_to": "3.2"
     },
     "9ad20501": {
       "character": "Yidhari",
       "component": "Yidhair BodyA LightMap 1024p Hash",
       "latest_hash": "381e8e5a",
       "version_from": "2.3",
-      "version_to": "2.4"
+      "version_to": "3.2"
     },
     "0219df6e": {
       "character": "Yixuan",
       "component": "Yixuan Bottle IB Hash",
       "latest_hash": "1630f2d0",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "55638d51": {
       "character": "Yixuan",
       "component": "Yixuan Bottle Blend Hash",
       "latest_hash": "d89da8eb",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "d0ff2c18": {
       "character": "Yixuan",
       "component": "Yixuan Bottle Position Hash",
       "latest_hash": "8555098d",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "f05da93a": {
       "character": "Yixuan",
       "component": "Yixuan Bottle Texcoord Hash",
       "latest_hash": "ff4b112b",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "d000beae": {
       "character": "Yixuan",
       "component": "Yixuan Bottle Draw Hash",
       "latest_hash": "05466ddf",
       "version_from": "1.0",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "487db3e0": {
       "character": "YixuanTrailsOfInk",
       "component": "YiXuanSkin BodyB Diffuse 2048p Hash",
       "latest_hash": "7683c132",
       "version_from": "2.0",
-      "version_to": "2.1"
+      "version_to": "3.2"
     },
     "c13cac2c": {
       "character": "YixuanTrailsOfInk",
       "component": "YiXuanSkin BodyB Diffuse 1024p Hash",
       "latest_hash": "89509335",
       "version_from": "2.0",
-      "version_to": "2.1"
+      "version_to": "3.2"
     },
     "16a1fb10": {
       "character": "YixuanTrailsOfInk",
       "component": "YiXuanSkin BodyB MaterialMap 2048p Hash",
       "latest_hash": "7e6747ac",
       "version_from": "2.0",
-      "version_to": "2.1"
+      "version_to": "3.2"
     },
     "9a79cf64": {
       "character": "YixuanTrailsOfInk",
       "component": "YiXuanSkin BodyB MaterialMap 1024p Hash",
       "latest_hash": "229c5b0f",
       "version_from": "2.0",
-      "version_to": "2.1"
+      "version_to": "3.2"
     },
     "c8cb308c": {
       "character": "YuzuhaSummer",
       "component": "YuzuhaSummer Weapon Umbrella Diffuse [Legacy]",
       "latest_hash": "caeee529",
       "version_from": "2.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "dc683116": {
       "character": "YuzuhaSummer",
       "component": "YuzuhaSummer Weapon Umbrella LightMap [Legacy]",
       "latest_hash": "f74f81e8",
       "version_from": "2.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "114dafdf": {
       "character": "YuzuhaSummer",
       "component": "YuzuhaSummer Weapon Umbrella MaterialMap [Legacy]",
       "latest_hash": "6657efd2",
       "version_from": "2.0",
-      "version_to": "2.8"
+      "version_to": "3.2"
     },
     "a3b56c9b": {
       "character": "YuzuhaTanukiInBroadDaylight",
       "component": "YuzuhaSummer Body Position Hash",
       "latest_hash": "2a7b9144",
       "version_from": "2.1",
-      "version_to": "2.11"
+      "version_to": "3.2"
     },
     "3d3199c5": {
       "character": "YuzuhaTanukiInBroadDaylight",
       "component": "YuzuhaSummer Body Texcoord Hash",
       "latest_hash": "0c9062c5",
       "version_from": "2.1",
-      "version_to": "2.11"
+      "version_to": "3.2"
     },
     "be70426a": {
       "character": "YuzuhaTanukiInBroadDaylight",
       "component": "YuzuhaSummer Body Blend Hash",
       "latest_hash": "523cf99d",
       "version_from": "2.1",
-      "version_to": "2.11"
+      "version_to": "3.2"
     },
     "cf3319f6": {
       "character": "YuzuhaTanukiInBroadDaylight",
       "component": "YuzuhaSummer Body Draw Hash",
       "latest_hash": "07437c27",
       "version_from": "2.1",
-      "version_to": "2.11"
+      "version_to": "3.2"
     },
     "f34fdc84": {
       "character": "YuzuhaTanukiInBroadDaylight",
       "component": "YuzuhaSummer Body IB Hash",
       "latest_hash": "b298482d",
       "version_from": "2.1",
-      "version_to": "2.11"
+      "version_to": "3.2"
     },
     "a4aeb1d5": {
       "character": "ZhuYuan",
       "component": "ZhuYuan Body IB Hash",
       "latest_hash": "6619364f",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "5e942526": {
       "character": "ZhuYuan",
       "component": "ZhuYuan Body Blend Hash",
       "latest_hash": "01e0c8d9",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "f3569f8d": {
       "character": "ZhuYuan",
       "component": "ZhuYuan Body Position Hash",
       "latest_hash": "f595d24d",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "160872c0": {
       "character": "ZhuYuan",
       "component": "ZhuYuan Body Texcoord Hash",
       "latest_hash": "cb885260",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "fdc045fc": {
       "character": "ZhuYuan",
       "component": "ZhuYuan Hair Texcoord Hash",
       "latest_hash": "f3c092c5",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "6eb346b9": {
       "character": "ZhuYuan",
       "component": "ZhuYuan HairA, ExtrasA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "4ac1defe": {
       "character": "ZhuYuan",
       "component": "ZhuYuan HairA, ExtrasA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "b57a8744": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA Diffuse 1024p Hash",
-      "latest_hash": "f6795718",
+      "latest_hash": "46af14f8",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "833bafd5": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA NormalMap 1024p Hash",
-      "latest_hash": "729ea75a",
+      "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "18d00ac6": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA LightMap 1024p Hash",
-      "latest_hash": "14b638b6",
+      "latest_hash": "fb385169",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "1daa379f": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA MaterialMap 1024p Hash",
-      "latest_hash": "cd4dee2c",
+      "latest_hash": "29e2ebc5",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "f6795718": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA Diffuse 1024p Hash",
       "latest_hash": "46af14f8",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "729ea75a": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA NormalMap 1024p Hash",
-      "latest_hash": "d5b175bf",
+      "latest_hash": "ebac056e",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "14b638b6": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA LightMap 1024p Hash",
       "latest_hash": "fb385169",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "cd4dee2c": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA MaterialMap 1024p Hash",
       "latest_hash": "29e2ebc5",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "d5b175bf": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.2",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "c88e7660": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA Diffuse 2048p Hash",
-      "latest_hash": "3ef82f41",
+      "latest_hash": "a271e894",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "a396c53a": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA NormalMap 2048p Hash",
-      "latest_hash": "7195a311",
+      "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "13a38449": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA LightMap 2048p Hash",
-      "latest_hash": "80ebf536",
+      "latest_hash": "d02bc66c",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "b4e20235": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA MaterialMap 2048p Hash",
-      "latest_hash": "10415de8",
+      "latest_hash": "3e808ef6",
       "version_from": "1.0",
-      "version_to": "1.1"
+      "version_to": "3.2"
     },
     "3ef82f41": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA Diffuse 2048p Hash",
       "latest_hash": "a271e894",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "7195a311": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA NormalMap 2048p Hash",
-      "latest_hash": "d81fb56e",
+      "latest_hash": "ebac056e",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "80ebf536": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA LightMap 2048p Hash",
       "latest_hash": "d02bc66c",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "10415de8": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA MaterialMap 2048p Hash",
       "latest_hash": "3e808ef6",
       "version_from": "1.1",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "d81fb56e": {
       "character": "ZhuYuan",
       "component": "ZhuYuan BodyA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.2",
-      "version_to": "2.5"
+      "version_to": "3.2"
     },
     "0fda74c3": {
       "character": "ZhuYuan",
       "component": "ZhuYuan ExtrasB, ShoulderAmmoA, HipAmmoA NormalMap 1024p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.2"
+      "version_to": "3.2"
     },
     "fb35b7e9": {
       "character": "ZhuYuan",
       "component": "ZhuYuan ExtrasB, ShoulderAmmoA, HipAmmoA NormalMap 2048p Hash",
       "latest_hash": "ebac056e",
       "version_from": "1.0",
-      "version_to": "1.2"
+      "version_to": "3.2"
+    },
+    "c92a17d8": {
+      "character": "Belle",
+      "component": "Belle Body blend_vb Hash",
+      "latest_hash": "3ee01622",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "d2844c01": {
+      "character": "Belle",
+      "component": "Belle Body position_vb Hash",
+      "latest_hash": "5838ad30",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "801edbf4": {
+      "character": "Belle",
+      "component": "Belle Body texcoord_vb Hash",
+      "latest_hash": "40a897ab",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "ac1c8f80": {
+      "character": "Belle",
+      "component": "Belle Body draw_vb Hash",
+      "latest_hash": "bea2b94e",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "cc32660c": {
+      "character": "Belle",
+      "component": "Belle Hair blend_vb Hash",
+      "latest_hash": "76a50b18",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "a9673001": {
+      "character": "Belle",
+      "component": "Belle Hair position_vb Hash",
+      "latest_hash": "71d2bf80",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "11e38ebb": {
+      "character": "Belle",
+      "component": "Belle Hair texcoord_vb Hash",
+      "latest_hash": "a5e62ece",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "142ddbbc": {
+      "character": "Belle",
+      "component": "Belle Hair draw_vb Hash",
+      "latest_hash": "992d149f",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "c2189ddf": {
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Red Knot Rope IB Hash",
+      "latest_hash": "169e5f5d",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "83967fb0": {
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Red Knot Rope blend_vb Hash",
+      "latest_hash": "0d4e5810",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "903e5a55": {
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Red Knot Rope position_vb Hash",
+      "latest_hash": "81bc55f3",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "751107c4": {
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Red Knot Rope texcoord_vb Hash",
+      "latest_hash": "c5c88de1",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "c0fcc53d": {
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Earrings1 IB Hash",
+      "latest_hash": "e850777c",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "fc4bea64": {
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Earrings1 position_vb Hash",
+      "latest_hash": "e1d5dec8",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "dde5eb66": {
+      "character": "BelleDelicateSunlight",
+      "component": "BelleSkin Earrings1 texcoord_vb Hash",
+      "latest_hash": "f3d824bf",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "785b21f5": {
+      "character": "Remielle",
+      "component": "Remielle Body IB Hash",
+      "latest_hash": "28e05a59",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "9e8a27ae": {
+      "character": "Remielle",
+      "component": "Remielle Body VB Hash",
+      "latest_hash": "da54a57a",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "679a1bd8": {
+      "character": "Remielle",
+      "component": "Remielle Body VB Hash",
+      "latest_hash": "d16f6790",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "9e33a8b6": {
+      "character": "Remielle",
+      "component": "Remielle Body VB Hash",
+      "latest_hash": "b943ec9e",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "7a92a10a": {
+      "character": "Remielle",
+      "component": "Remielle Body VB Hash",
+      "latest_hash": "97664f2f",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "f57f3e40": {
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Body IB Hash",
+      "latest_hash": "92cb56c9",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "7f6fe876": {
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Body VB Hash",
+      "latest_hash": "93b69961",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "554d46cf": {
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Body VB Hash",
+      "latest_hash": "0929171b",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "5dcc6ee1": {
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Body VB Hash",
+      "latest_hash": "c24cc6a1",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "22ec622c": {
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Body VB Hash",
+      "latest_hash": "6a0d36f2",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "09a51ed3": {
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Leg IB Hash",
+      "latest_hash": "24a512cb",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "ff05e5f9": {
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Leg VB Hash",
+      "latest_hash": "3841a909",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "fa9635bc": {
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Leg VB Hash",
+      "latest_hash": "11fbd4a3",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "7c0db158": {
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Leg VB Hash",
+      "latest_hash": "14ab0adc",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "96dc0a8e": {
+      "character": "RemielleMoonlightWhispers",
+      "component": "RemielleMoonlightWhispers Leg VB Hash",
+      "latest_hash": "ea50e1d1",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "241deac5": {
+      "character": "RemielleSeashadePasSeul",
+      "component": "RemielleSeashadePasSeul Body IB Hash",
+      "latest_hash": "2cd6516a",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "9bca83d8": {
+      "character": "RemielleSeashadePasSeul",
+      "component": "RemielleSeashadePasSeul Body VB Hash",
+      "latest_hash": "5ec5e567",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "13c77c3a": {
+      "character": "RemielleSeashadePasSeul",
+      "component": "RemielleSeashadePasSeul Body VB Hash",
+      "latest_hash": "22d04ad5",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "c55c57ce": {
+      "character": "RemielleSeashadePasSeul",
+      "component": "RemielleSeashadePasSeul Body VB Hash",
+      "latest_hash": "d637a74d",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "48288582": {
+      "character": "RemielleSeashadePasSeul",
+      "component": "RemielleSeashadePasSeul Body VB Hash",
+      "latest_hash": "df41c403",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "a23aa8a3": {
+      "character": "Sigrid",
+      "component": "Sigrid Body IB Hash",
+      "latest_hash": "38daef11",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "8c0622d7": {
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "latest_hash": "018ea72c",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "08c15b45": {
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "latest_hash": "e2a28287",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "f6474154": {
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "latest_hash": "08ddaed3",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "01b35c45": {
+      "character": "Sigrid",
+      "component": "Sigrid Body VB Hash",
+      "latest_hash": "d0bf0e87",
+      "version_from": "Previous",
+      "version_to": "3.2"
+    },
+    "0e408177": {
+      "character": "RemielleMoonlight",
+      "component": "Body Diffuse (3.2)",
+      "latest_hash": "bb0f08b9",
+      "version_from": "3.1",
+      "version_to": "3.2"
+    },
+    "6102ae18": {
+      "character": "RemielleMoonlight",
+      "component": "Body LightMap (3.2)",
+      "latest_hash": "0e9d14dc",
+      "version_from": "3.1",
+      "version_to": "3.2"
+    },
+    "cccb8109": {
+      "character": "RemielleMoonlight",
+      "component": "Body MaterialMap (3.2)",
+      "latest_hash": "8240c688",
+      "version_from": "3.1",
+      "version_to": "3.2"
+    },
+    "877b0ce6": {
+      "character": "RemielleMoonlight",
+      "component": "Legs Diffuse (3.2)",
+      "latest_hash": "017c13e4",
+      "version_from": "3.1",
+      "version_to": "3.2"
+    },
+    "baeb2662": {
+      "character": "RemielleMoonlight",
+      "component": "Legs LightMap (3.2)",
+      "latest_hash": "0a902460",
+      "version_from": "3.1",
+      "version_to": "3.2"
+    },
+    "3b0c9e0a": {
+      "character": "RemielleMoonlight",
+      "component": "Legs MaterialMap (3.2)",
+      "latest_hash": "fb096287",
+      "version_from": "3.1",
+      "version_to": "3.2"
     }
   }
 }
