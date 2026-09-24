@@ -1,7 +1,7 @@
 {
   "version": "3.2",
   "total_rules": 5434,
-  "total_migrations": 698,
+  "total_migrations": 693,
   "modules_processed": 100,
   "rules": {
     "d131acb1": {
@@ -5151,7 +5151,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "496a781d"
+          "new_hash": "496a781d",
+          "source": "Anby",
+          "description": "Anby Hair Texcoord Hash"
         },
         {
           "type": "shrink_texcoord_color",
@@ -5168,7 +5170,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "692c6d2b"
+          "new_hash": "692c6d2b",
+          "source": "Anby",
+          "description": "Anby HeadA Diffuse 1024p Hash"
         }
       ]
     },
@@ -5213,7 +5217,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "05d7b504"
+          "new_hash": "05d7b504",
+          "source": "Anby",
+          "description": "Anby HeadA Diffuse 2048p Hash"
         }
       ]
     },
@@ -5226,7 +5232,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "05d7b504"
+          "new_hash": "05d7b504",
+          "source": "Anby",
+          "description": "Anby HeadA Diffuse 2048p Hash"
         }
       ]
     },
@@ -5319,7 +5327,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "057f3c55"
+          "new_hash": "057f3c55",
+          "source": "Anby",
+          "description": "Anby HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -5332,7 +5342,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "057f3c55"
+          "new_hash": "057f3c55",
+          "source": "Anby",
+          "description": "Anby HairA LightMap 1024p Hash"
         }
       ]
     },
@@ -5395,7 +5407,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Anby",
+          "description": "Anby HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -5408,7 +5422,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Anby",
+          "description": "Anby HairA NormalMap 1024p Hash"
         }
       ]
     },
@@ -5438,7 +5454,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "215ff74d"
+          "new_hash": "215ff74d",
+          "source": "Anby",
+          "description": "Anby BodyA Diffuse 2048p Hash"
         }
       ]
     },
@@ -5476,7 +5494,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8df45cb8"
+          "new_hash": "8df45cb8",
+          "source": "Anby",
+          "description": "Anby BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -5514,7 +5534,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "59b123c2"
+          "new_hash": "59b123c2",
+          "source": "Anby",
+          "description": "Anby BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -5527,7 +5549,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "59b123c2"
+          "new_hash": "59b123c2",
+          "source": "Anby",
+          "description": "Anby BodyA LightMap 1024p Hash"
         }
       ]
     },
@@ -5638,7 +5662,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Anby",
+          "description": "Anby BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -5651,7 +5677,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Anby",
+          "description": "Anby BodyA NormalMap 1024p Hash"
         }
       ]
     },
@@ -5888,7 +5916,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f818271a"
+          "new_hash": "f818271a",
+          "source": "Anby",
+          "description": "Anby Head Texcoord Hash"
         }
       ]
     },
@@ -6401,7 +6431,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "41601dfa"
+          "new_hash": "41601dfa",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -6414,7 +6446,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "41601dfa"
+          "new_hash": "41601dfa",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton HairA LightMap 1024p Hash"
         }
       ]
     },
@@ -6477,7 +6511,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d47c5823"
+          "new_hash": "d47c5823",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton HairA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -6490,7 +6526,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d47c5823"
+          "new_hash": "d47c5823",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton HairA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -6553,7 +6591,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -6566,7 +6606,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton HairA NormalMap 1024p Hash"
         }
       ]
     },
@@ -6627,7 +6669,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ed6f4199"
+          "new_hash": "ed6f4199",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -6640,7 +6684,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ed6f4199"
+          "new_hash": "ed6f4199",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton BodyA LightMap 1024p Hash"
         }
       ]
     },
@@ -6703,7 +6749,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "986c9716"
+          "new_hash": "986c9716",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton BodyA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -6716,7 +6764,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "986c9716"
+          "new_hash": "986c9716",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton BodyA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -6779,7 +6829,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -6792,7 +6844,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton BodyA NormalMap 1024p Hash"
         }
       ]
     },
@@ -6853,7 +6907,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ef7880e3"
+          "new_hash": "ef7880e3",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton JacketA LightMap 2048p Hash"
         }
       ]
     },
@@ -6866,7 +6922,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ef7880e3"
+          "new_hash": "ef7880e3",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton JacketA LightMap 1024p Hash"
         }
       ]
     },
@@ -6977,7 +7035,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton JacketA NormalMap 2048p Hash"
         }
       ]
     },
@@ -6990,7 +7050,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Anton",
+          "description": "1.0\u21922.5: Anton JacketA NormalMap 1024p Hash"
         }
       ]
     },
@@ -9656,7 +9718,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "303c63bc"
+          "new_hash": "303c63bc",
+          "source": "AriaDiscordantNote",
+          "description": "AriaDiscordantNote BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -10905,11 +10969,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "fa2f509f"
+          "new_hash": "fa2f509f",
+          "source": "AstraChandelier",
+          "description": "AstraChandelier BodyA MaterialMap 2048p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "fa2f509f"
+          "new_hash": "fa2f509f",
+          "source": "AstraYaoChandelier",
+          "description": "AstraYaoChandelier BodyA MaterialMap Hash"
         }
       ]
     },
@@ -10922,11 +10990,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6da1b76a"
+          "new_hash": "6da1b76a",
+          "source": "AstraChandelier",
+          "description": "AstraChandelier BodyA MaterialMap 1024p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "6da1b76a"
+          "new_hash": "6da1b76a",
+          "source": "AstraYaoChandelier",
+          "description": "AstraSkin BodyA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -10939,11 +11011,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "03df0be9"
+          "new_hash": "03df0be9",
+          "source": "AstraChandelier",
+          "description": "AstraChandelier BodyA MaterialMap 1024p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "03df0be9"
+          "new_hash": "03df0be9",
+          "source": "AstraYaoChandelier",
+          "description": "AstraSkin BodyA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -10956,11 +11032,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "cf8ecb3b"
+          "new_hash": "cf8ecb3b",
+          "source": "AstraChandelier",
+          "description": "AstraChandelier BodyA LightMap 1024p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "cf8ecb3b"
+          "new_hash": "cf8ecb3b",
+          "source": "AstraYaoChandelier",
+          "description": "AstraSkin BodyA LightMap 1024p Hash"
         }
       ]
     },
@@ -11239,11 +11319,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "515f9beb"
+          "new_hash": "515f9beb",
+          "source": "AstraChandelier",
+          "description": "AstraChandelier BodyA LightMap Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "515f9beb"
+          "new_hash": "515f9beb",
+          "source": "AstraYaoChandelier",
+          "description": "AstraYaoChandelier BodyA LightMap Hash"
         }
       ]
     },
@@ -11322,11 +11406,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "fa2f509f"
+          "new_hash": "fa2f509f",
+          "source": "AstraChandelier",
+          "description": "AstraChandelier BodyA MaterialMap Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "43a4d256"
+          "new_hash": "43a4d256",
+          "source": "AstraYaoChandelier",
+          "description": "AstraYaoChandelier BodyA MaterialMap Hash"
         }
       ]
     },
@@ -11636,7 +11724,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8ba0b335"
+          "new_hash": "8ba0b335",
+          "source": "AstraYao",
+          "description": "AstraYao Hair Texcoord Hash"
         }
       ]
     },
@@ -11673,7 +11763,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "9d35c352"
+          "new_hash": "9d35c352",
+          "source": "AstraYao",
+          "description": "AstraYao Body Blend Hash"
         }
       ]
     },
@@ -11710,7 +11802,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1433ee78"
+          "new_hash": "1433ee78",
+          "source": "AstraYao",
+          "description": "AstraYao Legs Texcoord Hash"
         }
       ]
     },
@@ -11723,7 +11817,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3283b8be"
+          "new_hash": "3283b8be",
+          "source": "AstraYao",
+          "description": "AstraYao Face Diffuse 1024p Hash"
         }
       ]
     },
@@ -11736,7 +11832,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "c41341b2"
+          "new_hash": "c41341b2",
+          "source": "AstraYao",
+          "description": "AstraYao Face Diffuse 2048p Hash"
         }
       ]
     },
@@ -11749,7 +11847,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2daa2443"
+          "new_hash": "2daa2443",
+          "source": "AstraYao",
+          "description": "1.5A -> 1.5B: AstraYao HairA, LegsA Diffuse 2048p Hash"
         }
       ]
     },
@@ -11762,7 +11862,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e634238a"
+          "new_hash": "e634238a",
+          "source": "AstraYao",
+          "description": "AstraYao HairA, LegsA Diffuse 2048p Hash"
         }
       ]
     },
@@ -11775,7 +11877,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b085765e"
+          "new_hash": "b085765e",
+          "source": "AstraYao",
+          "description": "1.5A -> 1.5B: AstraYao HairA, LegsA LightMap 2048p Hash"
         }
       ]
     },
@@ -11788,7 +11892,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "34f0706c"
+          "new_hash": "34f0706c",
+          "source": "AstraYao",
+          "description": "AstraYao HairA, LegsA LightMap 2048p Hash"
         }
       ]
     },
@@ -11801,7 +11907,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "883a578f"
+          "new_hash": "883a578f",
+          "source": "AstraYao",
+          "description": "AstraYao HairA, LegsA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -11814,7 +11922,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4b1c1b47"
+          "new_hash": "4b1c1b47",
+          "source": "AstraYao",
+          "description": "1.5A -> 1.5B: AstraYao HairA, LegsA Diffuse 1024p Hash"
         }
       ]
     },
@@ -11827,7 +11937,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "56c71ea2"
+          "new_hash": "56c71ea2",
+          "source": "AstraYao",
+          "description": "AstraYao HairA, LegsA Diffuse 1024p Hash"
         }
       ]
     },
@@ -11840,7 +11952,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "c47a524a"
+          "new_hash": "c47a524a",
+          "source": "AstraYao",
+          "description": "1.5A -> 1.5B: AstraYao HairA, LegsA LightMap 1024p Hash"
         }
       ]
     },
@@ -11853,7 +11967,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "fd3ca2a6"
+          "new_hash": "fd3ca2a6",
+          "source": "AstraYao",
+          "description": "AstraYao HairA, LegsA LightMap 1024p Hash"
         }
       ]
     },
@@ -11866,7 +11982,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "759c15e0"
+          "new_hash": "759c15e0",
+          "source": "AstraYao",
+          "description": "AstraYao HairA, LegsA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -13359,7 +13477,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "c2b4ce3a"
+          "new_hash": "c2b4ce3a",
+          "source": "Belle",
+          "description": "Belle Body IB Hash"
         }
       ]
     },
@@ -13429,7 +13549,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "c92a17d8"
+          "new_hash": "c92a17d8",
+          "source": "Belle",
+          "description": "Belle Body Blend Hash"
         }
       ]
     },
@@ -13442,7 +13564,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "801edbf4"
+          "new_hash": "801edbf4",
+          "source": "Belle",
+          "description": "Belle Body Texcoord Hash"
         },
         {
           "type": "update_blend_indices",
@@ -13891,7 +14015,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7d562f53"
+          "new_hash": "7d562f53",
+          "source": "Belle",
+          "description": "Belle HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -14105,7 +14231,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "34bdb036"
+          "new_hash": "34bdb036",
+          "source": "Belle",
+          "description": "Belle HairA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -14207,7 +14335,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7542ef4b"
+          "new_hash": "7542ef4b",
+          "source": "Belle",
+          "description": "Belle HairA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -14293,7 +14423,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Belle",
+          "description": "Belle HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -14331,7 +14463,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "24639b77"
+          "new_hash": "24639b77",
+          "source": "Belle",
+          "description": "Belle BodyA Diffuse 2048p Hash"
         }
       ]
     },
@@ -14385,7 +14519,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b9c7f71b"
+          "new_hash": "b9c7f71b",
+          "source": "Belle",
+          "description": "Belle BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -14447,7 +14583,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7947679c"
+          "new_hash": "7947679c",
+          "source": "Belle",
+          "description": "Belle BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -14501,7 +14639,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a4d3687d"
+          "new_hash": "a4d3687d",
+          "source": "Belle",
+          "description": "Belle BodyA LightMap 1024p Hash"
         }
       ]
     },
@@ -14650,7 +14790,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Belle",
+          "description": "Belle BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -15376,11 +15518,15 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "d3000b22"
+          "new_hash": "d3000b22",
+          "source": "Belle",
+          "description": "Belle Face texcoord_vb Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "d3000b22"
+          "new_hash": "d3000b22",
+          "source": "BelleTemple",
+          "description": "BelleTemple Face texcoord_vb [Legacy]"
         }
       ]
     },
@@ -15401,7 +15547,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "6ade3fdc"
+          "new_hash": "6ade3fdc",
+          "source": "Belle",
+          "description": "Belle Face blend_vb Hash"
         }
       ]
     },
@@ -15622,7 +15770,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "d9dc65da"
+          "new_hash": "d9dc65da",
+          "source": "BelleBrillianceOfStars",
+          "description": "BelleBrillianceOfStars BodyA Diffuse 1024p Hash"
         },
         {
           "type": "multiply_section_if_missing",
@@ -16534,11 +16684,15 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "d0627e1f"
+          "new_hash": "d0627e1f",
+          "source": "BelleDelicateSunlight",
+          "description": "BelleDelicateSunlight Neck IB Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "d0627e1f"
+          "new_hash": "d0627e1f",
+          "source": "BelleTemple",
+          "description": "BelleTemple Neck IB Hash [Legacy]"
         }
       ]
     },
@@ -17064,11 +17218,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8f7ae834"
+          "new_hash": "8f7ae834",
+          "source": "BelleDelicateSunlight",
+          "description": "BelleDelicateSunlight Hair Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "8f7ae834"
+          "new_hash": "8f7ae834",
+          "source": "BelleTemple",
+          "description": "BelleTemple Hair blend_vb [Legacy]"
         }
       ]
     },
@@ -17198,15 +17356,21 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "359e4502"
+          "new_hash": "359e4502",
+          "source": "BelleDelicateSunlight",
+          "description": "BelleDelicateSunlight Face blend_vb Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "359e4502"
+          "new_hash": "359e4502",
+          "source": "BelleSummer",
+          "description": "Belle Face blend_vb Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "359e4502"
+          "new_hash": "359e4502",
+          "source": "BelleTemple",
+          "description": "BelleTemple Face blend_vb [Legacy]"
         }
       ]
     },
@@ -17227,11 +17391,15 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "bcfc3326"
+          "new_hash": "bcfc3326",
+          "source": "BelleDelicateSunlight",
+          "description": "BelleDelicateSunlight Face texcoord_vb Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "bcfc3326"
+          "new_hash": "bcfc3326",
+          "source": "BelleTemple",
+          "description": "BelleTemple Face texcoord_vb Hash [Legacy]"
         }
       ]
     },
@@ -17277,7 +17445,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "3f594476"
+          "new_hash": "3f594476",
+          "source": "BelleTemple",
+          "description": "BelleTemple Neck draw_vb Hash [Legacy]"
         }
       ]
     },
@@ -17298,7 +17468,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "e2ee9309"
+          "new_hash": "e2ee9309",
+          "source": "BelleTemple",
+          "description": "BelleTemple Neck position_vb Hash [Legacy]"
         }
       ]
     },
@@ -17319,7 +17491,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "0a11b1d7"
+          "new_hash": "0a11b1d7",
+          "source": "BelleTemple",
+          "description": "BelleTemple Neck blend_vb Hash [Legacy]"
         }
       ]
     },
@@ -17340,7 +17514,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "2f7f6398"
+          "new_hash": "2f7f6398",
+          "source": "BelleTemple",
+          "description": "BelleTemple Neck texcoord_vb Hash [Legacy]"
         }
       ]
     },
@@ -17403,11 +17579,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4d74d5e9"
+          "new_hash": "4d74d5e9",
+          "source": "BelleDelicateSunlight",
+          "description": "BelleDelicateSunlight Body Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "4d74d5e9"
+          "new_hash": "4d74d5e9",
+          "source": "BelleTemple",
+          "description": "BelleTemple Body blend_vb Hash [Legacy]"
         }
       ]
     },
@@ -17495,11 +17675,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "922a7db6"
+          "new_hash": "922a7db6",
+          "source": "BelleDelicateSunlight",
+          "description": "BelleDelicateSunlight Leg Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "922a7db6"
+          "new_hash": "922a7db6",
+          "source": "BelleTemple",
+          "description": "BelleTemple Legs blend_vb Hash [Legacy]"
         }
       ]
     },
@@ -17537,11 +17721,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f3dedb50"
+          "new_hash": "f3dedb50",
+          "source": "BelleDelicateSunlight",
+          "description": "Updating BelleDelicateSunlight Body blend_vb to f3dedb50"
         },
         {
           "type": "update_hash",
-          "new_hash": "f3dedb50"
+          "new_hash": "f3dedb50",
+          "source": "BelleTemple",
+          "description": "Updating BelleTemple Body blend_vb to f3dedb50"
         }
       ]
     },
@@ -17554,11 +17742,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d761e076"
+          "new_hash": "d761e076",
+          "source": "BelleDelicateSunlight",
+          "description": "Updating BelleDelicateSunlight Body texcoord_vb to d761e076"
         },
         {
           "type": "update_hash",
-          "new_hash": "d761e076"
+          "new_hash": "d761e076",
+          "source": "BelleTemple",
+          "description": "Updating BelleTemple Body texcoord_vb to d761e076"
         }
       ]
     },
@@ -17571,11 +17763,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8a4e97cd"
+          "new_hash": "8a4e97cd",
+          "source": "BelleDelicateSunlight",
+          "description": "Updating BelleDelicateSunlight Body position_vb to 8a4e97cd"
         },
         {
           "type": "update_hash",
-          "new_hash": "8a4e97cd"
+          "new_hash": "8a4e97cd",
+          "source": "BelleTemple",
+          "description": "Updating BelleTemple Body position_vb to 8a4e97cd"
         }
       ]
     },
@@ -17588,11 +17784,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "19e5f486"
+          "new_hash": "19e5f486",
+          "source": "BelleDelicateSunlight",
+          "description": "Updating BelleDelicateSunlight Body draw_vb to 19e5f486"
         },
         {
           "type": "update_hash",
-          "new_hash": "19e5f486"
+          "new_hash": "19e5f486",
+          "source": "BelleTemple",
+          "description": "Updating BelleTemple Body draw_vb to 19e5f486"
         }
       ]
     },
@@ -17605,11 +17805,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d509bdd4"
+          "new_hash": "d509bdd4",
+          "source": "BelleDelicateSunlight",
+          "description": "Updating BelleDelicateSunlight Body IB to d509bdd4"
         },
         {
           "type": "update_hash",
-          "new_hash": "d509bdd4"
+          "new_hash": "d509bdd4",
+          "source": "BelleTemple",
+          "description": "Updating BelleTemple Body IB to d509bdd4"
         }
       ]
     },
@@ -17684,11 +17888,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f18dd23f"
+          "new_hash": "f18dd23f",
+          "source": "BelleDelicateSunlight",
+          "description": "BelleDelicateSunlight Headwear Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "f18dd23f"
+          "new_hash": "f18dd23f",
+          "source": "BelleTemple",
+          "description": "BelleTemple Neck blend_vb Hash [Legacy]"
         }
       ]
     },
@@ -17940,11 +18148,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "da2bfe2f"
+          "new_hash": "da2bfe2f",
+          "source": "BelleDelicateSunlight",
+          "description": "BelleSkin BodyA Diffuse 2048p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "da2bfe2f"
+          "new_hash": "da2bfe2f",
+          "source": "BelleTemple",
+          "description": "BelleTemple Body/Neck/Legs Diffuse Hash [Legacy]"
         }
       ]
     },
@@ -18036,11 +18248,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "fdf0b49e"
+          "new_hash": "fdf0b49e",
+          "source": "BelleDelicateSunlight",
+          "description": "BelleSkin BodyA Diffuse 1024p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "fdf0b49e"
+          "new_hash": "fdf0b49e",
+          "source": "BelleTemple",
+          "description": "BelleTemple Body/Neck/Legs Diffuse Hash [Legacy]"
         }
       ]
     },
@@ -20826,11 +21042,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0a00d846"
+          "new_hash": "0a00d846",
+          "source": "BelleSummer",
+          "description": "BelleSummer Tshirt Blend"
         },
         {
           "type": "update_hash",
-          "new_hash": "0a00d846"
+          "new_hash": "0a00d846",
+          "source": "BelleSummerSkies",
+          "description": "BellesWimwear Tshirt Blend"
         }
       ]
     },
@@ -20843,14 +21063,18 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "619c5c94"
+          "new_hash": "619c5c94",
+          "source": "BelleSummer",
+          "description": "BelleSummer Body IB Hash [Legacy]"
         },
         {
           "type": "add_ib_check_if_missing"
         },
         {
           "type": "update_hash",
-          "new_hash": "619c5c94"
+          "new_hash": "619c5c94",
+          "source": "BelleSummerSkies",
+          "description": "BelleSummerSkies Body IB Hash"
         }
       ]
     },
@@ -20863,11 +21087,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "325b4a1c"
+          "new_hash": "325b4a1c",
+          "source": "BelleSummer",
+          "description": "BelleSummer Tshirt Texcoord"
         },
         {
           "type": "update_hash",
-          "new_hash": "325b4a1c"
+          "new_hash": "325b4a1c",
+          "source": "BelleSummerSkies",
+          "description": "BellesWimwear Tshirt Texcoord"
         }
       ]
     },
@@ -20880,11 +21108,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "60250d24"
+          "new_hash": "60250d24",
+          "source": "BelleSummer",
+          "description": "BelleSummer LightMap 2048p Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "60250d24"
+          "new_hash": "60250d24",
+          "source": "BelleSummerSkies",
+          "description": "BelleSummerSkies BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -20897,14 +21129,18 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a7683988"
+          "new_hash": "a7683988",
+          "source": "BelleSummer",
+          "description": "BelleSummer Hair IB Hash [Legacy]"
         },
         {
           "type": "add_ib_check_if_missing"
         },
         {
           "type": "update_hash",
-          "new_hash": "a7683988"
+          "new_hash": "a7683988",
+          "source": "BelleSummerSkies",
+          "description": "BelleSummerSkies Hair IB Hash"
         }
       ]
     },
@@ -20917,11 +21153,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0139f7e8"
+          "new_hash": "0139f7e8",
+          "source": "BelleSummer",
+          "description": "Belle blend_vb Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "0139f7e8"
+          "new_hash": "0139f7e8",
+          "source": "BelleSummerSkies",
+          "description": "BellesWimwear Tshirt Blend"
         }
       ]
     },
@@ -21496,11 +21736,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4f3ddd5c"
+          "new_hash": "4f3ddd5c",
+          "source": "BelleSummer",
+          "description": "BelleSummer Body Blend"
         },
         {
           "type": "update_hash",
-          "new_hash": "4f3ddd5c"
+          "new_hash": "4f3ddd5c",
+          "source": "BelleSummerSkies",
+          "description": "BellesWimwear Body Blend"
         }
       ]
     },
@@ -21513,11 +21757,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "5978a2ca"
+          "new_hash": "5978a2ca",
+          "source": "BelleSummer",
+          "description": "Belle LightMap 1024p Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "5978a2ca"
+          "new_hash": "5978a2ca",
+          "source": "BelleSummerSkies",
+          "description": "BelleSummerSkies BodyA LightMap 1024p Hash"
         }
       ]
     },
@@ -21688,57 +21936,75 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "91fbd2fa"
+          "new_hash": "91fbd2fa",
+          "source": "BelleTemple",
+          "description": "Belle Body Texcoord Hash [Legacy] 2.0"
         },
         {
           "type": "update_hash",
-          "new_hash": "91fbd2fa"
+          "new_hash": "91fbd2fa",
+          "source": "Wise",
+          "description": "Wise Body Texcoord Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "91fbd2fa"
+          "new_hash": "91fbd2fa",
+          "source": "WiseTemple",
+          "description": "Wise Body Texcoord Hash [Legacy] 2.0"
         }
       ]
     },
     "84529dab": {
       "hash": "84529dab",
-      "character": "BelleTemple",
-      "description": "Belle BodyA Diffuse 2048p Hash [Legacy] Old",
+      "character": "Wise",
+      "description": "1.0 - 1.1: Wise BodyA Diffuse 2048p Hash",
       "version_from": "",
       "version_to": "2.8",
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "da2bfe2f"
+          "new_hash": "868709f2",
+          "source": "Wise",
+          "description": "1.0 - 1.1: Wise BodyA Diffuse 2048p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "868709f2"
+          "new_hash": "f2fb7a37",
+          "source": "WiseTemple",
+          "description": "Wise BodyA Diffuse 2048p Hash [Legacy] Old"
         },
         {
           "type": "update_hash",
-          "new_hash": "f2fb7a37"
+          "new_hash": "da2bfe2f",
+          "source": "BelleTemple",
+          "description": "Belle BodyA Diffuse 2048p Hash [Legacy] Old"
         }
       ]
     },
     "ef76b675": {
       "hash": "ef76b675",
-      "character": "BelleTemple",
-      "description": "Belle BodyA Diffuse 1024p Hash [Legacy] Old",
+      "character": "Wise",
+      "description": "1.0 - 1.1: Wise BodyA Diffuse 1024p Hash",
       "version_from": "",
       "version_to": "2.8",
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0a2e0f42"
+          "new_hash": "3d7a53b0",
+          "source": "Wise",
+          "description": "1.0 - 1.1: Wise BodyA Diffuse 1024p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "3d7a53b0"
+          "new_hash": "3d7a53b0",
+          "source": "WiseTemple",
+          "description": "Wise BodyA Diffuse 1024p Hash [Legacy] Old"
         },
         {
           "type": "update_hash",
-          "new_hash": "3d7a53b0"
+          "new_hash": "0a2e0f42",
+          "source": "BelleTemple",
+          "description": "Belle BodyA Diffuse 1024p Hash [Legacy] Old"
         }
       ]
     },
@@ -21792,7 +22058,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2fa5ffa7"
+          "new_hash": "2fa5ffa7",
+          "source": "Ben",
+          "description": "Ben FaceA LightMap Hash (OLD)"
         },
         {
           "type": "add_section_if_missing",
@@ -21863,7 +22131,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "12e5120e"
+          "new_hash": "12e5120e",
+          "source": "Ben",
+          "description": "Ben FaceA MaterialMap Hash (OLD)"
         },
         {
           "type": "add_section_if_missing",
@@ -21934,7 +22204,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "21dd67a7"
+          "new_hash": "21dd67a7",
+          "source": "Ben",
+          "description": "Ben Body Blend Hash (OLD)"
         }
       ]
     },
@@ -21972,7 +22244,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d27a8f6b"
+          "new_hash": "d27a8f6b",
+          "source": "Ben",
+          "description": "Ben BodyA LightMap Hash (OLD)"
         },
         {
           "type": "add_section_if_missing",
@@ -22043,7 +22317,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2edd6f62"
+          "new_hash": "2edd6f62",
+          "source": "Ben",
+          "description": "Ben BodyA MaterialMap Hash (OLD)"
         },
         {
           "type": "add_section_if_missing",
@@ -22122,7 +22398,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2fa5ffa7"
+          "new_hash": "2fa5ffa7",
+          "source": "Ben",
+          "description": "Ben FaceA LightMap 1024p Hash (LEGACY)"
         }
       ]
     },
@@ -22135,7 +22413,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "12e5120e"
+          "new_hash": "12e5120e",
+          "source": "Ben",
+          "description": "Ben FaceA MaterialMap 1024p Hash (LEGACY)"
         }
       ]
     },
@@ -22148,7 +22428,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Ben",
+          "description": "Ben FaceA NormalMap 2048p Hash (LEGACY)"
         }
       ]
     },
@@ -22161,7 +22443,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Ben",
+          "description": "Ben FaceA NormalMap 1024p Hash (LEGACY)"
         }
       ]
     },
@@ -22182,7 +22466,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d27a8f6b"
+          "new_hash": "d27a8f6b",
+          "source": "Ben",
+          "description": "Ben BodyA LightMap 1024p Hash (LEGACY)"
         }
       ]
     },
@@ -22195,7 +22481,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2edd6f62"
+          "new_hash": "2edd6f62",
+          "source": "Ben",
+          "description": "Ben BodyA MaterialMap 1024p Hash (LEGACY)"
         }
       ]
     },
@@ -22208,7 +22496,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Ben",
+          "description": "Ben BodyA NormalMap 2048p Hash (LEGACY)"
         }
       ]
     },
@@ -22221,7 +22511,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Ben",
+          "description": "Ben BodyA NormalMap 1024p Hash (LEGACY)"
         }
       ]
     },
@@ -22639,7 +22931,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Billy",
+          "description": "Billy HeadA NormalMap 2048p Hash"
         }
       ]
     },
@@ -22652,7 +22946,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "cf4769ce"
+          "new_hash": "cf4769ce",
+          "source": "Billy",
+          "description": "Billy HeadA LightMap 2048p Hash"
         }
       ]
     },
@@ -22729,7 +23025,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3a7d88a1"
+          "new_hash": "3a7d88a1",
+          "source": "Billy",
+          "description": "Billy HeadA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -22806,7 +23104,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ff939fb7"
+          "new_hash": "ff939fb7",
+          "source": "Billy",
+          "description": "Billy HairA Diffuse 2048p Hash"
         }
       ]
     },
@@ -22923,7 +23223,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b6e1da4b"
+          "new_hash": "b6e1da4b",
+          "source": "Billy",
+          "description": "Billy HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -22977,7 +23279,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2edbc842"
+          "new_hash": "2edbc842",
+          "source": "Billy",
+          "description": "Billy HairA LightMap 1024p Hash"
         }
       ]
     },
@@ -23054,7 +23358,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "798adba3"
+          "new_hash": "798adba3",
+          "source": "Billy",
+          "description": "Billy HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -23164,7 +23470,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6305a7f4"
+          "new_hash": "6305a7f4",
+          "source": "Billy",
+          "description": "Billy BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -23313,7 +23621,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Billy",
+          "description": "Billy BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -23741,7 +24051,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "68f0fb19"
+          "new_hash": "68f0fb19",
+          "source": "Burnice",
+          "description": "Burnice HeadA Diffuse 1024p Hash"
         }
       ]
     },
@@ -23779,7 +24091,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "c4b6bb10"
+          "new_hash": "c4b6bb10",
+          "source": "Burnice",
+          "description": "Burnice HeadA Diffuse 2048p Hash"
         }
       ]
     },
@@ -23961,7 +24275,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Burnice",
+          "description": "Burnice HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -24142,7 +24458,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Burnice",
+          "description": "Burnice BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -24750,7 +25068,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "72537fa3"
+          "new_hash": "72537fa3",
+          "source": "Caesar",
+          "description": "Caesar Hair Texcoord Hash"
         },
         {
           "type": "remap_texcoord",
@@ -24787,7 +25107,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0ca81129"
+          "new_hash": "0ca81129",
+          "source": "Caesar",
+          "description": "Caesar Body Texcoord Hash"
         },
         {
           "type": "remap_texcoord",
@@ -24922,7 +25244,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d5d3585b"
+          "new_hash": "d5d3585b",
+          "source": "Caesar",
+          "description": "Caesar HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -25072,7 +25396,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Caesar",
+          "description": "Caesar HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -25254,7 +25580,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Caesar",
+          "description": "Caesar BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -25267,7 +25595,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Caesar",
+          "description": "1.4B -> 2.5: Caesar BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -25280,7 +25610,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Caesar",
+          "description": "Caesar BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -25293,7 +25625,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a8abff9d"
+          "new_hash": "a8abff9d",
+          "source": "Caesar",
+          "description": "Caesar BodyA NormalMap 1024p Hash"
         }
       ]
     },
@@ -26038,7 +26372,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6d861173"
+          "new_hash": "6d861173",
+          "source": "Cissia",
+          "description": "Cissia BodyC Diffuse 1024p Hash"
         }
       ]
     },
@@ -26947,7 +27283,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "5fa50113"
+          "new_hash": "5fa50113",
+          "source": "Corin",
+          "description": "Corin Hair Blend Hash (Old)"
         }
       ]
     },
@@ -26960,7 +27298,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "abc95b03"
+          "new_hash": "abc95b03",
+          "source": "Corin",
+          "description": "Corin Hair Texcoord Hash (Old)"
         }
       ]
     },
@@ -27125,7 +27465,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "74d66671"
+          "new_hash": "74d66671",
+          "source": "Corin",
+          "description": "Corin HairA LightMap 2048p Hash (Old)"
         }
       ]
     },
@@ -27251,7 +27593,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Corin",
+          "description": "Corin HairA NormalMap 2048p Hash (Old)"
         }
       ]
     },
@@ -27320,7 +27664,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e1c1718f"
+          "new_hash": "e1c1718f",
+          "source": "Corin",
+          "description": "Corin BodyA, BearA LightMap 2048p Hash (Old)"
         }
       ]
     },
@@ -27397,7 +27743,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e58d9767"
+          "new_hash": "e58d9767",
+          "source": "Corin",
+          "description": "Corin BodyA, BearA MaterialMap 2048p Hash (Old)"
         }
       ]
     },
@@ -27474,7 +27822,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Corin",
+          "description": "Corin BodyA, BearA NormalMap 2048p Hash (Old)"
         }
       ]
     },
@@ -27888,7 +28238,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3d7e53cf"
+          "new_hash": "3d7e53cf",
+          "source": "Dialyn",
+          "description": "1 Dialyn Body blend"
         },
         {
           "type": "update_blend_indices",
@@ -29037,7 +29389,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f6ef8f3a"
+          "new_hash": "f6ef8f3a",
+          "source": "Ellen",
+          "description": "Ellen Head IB Hash"
         }
       ]
     },
@@ -29050,7 +29404,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d44a8015"
+          "new_hash": "d44a8015",
+          "source": "Ellen",
+          "description": "Ellen Hair IB Hash"
         }
       ]
     },
@@ -29063,7 +29419,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e30fae03"
+          "new_hash": "e30fae03",
+          "source": "Ellen",
+          "description": "Ellen Body IB Hash"
         }
       ]
     },
@@ -29076,7 +29434,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "89589539"
+          "new_hash": "89589539",
+          "source": "Ellen",
+          "description": "Ellen Body Blend Hash"
         }
       ]
     },
@@ -29089,7 +29449,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8744badf"
+          "new_hash": "8744badf",
+          "source": "Ellen",
+          "description": "Ellen Head Texcoord Hash"
         }
       ]
     },
@@ -29102,7 +29464,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "77ac5f85"
+          "new_hash": "77ac5f85",
+          "source": "Ellen",
+          "description": "Ellen Hair Draw Hash"
         }
       ]
     },
@@ -29115,7 +29479,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ba0fe600"
+          "new_hash": "ba0fe600",
+          "source": "Ellen",
+          "description": "Ellen Hair Position Hash"
         }
       ]
     },
@@ -29128,7 +29494,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "5c33833e"
+          "new_hash": "5c33833e",
+          "source": "Ellen",
+          "description": "Ellen Hair Texcoord Hash"
         },
         {
           "type": "remap_texcoord",
@@ -29159,7 +29527,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a27a8e1a"
+          "new_hash": "a27a8e1a",
+          "source": "Ellen",
+          "description": "Ellen Hair Texcoord Hash"
         },
         {
           "type": "shrink_texcoord_color",
@@ -29176,7 +29546,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "52188576"
+          "new_hash": "52188576",
+          "source": "Ellen",
+          "description": "Ellen Hair Blend Hash"
         }
       ]
     },
@@ -29225,7 +29597,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "e91c93e0"
+          "new_hash": "e91c93e0",
+          "source": "Ellen",
+          "description": "Ellen Hair Blend Remap"
         }
       ]
     },
@@ -29238,7 +29612,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "cdce1fc2"
+          "new_hash": "cdce1fc2",
+          "source": "Ellen",
+          "description": "Ellen Body Draw Hash"
         }
       ]
     },
@@ -29251,7 +29627,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b78f3616"
+          "new_hash": "b78f3616",
+          "source": "Ellen",
+          "description": "Ellen Body Position Hash"
         }
       ]
     },
@@ -29264,7 +29642,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "5ac6d5ee"
+          "new_hash": "5ac6d5ee",
+          "source": "Ellen",
+          "description": "Ellen Body Texcoord Hash"
         }
       ]
     },
@@ -29277,7 +29657,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ed9cb852"
+          "new_hash": "ed9cb852",
+          "source": "Ellen",
+          "description": "Ellen Body Blend Hash"
         }
       ]
     },
@@ -29290,7 +29672,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "465a66eb"
+          "new_hash": "465a66eb",
+          "source": "Ellen",
+          "description": "Ellen HeadA Diffuse 2048p Hash"
         }
       ]
     },
@@ -29337,7 +29721,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4808d050"
+          "new_hash": "4808d050",
+          "source": "Ellen",
+          "description": "Ellen HeadA Diffuse 1024p Hash"
         }
       ]
     },
@@ -29534,7 +29920,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Ellen",
+          "description": "Ellen HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -29573,7 +29961,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "163e2559"
+          "new_hash": "163e2559",
+          "source": "Ellen",
+          "description": "-> 1.1: Ellen BodyA Diffuse 2048p Hash"
         }
       ]
     },
@@ -29612,7 +30002,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "22fa0cd6"
+          "new_hash": "22fa0cd6",
+          "source": "Ellen",
+          "description": "-> 1.1: Ellen BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -29751,7 +30143,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Ellen",
+          "description": "Ellen BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -30601,7 +30995,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8740602f"
+          "new_hash": "8740602f",
+          "source": "EllenCampus",
+          "description": "EllenSkin HairA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -30646,7 +31042,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0ab940d8"
+          "new_hash": "0ab940d8",
+          "source": "EllenCampus",
+          "description": "EllenSkin HairA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -30899,7 +31297,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1d7b458d"
+          "new_hash": "1d7b458d",
+          "source": "EllenCampus",
+          "description": "EllenSkin BodyA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -30944,7 +31344,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ae919d9f"
+          "new_hash": "ae919d9f",
+          "source": "EllenCampus",
+          "description": "EllenSkin BodyA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -31197,7 +31599,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "51cc39d5"
+          "new_hash": "51cc39d5",
+          "source": "EllenCampus",
+          "description": "EllenSkin TailA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -31242,7 +31646,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "cf37068c"
+          "new_hash": "cf37068c",
+          "source": "EllenCampus",
+          "description": "EllenSkin TailA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -32654,7 +33060,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3b80154c"
+          "new_hash": "3b80154c",
+          "source": "Grace",
+          "description": "Grace Body Blend Hash"
         }
       ]
     },
@@ -32675,7 +33083,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "89d903ba"
+          "new_hash": "89d903ba",
+          "source": "Grace",
+          "description": "Grace Hair Texcoord Hash"
         },
         {
           "type": "shrink_texcoord_color",
@@ -32692,7 +33102,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f1cba806"
+          "new_hash": "f1cba806",
+          "source": "Grace",
+          "description": "Grace Body Draw Hash"
         }
       ]
     },
@@ -32705,7 +33117,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8855c5cf"
+          "new_hash": "8855c5cf",
+          "source": "Grace",
+          "description": "Grace Body Position Hash"
         },
         {
           "type": "update_blend_indices",
@@ -32836,7 +33250,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4bb45448"
+          "new_hash": "4bb45448",
+          "source": "Grace",
+          "description": "Grace Body Texcoord Hash"
         }
       ]
     },
@@ -32849,7 +33265,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8b240678"
+          "new_hash": "8b240678",
+          "source": "Grace",
+          "description": "Grace Body IB Hash"
         },
         {
           "type": "remap_indices",
@@ -32969,7 +33387,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a22d2c2c"
+          "new_hash": "a22d2c2c",
+          "source": "Grace",
+          "description": "Grace HairA LightMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -33086,7 +33506,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7bb81a4f"
+          "new_hash": "7bb81a4f",
+          "source": "Grace",
+          "description": "Grace HairA MaterialMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -33203,7 +33625,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Grace",
+          "description": "Grace HairA NormalMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -33306,7 +33730,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "895fa458"
+          "new_hash": "895fa458",
+          "source": "Grace",
+          "description": "Grace BodyA LightMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -33477,7 +33903,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Grace",
+          "description": "Grace BodyA NormalMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -33531,7 +33959,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "9c7057e8"
+          "new_hash": "9c7057e8",
+          "source": "Grace",
+          "description": "Grace BodyB Diffuse 2048p Hash"
         }
       ]
     },
@@ -33570,7 +34000,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ac361185"
+          "new_hash": "ac361185",
+          "source": "Grace",
+          "description": "Grace BodyB Diffuse 1024p Hash"
         }
       ]
     },
@@ -33709,7 +34141,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Grace",
+          "description": "Grace BodyB NormalMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -34216,7 +34650,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6324de38"
+          "new_hash": "6324de38",
+          "source": "Harumasa",
+          "description": "Harumasa Hair IB Hash"
         }
       ]
     },
@@ -34241,7 +34677,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "9f75c05c"
+          "new_hash": "9f75c05c",
+          "source": "Harumasa",
+          "description": "Harumasa Hair Draw Hash"
         }
       ]
     },
@@ -34254,7 +34692,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "eddb9012"
+          "new_hash": "eddb9012",
+          "source": "Harumasa",
+          "description": "Harumasa Hair Position Hash"
         }
       ]
     },
@@ -34267,7 +34707,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2644c499"
+          "new_hash": "2644c499",
+          "source": "Harumasa",
+          "description": "Harumasa Hair Blend Hash"
         }
       ]
     },
@@ -34280,7 +34722,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4f45a9c5"
+          "new_hash": "4f45a9c5",
+          "source": "Harumasa",
+          "description": "Harumasa Hair Texcoord Hash"
         }
       ]
     },
@@ -34317,7 +34761,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "11041778"
+          "new_hash": "11041778",
+          "source": "Harumasa",
+          "description": "Harumasa HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -34428,7 +34874,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "11041778"
+          "new_hash": "11041778",
+          "source": "Harumasa",
+          "description": "Harumasa HairA LightMap 1024p Hash"
         }
       ]
     },
@@ -34525,7 +34973,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "72885950"
+          "new_hash": "72885950",
+          "source": "Harumasa",
+          "description": "Harumasa LegsA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -34636,7 +35086,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "72885950"
+          "new_hash": "72885950",
+          "source": "Harumasa",
+          "description": "Harumasa LegsA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -34649,7 +35101,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "79679a10"
+          "new_hash": "79679a10",
+          "source": "Harumasa",
+          "description": "Harumasa Body IB Hash"
         }
       ]
     },
@@ -34674,7 +35128,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1fb92e46"
+          "new_hash": "1fb92e46",
+          "source": "Harumasa",
+          "description": "Harumasa Body Draw Hash"
         }
       ]
     },
@@ -34687,7 +35143,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0899751e"
+          "new_hash": "0899751e",
+          "source": "Harumasa",
+          "description": "Harumasa Body Position Hash"
         }
       ]
     },
@@ -34700,7 +35158,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "347a0e9d"
+          "new_hash": "347a0e9d",
+          "source": "Harumasa",
+          "description": "Harumasa Body Blend Hash"
         }
       ]
     },
@@ -34713,7 +35173,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e14fbc30"
+          "new_hash": "e14fbc30",
+          "source": "Harumasa",
+          "description": "Harumasa Body Texcoord Hash"
         }
       ]
     },
@@ -34726,7 +35188,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "49f8aaf6"
+          "new_hash": "49f8aaf6",
+          "source": "Harumasa",
+          "description": "Harumasa BodyA Diffuse 2048p Hash"
         }
       ]
     },
@@ -34790,7 +35254,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6d105f7e"
+          "new_hash": "6d105f7e",
+          "source": "Harumasa",
+          "description": "Harumasa BodyA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -34829,7 +35295,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "999ec526"
+          "new_hash": "999ec526",
+          "source": "Harumasa",
+          "description": "Harumasa BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -34893,7 +35361,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "c90264db"
+          "new_hash": "c90264db",
+          "source": "Harumasa",
+          "description": "Harumasa BodyA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -37515,7 +37985,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "257a90d6"
+          "new_hash": "257a90d6",
+          "source": "JaneDoe",
+          "description": "Jane Hair Texcoord Hash"
         },
         {
           "type": "shrink_texcoord_color",
@@ -37532,7 +38004,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2d06e785"
+          "new_hash": "2d06e785",
+          "source": "JaneDoe",
+          "description": "Jane Hair Draw Hash"
         }
       ]
     },
@@ -37545,7 +38019,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e7a3b7dc"
+          "new_hash": "e7a3b7dc",
+          "source": "JaneDoe",
+          "description": "Jane Hair Position Hash"
         },
         {
           "type": "update_blend_indices",
@@ -37696,7 +38172,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8721477f"
+          "new_hash": "8721477f",
+          "source": "JaneDoe",
+          "description": "Jane Hair Blend Hash"
         },
         {
           "type": "update_blend_indices",
@@ -37847,7 +38325,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "acec29f8"
+          "new_hash": "acec29f8",
+          "source": "JaneDoe",
+          "description": "Jane Hair Texcoord Hash"
         }
       ]
     },
@@ -37860,7 +38340,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "9268a5af"
+          "new_hash": "9268a5af",
+          "source": "JaneDoe",
+          "description": "Jane Hair IB Hash"
         }
       ]
     },
@@ -37873,7 +38355,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3275b812"
+          "new_hash": "3275b812",
+          "source": "JaneDoe",
+          "description": "Jane Hair IB Hash"
         },
         {
           "type": "remap_indices",
@@ -37897,7 +38381,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e42171df"
+          "new_hash": "e42171df",
+          "source": "JaneDoe",
+          "description": "Jane Hair Blend Hash"
         },
         {
           "type": "update_blend_indices",
@@ -38048,7 +38534,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "33a09cfe"
+          "new_hash": "33a09cfe",
+          "source": "JaneDoe",
+          "description": "Jane Hair Position Hash"
         },
         {
           "type": "update_blend_indices",
@@ -38199,7 +38687,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "fa617c9a"
+          "new_hash": "fa617c9a",
+          "source": "JaneDoe",
+          "description": "Jane Hair Texcoord Hash"
         }
       ]
     },
@@ -38212,7 +38702,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "74bc0b7f"
+          "new_hash": "74bc0b7f",
+          "source": "JaneDoe",
+          "description": "Jane Hair Draw Hash"
         }
       ]
     },
@@ -38225,7 +38717,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0e1c6740"
+          "new_hash": "0e1c6740",
+          "source": "JaneDoe",
+          "description": "Jane Body Draw Hash"
         }
       ]
     },
@@ -38238,7 +38732,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "10050266"
+          "new_hash": "10050266",
+          "source": "JaneDoe",
+          "description": "Jane Body Position Hash"
         }
       ]
     },
@@ -38251,7 +38747,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e27f398e"
+          "new_hash": "e27f398e",
+          "source": "JaneDoe",
+          "description": "Jane Body Blend Hash"
         }
       ]
     },
@@ -38264,7 +38762,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "949549de"
+          "new_hash": "949549de",
+          "source": "JaneDoe",
+          "description": "Jane Body Texcoord Hash"
         }
       ]
     },
@@ -38277,7 +38777,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ba4255a5"
+          "new_hash": "ba4255a5",
+          "source": "JaneDoe",
+          "description": "Jane Body IB Hash"
         }
       ]
     },
@@ -38290,7 +38792,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d823ac80"
+          "new_hash": "d823ac80",
+          "source": "JaneDoe",
+          "description": "Jane HeadA Diffuse 1024p Hash"
         }
       ]
     },
@@ -38303,7 +38807,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3b75aa2c"
+          "new_hash": "3b75aa2c",
+          "source": "JaneDoe",
+          "description": "Jane HeadA Diffuse 2048p Hash"
         }
       ]
     },
@@ -38966,7 +39472,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1fa404c1"
+          "new_hash": "1fa404c1",
+          "source": "JaneDoe",
+          "description": "Jane Head Texcoord Hash"
         }
       ]
     },
@@ -40812,7 +41320,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e35571a9"
+          "new_hash": "e35571a9",
+          "source": "Koleda",
+          "description": "Koleda Hair Texcoord Hash"
         },
         {
           "type": "remap_texcoord",
@@ -40841,7 +41351,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "38b31082"
+          "new_hash": "38b31082",
+          "source": "Koleda",
+          "description": "Koleda Body Texcoord Hash"
         },
         {
           "type": "remap_texcoord",
@@ -40966,7 +41478,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a451ca03"
+          "new_hash": "a451ca03",
+          "source": "Koleda",
+          "description": "Koleda HairA LightMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -41082,7 +41596,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Koleda",
+          "description": "Koleda HairA NormalMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -41182,7 +41698,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7c1bce32"
+          "new_hash": "7c1bce32",
+          "source": "Koleda",
+          "description": "Koleda BodyA LightMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -41298,7 +41816,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b60ace0c"
+          "new_hash": "b60ace0c",
+          "source": "Koleda",
+          "description": "Koleda BodyA MaterialMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -41414,7 +41934,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Koleda",
+          "description": "Koleda BodyA NormalMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -41682,7 +42204,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f41b27e6"
+          "new_hash": "f41b27e6",
+          "source": "Koleda",
+          "description": "Koleda Head Texcoord Hash"
         }
       ]
     },
@@ -42021,7 +42545,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "dcc7bb78"
+          "new_hash": "dcc7bb78",
+          "source": "Lighter",
+          "description": "Lighter Face IB Hash"
         }
       ]
     },
@@ -42082,7 +42608,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "5e461440"
+          "new_hash": "5e461440",
+          "source": "Lighter",
+          "description": "Lighter Body Position Hash"
         }
       ]
     },
@@ -42095,7 +42623,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "25ad7289"
+          "new_hash": "25ad7289",
+          "source": "Lighter",
+          "description": "Lighter Body Texcoord Hash"
         }
       ]
     },
@@ -42108,7 +42638,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f6bbabb5"
+          "new_hash": "f6bbabb5",
+          "source": "Lighter",
+          "description": "Lighter Body Position Hash"
         }
       ]
     },
@@ -42121,7 +42653,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e1ae7f38"
+          "new_hash": "e1ae7f38",
+          "source": "Lighter",
+          "description": "Lighter Body Texcoord Hash"
         }
       ]
     },
@@ -42184,7 +42718,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0ee07935"
+          "new_hash": "0ee07935",
+          "source": "Lighter",
+          "description": "Lighter HairA Diffuse 1024p Hash"
         }
       ]
     },
@@ -42246,7 +42782,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "99ad14f1"
+          "new_hash": "99ad14f1",
+          "source": "Lighter",
+          "description": "Lighter HairA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -42936,7 +43474,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "88aecee2"
+          "new_hash": "88aecee2",
+          "source": "Lighter",
+          "description": "Lighter Arm Texcoord Hash"
         }
       ]
     },
@@ -43016,7 +43556,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "90653c42"
+          "new_hash": "90653c42",
+          "source": "Lighter",
+          "description": "Lighter Face Position Hash"
         }
       ]
     },
@@ -44217,7 +44759,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a37c7537"
+          "new_hash": "a37c7537",
+          "source": "Lucy",
+          "description": "Lucy Hair Blend Hash"
         }
       ]
     },
@@ -44230,7 +44774,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "c8810832"
+          "new_hash": "c8810832",
+          "source": "Lucy",
+          "description": "Lucy Hair Texcoord Hash"
         }
       ]
     },
@@ -44243,7 +44789,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "69ad9d08"
+          "new_hash": "69ad9d08",
+          "source": "Lucy",
+          "description": "Lucy Hair IB Hash"
         },
         {
           "type": "remap_indices",
@@ -44267,7 +44815,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "246b93e2"
+          "new_hash": "246b93e2",
+          "source": "Lucy",
+          "description": "Lucy Body Position Hash"
         }
       ]
     },
@@ -44280,7 +44830,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "66948a0f"
+          "new_hash": "66948a0f",
+          "source": "Lucy",
+          "description": "Lucy Body Blend Hash"
         }
       ]
     },
@@ -44293,7 +44845,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f60dbb9e"
+          "new_hash": "f60dbb9e",
+          "source": "Lucy",
+          "description": "Lucy Body Texcoord Hash"
         }
       ]
     },
@@ -44306,7 +44860,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "be5f4c7d"
+          "new_hash": "be5f4c7d",
+          "source": "Lucy",
+          "description": "Lucy Body IB Hash"
         }
       ]
     },
@@ -44319,7 +44875,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "df3e3965"
+          "new_hash": "df3e3965",
+          "source": "Lucy",
+          "description": "Lucy Head IB Hash"
         }
       ]
     },
@@ -44332,7 +44890,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2578d35b"
+          "new_hash": "2578d35b",
+          "source": "Lucy",
+          "description": "Lucy HeadA Diffuse 1024p Hash"
         }
       ]
     },
@@ -44345,7 +44905,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4e2d5baa"
+          "new_hash": "4e2d5baa",
+          "source": "Lucy",
+          "description": "Lucy HeadA Diffuse 1024p Hash"
         }
       ]
     },
@@ -44424,7 +44986,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "753baa45"
+          "new_hash": "753baa45",
+          "source": "Lucy",
+          "description": "Lucy HairA, SnoutA, BeltA Diffuse 1024p Hash"
         }
       ]
     },
@@ -44437,7 +45001,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "368f931c"
+          "new_hash": "368f931c",
+          "source": "Lucy",
+          "description": "Lucy HairA, SnoutA, BeltA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -44450,7 +45016,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0fa60fe1"
+          "new_hash": "0fa60fe1",
+          "source": "Lucy",
+          "description": "Lucy HairA, SnoutA, BeltA Diffuse 2048p Hash"
         }
       ]
     },
@@ -44463,7 +45031,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "068aba7f"
+          "new_hash": "068aba7f",
+          "source": "Lucy",
+          "description": "Lucy HairA, SnoutA, BeltA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -44618,7 +45188,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Lucy",
+          "description": "Lucy HairA, SnoutA, BeltA NormalMap 2048p Hash"
         }
       ]
     },
@@ -44631,7 +45203,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Lucy",
+          "description": "Lucy HairA, SnoutA, BeltA NormalMap 1024p Hash"
         }
       ]
     },
@@ -44740,7 +45314,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Lucy",
+          "description": "Lucy BodyA, RedClothA NormalMap 2048p Hash"
         }
       ]
     },
@@ -44753,7 +45329,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Lucy",
+          "description": "Lucy BodyA, RedClothA NormalMap 1024p Hash"
         }
       ]
     },
@@ -44862,7 +45440,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0a99d9d5"
+          "new_hash": "0a99d9d5",
+          "source": "Lucy",
+          "description": "Lucy HelmetA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -44875,7 +45455,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0a99d9d5"
+          "new_hash": "0a99d9d5",
+          "source": "Lucy",
+          "description": "Lucy HelmetA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -44888,7 +45470,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Lucy",
+          "description": "Lucy HelmetA NormalMap 2048p Hash"
         }
       ]
     },
@@ -44901,7 +45485,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Lucy",
+          "description": "Lucy HelmetA NormalMap 1024p Hash"
         }
       ]
     },
@@ -45459,7 +46045,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1ca0ae1a"
+          "new_hash": "1ca0ae1a",
+          "source": "Lucy",
+          "description": "Lucy Head Texcoord Hash"
         }
       ]
     },
@@ -45489,7 +46077,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a2054778"
+          "new_hash": "a2054778",
+          "source": "Lucy",
+          "description": "Lucy Head Blend Hash"
         }
       ]
     },
@@ -45899,7 +46489,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "39cfd24c"
+          "new_hash": "39cfd24c",
+          "source": "Lucy",
+          "description": "Lucy HairWallpaper Position Hash"
         }
       ]
     },
@@ -46471,7 +47063,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b092c043"
+          "new_hash": "b092c043",
+          "source": "Lycaon",
+          "description": "Lycaon Hair Texcoord Hash"
         }
       ]
     },
@@ -46484,7 +47078,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6749b6e7"
+          "new_hash": "6749b6e7",
+          "source": "Lycaon",
+          "description": "Lycaon Body IB Hash"
         }
       ]
     },
@@ -46509,7 +47105,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "25418598"
+          "new_hash": "25418598",
+          "source": "Lycaon",
+          "description": "Lycaon Body Draw Hash"
         }
       ]
     },
@@ -46522,7 +47120,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b950fda5"
+          "new_hash": "b950fda5",
+          "source": "Lycaon",
+          "description": "Lycaon Body Texcoord Hash"
         }
       ]
     },
@@ -46535,7 +47135,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8c7775ae"
+          "new_hash": "8c7775ae",
+          "source": "Lycaon",
+          "description": "Lycaon Body Position Hash"
         },
         {
           "type": "update_blend_indices",
@@ -46590,7 +47192,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f2d1a929"
+          "new_hash": "f2d1a929",
+          "source": "Lycaon",
+          "description": "Lycaon Body Blend Remap"
         },
         {
           "type": "update_blend_indices",
@@ -46681,7 +47285,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "44277f65"
+          "new_hash": "44277f65",
+          "source": "Lycaon",
+          "description": "Lycaon Head Draw Hash"
         }
       ]
     },
@@ -46694,7 +47300,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7e35ec22"
+          "new_hash": "7e35ec22",
+          "source": "Lycaon",
+          "description": "Lycaon Head Position Hash"
         }
       ]
     },
@@ -46707,7 +47315,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e2d4c532"
+          "new_hash": "e2d4c532",
+          "source": "Lycaon",
+          "description": "Lycaon Head Blend Hash"
         }
       ]
     },
@@ -46720,7 +47330,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b1edaf35"
+          "new_hash": "b1edaf35",
+          "source": "Lycaon",
+          "description": "1.? -> 1.?: Lycaon Head Texcoord Hash"
         }
       ]
     },
@@ -46733,7 +47345,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3adaebb3"
+          "new_hash": "3adaebb3",
+          "source": "Lycaon",
+          "description": "1.? -> 1.6: Lycaon Head Texcoord Hash"
         }
       ]
     },
@@ -46746,7 +47360,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6ffdfccb"
+          "new_hash": "6ffdfccb",
+          "source": "Lycaon",
+          "description": "Lycaon Head IB Hash"
         }
       ]
     },
@@ -46759,7 +47375,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2cc208a7"
+          "new_hash": "2cc208a7",
+          "source": "Lycaon",
+          "description": "Lycaon Head Diffuse 1024p Hash"
         }
       ]
     },
@@ -46798,7 +47416,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7077ebb1"
+          "new_hash": "7077ebb1",
+          "source": "Lycaon",
+          "description": "Lycaon HeadA Diffuse 2048p Hash"
         }
       ]
     },
@@ -46869,7 +47489,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "04d061fe"
+          "new_hash": "04d061fe",
+          "source": "Lycaon",
+          "description": "Lycaon HairA, MaskA LightMap 2048p Hash"
         }
       ]
     },
@@ -46882,7 +47504,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f7daa6d9"
+          "new_hash": "f7daa6d9",
+          "source": "Lycaon",
+          "description": "Lycaon HairA, MaskA LightMap 2048p Hash"
         },
         {
           "type": "multiply_section_if_missing",
@@ -46953,7 +47577,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4d878953"
+          "new_hash": "4d878953",
+          "source": "Lycaon",
+          "description": "Lycaon HairA, MaskA LightMap 1024p Hash"
         }
       ]
     },
@@ -46966,7 +47592,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ea10b0bb"
+          "new_hash": "ea10b0bb",
+          "source": "Lycaon",
+          "description": "Lycaon HairA, MaskA LightMap 1024p Hash"
         },
         {
           "type": "multiply_section_if_missing",
@@ -47077,7 +47705,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7a22ad61"
+          "new_hash": "7a22ad61",
+          "source": "Lycaon",
+          "description": "Lycaon BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -47090,7 +47720,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "814db5bf"
+          "new_hash": "814db5bf",
+          "source": "Lycaon",
+          "description": "Lycaon Body LightMap 2048p Hash"
         }
       ]
     },
@@ -47103,7 +47735,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "fbf5a9b5"
+          "new_hash": "fbf5a9b5",
+          "source": "Lycaon",
+          "description": "Lycaon BodyA LightMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -47201,7 +47835,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "122c655e"
+          "new_hash": "122c655e",
+          "source": "Lycaon",
+          "description": "Lycaon Body LightMap 1024p Hash"
         }
       ]
     },
@@ -47214,7 +47850,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "c5635a53"
+          "new_hash": "c5635a53",
+          "source": "Lycaon",
+          "description": "Lycaon BodyA LightMap 1024p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -47419,7 +48057,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "57b175c5"
+          "new_hash": "57b175c5",
+          "source": "Lycaon",
+          "description": "Lycaon LegsA LightMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -47511,7 +48151,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "9b0df25b"
+          "new_hash": "9b0df25b",
+          "source": "Lycaon",
+          "description": "Lycaon LegsA LightMap 1024p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -47564,7 +48206,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4b18f890"
+          "new_hash": "4b18f890",
+          "source": "Lycaon",
+          "description": "Lycaon LegsA MaterialMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -47656,7 +48300,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1de27b3a"
+          "new_hash": "1de27b3a",
+          "source": "Lycaon",
+          "description": "Lycaon LegsA MaterialMap 1024p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -51134,7 +51780,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7d80f565"
+          "new_hash": "7d80f565",
+          "source": "MiyabiDignifiedBlossom",
+          "description": "MiyabiDignifiedBlossom ClothesA Diffuse 1024p Hash"
         }
       ]
     },
@@ -51221,7 +51869,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2fbabf2e"
+          "new_hash": "2fbabf2e",
+          "source": "MiyabiDignifiedBlossom",
+          "description": "MiyabiDignifiedBlossom ClothesA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -51390,7 +52040,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "5121459b"
+          "new_hash": "5121459b",
+          "source": "MiyabiDignifiedBlossom",
+          "description": "MiyabiSkin Body Blend Hash"
         }
       ]
     },
@@ -51493,10 +52145,6 @@
           ],
           "section_title": "MiyabiDignifiedBlossom.Sword.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "90250152"
         }
       ]
     },
@@ -51514,10 +52162,6 @@
           ],
           "section_title": "MiyabiDignifiedBlossom.Sword.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "a355e13d"
         }
       ]
     },
@@ -51849,7 +52493,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "dc41fbbf"
+          "new_hash": "dc41fbbf",
+          "source": "NangongYu",
+          "description": "NangongYu BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -53070,7 +53716,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0834f635"
+          "new_hash": "0834f635",
+          "source": "Nekomata",
+          "description": "Nekomata HeadA Diffuse 1024p Hash"
         }
       ]
     },
@@ -53108,7 +53756,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ba411d22"
+          "new_hash": "ba411d22",
+          "source": "Nekomata",
+          "description": "Nekomata HeadA Diffuse 2048p Hash"
         }
       ]
     },
@@ -53146,7 +53796,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "eaad1408"
+          "new_hash": "eaad1408",
+          "source": "Nekomata",
+          "description": "Nekomata Body Position Hash"
         }
       ]
     },
@@ -53159,7 +53811,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f589a51f"
+          "new_hash": "f589a51f",
+          "source": "Nekomata",
+          "description": "Nekomata Body Texcoord Hash"
         }
       ]
     },
@@ -53172,7 +53826,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d27d0e6b"
+          "new_hash": "d27d0e6b",
+          "source": "Nekomata",
+          "description": "Nekomata Body Blend Hash"
         }
       ]
     },
@@ -53185,7 +53841,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3c4015fd"
+          "new_hash": "3c4015fd",
+          "source": "Nekomata",
+          "description": "Nekomata Swords Position Hash"
         }
       ]
     },
@@ -53198,7 +53856,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2a4f8c9e"
+          "new_hash": "2a4f8c9e",
+          "source": "Nekomata",
+          "description": "Nekomata Swords Texcoord Hash"
         }
       ]
     },
@@ -53243,7 +53903,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1c0193dc"
+          "new_hash": "1c0193dc",
+          "source": "Nekomata",
+          "description": "Nekomata HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -53281,7 +53943,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "362c205e"
+          "new_hash": "362c205e",
+          "source": "Nekomata",
+          "description": "Nekomata HairA LightMap 1024p Hash"
         }
       ]
     },
@@ -53334,7 +53998,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3f73186f"
+          "new_hash": "3f73186f",
+          "source": "Nekomata",
+          "description": "Nekomata HairA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -53372,7 +54038,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "378b282c"
+          "new_hash": "378b282c",
+          "source": "Nekomata",
+          "description": "Nekomata HairA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -53425,7 +54093,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Nekomata",
+          "description": "Nekomata HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -53454,7 +54124,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "207b8e63"
+          "new_hash": "207b8e63",
+          "source": "Nekomata",
+          "description": "-> 1.1: Nekomata HairB, BodyA, SwordsA Diffuse 2048p Hash"
         }
       ]
     },
@@ -53484,7 +54156,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "60687646"
+          "new_hash": "60687646",
+          "source": "Nekomata",
+          "description": "-> 1.1: Nekomata HairB, BodyA, SwordsA Diffuse 1024p Hash"
         }
       ]
     },
@@ -53514,7 +54188,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "25df29e7"
+          "new_hash": "25df29e7",
+          "source": "Nekomata",
+          "description": "Nekomata HairB, BodyA, SwordsA LightMap 2048p Hash"
         }
       ]
     },
@@ -53591,7 +54267,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b3286755"
+          "new_hash": "b3286755",
+          "source": "Nekomata",
+          "description": "Nekomata HairB, BodyA, SwordsA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -53621,7 +54299,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a5529690"
+          "new_hash": "a5529690",
+          "source": "Nekomata",
+          "description": "Nekomata HairB, BodyA, SwordsA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -53651,7 +54331,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Nekomata",
+          "description": "Nekomata HairB, BodyA, SwordsA NormalMap 2048p Hash"
         }
       ]
     },
@@ -54045,7 +54727,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7dcfe907"
+          "new_hash": "7dcfe907",
+          "source": "Nicole",
+          "description": "Nicole Hair-\u5934\u53d1 IB Hash"
         }
       ]
     },
@@ -54070,7 +54754,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e53364dd"
+          "new_hash": "e53364dd",
+          "source": "Nicole",
+          "description": "Nicole Body-\u8eab\u4f53 IB Hash"
         }
       ]
     },
@@ -54098,14 +54784,18 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "93b02078"
+          "new_hash": "93b02078",
+          "source": "Nicole",
+          "description": "1.0 - 2.8: Nicole Face-\u8138 IB Hash"
         },
         {
           "type": "add_ib_check_if_missing"
         },
         {
           "type": "update_hash",
-          "new_hash": "93b02078"
+          "new_hash": "93b02078",
+          "source": "NicoleCutie",
+          "description": "NicoleCutie Face-\u8138 IB Hash"
         }
       ]
     },
@@ -54183,7 +54873,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8c9c25d5"
+          "new_hash": "8c9c25d5",
+          "source": "Nicole",
+          "description": "1.0-1.7: Nicole HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -54263,7 +54955,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Nicole",
+          "description": "1.0-1.7: Nicole HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -54359,7 +55053,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Nicole",
+          "description": "1.0-1.7: Nicole BodyA, BangbooA NormalMap 2048p Hash"
         }
       ]
     },
@@ -54395,7 +55091,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d9b8d61a"
+          "new_hash": "d9b8d61a",
+          "source": "Nicole",
+          "description": "Nicole Hair-\u5934\u53d1 draw_vb Hash"
         }
       ]
     },
@@ -54425,7 +55123,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6f931ca7"
+          "new_hash": "6f931ca7",
+          "source": "Nicole",
+          "description": "Nicole Hair-\u5934\u53d1 position_vb Hash"
         }
       ]
     },
@@ -54455,7 +55155,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e04f4893"
+          "new_hash": "e04f4893",
+          "source": "Nicole",
+          "description": "Nicole Hair-\u5934\u53d1 texcoord_vb Hash"
         }
       ]
     },
@@ -54485,7 +55187,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8171f5c9"
+          "new_hash": "8171f5c9",
+          "source": "Nicole",
+          "description": "Nicole Hair-\u5934\u53d1 blend_vb Hash"
         }
       ]
     },
@@ -54630,7 +55334,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "e6b9e50e"
+          "new_hash": "e6b9e50e",
+          "source": "Nicole",
+          "description": "Nicole Hair Shadow Texcoord Hash"
         }
       ]
     },
@@ -54643,7 +55349,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b19da99e"
+          "new_hash": "b19da99e",
+          "source": "Nicole",
+          "description": "Nicole Body-\u8eab\u4f53 draw_vb Hash"
         }
       ]
     },
@@ -54673,7 +55381,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4af0a4cd"
+          "new_hash": "4af0a4cd",
+          "source": "Nicole",
+          "description": "Nicole Body-\u8eab\u4f53 position_vb Hash"
         }
       ]
     },
@@ -54703,7 +55413,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ed4c47a9"
+          "new_hash": "ed4c47a9",
+          "source": "Nicole",
+          "description": "Nicole Body-\u8eab\u4f53 texcoord_vb Hash"
         }
       ]
     },
@@ -54733,7 +55445,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b793c804"
+          "new_hash": "b793c804",
+          "source": "Nicole",
+          "description": "Nicole Body-\u8eab\u4f53 blend_vb Hash"
         }
       ]
     },
@@ -54788,7 +55502,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f9f810ed"
+          "new_hash": "f9f810ed",
+          "source": "Nicole",
+          "description": "Nicole Amillion-\u827e\u7c73\u8389\u5b89 texcoord_vb Hash"
         }
       ]
     },
@@ -54931,7 +55647,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "d5958556"
+          "new_hash": "d5958556",
+          "source": "Nicole",
+          "description": "Nicole Face Texcoord Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -54943,7 +55661,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "d5958556"
+          "new_hash": "d5958556",
+          "source": "NicoleCutie",
+          "description": "NicoleCutie Face Texcoord Hash"
         }
       ]
     },
@@ -54964,7 +55684,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "967c2f1c"
+          "new_hash": "967c2f1c",
+          "source": "Nicole",
+          "description": "Nicole Face VertexLimit Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -54976,7 +55698,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "967c2f1c"
+          "new_hash": "967c2f1c",
+          "source": "NicoleCutie",
+          "description": "NicoleCutie Face VertexLimit Hash"
         }
       ]
     },
@@ -54997,7 +55721,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "292d1b1f"
+          "new_hash": "292d1b1f",
+          "source": "Nicole",
+          "description": "Nicole Face Blend Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -55009,7 +55735,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "292d1b1f"
+          "new_hash": "292d1b1f",
+          "source": "NicoleCutie",
+          "description": "NicoleCutie Face Blend Hash"
         }
       ]
     },
@@ -55842,7 +56570,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "ac6ebc5b"
+          "new_hash": "ac6ebc5b",
+          "source": "NicoleCutie",
+          "description": "NicoleCutie Face Position Hash"
         }
       ]
     },
@@ -56946,7 +57676,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Norma",
+          "description": "Norma Weapon TEX Hash"
         }
       ]
     },
@@ -56984,7 +57716,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "79a583ad"
+          "new_hash": "79a583ad",
+          "source": "Norma",
+          "description": "Norma Weapon TEX Hash"
         }
       ]
     },
@@ -57034,7 +57768,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "e3fafeeb"
+          "new_hash": "e3fafeeb",
+          "source": "Norma",
+          "description": "Norma Shell VB Hash"
         }
       ]
     },
@@ -57055,7 +57791,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "44991f30"
+          "new_hash": "44991f30",
+          "source": "Norma",
+          "description": "Norma Shell VB Hash"
         }
       ]
     },
@@ -57093,7 +57831,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "798adba3"
+          "new_hash": "798adba3",
+          "source": "Norma",
+          "description": "Norma Hair TEX Hash"
         }
       ]
     },
@@ -57114,7 +57854,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "798adba3"
+          "new_hash": "798adba3",
+          "source": "Norma",
+          "description": "Norma Body TEX Hash"
         }
       ]
     },
@@ -57152,7 +57894,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "798adba3"
+          "new_hash": "798adba3",
+          "source": "Norma",
+          "description": "Norma Weapon TEX Hash"
         }
       ]
     },
@@ -57190,7 +57934,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "b70b6037"
+          "new_hash": "b70b6037",
+          "source": "Norma",
+          "description": "Norma Weapon TEX Hash"
         }
       ]
     },
@@ -60364,7 +61110,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8b6b17f8"
+          "new_hash": "8b6b17f8",
+          "source": "Piper",
+          "description": "Piper Hair Texcoord Hash"
         },
         {
           "type": "shrink_texcoord_color",
@@ -60381,7 +61129,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1c6d41af"
+          "new_hash": "1c6d41af",
+          "source": "Piper",
+          "description": "Piper Hair Texcoord Hash"
         },
         {
           "type": "update_hash",
@@ -60454,7 +61204,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1146c5c3"
+          "new_hash": "1146c5c3",
+          "source": "Piper",
+          "description": "Piper HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -60467,7 +61219,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "46cbca7a"
+          "new_hash": "46cbca7a",
+          "source": "Piper",
+          "description": "Piper HairA LightMap 1024p Hash"
         }
       ]
     },
@@ -60616,7 +61370,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Piper",
+          "description": "Piper HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -60629,7 +61385,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8db36370"
+          "new_hash": "8db36370",
+          "source": "Piper",
+          "description": "Piper HairA NormalMap 1024p Hash"
         }
       ]
     },
@@ -60678,7 +61436,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ffe8fea7"
+          "new_hash": "ffe8fea7",
+          "source": "Piper",
+          "description": "Piper Body Position Hash"
         }
       ]
     },
@@ -60699,7 +61459,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3d329807"
+          "new_hash": "3d329807",
+          "source": "Piper",
+          "description": "Piper Body Blend Hash"
         }
       ]
     },
@@ -60720,7 +61482,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a011f94e"
+          "new_hash": "a011f94e",
+          "source": "Piper",
+          "description": "Piper Body Texcoord Hash"
         }
       ]
     },
@@ -60733,7 +61497,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6357b120"
+          "new_hash": "6357b120",
+          "source": "Piper",
+          "description": "Piper Body Texcoord Hash"
         }
       ]
     },
@@ -60754,7 +61520,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b450949d"
+          "new_hash": "b450949d",
+          "source": "Piper",
+          "description": "Piper BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -60767,7 +61535,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "fed40302"
+          "new_hash": "fed40302",
+          "source": "Piper",
+          "description": "Piper BodyA Diffuse 2048p Hash"
         }
       ]
     },
@@ -60830,7 +61600,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a32c39b9"
+          "new_hash": "a32c39b9",
+          "source": "Piper",
+          "description": "Piper BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -60843,7 +61615,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a0dcd60a"
+          "new_hash": "a0dcd60a",
+          "source": "Piper",
+          "description": "Piper BodyA LightMap 1024p Hash"
         }
       ]
     },
@@ -60992,7 +61766,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Piper",
+          "description": "Piper BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -61005,7 +61781,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8db36370"
+          "new_hash": "8db36370",
+          "source": "Piper",
+          "description": "Piper BodyA NormalMap 1024p Hash"
         }
       ]
     },
@@ -61066,7 +61844,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f1c8f946"
+          "new_hash": "f1c8f946",
+          "source": "Piper",
+          "description": "Piper Face Diffuse 1024p Hash"
         }
       ]
     },
@@ -61079,7 +61859,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "48c96e2e"
+          "new_hash": "48c96e2e",
+          "source": "Piper",
+          "description": "Piper HeadA Diffuse 1024p Hash"
         }
       ]
     },
@@ -61117,7 +61899,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3b2eb1d9"
+          "new_hash": "3b2eb1d9",
+          "source": "Piper",
+          "description": "Piper Face Diffuse 2048p Hash"
         }
       ]
     },
@@ -61612,7 +62396,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "36e794ea"
+          "new_hash": "36e794ea",
+          "source": "Promeia",
+          "description": "Promeia Pinioned IB Hash"
         }
       ]
     },
@@ -61625,7 +62411,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b386901d"
+          "new_hash": "b386901d",
+          "source": "Promeia",
+          "description": "Promeia Pinioned IB Hash"
         }
       ]
     },
@@ -61650,7 +62438,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "93f1f568"
+          "new_hash": "93f1f568",
+          "source": "Promeia",
+          "description": "Promeia Clothes IB Hash"
         }
       ]
     },
@@ -61663,7 +62453,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0ae14c24"
+          "new_hash": "0ae14c24",
+          "source": "Promeia",
+          "description": "Promeia Clothes IB Hash"
         }
       ]
     },
@@ -61688,7 +62480,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ef3c4506"
+          "new_hash": "ef3c4506",
+          "source": "Promeia",
+          "description": "Promeia Face IB Hash"
         }
       ]
     },
@@ -61713,7 +62507,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "31178971"
+          "new_hash": "31178971",
+          "source": "Promeia",
+          "description": "Promeia Hair IB Hash"
         }
       ]
     },
@@ -61738,7 +62534,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "fd054d1d"
+          "new_hash": "fd054d1d",
+          "source": "Promeia",
+          "description": "Promeia Leg IB Hash"
         }
       ]
     },
@@ -61751,7 +62549,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ec003379"
+          "new_hash": "ec003379",
+          "source": "Promeia",
+          "description": "Promeia Leg IB Hash"
         }
       ]
     },
@@ -61776,7 +62576,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "62a6b4bd"
+          "new_hash": "62a6b4bd",
+          "source": "Promeia",
+          "description": "Promeia Torso IB Hash"
         }
       ]
     },
@@ -61789,7 +62591,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "10c77d62"
+          "new_hash": "10c77d62",
+          "source": "Promeia",
+          "description": "Promeia Torso IB Hash"
         }
       ]
     },
@@ -62038,7 +62842,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "47d294f4"
+          "new_hash": "47d294f4",
+          "source": "Promeia",
+          "description": "Promeia ClothesA Diffuse 1024p Hash"
         }
       ]
     },
@@ -62068,7 +62874,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e1492a53"
+          "new_hash": "e1492a53",
+          "source": "Promeia",
+          "description": "Promeia ClothesA Diffuse 2048p Hash"
         }
       ]
     },
@@ -62098,7 +62906,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "562616d5"
+          "new_hash": "562616d5",
+          "source": "Promeia",
+          "description": "Promeia ClothesA LightMap 1024p Hash"
         }
       ]
     },
@@ -62128,7 +62938,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "9bf7f5cc"
+          "new_hash": "9bf7f5cc",
+          "source": "Promeia",
+          "description": "Promeia ClothesA LightMap 2048p Hash"
         }
       ]
     },
@@ -62158,7 +62970,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "73aaae54"
+          "new_hash": "73aaae54",
+          "source": "Promeia",
+          "description": "Promeia ClothesA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -62188,7 +63002,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d37b40a9"
+          "new_hash": "d37b40a9",
+          "source": "Promeia",
+          "description": "Promeia ClothesA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -62218,7 +63034,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7750fc88"
+          "new_hash": "7750fc88",
+          "source": "Promeia",
+          "description": "Promeia WeaponA Diffuse 1024p Hash"
         }
       ]
     },
@@ -62248,7 +63066,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "328135c5"
+          "new_hash": "328135c5",
+          "source": "Promeia",
+          "description": "Promeia WeaponA Diffuse 2048p Hash"
         }
       ]
     },
@@ -62278,7 +63098,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a1988612"
+          "new_hash": "a1988612",
+          "source": "Promeia",
+          "description": "Promeia WeaponA LightMap 1024p Hash"
         }
       ]
     },
@@ -62308,7 +63130,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "82f4146a"
+          "new_hash": "82f4146a",
+          "source": "Promeia",
+          "description": "Promeia WeaponA LightMap 2048p Hash"
         }
       ]
     },
@@ -62338,7 +63162,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7559d574"
+          "new_hash": "7559d574",
+          "source": "Promeia",
+          "description": "Promeia WeaponA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -62368,7 +63194,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d672b87c"
+          "new_hash": "d672b87c",
+          "source": "Promeia",
+          "description": "Promeia WeaponA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -62398,7 +63226,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "681aceaa"
+          "new_hash": "681aceaa",
+          "source": "Promeia",
+          "description": "Promeia Hair Position Hash"
         }
       ]
     },
@@ -62428,7 +63258,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "84d40d91"
+          "new_hash": "84d40d91",
+          "source": "Promeia",
+          "description": "Promeia Hair Texcoord Hash"
         }
       ]
     },
@@ -62458,7 +63290,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3d4a4881"
+          "new_hash": "3d4a4881",
+          "source": "Promeia",
+          "description": "Promeia Hair Blend Hash"
         }
       ]
     },
@@ -62488,7 +63322,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ff223b2c"
+          "new_hash": "ff223b2c",
+          "source": "Promeia",
+          "description": "Promeia Shadow IB Hash"
         }
       ]
     },
@@ -62513,7 +63349,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "dd86f5ae"
+          "new_hash": "dd86f5ae",
+          "source": "Promeia",
+          "description": "Promeia Pinioned Draw Hash"
         }
       ]
     },
@@ -62543,7 +63381,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ffaa183a"
+          "new_hash": "ffaa183a",
+          "source": "Promeia",
+          "description": "Promeia Pinioned Position Hash"
         }
       ]
     },
@@ -62556,7 +63396,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "68e2baef"
+          "new_hash": "68e2baef",
+          "source": "Promeia",
+          "description": "Promeia Pinioned Position Hash"
         }
       ]
     },
@@ -62586,7 +63428,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2a9842a1"
+          "new_hash": "2a9842a1",
+          "source": "Promeia",
+          "description": "Promeia Pinioned Texcoord Hash"
         }
       ]
     },
@@ -62599,7 +63443,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6fe5f8c1"
+          "new_hash": "6fe5f8c1",
+          "source": "Promeia",
+          "description": "Promeia Pinioned Texcoord Hash"
         }
       ]
     },
@@ -62629,7 +63475,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "dae4abd0"
+          "new_hash": "dae4abd0",
+          "source": "Promeia",
+          "description": "Promeia Pinioned Blend Hash"
         }
       ]
     },
@@ -62642,7 +63490,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "112582ea"
+          "new_hash": "112582ea",
+          "source": "Promeia",
+          "description": "Promeia Pinioned Blend Hash"
         }
       ]
     },
@@ -62672,7 +63522,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2dbfe8c9"
+          "new_hash": "2dbfe8c9",
+          "source": "Promeia",
+          "description": "Promeia Torso Position Hash"
         }
       ]
     },
@@ -62702,7 +63554,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d99d21e0"
+          "new_hash": "d99d21e0",
+          "source": "Promeia",
+          "description": "Promeia Torso Texcoord Hash"
         }
       ]
     },
@@ -62715,7 +63569,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1fc95f5b"
+          "new_hash": "1fc95f5b",
+          "source": "Promeia",
+          "description": "Promeia Torso Texcoord Hash"
         }
       ]
     },
@@ -62745,7 +63601,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "575d8b1b"
+          "new_hash": "575d8b1b",
+          "source": "Promeia",
+          "description": "Promeia Torso Blend Hash"
         }
       ]
     },
@@ -62758,7 +63616,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ee35cc06"
+          "new_hash": "ee35cc06",
+          "source": "Promeia",
+          "description": "Promeia Torso Blend Hash"
         }
       ]
     },
@@ -62788,7 +63648,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1d63183b"
+          "new_hash": "1d63183b",
+          "source": "Promeia",
+          "description": "Promeia Clothes Position Hash"
         }
       ]
     },
@@ -62801,7 +63663,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f6cc27b6"
+          "new_hash": "f6cc27b6",
+          "source": "Promeia",
+          "description": "Promeia Clothes Position Hash"
         }
       ]
     },
@@ -62831,7 +63695,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "826446a7"
+          "new_hash": "826446a7",
+          "source": "Promeia",
+          "description": "Promeia Clothes Texcoord Hash"
         }
       ]
     },
@@ -62844,7 +63710,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "bf00cc95"
+          "new_hash": "bf00cc95",
+          "source": "Promeia",
+          "description": "Promeia Clothes Texcoord Hash"
         }
       ]
     },
@@ -62874,7 +63742,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "58f42be3"
+          "new_hash": "58f42be3",
+          "source": "Promeia",
+          "description": "Promeia Clothes Blend Hash"
         }
       ]
     },
@@ -62887,7 +63757,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4b0d6867"
+          "new_hash": "4b0d6867",
+          "source": "Promeia",
+          "description": "Promeia Clothes Blend Hash"
         }
       ]
     },
@@ -62917,7 +63789,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0b822797"
+          "new_hash": "0b822797",
+          "source": "Promeia",
+          "description": "Promeia Leg Position Hash"
         }
       ]
     },
@@ -62930,7 +63804,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4c1d0a70"
+          "new_hash": "4c1d0a70",
+          "source": "Promeia",
+          "description": "Promeia Leg Position Hash"
         }
       ]
     },
@@ -62960,7 +63836,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f5fd0e92"
+          "new_hash": "f5fd0e92",
+          "source": "Promeia",
+          "description": "Promeia Leg Texcoord Hash"
         }
       ]
     },
@@ -62973,7 +63851,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "03d6f933"
+          "new_hash": "03d6f933",
+          "source": "Promeia",
+          "description": "Promeia Leg Texcoord Hash"
         }
       ]
     },
@@ -63003,7 +63883,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "9839b071"
+          "new_hash": "9839b071",
+          "source": "Promeia",
+          "description": "Promeia Leg Blend Hash"
         }
       ]
     },
@@ -63016,7 +63898,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "65bba179"
+          "new_hash": "65bba179",
+          "source": "Promeia",
+          "description": "Promeia Leg Blend Hash"
         }
       ]
     },
@@ -63046,7 +63930,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e032287a"
+          "new_hash": "e032287a",
+          "source": "Promeia",
+          "description": "Promeia Eyebrow IB Hash"
         }
       ]
     },
@@ -63105,7 +63991,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d3d65ca5"
+          "new_hash": "d3d65ca5",
+          "source": "Promeia",
+          "description": "Promeia Eyebrow Texcoord Hash"
         }
       ]
     },
@@ -63191,7 +64079,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "dcd61276"
+          "new_hash": "dcd61276",
+          "source": "Promeia",
+          "description": "Promeia Face Texcoord Hash"
         }
       ]
     },
@@ -63243,7 +64133,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "bf5b785d"
+          "new_hash": "bf5b785d",
+          "source": "Promeia",
+          "description": "Promeia Face Blend Hash"
         }
       ]
     },
@@ -63273,7 +64165,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8995db58"
+          "new_hash": "8995db58",
+          "source": "Promeia",
+          "description": "Promeia Weapon IB Hash"
         }
       ]
     },
@@ -63298,7 +64192,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0a06059e"
+          "new_hash": "0a06059e",
+          "source": "Promeia",
+          "description": "Promeia Weapon Draw Hash"
         }
       ]
     },
@@ -63345,7 +64241,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a864dc82"
+          "new_hash": "a864dc82",
+          "source": "Promeia",
+          "description": "Promeia Weapon Blend Hash"
         }
       ]
     },
@@ -63460,7 +64358,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d242b77a"
+          "new_hash": "d242b77a",
+          "source": "Promeia",
+          "description": "Promeia Weapon Position Hash"
         }
       ]
     },
@@ -63473,7 +64373,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f2f5bd28"
+          "new_hash": "f2f5bd28",
+          "source": "Promeia",
+          "description": "Promeia Weapon Texcoord Hash"
         }
       ]
     },
@@ -63943,7 +64845,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f1ee6734"
+          "new_hash": "f1ee6734",
+          "source": "Pulchra",
+          "description": "Pulchra MaskA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -65218,7 +66122,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "195857d8"
+          "new_hash": "195857d8",
+          "source": "Qingyi",
+          "description": "Qingyi Body IB Hash"
         }
       ]
     },
@@ -65231,7 +66137,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "88a6f633"
+          "new_hash": "88a6f633",
+          "source": "Qingyi",
+          "description": "Qingyi Body Blend Hash"
         }
       ]
     },
@@ -65244,7 +66152,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ac54012f"
+          "new_hash": "ac54012f",
+          "source": "Qingyi",
+          "description": "Qingyi Body Position Hash"
         }
       ]
     },
@@ -65257,7 +66167,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4cbe7fbe"
+          "new_hash": "4cbe7fbe",
+          "source": "Qingyi",
+          "description": "Qingyi Body Texcoord Hash"
         }
       ]
     },
@@ -65270,7 +66182,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7be61bce"
+          "new_hash": "7be61bce",
+          "source": "Qingyi",
+          "description": "Qingyi Body Draw Hash"
         }
       ]
     },
@@ -65283,7 +66197,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3cacba0a"
+          "new_hash": "3cacba0a",
+          "source": "Qingyi",
+          "description": "Qingyi Hair IB Hash"
         }
       ]
     },
@@ -65296,7 +66212,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6e7650bc"
+          "new_hash": "6e7650bc",
+          "source": "Qingyi",
+          "description": "Qingyi Hair Blend Hash"
         }
       ]
     },
@@ -65309,7 +66227,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "dd08951b"
+          "new_hash": "dd08951b",
+          "source": "Qingyi",
+          "description": "Qingyi Hair Position Hash"
         }
       ]
     },
@@ -65322,7 +66242,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0643440c"
+          "new_hash": "0643440c",
+          "source": "Qingyi",
+          "description": "Qingyi Hair Texcoord Hash"
         }
       ]
     },
@@ -65335,7 +66257,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7b43d317"
+          "new_hash": "7b43d317",
+          "source": "Qingyi",
+          "description": "Qingyi Hair Draw Hash"
         }
       ]
     },
@@ -65396,7 +66320,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "53a2b66e"
+          "new_hash": "53a2b66e",
+          "source": "Qingyi",
+          "description": "Qingyi Hair Texcoord Hash"
         },
         {
           "type": "shrink_texcoord_color",
@@ -65437,7 +66363,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Qingyi",
+          "description": "Qingyi HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -65626,7 +66554,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Qingyi",
+          "description": "Qingyi BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -69439,7 +70369,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Rina",
+          "description": "Rina HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -69620,7 +70552,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Rina",
+          "description": "Rina BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -72553,7 +73487,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a91eeef2"
+          "new_hash": "a91eeef2",
+          "source": "Seth",
+          "description": "Seth Hair Texcoord Hash"
         },
         {
           "type": "remap_texcoord",
@@ -72678,7 +73614,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a855884d"
+          "new_hash": "a855884d",
+          "source": "Seth",
+          "description": "Seth HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -72691,7 +73629,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a855884d"
+          "new_hash": "a855884d",
+          "source": "Seth",
+          "description": "Seth HairA LightMap 1024p Hash"
         }
       ]
     },
@@ -72752,7 +73692,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Seth",
+          "description": "Seth HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -72765,7 +73707,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Seth",
+          "description": "Seth HairA NormalMap 1024p Hash"
         }
       ]
     },
@@ -72826,7 +73770,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "5b205468"
+          "new_hash": "5b205468",
+          "source": "Seth",
+          "description": "Seth BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -72839,7 +73785,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "5b205468"
+          "new_hash": "5b205468",
+          "source": "Seth",
+          "description": "Seth BodyA LightMap 1024p Hash"
         }
       ]
     },
@@ -72900,7 +73848,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Seth",
+          "description": "Seth BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -72913,7 +73863,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Seth",
+          "description": "Seth BodyA NormalMap 1024p Hash"
         }
       ]
     },
@@ -75696,7 +76648,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0b059f91"
+          "new_hash": "0b059f91",
+          "source": "Soldier0",
+          "description": "Soldier0 HairA MaterialMap 2048p Hash (Old)"
         }
       ]
     },
@@ -75953,7 +76907,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e30ca87f"
+          "new_hash": "e30ca87f",
+          "source": "Soldier0",
+          "description": "Soldier0 Face IB Hash (Old)"
         },
         {
           "type": "remap_indices",
@@ -76619,7 +77575,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "71993491"
+          "new_hash": "71993491",
+          "source": "Soldier11",
+          "description": "Soldier11 HairA LightMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -76690,7 +77648,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "71993491"
+          "new_hash": "71993491",
+          "source": "Soldier11",
+          "description": "Soldier11 HairA LightMap 1024p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -76711,7 +77671,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Soldier11",
+          "description": "Soldier11 HairA NormalMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -76732,7 +77694,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Soldier11",
+          "description": "Soldier11 HairA NormalMap 1024p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -76804,7 +77768,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "33e8af55"
+          "new_hash": "33e8af55",
+          "source": "Soldier11",
+          "description": "Soldier11 BodyA LightMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -76875,7 +77841,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "33e8af55"
+          "new_hash": "33e8af55",
+          "source": "Soldier11",
+          "description": "Soldier11 BodyA LightMap 1024p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -76896,7 +77864,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8ab5b59d"
+          "new_hash": "8ab5b59d",
+          "source": "Soldier11",
+          "description": "Soldier11 BodyA MaterialMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -76967,7 +77937,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8ab5b59d"
+          "new_hash": "8ab5b59d",
+          "source": "Soldier11",
+          "description": "Soldier11 BodyA MaterialMap 1024p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -76988,7 +77960,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Soldier11",
+          "description": "Soldier11 BodyA NormalMap 2048p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -77009,7 +77983,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Soldier11",
+          "description": "Soldier11 BodyA NormalMap 1024p Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -77557,7 +78533,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "020f9ac6"
+          "new_hash": "020f9ac6",
+          "source": "Soukaku",
+          "description": "1.0 - 1.1: Soukaku Head IB Hash"
         }
       ]
     },
@@ -77726,7 +78704,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a70e24a2"
+          "new_hash": "a70e24a2",
+          "source": "Soukaku",
+          "description": "1.0 - 1.7: Soukaku HairA LightMap 2048p Hash"
         }
       ]
     },
@@ -77869,7 +78849,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Soukaku",
+          "description": "1.0 - 1.7: Soukaku HairA NormalMap 2048p Hash"
         }
       ]
     },
@@ -78034,7 +79016,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Soukaku",
+          "description": "1.0 - 1.7: Soukaku BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -78356,7 +79340,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "c2db08f0"
+          "new_hash": "c2db08f0",
+          "source": "Soukaku",
+          "description": "1.0 - 1.1: Soukaku Head Texcoord Hash"
         }
       ]
     },
@@ -82062,7 +83048,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a6d82ba5"
+          "new_hash": "a6d82ba5",
+          "source": "SunnaAfternoonTeaBreak",
+          "description": "SunnaAfternoonTeaBreak Hair IB Hash"
         }
       ]
     },
@@ -82279,7 +83267,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4b93d8eb"
+          "new_hash": "4b93d8eb",
+          "source": "SunnaAfternoonTeaBreak",
+          "description": "ChinatsuSkin Hair Position Hash"
         }
       ]
     },
@@ -82309,7 +83299,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b9030f86"
+          "new_hash": "b9030f86",
+          "source": "SunnaAfternoonTeaBreak",
+          "description": "ChinatsuSkin Hair Texcoord Hash"
         }
       ]
     },
@@ -82339,7 +83331,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4a795f2a"
+          "new_hash": "4a795f2a",
+          "source": "SunnaAfternoonTeaBreak",
+          "description": "ChinatsuSkin Hair Blend Hash"
         }
       ]
     },
@@ -82398,7 +83392,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "25cf6bf7"
+          "new_hash": "25cf6bf7",
+          "source": "SunnaAfternoonTeaBreak",
+          "description": "ChinatsuSkin Body Position Hash"
         }
       ]
     },
@@ -82428,7 +83424,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7a31eb8b"
+          "new_hash": "7a31eb8b",
+          "source": "SunnaAfternoonTeaBreak",
+          "description": "ChinatsuSkin Body Texcoord Hash"
         }
       ]
     },
@@ -82509,7 +83507,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "74cc56df"
+          "new_hash": "74cc56df",
+          "source": "SunnaAfternoonTeaBreak",
+          "description": "ChinatsuSkin Hair Draw Hash"
         }
       ]
     },
@@ -83163,7 +84163,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d4a12ab7"
+          "new_hash": "d4a12ab7",
+          "source": "Trigger",
+          "description": "Trigger Face Texcoord"
         }
       ]
     },
@@ -83449,14 +84451,18 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "2414f4b9"
+          "new_hash": "2414f4b9",
+          "source": "Velina",
+          "description": "Velina Face IB Hash"
         },
         {
           "type": "add_ib_check_if_missing"
         },
         {
           "type": "update_hash",
-          "new_hash": "2414f4b9"
+          "new_hash": "2414f4b9",
+          "source": "VelinaShadeOfLeisure",
+          "description": "VelinaShadeOfLeisure Face IB Hash"
         },
         {
           "type": "remap_indices",
@@ -84205,7 +85211,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "69304ff6"
+          "new_hash": "69304ff6",
+          "source": "Velina",
+          "description": "Velina Face VB Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -84217,7 +85225,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "69304ff6"
+          "new_hash": "69304ff6",
+          "source": "VelinaShadeOfLeisure",
+          "description": "VelinaShadeOfLeisure Face VB Hash"
         }
       ]
     },
@@ -84238,7 +85248,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "76fe8eed"
+          "new_hash": "76fe8eed",
+          "source": "Velina",
+          "description": "Velina Face VB Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -84250,7 +85262,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "76fe8eed"
+          "new_hash": "76fe8eed",
+          "source": "VelinaShadeOfLeisure",
+          "description": "VelinaShadeOfLeisure Face VB Hash"
         }
       ]
     },
@@ -87676,11 +88690,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "723bccec"
+          "new_hash": "723bccec",
+          "source": "VivianIrisOfTheShore",
+          "description": "VivianSkin Body Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "723bccec"
+          "new_hash": "723bccec",
+          "source": "VivianSummer",
+          "description": "VivianSummer Body Blend Hash"
         }
       ]
     },
@@ -88295,11 +89313,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d5ca0411"
+          "new_hash": "d5ca0411",
+          "source": "Wise",
+          "description": "Wise Hair IB Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "d5ca0411"
+          "new_hash": "d5ca0411",
+          "source": "WiseTemple",
+          "description": "WiseTemple IB Hash [Legacy]"
         }
       ]
     },
@@ -88312,11 +89334,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ef9c0510"
+          "new_hash": "ef9c0510",
+          "source": "Wise",
+          "description": "Wise Hair Draw Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "ef9c0510"
+          "new_hash": "ef9c0510",
+          "source": "WiseTemple",
+          "description": "Wise Hair draw_vb Hash [Legacy]"
         }
       ]
     },
@@ -88329,11 +89355,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "edfd1666"
+          "new_hash": "edfd1666",
+          "source": "Wise",
+          "description": "Wise Hair Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "edfd1666"
+          "new_hash": "edfd1666",
+          "source": "WiseTemple",
+          "description": "Wise Hair blend_vb Hash [Legacy]"
         }
       ]
     },
@@ -88346,11 +89376,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e8df7ff3"
+          "new_hash": "e8df7ff3",
+          "source": "Wise",
+          "description": "Wise Hair Position Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "e8df7ff3"
+          "new_hash": "e8df7ff3",
+          "source": "WiseTemple",
+          "description": "Wise Hair position_vb Hash [Legacy]"
         }
       ]
     },
@@ -88363,11 +89397,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "774071dd"
+          "new_hash": "774071dd",
+          "source": "Wise",
+          "description": "Wise Hair Texcoord Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "774071dd"
+          "new_hash": "774071dd",
+          "source": "WiseTemple",
+          "description": "Wise Hair texcoord_vb Hash [Legacy]"
         }
       ]
     },
@@ -88380,7 +89418,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1fdaf388"
+          "new_hash": "1fdaf388",
+          "source": "Wise",
+          "description": "Wise Head IB Hash"
         }
       ]
     },
@@ -88393,7 +89433,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8d6acf4e"
+          "new_hash": "8d6acf4e",
+          "source": "Wise",
+          "description": "Wise Body IB Hash"
         }
       ]
     },
@@ -88406,7 +89448,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b581dc0a"
+          "new_hash": "b581dc0a",
+          "source": "Wise",
+          "description": "Wise Body Draw Hash"
         }
       ]
     },
@@ -88419,7 +89463,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "46462bd8"
+          "new_hash": "46462bd8",
+          "source": "Wise",
+          "description": "Wise Body Blend Hash"
         }
       ]
     },
@@ -88432,7 +89478,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "67f21c9f"
+          "new_hash": "67f21c9f",
+          "source": "Wise",
+          "description": "Wise Body Position Hash"
         }
       ]
     },
@@ -88445,7 +89493,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "91fbd2fa"
+          "new_hash": "91fbd2fa",
+          "source": "Wise",
+          "description": "Wise Body Texcoord Hash"
         }
       ]
     },
@@ -88458,7 +89508,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "67f21c9f"
+          "new_hash": "67f21c9f",
+          "source": "Wise",
+          "description": "Wise Body Position Hash"
         }
       ]
     },
@@ -88471,7 +89523,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f425bd04"
+          "new_hash": "f425bd04",
+          "source": "Wise",
+          "description": "Wise Body Texcoord Hash"
         }
       ]
     },
@@ -88484,7 +89538,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8d825ff1"
+          "new_hash": "8d825ff1",
+          "source": "Wise",
+          "description": "Wise Bag Texcoord Hash"
         }
       ]
     },
@@ -88497,7 +89553,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "588d7d2d"
+          "new_hash": "588d7d2d",
+          "source": "Wise",
+          "description": "Wise HeadA Diffuse 1024p Hash"
         }
       ]
     },
@@ -88827,7 +89885,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8d8269f8"
+          "new_hash": "8d8269f8",
+          "source": "Wise",
+          "description": "Wise HairA, BagA LightMap 2048p Hash"
         }
       ]
     },
@@ -89037,7 +90097,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f1b20f3d"
+          "new_hash": "f1b20f3d",
+          "source": "Wise",
+          "description": "Wise HairA, BagA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -89247,7 +90309,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Wise",
+          "description": "Wise HairA, BagA NormalMap 2048p Hash"
         }
       ]
     },
@@ -89286,11 +90350,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f2fb7a37"
+          "new_hash": "f2fb7a37",
+          "source": "Wise",
+          "description": "Wise BodyA Diffuse 2048p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "f2fb7a37"
+          "new_hash": "f2fb7a37",
+          "source": "WiseTemple",
+          "description": "Wise BodyA Diffuse [Legacy]"
         }
       ]
     },
@@ -89303,7 +90371,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "dea7a8ca"
+          "new_hash": "dea7a8ca",
+          "source": "Wise",
+          "description": "Wise BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -89316,7 +90386,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "53b3623f"
+          "new_hash": "53b3623f",
+          "source": "Wise",
+          "description": "Wise BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -89348,7 +90420,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a9652fa4"
+          "new_hash": "a9652fa4",
+          "source": "Wise",
+          "description": "Wise BodyA Diffuse 2048p Hash"
         }
       ]
     },
@@ -89480,7 +90554,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "Wise",
+          "description": "Wise BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -89601,11 +90677,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "68e4f572"
+          "new_hash": "68e4f572",
+          "source": "Wise",
+          "description": "Wise Hair Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "68e4f572"
+          "new_hash": "68e4f572",
+          "source": "WiseTemple",
+          "description": "WiseTemple Hair blend_vb Hash [Legacy]"
         }
       ]
     },
@@ -89933,7 +91013,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "03dadd2a"
+          "new_hash": "03dadd2a",
+          "source": "Wise",
+          "description": "Wise Body Blend Hash"
         }
       ]
     },
@@ -89997,7 +91079,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8d825ff1"
+          "new_hash": "8d825ff1",
+          "source": "Wise",
+          "description": "Wise Bag Texcoord Hash"
         }
       ]
     },
@@ -90093,7 +91177,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebe9f31b"
+          "new_hash": "ebe9f31b",
+          "source": "Wise",
+          "description": "Wise Head Texcoord Hash"
         }
       ]
     },
@@ -90106,11 +91192,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "c83b6cbf"
+          "new_hash": "c83b6cbf",
+          "source": "Wise",
+          "description": "Wise Head Texcoord Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "c83b6cbf"
+          "new_hash": "c83b6cbf",
+          "source": "WiseTemple",
+          "description": "Wise Head Texcoord Hash [Legacy]"
         }
       ]
     },
@@ -90270,7 +91360,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "015fbf96"
+          "new_hash": "015fbf96",
+          "source": "Wise",
+          "description": "Wise Face Blend Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -90282,7 +91374,9 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "015fbf96"
+          "new_hash": "015fbf96",
+          "source": "WisePeacefulWaves",
+          "description": "WisePeacefulWaves Face Blend Hash"
         },
         {
           "type": "add_section_if_missing",
@@ -90294,11 +91388,15 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "015fbf96"
+          "new_hash": "015fbf96",
+          "source": "WiseSoaringCrane",
+          "description": "WiseSoaringCrane Face Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "015fbf96"
+          "new_hash": "015fbf96",
+          "source": "WiseTemple",
+          "description": "WiseTemple Face blend_vb Hash [Legacy]"
         }
       ]
     },
@@ -90905,11 +92003,15 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "19a3f02e"
+          "new_hash": "19a3f02e",
+          "source": "WisePeacefulWaves",
+          "description": "WisePeacefulWaves Body IB Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "19a3f02e"
+          "new_hash": "19a3f02e",
+          "source": "WiseSummer",
+          "description": "WiseSummer Body IB Hash [Legacy]"
         }
       ]
     },
@@ -90925,11 +92027,15 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "0ec31440"
+          "new_hash": "0ec31440",
+          "source": "WisePeacefulWaves",
+          "description": "WisePeacefulWaves Hair IB Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "0ec31440"
+          "new_hash": "0ec31440",
+          "source": "WiseSummer",
+          "description": "WiseSummer Hair IB Hash [Legacy]"
         }
       ]
     },
@@ -90975,15 +92081,21 @@
         },
         {
           "type": "update_hash",
-          "new_hash": "8d08b190"
+          "new_hash": "8d08b190",
+          "source": "WisePeacefulWaves",
+          "description": "WisePeacefulWaves Hair Shadow IB Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "8d08b190"
+          "new_hash": "8d08b190",
+          "source": "WiseSummer",
+          "description": "WiseSummer HairShadow IB Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "8d08b190"
+          "new_hash": "8d08b190",
+          "source": "WiseTemple",
+          "description": "WiseSwimwear HairShadow IB Hash [Legacy]"
         }
       ]
     },
@@ -91733,11 +92845,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d4147320"
+          "new_hash": "d4147320",
+          "source": "WisePeacefulWaves",
+          "description": "Wiseswimwear Body Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "d4147320"
+          "new_hash": "d4147320",
+          "source": "WiseSummer",
+          "description": "WiseSummer Body Blend Hash"
         }
       ]
     },
@@ -91750,11 +92866,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1eca2097"
+          "new_hash": "1eca2097",
+          "source": "WiseSoaringCrane",
+          "description": "WiseSoaringCrane Body IB Hash \u2192 WiseSoaringCrane Body IB Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "1eca2097"
+          "new_hash": "1eca2097",
+          "source": "WiseTemple",
+          "description": "WiseTemple Body IB [Legacy]"
         }
       ]
     },
@@ -91767,11 +92887,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b39870e1"
+          "new_hash": "b39870e1",
+          "source": "WiseSoaringCrane",
+          "description": "WiseSoaringCrane Body Texcoord \u2192 WiseSoaringCrane Body Texcoord"
         },
         {
           "type": "update_hash",
-          "new_hash": "b39870e1"
+          "new_hash": "b39870e1",
+          "source": "WiseTemple",
+          "description": "WiseTemple Body Texcoord [Legacy]"
         }
       ]
     },
@@ -91784,11 +92908,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8612559a"
+          "new_hash": "8612559a",
+          "source": "WiseSoaringCrane",
+          "description": "WiseSoaringCrane Body Blend \u2192 WiseSoaringCrane Body Blend"
         },
         {
           "type": "update_hash",
-          "new_hash": "8612559a"
+          "new_hash": "8612559a",
+          "source": "WiseTemple",
+          "description": "WiseTemple Body Blend [Legacy]"
         }
       ]
     },
@@ -91801,11 +92929,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a388eb6b"
+          "new_hash": "a388eb6b",
+          "source": "WiseSoaringCrane",
+          "description": "WiseSoaringCrane Body Position \u2192 WiseSoaringCrane Body Position"
         },
         {
           "type": "update_hash",
-          "new_hash": "a388eb6b"
+          "new_hash": "a388eb6b",
+          "source": "WiseTemple",
+          "description": "WiseTemple Body Position [Legacy]"
         }
       ]
     },
@@ -91818,11 +92950,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ca02f614"
+          "new_hash": "ca02f614",
+          "source": "WiseSoaringCrane",
+          "description": "WiseSoaringCrane Body Draw \u2192 WiseSoaringCrane Body Draw"
         },
         {
           "type": "update_hash",
-          "new_hash": "ca02f614"
+          "new_hash": "ca02f614",
+          "source": "WiseTemple",
+          "description": "WiseTemple Body Draw [Legacy]"
         }
       ]
     },
@@ -91897,11 +93033,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f28a6363"
+          "new_hash": "f28a6363",
+          "source": "WiseSoaringCrane",
+          "description": "WiseSoaringCrane Body Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "f28a6363"
+          "new_hash": "f28a6363",
+          "source": "WiseTemple",
+          "description": "WiseTemple Body blend_vb Hash [Legacy]"
         }
       ]
     },
@@ -91989,11 +93129,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "669191ec"
+          "new_hash": "669191ec",
+          "source": "WiseSoaringCrane",
+          "description": "WiseSoaringCrane BodyA Diffuse 2048p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "669191ec"
+          "new_hash": "669191ec",
+          "source": "WiseTemple",
+          "description": "WiseTemple BodyA Diffuse 2048p Hash [Legacy]"
         }
       ]
     },
@@ -92039,11 +93183,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "23876240"
+          "new_hash": "23876240",
+          "source": "WiseSoaringCrane",
+          "description": "WiseSoaringCrane BodyA Diffuse 1024p Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "23876240"
+          "new_hash": "23876240",
+          "source": "WiseTemple",
+          "description": "Transition legacy entry for 9fc3646e"
         }
       ]
     },
@@ -92388,11 +93536,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "e0b1e734"
+          "new_hash": "e0b1e734",
+          "source": "WiseSoaringCrane",
+          "description": "Wise Neck Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "e0b1e734"
+          "new_hash": "e0b1e734",
+          "source": "WiseTemple",
+          "description": "WiseTemple Neck blend_vb Hash [Legacy]"
         }
       ]
     },
@@ -93345,11 +94497,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "4af493e5"
+          "new_hash": "4af493e5",
+          "source": "WiseSummer",
+          "description": "WiseSummer HairShadow position_vb Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "4af493e5"
+          "new_hash": "4af493e5",
+          "source": "WiseTemple",
+          "description": "Wise HairShadow position_vb Hash [Legacy]"
         }
       ]
     },
@@ -93362,11 +94518,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "795e9a7c"
+          "new_hash": "795e9a7c",
+          "source": "WiseSummer",
+          "description": "WiseSummer HairShadow blend_vb Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "795e9a7c"
+          "new_hash": "795e9a7c",
+          "source": "WiseTemple",
+          "description": "Wise HairShadow blend_vb Hash [Legacy]"
         }
       ]
     },
@@ -93379,11 +94539,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ad7d7eca"
+          "new_hash": "ad7d7eca",
+          "source": "WiseSummer",
+          "description": "WiseSummer HairShadow texcoord_vb Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "ad7d7eca"
+          "new_hash": "ad7d7eca",
+          "source": "WiseTemple",
+          "description": "Wise HairShadow texcoord_vb Hash [Legacy]"
         }
       ]
     },
@@ -93396,11 +94560,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8d08b190"
+          "new_hash": "8d08b190",
+          "source": "WiseSummer",
+          "description": "WiseSummer HairShadow IB Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "8d08b190"
+          "new_hash": "8d08b190",
+          "source": "WiseTemple",
+          "description": "Wise HairShadow IB Hash [Legacy]"
         }
       ]
     },
@@ -93413,11 +94581,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "681651f9"
+          "new_hash": "681651f9",
+          "source": "WiseSummer",
+          "description": "WiseSummer HairShadow draw_vb Hash [Legacy]"
         },
         {
           "type": "update_hash",
-          "new_hash": "681651f9"
+          "new_hash": "681651f9",
+          "source": "WiseTemple",
+          "description": "Wise HairShadow draw_vb Hash [Legacy]"
         }
       ]
     },
@@ -93490,7 +94662,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b558d482"
+          "new_hash": "b558d482",
+          "source": "Yanagi",
+          "description": "Yanagi Body blend (old hash)"
         }
       ]
     },
@@ -93503,7 +94677,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "44d9123b"
+          "new_hash": "44d9123b",
+          "source": "Yanagi",
+          "description": "Yanagi Glasses ib (old hash)"
         }
       ]
     },
@@ -93816,7 +94992,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "616200aa"
+          "new_hash": "616200aa",
+          "source": "Yanagi",
+          "description": "Yanagi BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -97004,10 +98182,6 @@
           "section_content": "match_priority = 0\n"
         },
         {
-          "type": "update_hash",
-          "new_hash": "a5182b8a"
-        },
-        {
           "type": "add_section_if_missing",
           "equiv_hashes": [
             "611df76d"
@@ -97268,10 +98442,6 @@
           ],
           "section_title": "YeShunguangSkin.Sword.IB",
           "section_content": "match_priority = 0\n"
-        },
-        {
-          "type": "update_hash",
-          "new_hash": "7eb1ca38"
         },
         {
           "type": "add_section_if_missing",
@@ -100644,7 +101814,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "5b985a6f"
+          "new_hash": "5b985a6f",
+          "source": "Yidhari",
+          "description": "Yidhair BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -100682,7 +101854,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "381e8e5a"
+          "new_hash": "381e8e5a",
+          "source": "Yidhari",
+          "description": "Yidhair BodyA LightMap 1024p Hash"
         }
       ]
     },
@@ -101587,7 +102761,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "1630f2d0"
+          "new_hash": "1630f2d0",
+          "source": "Yixuan",
+          "description": "Yixuan Bottle IB Hash"
         }
       ]
     },
@@ -101600,7 +102776,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d89da8eb"
+          "new_hash": "d89da8eb",
+          "source": "Yixuan",
+          "description": "Yixuan Bottle Blend Hash"
         }
       ]
     },
@@ -101613,7 +102791,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "8555098d"
+          "new_hash": "8555098d",
+          "source": "Yixuan",
+          "description": "Yixuan Bottle Position Hash"
         }
       ]
     },
@@ -101626,7 +102806,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ff4b112b"
+          "new_hash": "ff4b112b",
+          "source": "Yixuan",
+          "description": "Yixuan Bottle Texcoord Hash"
         }
       ]
     },
@@ -101639,7 +102821,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "05466ddf"
+          "new_hash": "05466ddf",
+          "source": "Yixuan",
+          "description": "Yixuan Bottle Draw Hash"
         }
       ]
     },
@@ -103812,7 +104996,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7683c132"
+          "new_hash": "7683c132",
+          "source": "YixuanTrailsOfInk",
+          "description": "YiXuanSkin BodyB Diffuse 2048p Hash"
         }
       ]
     },
@@ -103858,7 +105044,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "89509335"
+          "new_hash": "89509335",
+          "source": "YixuanTrailsOfInk",
+          "description": "YiXuanSkin BodyB Diffuse 1024p Hash"
         }
       ]
     },
@@ -103968,7 +105156,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7e6747ac"
+          "new_hash": "7e6747ac",
+          "source": "YixuanTrailsOfInk",
+          "description": "YiXuanSkin BodyB MaterialMap 2048p Hash"
         }
       ]
     },
@@ -104014,7 +105204,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "229c5b0f"
+          "new_hash": "229c5b0f",
+          "source": "YixuanTrailsOfInk",
+          "description": "YiXuanSkin BodyB MaterialMap 1024p Hash"
         }
       ]
     },
@@ -106834,11 +108026,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "2a7b9144"
+          "new_hash": "2a7b9144",
+          "source": "YuzuhaSummer",
+          "description": "YuzuhaSummer Body Position Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "2a7b9144"
+          "new_hash": "2a7b9144",
+          "source": "YuzuhaTanukiInBroadDaylight",
+          "description": "YuzuhaSkin Body Position Hash"
         }
       ]
     },
@@ -106851,11 +108047,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "0c9062c5"
+          "new_hash": "0c9062c5",
+          "source": "YuzuhaSummer",
+          "description": "YuzuhaSummer Body Texcoord Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "0c9062c5"
+          "new_hash": "0c9062c5",
+          "source": "YuzuhaTanukiInBroadDaylight",
+          "description": "YuzuhaSkin Body Texcoord Hash"
         }
       ]
     },
@@ -106868,11 +108068,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "523cf99d"
+          "new_hash": "523cf99d",
+          "source": "YuzuhaSummer",
+          "description": "YuzuhaSummer Body Blend Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "523cf99d"
+          "new_hash": "523cf99d",
+          "source": "YuzuhaTanukiInBroadDaylight",
+          "description": "YuzuhaSkin Body Blend Hash"
         }
       ]
     },
@@ -106885,11 +108089,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "07437c27"
+          "new_hash": "07437c27",
+          "source": "YuzuhaSummer",
+          "description": "YuzuhaSummer Body Draw Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "07437c27"
+          "new_hash": "07437c27",
+          "source": "YuzuhaTanukiInBroadDaylight",
+          "description": "YuzuhaSkin Body Draw Hash"
         }
       ]
     },
@@ -106902,11 +108110,15 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "b298482d"
+          "new_hash": "b298482d",
+          "source": "YuzuhaSummer",
+          "description": "YuzuhaSummer Body IB Hash"
         },
         {
           "type": "update_hash",
-          "new_hash": "b298482d"
+          "new_hash": "b298482d",
+          "source": "YuzuhaTanukiInBroadDaylight",
+          "description": "YuzuhaSkin Body IB Hash"
         }
       ]
     },
@@ -107751,7 +108963,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "6619364f"
+          "new_hash": "6619364f",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan Body IB Hash"
         }
       ]
     },
@@ -107764,7 +108978,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "01e0c8d9"
+          "new_hash": "01e0c8d9",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan Body Blend Hash"
         }
       ]
     },
@@ -107777,7 +108993,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f595d24d"
+          "new_hash": "f595d24d",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan Body Position Hash"
         }
       ]
     },
@@ -107790,7 +109008,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "cb885260"
+          "new_hash": "cb885260",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan Body Texcoord Hash"
         }
       ]
     },
@@ -107803,7 +109023,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f3c092c5"
+          "new_hash": "f3c092c5",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan Hair Texcoord Hash"
         },
         {
           "type": "shrink_texcoord_color",
@@ -107884,7 +109106,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan HairA, ExtrasA NormalMap 1024p Hash"
         }
       ]
     },
@@ -107945,7 +109169,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan HairA, ExtrasA NormalMap 2048p Hash"
         }
       ]
     },
@@ -107990,7 +109216,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "f6795718"
+          "new_hash": "f6795718",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -108003,7 +109231,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "729ea75a"
+          "new_hash": "729ea75a",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA NormalMap 1024p Hash"
         }
       ]
     },
@@ -108016,7 +109246,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "14b638b6"
+          "new_hash": "14b638b6",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA LightMap 1024p Hash"
         }
       ]
     },
@@ -108029,7 +109261,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "cd4dee2c"
+          "new_hash": "cd4dee2c",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -108042,7 +109276,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "46af14f8"
+          "new_hash": "46af14f8",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA Diffuse 1024p Hash"
         }
       ]
     },
@@ -108055,7 +109291,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d5b175bf"
+          "new_hash": "d5b175bf",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA NormalMap 1024p Hash"
         }
       ]
     },
@@ -108068,7 +109306,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "fb385169"
+          "new_hash": "fb385169",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA LightMap 1024p Hash"
         }
       ]
     },
@@ -108081,7 +109321,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "29e2ebc5"
+          "new_hash": "29e2ebc5",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA MaterialMap 1024p Hash"
         }
       ]
     },
@@ -108121,7 +109363,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA NormalMap 1024p Hash"
         }
       ]
     },
@@ -108188,7 +109432,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3ef82f41"
+          "new_hash": "3ef82f41",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA Diffuse 2048p Hash"
         }
       ]
     },
@@ -108201,7 +109447,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "7195a311"
+          "new_hash": "7195a311",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -108214,7 +109462,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "80ebf536"
+          "new_hash": "80ebf536",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -108227,7 +109477,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "10415de8"
+          "new_hash": "10415de8",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -108240,7 +109492,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "a271e894"
+          "new_hash": "a271e894",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA Diffuse 2048p Hash"
         }
       ]
     },
@@ -108253,7 +109507,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d81fb56e"
+          "new_hash": "d81fb56e",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -108266,7 +109522,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "d02bc66c"
+          "new_hash": "d02bc66c",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA LightMap 2048p Hash"
         }
       ]
     },
@@ -108279,7 +109537,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "3e808ef6"
+          "new_hash": "3e808ef6",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA MaterialMap 2048p Hash"
         }
       ]
     },
@@ -108319,7 +109579,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan BodyA NormalMap 2048p Hash"
         }
       ]
     },
@@ -108402,7 +109664,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan ExtrasB, ShoulderAmmoA, HipAmmoA NormalMap 1024p Hash"
         }
       ]
     },
@@ -108463,7 +109727,9 @@
       "actions": [
         {
           "type": "update_hash",
-          "new_hash": "ebac056e"
+          "new_hash": "ebac056e",
+          "source": "ZhuYuan",
+          "description": "ZhuYuan ExtrasB, ShoulderAmmoA, HipAmmoA NormalMap 2048p Hash"
         }
       ]
     },
@@ -111962,14 +113228,6 @@
       "version_to": "2.8"
     },
     {
-      "old_hash": "ebac056e",
-      "new_hash": "798adba3",
-      "character": "BelleTemple",
-      "component": "Alice HairA, LegsA, BodyA, BackpackA NormalMap Hash",
-      "version_from": "2.8",
-      "version_to": "2.5"
-    },
-    {
       "old_hash": "cc195dc5",
       "new_hash": "2fa5ffa7",
       "character": "Ben",
@@ -115456,38 +116714,6 @@
       "component": "YeShunguang TexCoord VB Hash",
       "version_from": "1.0",
       "version_to": "2.5"
-    },
-    {
-      "old_hash": "287c161c",
-      "new_hash": "a5182b8a",
-      "character": "YeShunguangSkin",
-      "component": "YeShunguang Eyebrow VB Hash",
-      "version_from": "1.0",
-      "version_to": "3.0"
-    },
-    {
-      "old_hash": "f927c4bb",
-      "new_hash": "7eb1ca38",
-      "character": "YeShunguangSkin",
-      "component": "YeShunguang Sword VB Hash",
-      "version_from": "2.8",
-      "version_to": "3.0"
-    },
-    {
-      "old_hash": "9d2adcc5",
-      "new_hash": "90250152",
-      "character": "YeShunguangSkin",
-      "component": "MiyabiDignifiedBlossom Sword TEX Hash",
-      "version_from": "2.8",
-      "version_to": "3.0"
-    },
-    {
-      "old_hash": "4659445f",
-      "new_hash": "a355e13d",
-      "character": "YeShunguangSkin",
-      "component": "MiyabiDignifiedBlossom Sword TEX Hash",
-      "version_from": "2.8",
-      "version_to": "3.0"
     },
     {
       "old_hash": "2ae9bee8",
