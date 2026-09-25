@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.3.1-release",
+    "title": "ZZZ Mod Hub Update 1.3.1",
+    "message": "### What is new in v1.3.1:\n- **In-Game Toggle Presets**: Save and load outfit toggle combinations into custom presets with dedicated in-game save slots.\n- **Agent-Aware Mod Repairs**: Fixer now checks the mod's own character to resolve conflicting migration hashes, preventing parts from disappearing or mapping to the wrong agent.\n- **Safe INI Backups**: Renamed backups to `.bak` format so 3DMigoto never loads them as duplicate mods in game.\n- **Component Splitter Fix**: Properly places implied draw calls inside index buffer blocks to prevent invisible or misplaced submeshes.\n- **Mod Updater Folder Routing**: Mod updates now install cleanly into the mod's existing folder without creating redundant directories.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.3.1",
+    "message_pt_BR": "### Novidades da v1.3.1:\n- **Presets de Variações no Jogo**: Salve e carregue combinações de roupas e peças em presets com slots rápidos de salvamento no jogo.\n- **Corretor Inteligente por Agente**: O corretor agora consulta o personagem do próprio mod ao resolver hashes conflitantes, evitando peças sumidas ou migradas para o agente errado.\n- **Backups Seguros de INI**: Backups agora usam extensão `.bak` para que o 3DMigoto nunca os carregue como cópias duplicadas no jogo.\n- **Ajuste no Separador de Componentes**: Corrige o posicionamento de chamadas de desenho em blocos de índice, mantendo todas as submalhas alinhadas.\n- **Instalação Precisa de Atualizações**: As atualizações de mods agora são aplicadas diretamente na pasta existente do mod sem criar pastas redundantes.",
+    "title_zh": "ZZZ Mod Hub 1.3.1 更新",
+    "message_zh": "### v1.3.1 更新内容：\n- **游戏内变体预设与存档槽**：支持将服装与配件变体组合保存为独立预设，并可在游戏内通过快捷槽位快速切换。\n- **基于角色的精准模组修复**：修复器遇到迁移哈希冲突时优先遵循模组所属角色，防止部件丢失或被错误分配至其他角色。\n- **安全 INI 备份机制**：备份文件改用 `.bak` 命名规范，杜绝 3DMigoto 在游戏内误将其识别加载为重复模组。\n- **组件拆分器绘制调用修复**：确保隐式绘制调用正确绑定于对应索引缓冲区内，彻底解决拆分后子网格错位或隐形问题。\n- **模组更新目录精准覆盖**：在线更新模组时自动对齐并覆盖已有模组文件夹，不再生成冗余重复目录。",
+    "date": "2026-09-25T03:40:00Z"
+  },
+  {
     "id": "1.3.0-release",
     "title": "ZZZ Mod Hub Update 1.3.0",
     "message": "### What is new in v1.3.0:\n- **Approved on GameBanana**: Fairy's Secret Folder graduated from WIP and is now officially listed under GameBanana Tools (gamebanana.com/tools/24086).\n- **Extended Jane Doe Fixes**: Fixed stubborn tail distortion, hair clipping, and blend buffer weighting on Jane Doe mods so custom models move and animate without stretching.\n- **Tutorial & Setup Adjustments**: Overhauled first-time setup flow, clearer folder detection checks, and refreshed documentation guides with embedded clip previews.\n- **Mod Component Splitter**: Break multi-outfit packs and character bundles into separate folders with one click, letting you toggle individual parts without touching INI files.\n- **Offline Mesh Simulator**: Checks draw-call bindings and model hashes against game baselines before launch to catch broken meshes early.",
