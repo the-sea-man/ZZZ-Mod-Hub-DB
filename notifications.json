@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.3.3-release",
+    "title": "ZZZ Mod Hub Update 1.3.3",
+    "message": "### What is new in v1.3.3:\n- **Game Launch Protection**: Supports custom launcher flags and prevents duplicate game instances from launching when the game is already running.\n- **Hardened 1-Click Installs**: Refuses links from other games with clear notifications, blocks dangerous executables, and verifies download file integrity.\n- **Responsive Discover Toolbar**: Toolbar controls and page buttons now wrap cleanly so navigation never gets cut off on smaller screens.\n- **Enhanced RAR Extraction**: Added 7-Zip fallback support for complex and multi-part RAR archives.\n- **Built-In Diagnostic Reports**: Generate one-click diagnostic reports in Settings to help troubleshoot setup and mod loading issues.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.3.3",
+    "message_pt_BR": "### Novidades da v1.3.3:\n- **Proteção na Inicialização do Jogo**: Suporte a parâmetros no inicializador e prevenção contra abertura duplicada se o jogo já estiver aberto.\n- **Instalação em 1 Clique Mais Segura**: Recusa links de outros jogos com avisos claros, bloqueia executáveis perigosos e valida a integridade do download.\n- **Barra do Discover Responsiva**: Botões de página e filtros agora se ajustam perfeitamente para não saírem da tela em resoluções menores.\n- **Extração Aprimorada de RAR**: Adicionado suporte automático via 7-Zip para descompactar arquivos RAR complexos ou divididos em partes.\n- **Relatórios de Diagnóstico**: Gere um relatório do sistema nas Configurações com um clique para facilitar a resolução de problemas.",
+    "title_zh": "ZZZ Mod Hub 1.3.3 更新",
+    "message_zh": "### v1.3.3 更新内容：\n- **游戏启动防重复保护**：支持带参数的自定义启动器命令，在游戏已运行时自动阻止重复打开客户端。\n- **一键安装协议安全加固**：自动识别并拦截非绝区零模组链接，严格阻断可执行文件下载并校验文件完整性。\n- **发现页响应式工具栏**：工具栏在较小窗口下支持优雅换行，确保翻页按钮与过滤选项始终完整可见。\n- **RAR 压缩包解压增强**：内置 7-Zip 降级提取能力，完美支持复杂分卷与特殊格式 RAR 模组包解压。\n- **一键生成诊断报告**：可在设置中一键生成运行诊断信息，排查路径配置与模组加载问题更方便。",
+    "date": "2026-09-30T10:00:00Z"
+  },
+  {
     "id": "1.3.2-release",
     "title": "ZZZ Mod Hub Update 1.3.2",
     "message": "### What is new in v1.3.2:\n- **Instant Settings Search**: Search and jump directly to any setting, keybind, or toggle with the new search bar in Settings.\n- **Legacy Belle Component Split**: Break monolithic Belle mods into separate Hair, Legs, and Earrings folders without touching INIs.\n- **Background Hot Reload**: Reload mods without window focus shifts or administrator elevation prompts.\n- **Crash-Proof File Saves**: All configuration and script edits are saved atomically to protect against sudden power loss or crashes.\n- **Encrypted Archive Warning**: Fast-fails with a clear notification when trying to extract password-protected RAR archives.\n- **Network Timeouts**: API queries and database syncs time out cleanly so slow connections never stall the manager.",
