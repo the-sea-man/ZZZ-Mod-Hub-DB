@@ -5331,6 +5331,12 @@
           "source": "Anby",
           "description": "Anby HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "20890a00",
+        "2899edd0",
+        "6ea0023c",
+        "ebac056e"
       ]
     },
     "9ceea795": {
@@ -5396,6 +5402,12 @@
           ],
           "section_title": "Anby.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "20890a00",
+        "2899edd0",
+        "6ea0023c",
+        "ebac056e"
       ]
     },
     "20890a00": {
@@ -5411,6 +5423,11 @@
           "source": "Anby",
           "description": "Anby HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "2899edd0",
+        "6ea0023c",
+        "b54f2a3d"
       ]
     },
     "3101f0da": {
@@ -5458,6 +5475,11 @@
           "source": "Anby",
           "description": "Anby BodyA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "19226ead",
+        "7c24acc9",
+        "ccca3b8e"
       ]
     },
     "215ff74d": {
@@ -5523,6 +5545,11 @@
           ],
           "section_title": "Anby.BodyA.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "19226ead",
+        "7c24acc9",
+        "ccca3b8e"
       ]
     },
     "7c24acc9": {
@@ -5538,6 +5565,13 @@
           "source": "Anby",
           "description": "Anby BodyA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "19226ead",
+        "215ff74d",
+        "b37c3b4e",
+        "ccca3b8e",
+        "ebac056e"
       ]
     },
     "9cddbf1e": {
@@ -5603,6 +5637,13 @@
           ],
           "section_title": "Anby.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "19226ead",
+        "215ff74d",
+        "b37c3b4e",
+        "ccca3b8e",
+        "ebac056e"
       ]
     },
     "ccca3b8e": {
@@ -5666,6 +5707,11 @@
           "source": "Anby",
           "description": "Anby BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "7c24acc9",
+        "b37c3b4e",
+        "ccca3b8e"
       ]
     },
     "6346d69d": {
@@ -6435,6 +6481,11 @@
           "source": "Anton",
           "description": "1.0\u21922.5: Anton HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "24caeb1f",
+        "571aa398",
+        "b216f758"
       ]
     },
     "21ee9a3f": {
@@ -6500,6 +6551,11 @@
           ],
           "section_title": "Anton.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "24caeb1f",
+        "571aa398",
+        "b216f758"
       ]
     },
     "24caeb1f": {
@@ -6515,6 +6571,11 @@
           "source": "Anton",
           "description": "1.0\u21922.5: Anton HairA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "571aa398",
+        "b216f758",
+        "ee06579e"
       ]
     },
     "6fc654e1": {
@@ -6580,6 +6641,11 @@
           ],
           "section_title": "Anton.HairA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "571aa398",
+        "b216f758",
+        "ee06579e"
       ]
     },
     "b216f758": {
@@ -6595,6 +6661,11 @@
           "source": "Anton",
           "description": "1.0\u21922.5: Anton HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "24caeb1f",
+        "571aa398",
+        "ee06579e"
       ]
     },
     "77ae203f": {
@@ -6673,6 +6744,11 @@
           "source": "Anton",
           "description": "1.0\u21922.5: Anton BodyA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "00abcf22",
+        "0238b0ff",
+        "1b4ad5b7"
       ]
     },
     "8e5ba7d0": {
@@ -6738,6 +6814,11 @@
           ],
           "section_title": "Anton.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "00abcf22",
+        "0238b0ff",
+        "1b4ad5b7"
       ]
     },
     "0238b0ff": {
@@ -6753,6 +6834,11 @@
           "source": "Anton",
           "description": "1.0\u21922.5: Anton BodyA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "00abcf22",
+        "17cf1b74",
+        "1b4ad5b7"
       ]
     },
     "b7ce5f0b": {
@@ -6818,6 +6904,11 @@
           ],
           "section_title": "Anton.BodyA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "00abcf22",
+        "17cf1b74",
+        "1b4ad5b7"
       ]
     },
     "1b4ad5b7": {
@@ -6833,6 +6924,11 @@
           "source": "Anton",
           "description": "1.0\u21922.5: Anton BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "00abcf22",
+        "0238b0ff",
+        "17cf1b74"
       ]
     },
     "5b2ab0e0": {
@@ -6911,6 +7007,11 @@
           "source": "Anton",
           "description": "1.0\u21922.5: Anton JacketA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "d36a2f7a",
+        "d4b15508",
+        "d7517d0e"
       ]
     },
     "c42628a5": {
@@ -6976,6 +7077,11 @@
           ],
           "section_title": "Anton.JacketA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "d36a2f7a",
+        "d4b15508",
+        "d7517d0e"
       ]
     },
     "d36a2f7a": {
@@ -7039,6 +7145,11 @@
           "source": "Anton",
           "description": "1.0\u21922.5: Anton JacketA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "886a664a",
+        "d36a2f7a",
+        "d4b15508"
       ]
     },
     "ae3d5fb8": {
@@ -11244,6 +11355,13 @@
           "section_title": "AstraYaoChandelier.Hair.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "2daa2443",
+        "34aad3b4",
+        "b085765e",
+        "da673df0",
+        "ebac056e"
       ]
     },
     "7301ca3a": {
@@ -11851,6 +11969,11 @@
           "source": "AstraYao",
           "description": "1.5A -> 1.5B: AstraYao HairA, LegsA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "34aad3b4",
+        "b53b2e12",
+        "ebac056e"
       ]
     },
     "2daa2443": {
@@ -11866,6 +11989,11 @@
           "source": "AstraYao",
           "description": "AstraYao HairA, LegsA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "b085765e",
+        "b53b2e12",
+        "ebac056e"
       ]
     },
     "34aad3b4": {
@@ -11881,6 +12009,11 @@
           "source": "AstraYao",
           "description": "1.5A -> 1.5B: AstraYao HairA, LegsA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "b53b2e12",
+        "da673df0",
+        "ebac056e"
       ]
     },
     "b085765e": {
@@ -11896,6 +12029,11 @@
           "source": "AstraYao",
           "description": "AstraYao HairA, LegsA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "2daa2443",
+        "b53b2e12",
+        "ebac056e"
       ]
     },
     "b53b2e12": {
@@ -11911,6 +12049,13 @@
           "source": "AstraYao",
           "description": "AstraYao HairA, LegsA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "2daa2443",
+        "34aad3b4",
+        "b085765e",
+        "da673df0",
+        "ebac056e"
       ]
     },
     "7a507e4a": {
@@ -13552,6 +13697,160 @@
           "new_hash": "c92a17d8",
           "source": "Belle",
           "description": "Belle Body Blend Hash"
+        },
+        {
+          "type": "update_blend_indices",
+          "hash": "d2844c01",
+          "old_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11,
+            12,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            126,
+            127,
+            128,
+            129
+          ],
+          "new_indices": [
+            1,
+            2,
+            0,
+            6,
+            7,
+            4,
+            5,
+            3,
+            12,
+            9,
+            10,
+            11,
+            25,
+            22,
+            23,
+            24,
+            38,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            39,
+            40,
+            37,
+            45,
+            48,
+            49,
+            44,
+            56,
+            46,
+            47,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            58,
+            59,
+            62,
+            57,
+            60,
+            61,
+            104,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            110,
+            127,
+            126,
+            129,
+            128
+          ]
         }
       ]
     },
@@ -13572,6 +13871,9 @@
           "type": "update_blend_indices",
           "hash": "d2844c01",
           "old_indices": [
+            0,
+            1,
+            2,
             3,
             4,
             5,
@@ -13581,14 +13883,6 @@
             10,
             11,
             12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            20,
-            21,
             22,
             23,
             24,
@@ -13606,6 +13900,9 @@
             36,
             37,
             38,
+            39,
+            40,
+            44,
             45,
             46,
             47,
@@ -13618,15 +13915,12 @@
             54,
             55,
             56,
+            57,
             58,
             59,
             60,
             61,
             62,
-            63,
-            64,
-            65,
-            66,
             95,
             96,
             97,
@@ -13637,31 +13931,37 @@
             102,
             103,
             104,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
             126,
-            127
+            127,
+            128,
+            129
           ],
           "new_indices": [
+            1,
+            2,
+            0,
             6,
             7,
-            3,
-            5,
             4,
-            18,
+            5,
+            3,
+            12,
             9,
             10,
             11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            21,
             25,
-            24,
-            20,
             22,
             23,
+            24,
             38,
             26,
             27,
@@ -13674,28 +13974,28 @@
             34,
             35,
             36,
+            39,
+            40,
             37,
-            47,
-            48,
-            53,
-            56,
             45,
-            46,
+            48,
             49,
+            44,
+            56,
+            46,
+            47,
             50,
             51,
             52,
+            53,
             54,
             55,
-            60,
-            61,
-            66,
             58,
             59,
             62,
-            63,
-            64,
-            65,
+            57,
+            60,
+            61,
             104,
             95,
             96,
@@ -13706,8 +14006,19 @@
             101,
             102,
             103,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            110,
             127,
-            126
+            126,
+            129,
+            128
           ]
         }
       ]
@@ -14019,6 +14330,12 @@
           "source": "Belle",
           "description": "Belle HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1ce58567",
+        "24c47ca5",
+        "34bdb036",
+        "89b147ff"
       ]
     },
     "7d562f53": {
@@ -14195,6 +14512,12 @@
           "section_title": "BelleTemple.Hair.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "1ce58567",
+        "24c47ca5",
+        "34bdb036",
+        "89b147ff"
       ]
     },
     "2e656f2f": {
@@ -14220,6 +14543,12 @@
           ],
           "section_title": "Belle.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "1ce58567",
+        "24c47ca5",
+        "34bdb036",
+        "89b147ff"
       ]
     },
     "24c47ca5": {
@@ -14235,6 +14564,11 @@
           "source": "Belle",
           "description": "Belle HairA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1ce58567",
+        "89b147ff",
+        "f1ee2105"
       ]
     },
     "34bdb036": {
@@ -14412,6 +14746,11 @@
           "section_title": "BelleTemple.Hair.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "1ce58567",
+        "89b147ff",
+        "f1ee2105"
       ]
     },
     "89b147ff": {
@@ -14427,6 +14766,12 @@
           "source": "Belle",
           "description": "Belle HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1ce58567",
+        "24c47ca5",
+        "34bdb036",
+        "f1ee2105"
       ]
     },
     "6b55c039": {
@@ -14452,6 +14797,12 @@
           ],
           "section_title": "Belle.HairA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "1ce58567",
+        "24c47ca5",
+        "34bdb036",
+        "f1ee2105"
       ]
     },
     "d2960560": {
@@ -14467,6 +14818,11 @@
           "source": "Belle",
           "description": "Belle BodyA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "33f28c6d",
+        "bf286c84",
+        "f04f7ab9"
       ]
     },
     "24639b77": {
@@ -14572,6 +14928,11 @@
           "section_title": "BelleSummerSkies.Body.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "33f28c6d",
+        "bf286c84",
+        "f04f7ab9"
       ]
     },
     "bf286c84": {
@@ -14587,6 +14948,11 @@
           "source": "Belle",
           "description": "Belle BodyA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "33f28c6d",
+        "d2960560",
+        "f04f7ab9"
       ]
     },
     "7947679c": {
@@ -14692,6 +15058,11 @@
           "section_title": "BelleSummerSkies.Body.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "33f28c6d",
+        "d2960560",
+        "f04f7ab9"
       ]
     },
     "33f28c6d": {
@@ -14794,6 +15165,13 @@
           "source": "Belle",
           "description": "Belle BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "24639b77",
+        "33f28c6d",
+        "7947679c",
+        "bf286c84",
+        "d2960560"
       ]
     },
     "c0bd8516": {
@@ -14819,6 +15197,13 @@
           ],
           "section_title": "Belle.BodyA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "24639b77",
+        "33f28c6d",
+        "7947679c",
+        "bf286c84",
+        "d2960560"
       ]
     },
     "84a9dfca": {
@@ -15588,6 +15973,118 @@
         {
           "type": "update_hash",
           "new_hash": "40a897ab"
+        },
+        {
+          "type": "update_blend_indices",
+          "hash": "c92a17d8",
+          "old_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            37,
+            39,
+            40,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            128,
+            129
+          ],
+          "new_indices": [
+            1,
+            2,
+            0,
+            4,
+            3,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            12,
+            22,
+            20,
+            23,
+            24,
+            25,
+            21,
+            39,
+            40,
+            37,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            44,
+            58,
+            60,
+            61,
+            59,
+            62,
+            63,
+            64,
+            65,
+            66,
+            57,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            110,
+            129,
+            128
+          ]
         },
         {
           "type": "remap_texcoord",
@@ -22125,6 +22622,11 @@
           "source": "BelleTemple",
           "description": "Belle BodyA Diffuse 2048p Hash [Legacy] Old"
         }
+      ],
+      "texture_set": [
+        "088718a9",
+        "a5fdb5e7",
+        "f43c8025"
       ]
     },
     "ef76b675": {
@@ -22216,6 +22718,11 @@
           "section_title": "Ben.Face.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "00002f2c",
+        "0bbceea0",
+        "894ea737"
       ]
     },
     "2fa5ffa7": {
@@ -22266,6 +22773,11 @@
           ],
           "section_title": "Ben.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "00002f2c",
+        "0bbceea0",
+        "894ea737"
       ]
     },
     "0bbceea0": {
@@ -22289,6 +22801,11 @@
           "section_title": "Ben.Face.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "00002f2c",
+        "894ea737",
+        "cc195dc5"
       ]
     },
     "12e5120e": {
@@ -22339,6 +22856,11 @@
           ],
           "section_title": "Ben.HairA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "00002f2c",
+        "894ea737",
+        "cc195dc5"
       ]
     },
     "a2f79d33": {
@@ -22402,6 +22924,11 @@
           "section_title": "Ben.Body.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "0313ed95",
+        "1b79fa5c",
+        "3f4f6bc0"
       ]
     },
     "d27a8f6b": {
@@ -22452,6 +22979,11 @@
           ],
           "section_title": "Ben.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "0313ed95",
+        "1b79fa5c",
+        "3f4f6bc0"
       ]
     },
     "3f4f6bc0": {
@@ -22475,6 +23007,11 @@
           "section_title": "Ben.Body.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "0313ed95",
+        "1b79fa5c",
+        "cb84ed5e"
       ]
     },
     "2edd6f62": {
@@ -22525,6 +23062,11 @@
           ],
           "section_title": "Ben.BodyA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "0313ed95",
+        "1b79fa5c",
+        "cb84ed5e"
       ]
     },
     "8d83daba": {
@@ -22578,6 +23120,11 @@
           "source": "Ben",
           "description": "Ben FaceA NormalMap 2048p Hash (LEGACY)"
         }
+      ],
+      "texture_set": [
+        "00002f2c",
+        "0bbceea0",
+        "cc195dc5"
       ]
     },
     "ba809960": {
@@ -22646,6 +23193,11 @@
           "source": "Ben",
           "description": "Ben BodyA NormalMap 2048p Hash (LEGACY)"
         }
+      ],
+      "texture_set": [
+        "0313ed95",
+        "3f4f6bc0",
+        "cb84ed5e"
       ]
     },
     "f6ecc618": {
@@ -23254,6 +23806,11 @@
           "source": "Billy",
           "description": "Billy HairA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "47bbe297",
+        "4817b1bc",
+        "eeeb15f9"
       ]
     },
     "ff939fb7": {
@@ -23334,6 +23891,11 @@
           "section_title": "StarlightBilly.Hair.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "47bbe297",
+        "4817b1bc",
+        "eeeb15f9"
       ]
     },
     "c0360c81": {
@@ -23373,6 +23935,11 @@
           "source": "Billy",
           "description": "Billy HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "0475db07",
+        "47bbe297",
+        "eeeb15f9"
       ]
     },
     "b6e1da4b": {
@@ -23469,6 +24036,11 @@
           "section_title": "StarlightBilly.Hair.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "0475db07",
+        "47bbe297",
+        "eeeb15f9"
       ]
     },
     "d269a0a1": {
@@ -23508,6 +24080,11 @@
           "source": "Billy",
           "description": "Billy HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "0475db07",
+        "4817b1bc",
+        "eeeb15f9"
       ]
     },
     "27185819": {
@@ -23620,6 +24197,11 @@
           "source": "Billy",
           "description": "Billy BodyA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "399d9865",
+        "56b5953e",
+        "9cb20fa9"
       ]
     },
     "6305a7f4": {
@@ -23684,6 +24266,11 @@
           ],
           "section_title": "Billy.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "399d9865",
+        "56b5953e",
+        "9cb20fa9"
       ]
     },
     "0d5d374f": {
@@ -23771,6 +24358,11 @@
           "source": "Billy",
           "description": "Billy BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "399d9865",
+        "789b054e",
+        "9cb20fa9"
       ]
     },
     "71d95d5d": {
@@ -24425,6 +25017,11 @@
           "source": "Burnice",
           "description": "Burnice HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "5f2840f1",
+        "609b50a9",
+        "bf0042b9"
       ]
     },
     "0050e0d2": {
@@ -24608,6 +25205,11 @@
           "source": "Burnice",
           "description": "Burnice BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "50bf6521",
+        "c321481d",
+        "f4e05ee7"
       ]
     },
     "0c4f338a": {
@@ -25394,6 +25996,12 @@
           "source": "Caesar",
           "description": "Caesar HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "10af3807",
+        "20955a67",
+        "350b827e",
+        "9ce3e80c"
       ]
     },
     "d5d3585b": {
@@ -25458,6 +26066,12 @@
           ],
           "section_title": "Caesar.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "10af3807",
+        "20955a67",
+        "350b827e",
+        "9ce3e80c"
       ]
     },
     "c7115c4b": {
@@ -25483,6 +26097,12 @@
           ],
           "section_title": "Caesar.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "10af3807",
+        "20955a67",
+        "350b827e",
+        "9ce3e80c"
       ]
     },
     "350b827e": {
@@ -25546,6 +26166,11 @@
           "source": "Caesar",
           "description": "Caesar HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "350b827e",
+        "9ce3e80c",
+        "bf19954f"
       ]
     },
     "e17b3529": {
@@ -25571,6 +26196,11 @@
           ],
           "section_title": "Caesar.HairA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "350b827e",
+        "9ce3e80c",
+        "bf19954f"
       ]
     },
     "5e2cea1a": {
@@ -25730,6 +26360,11 @@
           "source": "Caesar",
           "description": "Caesar BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "5e2cea1a",
+        "6296d481",
+        "d5d89d5b"
       ]
     },
     "f1c6c309": {
@@ -25745,6 +26380,11 @@
           "source": "Caesar",
           "description": "1.4B -> 2.5: Caesar BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "5e2cea1a",
+        "6296d481",
+        "d5d89d5b"
       ]
     },
     "36f39b49": {
@@ -25760,6 +26400,14 @@
           "source": "Caesar",
           "description": "Caesar BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "05250215",
+        "23f2a4cf",
+        "6631eadc",
+        "985c5f52",
+        "b24f1752",
+        "e826a564"
       ]
     },
     "8cdf95d0": {
@@ -27615,6 +28263,11 @@
           "source": "Corin",
           "description": "Corin HairA LightMap 2048p Hash (Old)"
         }
+      ],
+      "texture_set": [
+        "23b4c60d",
+        "4a68ef99",
+        "60526444"
       ]
     },
     "74d66671": {
@@ -27679,6 +28332,11 @@
           ],
           "section_title": "Corin.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "23b4c60d",
+        "4a68ef99",
+        "60526444"
       ]
     },
     "edff2372": {
@@ -27743,6 +28401,11 @@
           "source": "Corin",
           "description": "Corin HairA NormalMap 2048p Hash (Old)"
         }
+      ],
+      "texture_set": [
+        "23b4c60d",
+        "60526444",
+        "929aca42"
       ]
     },
     "ab8956c8": {
@@ -27814,6 +28477,11 @@
           "source": "Corin",
           "description": "Corin BodyA, BearA LightMap 2048p Hash (Old)"
         }
+      ],
+      "texture_set": [
+        "289f4c58",
+        "50a0faea",
+        "af9d845a"
       ]
     },
     "e1c1718f": {
@@ -27862,6 +28530,11 @@
           ],
           "section_title": "Corin.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "289f4c58",
+        "50a0faea",
+        "af9d845a"
       ]
     },
     "af7eda82": {
@@ -27893,6 +28566,11 @@
           "source": "Corin",
           "description": "Corin BodyA, BearA MaterialMap 2048p Hash (Old)"
         }
+      ],
+      "texture_set": [
+        "289f4c58",
+        "75e05cdc",
+        "af9d845a"
       ]
     },
     "e58d9767": {
@@ -27941,6 +28619,11 @@
           ],
           "section_title": "Corin.BodyA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "289f4c58",
+        "75e05cdc",
+        "af9d845a"
       ]
     },
     "9dc9c0f6": {
@@ -27972,6 +28655,11 @@
           "source": "Corin",
           "description": "Corin BodyA, BearA NormalMap 2048p Hash (Old)"
         }
+      ],
+      "texture_set": [
+        "50a0faea",
+        "75e05cdc",
+        "af9d845a"
       ]
     },
     "640141d4": {
@@ -30070,6 +30758,11 @@
           "source": "Ellen",
           "description": "Ellen HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "01bb8189",
+        "81ccd2e2",
+        "dc9d8b6e"
       ]
     },
     "d6715e09": {
@@ -30096,6 +30789,11 @@
           ],
           "section_title": "Ellen.HairA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "01bb8189",
+        "81ccd2e2",
+        "dc9d8b6e"
       ]
     },
     "cf5f5fed": {
@@ -30111,6 +30809,11 @@
           "source": "Ellen",
           "description": "-> 1.1: Ellen BodyA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "798c3a51",
+        "f4487235",
+        "ff26fb83"
       ]
     },
     "163e2559": {
@@ -30178,6 +30881,11 @@
           ],
           "section_title": "Ellen.BodyA.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "798c3a51",
+        "f4487235",
+        "ff26fb83"
       ]
     },
     "ff26fb83": {
@@ -30293,6 +31001,12 @@
           "source": "Ellen",
           "description": "Ellen BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "163e2559",
+        "cf5f5fed",
+        "f4487235",
+        "ff26fb83"
       ]
     },
     "590880e5": {
@@ -30319,6 +31033,12 @@
           ],
           "section_title": "Ellen.BodyA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "163e2559",
+        "cf5f5fed",
+        "f4487235",
+        "ff26fb83"
       ]
     },
     "ba0fe600": {
@@ -33552,6 +34272,11 @@
           ],
           "section_title": "Grace.HairA.LightMap.1024"
         }
+      ],
+      "texture_set": [
+        "3a38f6f9",
+        "846fab9a",
+        "a87d2822"
       ]
     },
     "a22d2c2c": {
@@ -33616,6 +34341,11 @@
           ],
           "section_title": "Grace.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "3a38f6f9",
+        "846fab9a",
+        "a87d2822"
       ]
     },
     "26bf1588": {
@@ -33641,6 +34371,11 @@
           ],
           "section_title": "Grace.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "3a38f6f9",
+        "846fab9a",
+        "a87d2822"
       ]
     },
     "3a38f6f9": {
@@ -33671,6 +34406,11 @@
           ],
           "section_title": "Grace.HairA.MaterialMap.1024"
         }
+      ],
+      "texture_set": [
+        "846fab9a",
+        "8eddd041",
+        "a87d2822"
       ]
     },
     "7bb81a4f": {
@@ -33735,6 +34475,11 @@
           ],
           "section_title": "Grace.HairA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "846fab9a",
+        "8eddd041",
+        "a87d2822"
       ]
     },
     "e1cb3739": {
@@ -33760,6 +34505,11 @@
           ],
           "section_title": "Grace.HairA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "846fab9a",
+        "8eddd041",
+        "a87d2822"
       ]
     },
     "846fab9a": {
@@ -33790,6 +34540,11 @@
           ],
           "section_title": "Grace.HairA.NormalMap.1024"
         }
+      ],
+      "texture_set": [
+        "3a38f6f9",
+        "8eddd041",
+        "a87d2822"
       ]
     },
     "1c4079f7": {
@@ -33815,6 +34570,11 @@
           ],
           "section_title": "Grace.HairA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "3a38f6f9",
+        "8eddd041",
+        "a87d2822"
       ]
     },
     "6d6ac4f4": {
@@ -33896,6 +34656,11 @@
           ],
           "section_title": "Grace.BodyA.LightMap.1024"
         }
+      ],
+      "texture_set": [
+        "1e794b69",
+        "6d6ac4f4",
+        "e8345f2c"
       ]
     },
     "895fa458": {
@@ -33962,6 +34727,11 @@
           ],
           "section_title": "Grace.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "1e794b69",
+        "6d6ac4f4",
+        "e8345f2c"
       ]
     },
     "59dd8899": {
@@ -33988,6 +34758,11 @@
           ],
           "section_title": "Grace.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "1e794b69",
+        "6d6ac4f4",
+        "e8345f2c"
       ]
     },
     "e8345f2c": {
@@ -34069,6 +34844,11 @@
           ],
           "section_title": "Grace.BodyA.NormalMap.1024"
         }
+      ],
+      "texture_set": [
+        "6d6ac4f4",
+        "993fe3e1",
+        "e8345f2c"
       ]
     },
     "9abd7824": {
@@ -34094,6 +34874,11 @@
           ],
           "section_title": "Grace.BodyA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "6d6ac4f4",
+        "993fe3e1",
+        "e8345f2c"
       ]
     },
     "210b3ebf": {
@@ -34109,6 +34894,11 @@
           "source": "Grace",
           "description": "Grace BodyB Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "06cb1413",
+        "08082f5f",
+        "f176398a"
       ]
     },
     "9c7057e8": {
@@ -34176,6 +34966,11 @@
           ],
           "section_title": "Grace.BodyB.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "06cb1413",
+        "08082f5f",
+        "f176398a"
       ]
     },
     "08082f5f": {
@@ -34307,6 +35102,11 @@
           ],
           "section_title": "Grace.BodyB.NormalMap.1024"
         }
+      ],
+      "texture_set": [
+        "08082f5f",
+        "210b3ebf",
+        "f176398a"
       ]
     },
     "c5f703be": {
@@ -34332,6 +35132,11 @@
           ],
           "section_title": "Grace.BodyB.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "08082f5f",
+        "210b3ebf",
+        "f176398a"
       ]
     },
     "1126fd58": {
@@ -34911,6 +35716,15 @@
           "source": "Harumasa",
           "description": "Harumasa HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "46d9c681",
+        "50e77d0b",
+        "7217c146",
+        "81c16e31",
+        "a2b9aad7",
+        "b8f268ee",
+        "ebac056e"
       ]
     },
     "11041778": {
@@ -34961,6 +35775,15 @@
           ],
           "section_title": "Harumasa.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "46d9c681",
+        "50e77d0b",
+        "7217c146",
+        "81c16e31",
+        "a2b9aad7",
+        "b8f268ee",
+        "ebac056e"
       ]
     },
     "7217c146": {
@@ -35123,6 +35946,14 @@
           "source": "Harumasa",
           "description": "Harumasa LegsA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "2a90d0c3",
+        "44d74a1a",
+        "4b4d0ff6",
+        "a23bf5dc",
+        "ebac056e",
+        "faad8e2c"
       ]
     },
     "72885950": {
@@ -35173,6 +36004,14 @@
           ],
           "section_title": "Harumasa.LegsA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "2a90d0c3",
+        "44d74a1a",
+        "4b4d0ff6",
+        "a23bf5dc",
+        "ebac056e",
+        "faad8e2c"
       ]
     },
     "897c74d5": {
@@ -35338,6 +36177,11 @@
           "source": "Harumasa",
           "description": "Harumasa BodyA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "c50472c0",
+        "cc51476a",
+        "cd1e0187"
       ]
     },
     "49f8aaf6": {
@@ -35404,6 +36248,13 @@
           "source": "Harumasa",
           "description": "Harumasa BodyA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "2dd81954",
+        "56db869e",
+        "ba52ac92",
+        "c50472c0",
+        "cc51476a"
       ]
     },
     "6d105f7e": {
@@ -35471,6 +36322,11 @@
           ],
           "section_title": "Harumasa.BodyA.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "c50472c0",
+        "cc51476a",
+        "cd1e0187"
       ]
     },
     "2b1230cf": {
@@ -35537,6 +36393,13 @@
           ],
           "section_title": "Harumasa.BodyA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "2dd81954",
+        "56db869e",
+        "ba52ac92",
+        "c50472c0",
+        "cc51476a"
       ]
     },
     "b0688334": {
@@ -41643,6 +42506,11 @@
           ],
           "section_title": "Koleda.HairA.LightMap.1024"
         }
+      ],
+      "texture_set": [
+        "d1aac666",
+        "e8e89f00",
+        "eeeb15f9"
       ]
     },
     "a451ca03": {
@@ -41707,6 +42575,11 @@
           ],
           "section_title": "Koleda.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "d1aac666",
+        "e8e89f00",
+        "eeeb15f9"
       ]
     },
     "144ab293": {
@@ -41761,6 +42634,11 @@
           ],
           "section_title": "Koleda.HairA.NormalMap.1024"
         }
+      ],
+      "texture_set": [
+        "8042506d",
+        "e8e89f00",
+        "eeeb15f9"
       ]
     },
     "7a46b52a": {
@@ -41863,6 +42741,11 @@
           ],
           "section_title": "Koleda.BodyA.LightMap.1024"
         }
+      ],
+      "texture_set": [
+        "337fd6a2",
+        "6f34885f",
+        "e71d134f"
       ]
     },
     "7c1bce32": {
@@ -41927,6 +42810,11 @@
           ],
           "section_title": "Koleda.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "337fd6a2",
+        "6f34885f",
+        "e71d134f"
       ]
     },
     "db58787e": {
@@ -41981,6 +42869,11 @@
           ],
           "section_title": "Koleda.BodyA.MaterialMap.1024"
         }
+      ],
+      "texture_set": [
+        "337fd6a2",
+        "78e0f9f5",
+        "e71d134f"
       ]
     },
     "b60ace0c": {
@@ -42045,6 +42938,11 @@
           ],
           "section_title": "Koleda.BodyA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "337fd6a2",
+        "78e0f9f5",
+        "e71d134f"
       ]
     },
     "02e6cb95": {
@@ -42099,6 +42997,11 @@
           ],
           "section_title": "Koleda.BodyA.NormalMap.1024"
         }
+      ],
+      "texture_set": [
+        "337fd6a2",
+        "6f34885f",
+        "78e0f9f5"
       ]
     },
     "0914d3d3": {
@@ -45166,6 +46069,11 @@
           "source": "Lucy",
           "description": "Lucy HairA, SnoutA, BeltA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1a3b30ba",
+        "919b608c",
+        "edcb9661"
       ]
     },
     "919b608c": {
@@ -45181,6 +46089,11 @@
           "source": "Lucy",
           "description": "Lucy HairA, SnoutA, BeltA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1a3b30ba",
+        "aa513afa",
+        "edcb9661"
       ]
     },
     "0fa60fe1": {
@@ -45229,6 +46142,11 @@
           ],
           "section_title": "LucyPrincessOnHoliday.Hair.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "1a3b30ba",
+        "919b608c",
+        "edcb9661"
       ]
     },
     "1a3b30ba": {
@@ -45323,6 +46241,11 @@
           ],
           "section_title": "LucyPrincessOnHoliday.Hair.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "1a3b30ba",
+        "aa513afa",
+        "edcb9661"
       ]
     },
     "edcb9661": {
@@ -45338,6 +46261,11 @@
           "source": "Lucy",
           "description": "Lucy HairA, SnoutA, BeltA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1a3b30ba",
+        "919b608c",
+        "aa513afa"
       ]
     },
     "9114c7c7": {
@@ -45464,6 +46392,11 @@
           "source": "Lucy",
           "description": "Lucy BodyA, RedClothA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1fd24fd8",
+        "474c7aa2",
+        "855d9fa3"
       ]
     },
     "1711cafd": {
@@ -45590,6 +46523,12 @@
           "source": "Lucy",
           "description": "Lucy HelmetA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "8d9a16c7",
+        "a0be0ed3",
+        "b9aaa736",
+        "ca5fd23a"
       ]
     },
     "4227db77": {
@@ -45620,6 +46559,11 @@
           "source": "Lucy",
           "description": "Lucy HelmetA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "8d9a16c7",
+        "a0be0ed3",
+        "b3013a33"
       ]
     },
     "f4d44970": {
@@ -45668,6 +46612,12 @@
           ],
           "section_title": "Lucy.HelmetA.MaterialMap.1024"
         }
+      ],
+      "texture_set": [
+        "8d9a16c7",
+        "a0be0ed3",
+        "b9aaa736",
+        "ca5fd23a"
       ]
     },
     "2243086f": {
@@ -45701,6 +46651,12 @@
           ],
           "section_title": "Lucy.HelmetA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "8d9a16c7",
+        "a0be0ed3",
+        "b9aaa736",
+        "ca5fd23a"
       ]
     },
     "c8810832": {
@@ -47639,6 +48595,11 @@
           "source": "Lycaon",
           "description": "Lycaon HairA, MaskA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "02bfcc69",
+        "5817e801",
+        "61aaace5"
       ]
     },
     "04d061fe": {
@@ -47662,6 +48623,11 @@
           ],
           "section_title": "Lycaon.HairA.LightMap.1024"
         }
+      ],
+      "texture_set": [
+        "02bfcc69",
+        "61aaace5",
+        "9ad1782a"
       ]
     },
     "f7daa6d9": {
@@ -47870,6 +48836,11 @@
           "source": "Lycaon",
           "description": "Lycaon Body LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "5a321eae",
+        "7169ec86",
+        "c8fd1702"
       ]
     },
     "814db5bf": {
@@ -47902,6 +48873,11 @@
           ],
           "section_title": "Lycaon.BodyA.LightMap.1024"
         }
+      ],
+      "texture_set": [
+        "5a321eae",
+        "7169ec86",
+        "9f43209f"
       ]
     },
     "fbf5a9b5": {
@@ -48222,6 +49198,12 @@
           ],
           "section_title": "Lycaon.LegsA.LightMap.1024"
         }
+      ],
+      "texture_set": [
+        "4a4ea6dc",
+        "72f53876",
+        "8c1076d2",
+        "d947066b"
       ]
     },
     "57b175c5": {
@@ -48286,6 +49268,12 @@
           ],
           "section_title": "Lycaon.LegsA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "4a4ea6dc",
+        "72f53876",
+        "8c1076d2",
+        "d947066b"
       ]
     },
     "3dfdab95": {
@@ -48316,6 +49304,12 @@
           ],
           "section_title": "Lycaon.LegsA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "4a4ea6dc",
+        "72f53876",
+        "8c1076d2",
+        "d947066b"
       ]
     },
     "9b0df25b": {
@@ -48341,6 +49335,12 @@
           ],
           "section_title": "Lycaon.LegsA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "4a4ea6dc",
+        "72f53876",
+        "8c1076d2",
+        "d947066b"
       ]
     },
     "4a4ea6dc": {
@@ -48371,6 +49371,12 @@
           ],
           "section_title": "Lycaon.LegsA.MaterialMap.1024"
         }
+      ],
+      "texture_set": [
+        "072e6786",
+        "72f53876",
+        "8c1076d2",
+        "d947066b"
       ]
     },
     "4b18f890": {
@@ -48435,6 +49441,12 @@
           ],
           "section_title": "Lycaon.LegsA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "072e6786",
+        "72f53876",
+        "8c1076d2",
+        "d947066b"
       ]
     },
     "288e7fbd": {
@@ -48465,6 +49477,12 @@
           ],
           "section_title": "Lycaon.LegsA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "072e6786",
+        "72f53876",
+        "8c1076d2",
+        "d947066b"
       ]
     },
     "1de27b3a": {
@@ -48490,6 +49508,12 @@
           ],
           "section_title": "Lycaon.LegsA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "072e6786",
+        "72f53876",
+        "8c1076d2",
+        "d947066b"
       ]
     },
     "72f53876": {
@@ -54053,6 +55077,12 @@
           "source": "Nekomata",
           "description": "Nekomata HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "25f3ae9b",
+        "4ca5efc6",
+        "799eb07d",
+        "ebac056e"
       ]
     },
     "1c0193dc": {
@@ -54117,6 +55147,12 @@
           ],
           "section_title": "Nekomata.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "25f3ae9b",
+        "4ca5efc6",
+        "799eb07d",
+        "ebac056e"
       ]
     },
     "f8accad8": {
@@ -54148,6 +55184,12 @@
           "source": "Nekomata",
           "description": "Nekomata HairA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "25f3ae9b",
+        "548c7f7d",
+        "799eb07d",
+        "ebac056e"
       ]
     },
     "3f73186f": {
@@ -54212,6 +55254,12 @@
           ],
           "section_title": "Nekomata.HairA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "25f3ae9b",
+        "548c7f7d",
+        "799eb07d",
+        "ebac056e"
       ]
     },
     "0c22352c": {
@@ -54243,6 +55291,11 @@
           "source": "Nekomata",
           "description": "Nekomata HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "25f3ae9b",
+        "4ca5efc6",
+        "548c7f7d"
       ]
     },
     "c936ea68": {
@@ -54274,6 +55327,11 @@
           "source": "Nekomata",
           "description": "-> 1.1: Nekomata HairB, BodyA, SwordsA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "ecaef71c",
+        "f26828bd",
+        "fc53fc6f"
       ]
     },
     "207b8e63": {
@@ -54323,6 +55381,11 @@
           ],
           "section_title": "Nekomata.HairB.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "ecaef71c",
+        "f26828bd",
+        "fc53fc6f"
       ]
     },
     "fc53fc6f": {
@@ -54338,6 +55401,14 @@
           "source": "Nekomata",
           "description": "Nekomata HairB, BodyA, SwordsA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "207b8e63",
+        "b3286755",
+        "d3f67c0d",
+        "ebac056e",
+        "ecaef71c",
+        "f26828bd"
       ]
     },
     "25df29e7": {
@@ -54386,6 +55457,14 @@
           ],
           "section_title": "Nekomata.HairB.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "207b8e63",
+        "b3286755",
+        "d3f67c0d",
+        "ebac056e",
+        "ecaef71c",
+        "f26828bd"
       ]
     },
     "4f3f7df0": {
@@ -54417,6 +55496,11 @@
           "source": "Nekomata",
           "description": "Nekomata HairB, BodyA, SwordsA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "d3f67c0d",
+        "ecaef71c",
+        "fc53fc6f"
       ]
     },
     "b3286755": {
@@ -54466,6 +55550,11 @@
           ],
           "section_title": "Nekomata.HairB.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "d3f67c0d",
+        "ecaef71c",
+        "fc53fc6f"
       ]
     },
     "ecaef71c": {
@@ -54481,6 +55570,13 @@
           "source": "Nekomata",
           "description": "Nekomata HairB, BodyA, SwordsA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "207b8e63",
+        "b3286755",
+        "d3f67c0d",
+        "f26828bd",
+        "fc53fc6f"
       ]
     },
     "c1933b38": {
@@ -55023,6 +56119,11 @@
           "source": "Nicole",
           "description": "1.0-1.7: Nicole HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "239d5744",
+        "6d3868f9",
+        "bffb4a66"
       ]
     },
     "9adc04ed": {
@@ -55065,6 +56166,11 @@
           ],
           "section_title": "Nicole.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "239d5744",
+        "6d3868f9",
+        "bffb4a66"
       ]
     },
     "a05c2386": {
@@ -55105,6 +56211,11 @@
           "source": "Nicole",
           "description": "1.0-1.7: Nicole HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1dfd9e16",
+        "239d5744",
+        "6d3868f9"
       ]
     },
     "b8db0209": {
@@ -55203,6 +56314,11 @@
           "source": "Nicole",
           "description": "1.0-1.7: Nicole BodyA, BangbooA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "80855e0f",
+        "95cabef3",
+        "f86ffe2c"
       ]
     },
     "580df52d": {
@@ -61354,6 +62470,12 @@
           "source": "Piper",
           "description": "Piper HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "593a5947",
+        "69ed4d11",
+        "7ca957d8",
+        "b3034dff"
       ]
     },
     "92acb4d4": {
@@ -61433,6 +62555,12 @@
           ],
           "section_title": "Piper.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "593a5947",
+        "69ed4d11",
+        "7ca957d8",
+        "b3034dff"
       ]
     },
     "46cbca7a": {
@@ -61520,6 +62648,11 @@
           "source": "Piper",
           "description": "Piper HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "69ed4d11",
+        "79953d32",
+        "b3034dff"
       ]
     },
     "db7dccbf": {
@@ -61685,6 +62818,11 @@
           "source": "Piper",
           "description": "Piper BodyA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "51f1ec36",
+        "7fdee30d",
+        "9cc2aaa0"
       ]
     },
     "fed40302": {
@@ -61735,6 +62873,11 @@
           ],
           "section_title": "Piper.BodyA.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "51f1ec36",
+        "7fdee30d",
+        "9cc2aaa0"
       ]
     },
     "9cc2aaa0": {
@@ -61750,6 +62893,13 @@
           "source": "Piper",
           "description": "Piper BodyA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "17d6e212",
+        "51f1ec36",
+        "7fdee30d",
+        "b4b74e7e",
+        "fed40302"
       ]
     },
     "db9c7abf": {
@@ -61829,6 +62979,13 @@
           ],
           "section_title": "Piper.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "17d6e212",
+        "51f1ec36",
+        "7fdee30d",
+        "b4b74e7e",
+        "fed40302"
       ]
     },
     "a0dcd60a": {
@@ -61916,6 +63073,11 @@
           "source": "Piper",
           "description": "Piper BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "7fdee30d",
+        "9cc2aaa0",
+        "b4b74e7e"
       ]
     },
     "73a61e88": {
@@ -63009,6 +64171,11 @@
           ],
           "section_title": "Promeia.ClothesA.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "31d7cbad",
+        "d743acd0",
+        "ebac056e"
       ]
     },
     "b9367016": {
@@ -63024,6 +64191,11 @@
           "source": "Promeia",
           "description": "Promeia ClothesA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "31d7cbad",
+        "d743acd0",
+        "ebac056e"
       ]
     },
     "e1492a53": {
@@ -63073,6 +64245,11 @@
           ],
           "section_title": "Promeia.ClothesA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "31d7cbad",
+        "b9367016",
+        "ebac056e"
       ]
     },
     "d743acd0": {
@@ -63088,6 +64265,11 @@
           "source": "Promeia",
           "description": "Promeia ClothesA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "31d7cbad",
+        "b9367016",
+        "ebac056e"
       ]
     },
     "9bf7f5cc": {
@@ -63137,6 +64319,11 @@
           ],
           "section_title": "Promeia.ClothesA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "b9367016",
+        "d743acd0",
+        "ebac056e"
       ]
     },
     "31d7cbad": {
@@ -63152,6 +64339,11 @@
           "source": "Promeia",
           "description": "Promeia ClothesA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "b9367016",
+        "d743acd0",
+        "ebac056e"
       ]
     },
     "d37b40a9": {
@@ -66513,6 +67705,11 @@
           "source": "Qingyi",
           "description": "Qingyi HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "3212a0ca",
+        "4a77fd3b",
+        "6e3ac847"
       ]
     },
     "6e3ac847": {
@@ -66609,6 +67806,11 @@
           ],
           "section_title": "Qingyi.HairA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "3212a0ca",
+        "4a77fd3b",
+        "6e3ac847"
       ]
     },
     "683414c1": {
@@ -66704,6 +67906,11 @@
           "source": "Qingyi",
           "description": "Qingyi BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1fa7e18e",
+        "35c2a022",
+        "41054bb6"
       ]
     },
     "35c2a022": {
@@ -66816,6 +68023,11 @@
           ],
           "section_title": "Qingyi.BodyA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "1fa7e18e",
+        "35c2a022",
+        "41054bb6"
       ]
     },
     "4a484257": {
@@ -69653,6 +70865,11 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Body.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "6102ae18",
+        "cccb8109",
+        "ebac056e"
       ]
     },
     "0e408177": {
@@ -69673,6 +70890,11 @@
           "type": "update_hash",
           "new_hash": "bb0f08b9"
         }
+      ],
+      "texture_set": [
+        "6102ae18",
+        "cccb8109",
+        "ebac056e"
       ]
     },
     "2aab9aa7": {
@@ -69689,6 +70911,11 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Body.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "0e408177",
+        "cccb8109",
+        "ebac056e"
       ]
     },
     "6102ae18": {
@@ -69709,6 +70936,11 @@
           "type": "update_hash",
           "new_hash": "0e9d14dc"
         }
+      ],
+      "texture_set": [
+        "0e408177",
+        "cccb8109",
+        "ebac056e"
       ]
     },
     "e9f33a20": {
@@ -69725,6 +70957,11 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Body.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "0e408177",
+        "6102ae18",
+        "ebac056e"
       ]
     },
     "cccb8109": {
@@ -69745,6 +70982,11 @@
           "type": "update_hash",
           "new_hash": "8240c688"
         }
+      ],
+      "texture_set": [
+        "0e408177",
+        "6102ae18",
+        "ebac056e"
       ]
     },
     "4c49a23c": {
@@ -69761,6 +71003,11 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Leg.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "3b0c9e0a",
+        "baeb2662",
+        "ebac056e"
       ]
     },
     "877b0ce6": {
@@ -69781,6 +71028,11 @@
           "type": "update_hash",
           "new_hash": "017c13e4"
         }
+      ],
+      "texture_set": [
+        "3b0c9e0a",
+        "baeb2662",
+        "ebac056e"
       ]
     },
     "17b9c313": {
@@ -69797,6 +71049,11 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Leg.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "3b0c9e0a",
+        "877b0ce6",
+        "ebac056e"
       ]
     },
     "baeb2662": {
@@ -69817,6 +71074,11 @@
           "type": "update_hash",
           "new_hash": "0a902460"
         }
+      ],
+      "texture_set": [
+        "3b0c9e0a",
+        "877b0ce6",
+        "ebac056e"
       ]
     },
     "2dce69bd": {
@@ -69833,6 +71095,11 @@
           ],
           "section_title": "RemielleMoonlightWhispers.Leg.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "877b0ce6",
+        "baeb2662",
+        "ebac056e"
       ]
     },
     "3b0c9e0a": {
@@ -69853,6 +71120,11 @@
           "type": "update_hash",
           "new_hash": "fb096287"
         }
+      ],
+      "texture_set": [
+        "877b0ce6",
+        "baeb2662",
+        "ebac056e"
       ]
     },
     "b8574ee2": {
@@ -70519,6 +71791,11 @@
           "source": "Rina",
           "description": "Rina HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1145d2b8",
+        "82153e28",
+        "eb5d9d1c"
       ]
     },
     "fa3c40e9": {
@@ -70543,6 +71820,11 @@
           ],
           "section_title": "Rina.HairA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "1145d2b8",
+        "82153e28",
+        "eb5d9d1c"
       ]
     },
     "bf44bf67": {
@@ -70702,6 +71984,11 @@
           "source": "Rina",
           "description": "Rina BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "95f4e9c8",
+        "bf44bf67",
+        "ed47722f"
       ]
     },
     "d6b20159": {
@@ -70726,6 +72013,11 @@
           ],
           "section_title": "Rina.BodyA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "95f4e9c8",
+        "bf44bf67",
+        "ed47722f"
       ]
     },
     "06c78cb0": {
@@ -73764,6 +75056,12 @@
           "source": "Seth",
           "description": "Seth HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "3376b58c",
+        "3c256565",
+        "dc8e244d",
+        "f51be622"
       ]
     },
     "c01dbf6c": {
@@ -73842,6 +75140,11 @@
           "source": "Seth",
           "description": "Seth HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "3c256565",
+        "d4de9ec1",
+        "dc8e244d"
       ]
     },
     "24d52dd8": {
@@ -73920,6 +75223,12 @@
           "source": "Seth",
           "description": "Seth BodyA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "624d54ac",
+        "732d3f81",
+        "7f8416ab",
+        "dde45d3d"
       ]
     },
     "9436aa83": {
@@ -73998,6 +75307,11 @@
           "source": "Seth",
           "description": "Seth BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "3d97c2ef",
+        "732d3f81",
+        "7f8416ab"
       ]
     },
     "62b047c5": {
@@ -74063,6 +75377,12 @@
           ],
           "section_title": "Seth.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "3376b58c",
+        "3c256565",
+        "dc8e244d",
+        "f51be622"
       ]
     },
     "5b205468": {
@@ -74113,6 +75433,12 @@
           ],
           "section_title": "Seth.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "624d54ac",
+        "732d3f81",
+        "7f8416ab",
+        "dde45d3d"
       ]
     },
     "9b358a6b": {
@@ -76798,6 +78124,11 @@
           "source": "Soldier0",
           "description": "Soldier0 HairA MaterialMap 2048p Hash (Old)"
         }
+      ],
+      "texture_set": [
+        "8d42a55b",
+        "aa3d57ff",
+        "ebac056e"
       ]
     },
     "0b059f91": {
@@ -76862,6 +78193,11 @@
           ],
           "section_title": "Soldier0.HairA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "8d42a55b",
+        "aa3d57ff",
+        "ebac056e"
       ]
     },
     "ce3e73be": {
@@ -77733,6 +79069,11 @@
           "section_title": "Soldier11.Hair.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "68d9644a",
+        "77ed00ad",
+        "b41b671a"
       ]
     },
     "71993491": {
@@ -77783,6 +79124,11 @@
           ],
           "section_title": "Soldier11.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "68d9644a",
+        "77ed00ad",
+        "b41b671a"
       ]
     },
     "baa3c836": {
@@ -77829,6 +79175,11 @@
           "section_title": "Soldier11.Hair.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "77ed00ad",
+        "787659b9",
+        "b41b671a"
       ]
     },
     "4e08e50b": {
@@ -77926,6 +79277,11 @@
           "section_title": "Soldier11.Body.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "640a8c01",
+        "81db8cbe",
+        "c94bb3d6"
       ]
     },
     "33e8af55": {
@@ -77976,6 +79332,11 @@
           ],
           "section_title": "Soldier11.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "640a8c01",
+        "81db8cbe",
+        "c94bb3d6"
       ]
     },
     "ce581269": {
@@ -78022,6 +79383,11 @@
           "section_title": "Soldier11.Body.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "2f88092e",
+        "640a8c01",
+        "c94bb3d6"
       ]
     },
     "8ab5b59d": {
@@ -78072,6 +79438,11 @@
           ],
           "section_title": "Soldier11.BodyA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "2f88092e",
+        "640a8c01",
+        "c94bb3d6"
       ]
     },
     "874f9f68": {
@@ -78118,6 +79489,11 @@
           "section_title": "Soldier11.Body.IB",
           "section_content": "match_priority = 0\n"
         }
+      ],
+      "texture_set": [
+        "2f88092e",
+        "640a8c01",
+        "81db8cbe"
       ]
     },
     "eb924a91": {
@@ -78854,6 +80230,11 @@
           "source": "Soukaku",
           "description": "1.0 - 1.7: Soukaku HairA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "32ea0d00",
+        "8498ee4d",
+        "d1444c52"
       ]
     },
     "7bbb3d02": {
@@ -78928,6 +80309,11 @@
           ],
           "section_title": "Soukaku.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "32ea0d00",
+        "8498ee4d",
+        "d1444c52"
       ]
     },
     "d1444c52": {
@@ -78999,6 +80385,11 @@
           "source": "Soukaku",
           "description": "1.0 - 1.7: Soukaku HairA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "04654e94",
+        "32ea0d00",
+        "d1444c52"
       ]
     },
     "0003126a": {
@@ -79166,6 +80557,11 @@
           "source": "Soukaku",
           "description": "1.0 - 1.7: Soukaku BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "112a36a4",
+        "d638ddf9",
+        "ee31954b"
       ]
     },
     "77c48d32": {
@@ -90035,6 +91431,11 @@
           "source": "Wise",
           "description": "Wise HairA, BagA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "28005a5b",
+        "3b4f22ad",
+        "473f816d"
       ]
     },
     "8d8269f8": {
@@ -90206,6 +91607,11 @@
           ],
           "section_title": "Wise.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "28005a5b",
+        "3b4f22ad",
+        "473f816d"
       ]
     },
     "6fcc4ad4": {
@@ -90232,6 +91638,11 @@
           ],
           "section_title": "Wise.HairA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "28005a5b",
+        "3b4f22ad",
+        "473f816d"
       ]
     },
     "473f816d": {
@@ -90247,6 +91658,11 @@
           "source": "Wise",
           "description": "Wise HairA, BagA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1f21c633",
+        "28005a5b",
+        "3b4f22ad"
       ]
     },
     "f1b20f3d": {
@@ -90418,6 +91834,11 @@
           ],
           "section_title": "Wise.HairA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "1f21c633",
+        "28005a5b",
+        "3b4f22ad"
       ]
     },
     "7c8b0713": {
@@ -90444,6 +91865,11 @@
           ],
           "section_title": "Wise.HairA.MaterialMap.2048"
         }
+      ],
+      "texture_set": [
+        "1f21c633",
+        "28005a5b",
+        "3b4f22ad"
       ]
     },
     "3b4f22ad": {
@@ -90459,6 +91885,11 @@
           "source": "Wise",
           "description": "Wise HairA, BagA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "1f21c633",
+        "28005a5b",
+        "473f816d"
       ]
     },
     "db08bb73": {
@@ -90485,6 +91916,11 @@
           ],
           "section_title": "Wise.HairA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "1f21c633",
+        "28005a5b",
+        "473f816d"
       ]
     },
     "868709f2": {
@@ -90506,6 +91942,11 @@
           "source": "WiseTemple",
           "description": "Wise BodyA Diffuse [Legacy]"
         }
+      ],
+      "texture_set": [
+        "088718a9",
+        "a5fdb5e7",
+        "ebac056e"
       ]
     },
     "3d7a53b0": {
@@ -90704,6 +92145,11 @@
           "source": "Wise",
           "description": "Wise BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "088718a9",
+        "84529dab",
+        "a5fdb5e7"
       ]
     },
     "6807521d": {
@@ -90730,6 +92176,11 @@
           ],
           "section_title": "Wise.BodyA.NormalMap.2048"
         }
+      ],
+      "texture_set": [
+        "088718a9",
+        "84529dab",
+        "a5fdb5e7"
       ]
     },
     "e8df7ff3": {
@@ -93285,6 +94736,11 @@
           "source": "WiseTemple",
           "description": "WiseTemple BodyA Diffuse 2048p Hash [Legacy]"
         }
+      ],
+      "texture_set": [
+        "05b25d35",
+        "24af1f48",
+        "ebac056e"
       ]
     },
     "669191ec": {
@@ -93364,6 +94820,11 @@
           ],
           "section_title": "WiseSkin.BodyA.Diffuse.2048"
         }
+      ],
+      "texture_set": [
+        "05b25d35",
+        "24af1f48",
+        "ebac056e"
       ]
     },
     "05b25d35": {
@@ -95142,6 +96603,11 @@
           "source": "Yanagi",
           "description": "Yanagi BodyA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "c2ae5d2b",
+        "c7c4f5c5",
+        "ccf55de4"
       ]
     },
     "616200aa": {
@@ -95206,6 +96672,11 @@
           ],
           "section_title": "Yanagi.BodyA.LightMap.2048"
         }
+      ],
+      "texture_set": [
+        "c2ae5d2b",
+        "c7c4f5c5",
+        "ccf55de4"
       ]
     },
     "c2ae5d2b": {
@@ -109319,6 +110790,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan HairA, ExtrasA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "12a407b1",
+        "7f823598",
+        "d4ee59c7"
       ]
     },
     "d4ee59c7": {
@@ -109582,6 +111058,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan BodyA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "13a38449",
+        "a396c53a",
+        "b4e20235"
       ]
     },
     "a396c53a": {
@@ -109597,6 +111078,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "13a38449",
+        "b4e20235",
+        "c88e7660"
       ]
     },
     "13a38449": {
@@ -109612,6 +111098,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan BodyA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "a396c53a",
+        "b4e20235",
+        "c88e7660"
       ]
     },
     "b4e20235": {
@@ -109627,6 +111118,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan BodyA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "13a38449",
+        "a396c53a",
+        "c88e7660"
       ]
     },
     "3ef82f41": {
@@ -109642,6 +111138,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan BodyA Diffuse 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "10415de8",
+        "7195a311",
+        "80ebf536"
       ]
     },
     "7195a311": {
@@ -109657,6 +111158,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "10415de8",
+        "3ef82f41",
+        "80ebf536"
       ]
     },
     "80ebf536": {
@@ -109672,6 +111178,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan BodyA LightMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "10415de8",
+        "3ef82f41",
+        "7195a311"
       ]
     },
     "10415de8": {
@@ -109687,6 +111198,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan BodyA MaterialMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "3ef82f41",
+        "7195a311",
+        "80ebf536"
       ]
     },
     "a271e894": {
@@ -109729,6 +111245,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan BodyA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "3e808ef6",
+        "a271e894",
+        "d02bc66c"
       ]
     },
     "d02bc66c": {
@@ -109877,6 +111398,11 @@
           "source": "ZhuYuan",
           "description": "ZhuYuan ExtrasB, ShoulderAmmoA, HipAmmoA NormalMap 2048p Hash"
         }
+      ],
+      "texture_set": [
+        "58d5c840",
+        "6a33b25e",
+        "e30f025b"
       ]
     },
     "e30f025b": {
