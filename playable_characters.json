@@ -75,7 +75,8 @@
           "image_url": "images/Agent Alexandrina Sebastiane Portrait.png",
           "icon_url": "images/Outfit Head Maids Perfection Icon.png"
         }
-      ]
+      ],
+      "game_id": 1211
     },
     {
       "id": "alice_thymefield",
@@ -249,7 +250,8 @@
           "image_url": "images/Agent Alice Thymefield Sea of Thyme Portrait.png",
           "icon_url": "images/Outfit Sea of Thyme Icon.png"
         }
-      ]
+      ],
+      "game_id": 1401
     },
     {
       "id": "anby_demara",
@@ -324,7 +326,8 @@
           "image_url": "images/Agent Anby Demara Portrait.png",
           "icon_url": "images/Outfit Street Streak Icon.png"
         }
-      ]
+      ],
+      "game_id": 1011
     },
     {
       "id": "anton_ivanov",
@@ -412,7 +415,8 @@
           "image_url": "images/Agent Anton Ivanov Portrait.png",
           "icon_url": "images/Outfit Earthshaking Axle Icon.png"
         }
-      ]
+      ],
+      "game_id": 1111
     },
     {
       "id": "aria",
@@ -720,10 +724,7 @@
               }
             },
             "Face": {
-              "draw_vb": "fc43d4db",
-              "position_vb": "c651479c",
               "blend_vb": "3f418ccb",
-              "texcoord_vb": "c493b91c",
               "ib": "27966f80",
               "textures": {
                 "Diffuse": "1b2ae01f"
@@ -732,7 +733,8 @@
           },
           "last_verified_version": "zzmi_assets_import"
         }
-      ]
+      ],
+      "game_id": 1501
     },
     {
       "id": "asaba_harumasa",
@@ -833,7 +835,8 @@
           "image_url": "images/Agent Asaba Harumasa Portrait.png",
           "icon_url": "images/Outfit Full-Fledged Strings Icon.png"
         }
-      ]
+      ],
+      "game_id": 1201
     },
     {
       "id": "astra_yao",
@@ -967,7 +970,8 @@
           "image_url": "images/Agent Astra Yao Portrait.png",
           "icon_url": "images/Outfit Scarlet Rock Icon.png"
         }
-      ]
+      ],
+      "game_id": 1311
     },
     {
       "id": "banyue",
@@ -1045,7 +1049,8 @@
           "image_url": "images/Agent Banyue Portrait.png",
           "icon_url": "images/Outfit Blazestone Heart Icon.png"
         }
-      ]
+      ],
+      "game_id": 1471
     },
     {
       "id": "ben_bigger",
@@ -1110,7 +1115,8 @@
           "image_url": "images/Agent Ben Bigger Portrait.png",
           "icon_url": "images/Outfit Fluffy Beastking Icon.png"
         }
-      ]
+      ],
+      "game_id": 1121
     },
     {
       "id": "billy_kid",
@@ -1188,7 +1194,8 @@
           "image_url": "images/Agent Billy Kid Portrait.png",
           "icon_url": "images/Outfit Shining Starlight Costume Icon.png"
         }
-      ]
+      ],
+      "game_id": 1081
     },
     {
       "id": "burnice_white",
@@ -1263,7 +1270,8 @@
           "image_url": "images/Agent Burnice White Portrait.png",
           "icon_url": "images/Outfit Wildfire Rave Icon.png"
         }
-      ]
+      ],
+      "game_id": 1171
     },
     {
       "id": "caesar_king",
@@ -1338,7 +1346,8 @@
           "image_url": "images/Agent Caesar King Portrait.png",
           "icon_url": "images/Outfit Inferno Joyride Icon.png"
         }
-      ]
+      ],
+      "game_id": 1071
     },
     {
       "id": "cissia",
@@ -1430,7 +1439,8 @@
           "image_url": "images/Agent Cissia Portrait.png",
           "icon_url": "images/Outfit Snake  Mouse Game Icon.png"
         }
-      ]
+      ],
+      "game_id": 1521
     },
     {
       "id": "corin_wickes",
@@ -1518,7 +1528,8 @@
           "image_url": "images/Agent Corin Wickes Portrait.png",
           "icon_url": "images/Outfit Matcha Profiterole Icon.png"
         }
-      ]
+      ],
+      "game_id": 1061
     },
     {
       "id": "dialyn",
@@ -1608,7 +1619,8 @@
           "image_url": "images/Agent Dialyn Portrait.png",
           "icon_url": "images/Outfit Ringing Judgment Icon.png"
         }
-      ]
+      ],
+      "game_id": 1481
     },
     {
       "id": "ellen_joe",
@@ -1743,7 +1755,8 @@
           "image_url": "images/Agent Ellen Joe On Campus Portrait.png",
           "icon_url": "images/Outfit On Campus Icon.png"
         }
-      ]
+      ],
+      "game_id": 1191
     },
     {
       "id": "evelyn_chevalier",
@@ -1844,7 +1857,8 @@
           "image_url": "images/Agent Evelyn Chevalier Portrait.png",
           "icon_url": "images/Outfit A Moth to Light Icon.png"
         }
-      ]
+      ],
+      "game_id": 1321
     },
     {
       "id": "grace_howard",
@@ -1919,7 +1933,8 @@
           "image_url": "images/Agent Grace Howard Portrait.png",
           "icon_url": "images/Outfit The Iron Witch Icon.png"
         }
-      ]
+      ],
+      "game_id": 1181
     },
     {
       "id": "hoshimi_miyabi",
@@ -2080,7 +2095,8 @@
           "image_url": "images/Agent Hoshimi Miyabi Portrait.png",
           "icon_url": "images/Outfit Frostgleam Dew Icon.png"
         }
-      ]
+      ],
+      "game_id": 1091
     },
     {
       "id": "hugo_vlad",
@@ -2186,7 +2202,8 @@
           "image_url": "images/Agent Hugo Vlad Portrait.png",
           "icon_url": "images/Outfit Crownless Rebellion Icon.png"
         }
-      ]
+      ],
+      "game_id": 1291
     },
     {
       "id": "jane_doe",
@@ -2332,7 +2349,8 @@
           "image_url": "images/Agent Jane Doe Nocturne of Light Portrait.png",
           "icon_url": "images/Outfit Nocturne of Light Icon.png"
         }
-      ]
+      ],
+      "game_id": 1261
     },
     {
       "id": "ju_fufu",
@@ -2420,7 +2438,8 @@
           "image_url": "images/Agent Ju Fufu Portrait.png",
           "icon_url": "images/Outfit Summits Cute Tiger Icon.png"
         }
-      ]
+      ],
+      "game_id": 1391
     },
     {
       "id": "koleda_belobog",
@@ -2495,7 +2514,8 @@
           "image_url": "images/Agent Koleda Belobog Portrait.png",
           "icon_url": "images/Outfit Heart  Hammer Icon.png"
         }
-      ]
+      ],
+      "game_id": 1101
     },
     {
       "id": "komano_manato",
@@ -2667,7 +2687,8 @@
           "image_url": "images/Agent Komano Manato White Heart Silhouette Portrait.png",
           "icon_url": "images/Outfit White Heart Silhouette Icon.png"
         }
-      ]
+      ],
+      "game_id": 1441
     },
     {
       "id": "lighter",
@@ -2751,7 +2772,8 @@
           "image_url": "images/Agent Lighter Portrait.png",
           "icon_url": "images/Outfit Everburn Embers Icon.png"
         }
-      ]
+      ],
+      "game_id": 1161
     },
     {
       "id": "lucia_elowen",
@@ -2852,7 +2874,8 @@
           "image_url": "images/Agent Lucia Elowen Portrait.png",
           "icon_url": "images/Outfit Whispering Dreams Icon.png"
         }
-      ]
+      ],
+      "game_id": 1451
     },
     {
       "id": "luciana_de_montefio",
@@ -3043,7 +3066,8 @@
           "image_url": "images/Agent Luciana de Montefio Princess on Holiday Portrait.png",
           "icon_url": "images/Outfit Princess on Holiday Icon.png"
         }
-      ]
+      ],
+      "game_id": 1151
     },
     {
       "id": "nangong_yu",
@@ -3311,7 +3335,8 @@
           },
           "last_verified_version": "zzmi_assets_import"
         }
-      ]
+      ],
+      "game_id": 1511
     },
     {
       "id": "nekomiya_mana",
@@ -3401,7 +3426,8 @@
           "image_url": "images/Agent Nekomiya Mana Portrait.png",
           "icon_url": "images/Outfit Cats Gratitude Icon.png"
         }
-      ]
+      ],
+      "game_id": 1021
     },
     {
       "id": "nicole_demara",
@@ -3576,7 +3602,8 @@
           "image_url": "images/Agent Nicole Demara Portrait.png",
           "icon_url": "images/Outfit Lil Sassy Icon.png"
         }
-      ]
+      ],
+      "game_id": 1031
     },
     {
       "id": "norma_hollowell",
@@ -3672,7 +3699,8 @@
           "image_url": "images/Agent Norma Hollowell Portrait.png",
           "icon_url": "images/Outfit Immunity to Fools Icon.png"
         }
-      ]
+      ],
+      "game_id": 1571
     },
     {
       "id": "orphie_magnusson_magus",
@@ -3804,7 +3832,8 @@
           "image_url": "images/Agent Orphie Magnusson  Magus Portrait.png",
           "icon_url": "images/Outfit Two Banks of the River Icon.png"
         }
-      ]
+      ],
+      "game_id": 1301
     },
     {
       "id": "pan_yinhu",
@@ -3932,7 +3961,8 @@
           "image_url": "images/Agent Pan Yinhu Portrait.png",
           "icon_url": "images/Outfit Hundred Flavors Icon.png"
         }
-      ]
+      ],
+      "game_id": 1421
     },
     {
       "id": "piper_wheel",
@@ -4020,7 +4050,8 @@
           "image_url": "images/Agent Piper Wheel Portrait.png",
           "icon_url": "images/Outfit Lazy Speed Icon.png"
         }
-      ]
+      ],
+      "game_id": 1281
     },
     {
       "id": "promeia",
@@ -4138,7 +4169,8 @@
           "image_url": "images/Agent Promeia Portrait.png",
           "icon_url": "images/Outfit Shrouded in Frost Icon.png"
         }
-      ]
+      ],
+      "game_id": 1541
     },
     {
       "id": "pulchra_fellini",
@@ -4213,7 +4245,8 @@
           "image_url": "images/Agent Pulchra Fellini Portrait.png",
           "icon_url": "images/Outfit Rest for a Weary Tail Icon.png"
         }
-      ]
+      ],
+      "game_id": 1351
     },
     {
       "id": "pyrois",
@@ -4313,7 +4346,8 @@
           "image_url": "images/Agent Pyrois Portrait.png",
           "icon_url": "images/Outfit Dawns Guardian Icon.png"
         }
-      ]
+      ],
+      "game_id": 1551
     },
     {
       "id": "qingyi",
@@ -4397,7 +4431,8 @@
           "image_url": "images/Agent Qingyi Portrait.png",
           "icon_url": "images/Outfit Clarity Peace and Joy Icon.png"
         }
-      ]
+      ],
+      "game_id": 1251
     },
     {
       "id": "remielle_dan",
@@ -4676,7 +4711,8 @@
           "image_url": "images/Agent Remielle Dan Seashade Pas Seul Portrait.png",
           "icon_url": "images/Outfit Seashade Pas Seul Icon.png"
         }
-      ]
+      ],
+      "game_id": 1581
     },
     {
       "id": "seed",
@@ -4773,7 +4809,8 @@
           "image_url": "images/Agent Seed Portrait.png",
           "icon_url": "images/Outfit Flower in Bloom Icon.png"
         }
-      ]
+      ],
+      "game_id": 1461
     },
     {
       "id": "seth_lowell",
@@ -4848,7 +4885,8 @@
           "image_url": "images/Agent Seth Lowell Portrait.png",
           "icon_url": "images/Outfit Incorruptible Heart Icon.png"
         }
-      ]
+      ],
+      "game_id": 1271
     },
     {
       "id": "soldier_0_anby",
@@ -4925,7 +4963,8 @@
           "image_url": "images/Agent Soldier 0 - Anby Portrait.png",
           "icon_url": "images/Outfit Silver Soldier Icon.png"
         }
-      ]
+      ],
+      "game_id": 1381
     },
     {
       "id": "soldier_11",
@@ -5001,7 +5040,8 @@
           "image_url": "images/Agent Soldier 11 Portrait.png",
           "icon_url": "images/Outfit Elite Soldier Icon.png"
         }
-      ]
+      ],
+      "game_id": 1041
     },
     {
       "id": "soukaku",
@@ -5085,7 +5125,8 @@
           "image_url": "images/Agent Soukaku Portrait.png",
           "icon_url": "images/Outfit Dance of Azure Ice Icon.png"
         }
-      ]
+      ],
+      "game_id": 1131
     },
     {
       "id": "starlight_billy_kid",
@@ -5220,7 +5261,8 @@
           "image_url": "images/Agent Starlight - Billy Kid Portrait.png",
           "icon_url": "images/Outfit Starlight Armaments Icon.png"
         }
-      ]
+      ],
+      "game_id": 1531
     },
     {
       "id": "sunna",
@@ -5457,7 +5499,8 @@
           },
           "last_verified_version": "zzmi_assets_import"
         }
-      ]
+      ],
+      "game_id": 1491
     },
     {
       "id": "trigger",
@@ -5528,7 +5571,8 @@
           "image_url": "images/Agent Trigger Portrait.png",
           "icon_url": "images/Outfit Gaze Into the Light Icon.png"
         }
-      ]
+      ],
+      "game_id": 1361
     },
     {
       "id": "tsukishiro_yanagi",
@@ -5629,7 +5673,8 @@
           "image_url": "images/Agent Tsukishiro Yanagi Portrait.png",
           "icon_url": "images/Outfit Flowing Moonshade Icon.png"
         }
-      ]
+      ],
+      "game_id": 1221
     },
     {
       "id": "ukinami_yuzuha",
@@ -5814,7 +5859,8 @@
           "image_url": "images/Agent Ukinami Yuzuha Portrait.png",
           "icon_url": "images/Outfit Tanuki Under the Shade Icon.png"
         }
-      ]
+      ],
+      "game_id": 1411
     },
     {
       "id": "velina_airgid",
@@ -6002,7 +6048,8 @@
           "image_url": "images/Agent Velina Airgid Shade of Leisure Portrait.png",
           "icon_url": "images/Outfit Shade of Leisure Icon.png"
         }
-      ]
+      ],
+      "game_id": 1561
     },
     {
       "id": "vivian_banshee",
@@ -6148,7 +6195,8 @@
           "image_url": "images/Agent Vivian Banshee Iris of the Shore Portrait.png",
           "icon_url": "images/Outfit Iris of the Shore Icon.png"
         }
-      ]
+      ],
+      "game_id": 1331
     },
     {
       "id": "von_lycaon",
@@ -6249,7 +6297,8 @@
           "image_url": "images/Agent Von Lycaon Portrait.png",
           "icon_url": "images/Outfit Moonlight Prowl Icon.png"
         }
-      ]
+      ],
+      "game_id": 1141
     },
     {
       "id": "ye_shunguang",
@@ -6590,7 +6639,8 @@
           "image_url": "images/Agent Ye Shunguang Touch of Dawnlight Portrait.png",
           "icon_url": "images/Outfit Touch of Dawnlight Icon.png"
         }
-      ]
+      ],
+      "game_id": 1431
     },
     {
       "id": "yidhari_murphy",
@@ -6687,7 +6737,8 @@
           "image_url": "images/Agent Yidhari Murphy Portrait.png",
           "icon_url": "images/Outfit Stream of Consciousness Icon.png"
         }
-      ]
+      ],
+      "game_id": 1051
     },
     {
       "id": "yixuan",
@@ -6878,7 +6929,8 @@
           "image_url": "images/Agent Yixuan Trails of Ink Portrait.png",
           "icon_url": "images/Outfit Trails of Ink Icon.png"
         }
-      ]
+      ],
+      "game_id": 1371
     },
     {
       "id": "zhao",
@@ -6949,7 +7001,8 @@
           "image_url": "images/Agent Zhao Portrait.png",
           "icon_url": "images/Outfit Cuddly Executor Icon.png"
         }
-      ]
+      ],
+      "game_id": 1341
     },
     {
       "id": "zhu_yuan",
@@ -7063,7 +7116,8 @@
           "image_url": "images/Agent Zhu Yuan Portrait.png",
           "icon_url": "images/Outfit Suppressor of Evil Icon.png"
         }
-      ]
+      ],
+      "game_id": 1241
     },
     {
       "id": "belle",
@@ -8155,7 +8209,8 @@
           "image_url": "images/Agent Sigrid de LAzur Majestic Wavechaser Portrait.png",
           "icon_url": "images/Outfit Majestic Wavechaser Icon.png"
         }
-      ]
+      ],
+      "game_id": 1591
     },
     {
       "id": "claret_flint",
@@ -8338,7 +8393,207 @@
           },
           "last_verified_version": "zzmi_assets_import"
         }
-      ]
+      ],
+      "game_id": 1611
+    },
+    {
+      "id": "roxy_ifrita_pryce",
+      "name": "Roxy Ifrita Pryce",
+      "real_name": "Roxy Ifrita Pryce",
+      "element": "Wind",
+      "role": "Stun",
+      "gender": "Female",
+      "height": "144cm (4'9\")",
+      "height_cm": 144,
+      "birthday": "December 29th",
+      "species": "Unknown",
+      "model_type": "Size 01",
+      "w_engine": "Crimson Moon Casket",
+      "release_date": "2026-09-30",
+      "faction": "Flint Workshop",
+      "type": "Playable",
+      "image_url": "images/Enka IconRole68.png",
+      "icon_url": "images/Enka IconRole68.png",
+      "mindscape_url": "",
+      "aliases": [
+        "Pryce",
+        "Pryce Ifrita Roxy",
+        "PryceIfritaRoxy",
+        "Roxy",
+        "RoxyIfritaPryce"
+      ],
+      "base_skin_id": "default",
+      "skins": [
+        {
+          "id": "default",
+          "name": "Default Outfit",
+          "aliases": [
+            "base",
+            "default"
+          ],
+          "components": {
+            "Body2": {
+              "draw_vb": "4805f693",
+              "position_vb": "ca82e547",
+              "blend_vb": "7b88aa46",
+              "texcoord_vb": "bb5f669c",
+              "ib": "09c39441",
+              "textures": {
+                "Diffuse": "da5be24c",
+                "NormalMap": "ebac056e",
+                "LightMap": "e3703d1f",
+                "MaterialMap": "44ed4f24"
+              }
+            },
+            "Eyebrows": {
+              "draw_vb": "6e02f849",
+              "position_vb": "54106b0e",
+              "blend_vb": "09fa4349",
+              "texcoord_vb": "9fdf77b3",
+              "ib": "224a50cf",
+              "textures": {
+                "Diffuse": "126d4a26"
+              }
+            },
+            "GearPiece": {
+              "draw_vb": "f3664d5f",
+              "position_vb": "9cad9afb",
+              "blend_vb": "a47afc40",
+              "texcoord_vb": "c13b8459",
+              "ib": "2cc6a188",
+              "textures": {
+                "Diffuse": "805216e1",
+                "NormalMap": "ebac056e",
+                "LightMap": "7715da05",
+                "MaterialMap": "b88ed702"
+              }
+            },
+            "Hair3": {
+              "draw_vb": "0183a3a6",
+              "position_vb": "2b1539ff",
+              "blend_vb": "7707cc68",
+              "texcoord_vb": "3089925d",
+              "ib": "3f797188",
+              "textures": {
+                "Diffuse": "ba531329",
+                "NormalMap": "ebac056e",
+                "LightMap": "7885a317",
+                "MaterialMap": "4a701d9e"
+              }
+            },
+            "Gear": {
+              "draw_vb": "6df8e318",
+              "position_vb": "aa80ba26",
+              "blend_vb": "476a3837",
+              "texcoord_vb": "82783b16",
+              "ib": "4ce97f81",
+              "textures": {
+                "Diffuse": "805216e1",
+                "NormalMap": "ebac056e",
+                "LightMap": "7715da05",
+                "MaterialMap": "b88ed702"
+              }
+            },
+            "Hair2": {
+              "draw_vb": "387f13af",
+              "position_vb": "a43fefad",
+              "blend_vb": "1b4a25c8",
+              "texcoord_vb": "6f72141b",
+              "ib": "4e6d8882",
+              "textures": {
+                "Diffuse": "ba531329",
+                "NormalMap": "ebac056e",
+                "LightMap": "7885a317",
+                "MaterialMap": "4a701d9e"
+              }
+            },
+            "Hair": {
+              "draw_vb": "0ca0d1db",
+              "position_vb": "8d17b17d",
+              "blend_vb": "831dc545",
+              "texcoord_vb": "77598722",
+              "ib": "4e6e989e",
+              "textures": {
+                "Diffuse": "ba531329",
+                "NormalMap": "ebac056e",
+                "LightMap": "7885a317",
+                "MaterialMap": "4a701d9e"
+              }
+            },
+            "Face2": {
+              "draw_vb": "bb7fffe9",
+              "position_vb": "bf455d3d",
+              "blend_vb": "e42e155c",
+              "texcoord_vb": "b1022f0d",
+              "ib": "89fc5b32"
+            },
+            "GearTop": {
+              "draw_vb": "6c28724d",
+              "position_vb": "75387bcf",
+              "blend_vb": "60f9efde",
+              "texcoord_vb": "5224917e",
+              "ib": "d0d437a1",
+              "textures": {
+                "Diffuse": "805216e1",
+                "NormalMap": "ebac056e",
+                "LightMap": "7715da05",
+                "MaterialMap": "b88ed702"
+              }
+            },
+            "GearMid": {
+              "draw_vb": "80023ae0",
+              "position_vb": "ebca5b03",
+              "blend_vb": "0ef4568b",
+              "texcoord_vb": "75726e6c",
+              "ib": "d127180e",
+              "textures": {
+                "Diffuse": "805216e1",
+                "NormalMap": "ebac056e",
+                "LightMap": "7715da05",
+                "MaterialMap": "b88ed702"
+              }
+            },
+            "Body": {
+              "draw_vb": "de6784e3",
+              "position_vb": "9249ae8b",
+              "blend_vb": "7eb9cbc7",
+              "texcoord_vb": "a268a2db",
+              "ib": "d5e1e7ff",
+              "textures": {
+                "Diffuse": "da5be24c",
+                "NormalMap": "ebac056e",
+                "LightMap": "e3703d1f",
+                "MaterialMap": "44ed4f24"
+              }
+            },
+            "GearPole": {
+              "draw_vb": "13087664",
+              "position_vb": "4ed9c1cf",
+              "blend_vb": "accfb45c",
+              "texcoord_vb": "8914b14e",
+              "ib": "d92f1cdf",
+              "textures": {
+                "Diffuse": "805216e1",
+                "NormalMap": "ebac056e",
+                "LightMap": "7715da05",
+                "MaterialMap": "b88ed702"
+              }
+            },
+            "Face": {
+              "draw_vb": "9770e8ef",
+              "position_vb": "ad627ba8",
+              "blend_vb": "c0b23b8b",
+              "texcoord_vb": "c90eb75c",
+              "ib": "e40b00b2",
+              "textures": {
+                "Diffuse": "126d4a26"
+              }
+            }
+          },
+          "last_verified_version": "zzmi_assets_import"
+        }
+      ],
+      "game_id": 1621
     }
   ]
 }
