@@ -8235,85 +8235,11 @@
       "skins": [
         {
           "id": "default",
-          "name": "Default Outfit",
+          "name": "Red Gold Blaze",
           "aliases": [
             "base",
-            "default"
-          ],
-          "components": {
-            "Hair": {
-              "draw_vb": "afd59133",
-              "position_vb": "a15b4977",
-              "blend_vb": "8b8a3aee",
-              "texcoord_vb": "3323e267",
-              "ib": "13596d7b",
-              "textures": {
-                "Diffuse": "27ff9425",
-                "NormalMap": "ebac056e",
-                "LightMap": "54af7ec2",
-                "MaterialMap": "f328bcde"
-              }
-            },
-            "Body": {
-              "draw_vb": "d2c8aa32",
-              "position_vb": "a71005c1",
-              "blend_vb": "9e4b673e",
-              "texcoord_vb": "774b873a",
-              "ib": "d942b3a7",
-              "textures": {
-                "Diffuse": "49f33d8f",
-                "NormalMap": "ebac056e",
-                "LightMap": "3327e83f",
-                "MaterialMap": "875e4282"
-              }
-            },
-            "Legs": {
-              "draw_vb": "4e0b27d3",
-              "position_vb": "5db64c7a",
-              "blend_vb": "350e55b3",
-              "texcoord_vb": "ea4c2d82",
-              "ib": "98ece166",
-              "textures": {
-                "Diffuse": "54b5a00b",
-                "NormalMap": "ebac056e",
-                "LightMap": "83d81888",
-                "MaterialMap": "6c63f8ce"
-              }
-            },
-            "Bows": {
-              "draw_vb": "3633bc1d",
-              "position_vb": "39f0a7d8",
-              "blend_vb": "f3e22ccc",
-              "texcoord_vb": "8bdb2003",
-              "ib": "480eeade",
-              "textures": {
-                "Diffuse": "27ff9425",
-                "NormalMap": "ebac056e",
-                "LightMap": "54af7ec2",
-                "MaterialMap": "f328bcde"
-              }
-            },
-            "Eyebrows": {
-              "blend_vb": "b39381ba",
-              "ib": "a56d773c",
-              "textures": {
-                "Diffuse": "05b25205"
-              }
-            },
-            "Face": {
-              "blend_vb": "c21ac1a5",
-              "ib": "6467d6c6",
-              "textures": {
-                "Diffuse": "05b25205"
-              }
-            }
-          },
-          "last_verified_version": "zzmi_assets_import"
-        },
-        {
-          "id": "default",
-          "name": "Default Outfit",
-          "aliases": [
+            "default",
+            "red_gold_blaze",
             "default_outfit"
           ],
           "components": {
@@ -8384,7 +8310,9 @@
               }
             }
           },
-          "last_verified_version": "zzmi_assets_import"
+          "last_verified_version": "zzmi_assets_import",
+          "image_url": "images/Agent Claret Flint Portrait.png",
+          "icon_url": "images/Outfit Red Gold Blaze Icon.png"
         }
       ],
       "game_id": 1611
