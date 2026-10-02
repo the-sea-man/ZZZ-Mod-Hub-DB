@@ -5421,13 +5421,6 @@
               "textures": {
                 "Diffuse": "c9b5c6ce"
               }
-            },
-            "Eyebrows": {
-              "blend_vb": "f5daa764",
-              "ib": "30ea5791",
-              "textures": {
-                "Diffuse": "c9b5c6ce"
-              }
             }
           },
           "last_verified_version": "zzmi_assets_import",
@@ -8432,19 +8425,6 @@
             "default"
           ],
           "components": {
-            "Body2": {
-              "draw_vb": "4805f693",
-              "position_vb": "ca82e547",
-              "blend_vb": "7b88aa46",
-              "texcoord_vb": "bb5f669c",
-              "ib": "09c39441",
-              "textures": {
-                "Diffuse": "da5be24c",
-                "NormalMap": "ebac056e",
-                "LightMap": "e3703d1f",
-                "MaterialMap": "44ed4f24"
-              }
-            },
             "Eyebrows": {
               "draw_vb": "6e02f849",
               "position_vb": "54106b0e",
@@ -8453,58 +8433,6 @@
               "ib": "224a50cf",
               "textures": {
                 "Diffuse": "126d4a26"
-              }
-            },
-            "GearPiece": {
-              "draw_vb": "f3664d5f",
-              "position_vb": "9cad9afb",
-              "blend_vb": "a47afc40",
-              "texcoord_vb": "c13b8459",
-              "ib": "2cc6a188",
-              "textures": {
-                "Diffuse": "805216e1",
-                "NormalMap": "ebac056e",
-                "LightMap": "7715da05",
-                "MaterialMap": "b88ed702"
-              }
-            },
-            "Hair3": {
-              "draw_vb": "0183a3a6",
-              "position_vb": "2b1539ff",
-              "blend_vb": "7707cc68",
-              "texcoord_vb": "3089925d",
-              "ib": "3f797188",
-              "textures": {
-                "Diffuse": "ba531329",
-                "NormalMap": "ebac056e",
-                "LightMap": "7885a317",
-                "MaterialMap": "4a701d9e"
-              }
-            },
-            "Gear": {
-              "draw_vb": "6df8e318",
-              "position_vb": "aa80ba26",
-              "blend_vb": "476a3837",
-              "texcoord_vb": "82783b16",
-              "ib": "4ce97f81",
-              "textures": {
-                "Diffuse": "805216e1",
-                "NormalMap": "ebac056e",
-                "LightMap": "7715da05",
-                "MaterialMap": "b88ed702"
-              }
-            },
-            "Hair2": {
-              "draw_vb": "387f13af",
-              "position_vb": "a43fefad",
-              "blend_vb": "1b4a25c8",
-              "texcoord_vb": "6f72141b",
-              "ib": "4e6d8882",
-              "textures": {
-                "Diffuse": "ba531329",
-                "NormalMap": "ebac056e",
-                "LightMap": "7885a317",
-                "MaterialMap": "4a701d9e"
               }
             },
             "Hair": {
@@ -8520,39 +8448,6 @@
                 "MaterialMap": "4a701d9e"
               }
             },
-            "Face2": {
-              "draw_vb": "bb7fffe9",
-              "position_vb": "bf455d3d",
-              "blend_vb": "e42e155c",
-              "texcoord_vb": "b1022f0d",
-              "ib": "89fc5b32"
-            },
-            "GearTop": {
-              "draw_vb": "6c28724d",
-              "position_vb": "75387bcf",
-              "blend_vb": "60f9efde",
-              "texcoord_vb": "5224917e",
-              "ib": "d0d437a1",
-              "textures": {
-                "Diffuse": "805216e1",
-                "NormalMap": "ebac056e",
-                "LightMap": "7715da05",
-                "MaterialMap": "b88ed702"
-              }
-            },
-            "GearMid": {
-              "draw_vb": "80023ae0",
-              "position_vb": "ebca5b03",
-              "blend_vb": "0ef4568b",
-              "texcoord_vb": "75726e6c",
-              "ib": "d127180e",
-              "textures": {
-                "Diffuse": "805216e1",
-                "NormalMap": "ebac056e",
-                "LightMap": "7715da05",
-                "MaterialMap": "b88ed702"
-              }
-            },
             "Body": {
               "draw_vb": "de6784e3",
               "position_vb": "9249ae8b",
@@ -8566,7 +8461,115 @@
                 "MaterialMap": "44ed4f24"
               }
             },
-            "GearPole": {
+            "Face": {
+              "draw_vb": "9770e8ef",
+              "position_vb": "ad627ba8",
+              "blend_vb": "c0b23b8b",
+              "texcoord_vb": "c90eb75c",
+              "ib": "e40b00b2",
+              "textures": {
+                "Diffuse": "126d4a26"
+              }
+            },
+            "Extra": {
+              "draw_vb": "4805f693",
+              "position_vb": "ca82e547",
+              "blend_vb": "7b88aa46",
+              "texcoord_vb": "bb5f669c",
+              "ib": "09c39441",
+              "textures": {
+                "Diffuse": "da5be24c",
+                "NormalMap": "ebac056e",
+                "LightMap": "e3703d1f",
+                "MaterialMap": "44ed4f24"
+              }
+            },
+            "WeaponHandle": {
+              "draw_vb": "f3664d5f",
+              "position_vb": "9cad9afb",
+              "blend_vb": "a47afc40",
+              "texcoord_vb": "c13b8459",
+              "ib": "2cc6a188",
+              "textures": {
+                "Diffuse": "805216e1",
+                "NormalMap": "ebac056e",
+                "LightMap": "7715da05",
+                "MaterialMap": "b88ed702"
+              }
+            },
+            "Glasses": {
+              "draw_vb": "0183a3a6",
+              "position_vb": "2b1539ff",
+              "blend_vb": "7707cc68",
+              "texcoord_vb": "3089925d",
+              "ib": "3f797188",
+              "textures": {
+                "Diffuse": "ba531329",
+                "NormalMap": "ebac056e",
+                "LightMap": "7885a317",
+                "MaterialMap": "4a701d9e"
+              }
+            },
+            "WeaponMain": {
+              "draw_vb": "6df8e318",
+              "position_vb": "aa80ba26",
+              "blend_vb": "476a3837",
+              "texcoord_vb": "82783b16",
+              "ib": "4ce97f81",
+              "textures": {
+                "Diffuse": "805216e1",
+                "NormalMap": "ebac056e",
+                "LightMap": "7715da05",
+                "MaterialMap": "b88ed702"
+              }
+            },
+            "Accessories": {
+              "draw_vb": "387f13af",
+              "position_vb": "a43fefad",
+              "blend_vb": "1b4a25c8",
+              "texcoord_vb": "6f72141b",
+              "ib": "4e6d8882",
+              "textures": {
+                "Diffuse": "ba531329",
+                "NormalMap": "ebac056e",
+                "LightMap": "7885a317",
+                "MaterialMap": "4a701d9e"
+              }
+            },
+            "BangShadow": {
+              "draw_vb": "bb7fffe9",
+              "position_vb": "bf455d3d",
+              "blend_vb": "e42e155c",
+              "texcoord_vb": "b1022f0d",
+              "ib": "89fc5b32"
+            },
+            "WeaponInnerTop": {
+              "draw_vb": "6c28724d",
+              "position_vb": "75387bcf",
+              "blend_vb": "60f9efde",
+              "texcoord_vb": "5224917e",
+              "ib": "d0d437a1",
+              "textures": {
+                "Diffuse": "805216e1",
+                "NormalMap": "ebac056e",
+                "LightMap": "7715da05",
+                "MaterialMap": "b88ed702"
+              }
+            },
+            "WeaponDecoration": {
+              "draw_vb": "80023ae0",
+              "position_vb": "ebca5b03",
+              "blend_vb": "0ef4568b",
+              "texcoord_vb": "75726e6c",
+              "ib": "d127180e",
+              "textures": {
+                "Diffuse": "805216e1",
+                "NormalMap": "ebac056e",
+                "LightMap": "7715da05",
+                "MaterialMap": "b88ed702"
+              }
+            },
+            "WeaponInnerBottom": {
               "draw_vb": "13087664",
               "position_vb": "4ed9c1cf",
               "blend_vb": "accfb45c",
@@ -8577,16 +8580,6 @@
                 "NormalMap": "ebac056e",
                 "LightMap": "7715da05",
                 "MaterialMap": "b88ed702"
-              }
-            },
-            "Face": {
-              "draw_vb": "9770e8ef",
-              "position_vb": "ad627ba8",
-              "blend_vb": "c0b23b8b",
-              "texcoord_vb": "c90eb75c",
-              "ib": "e40b00b2",
-              "textures": {
-                "Diffuse": "126d4a26"
               }
             }
           },
