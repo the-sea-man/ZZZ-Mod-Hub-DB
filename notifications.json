@@ -1,5 +1,15 @@
 [
   {
+    "id": "1.3.4-release",
+    "title": "ZZZ Mod Hub Update 1.3.4",
+    "message": "### What is new in v1.3.4:\n- **Character Frame Capture**: Import 3DMigoto frame analysis dumps directly to identify components, meshes, and texture bindings for new or unlisted characters.\n- **Fairy's Fixer Sub-Draw Scoping**: Scopes component-wide draw calls to their exact sub-draw index buffer bindings, preventing misaligned meshes and misplaced accessories.\n- **Shared Normal Map Gating**: Safely gates overrides moved onto shared normal maps to their own part and converts target texture coordinates without corrupting shared textures.\n- **3D Mod Viewer Upgrades**: Enhanced texture decoding for BC3 and BC7 textures, potato-mode performance controls, and smoother scene camera framing.\n- **Resilient Character Database**: Automatically preserves existing local character definitions if remote database updates drop connection or time out.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.3.4",
+    "message_pt_BR": "### Novidades da v1.3.4:\n- **Captura de Personagens por Frame**: Importe dumps de análise do 3DMigoto para identificar peças, malhas e texturas de personagens novos ou personalizados.\n- **Fairy's Fixer com Chamadas Precisas**: Restringe chamadas de desenho ao índice de sub-desenho correto, evitando peças flutuando ou malhas desalinhadas.\n- **Proteção de Mapas Normais Compartilhados**: Isola modificações em texturas normais compartilhadas para a peça correta e converte coordenadas UV com total segurança.\n- **Melhorias no Visualizador 3D**: Decodificação aprimorada de texturas BC3 e BC7, modo de alto desempenho (potato mode) e enquadramento de câmera mais suave.\n- **Banco de Personagens Resiliente**: Mantém as definições locais de personagens intactas se a sincronização online falhar ou perder conexão.",
+    "title_zh": "ZZZ Mod Hub 1.3.4 更新",
+    "message_zh": "### v1.3.4 更新内容：\n- **帧分析角色捕获向导**：支持直接导入 3DMigoto 帧分析 Dump，自动识别新角色或未收录实体的组件、网格与纹理绑定。\n- **Fairy's Fixer 子绘制精准绑定**：将全局绘制调用严格限定于对应子绘制索引缓冲区，彻底解决配件错位与部件漂浮问题。\n- **共享法线贴图隔离保护**：安全隔离共享法线贴图上的重叠修改并智能转换 UV 纹理坐标，杜绝纹理串色与损坏。\n- **3D 模型查看器升级**：增强 BC3/BC7 贴图解码支持，增加低配性能模式，并优化场景相机视角边界。\n- **角色数据库网络容灾**：当远程数据库更新因网络超时或中断失败时，自动保留现有本地角色定义，确保服务不中断。",
+    "date": "2026-10-03T11:00:00Z"
+  },
+  {
     "id": "1.3.3-release",
     "title": "ZZZ Mod Hub Update 1.3.3",
     "message": "### What is new in v1.3.3:\n- **Game Launch Protection**: Supports custom launcher flags and prevents duplicate game instances from launching when the game is already running.\n- **Hardened 1-Click Installs**: Refuses links from other games with clear notifications, blocks dangerous executables, and verifies download file integrity.\n- **Responsive Discover Toolbar**: Toolbar controls and page buttons now wrap cleanly so navigation never gets cut off on smaller screens.\n- **Enhanced RAR Extraction**: Added 7-Zip fallback support for complex and multi-part RAR archives.\n- **Built-In Diagnostic Reports**: Generate one-click diagnostic reports in Settings to help troubleshoot setup and mod loading issues.",
