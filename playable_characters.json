@@ -7797,15 +7797,25 @@
             "default"
           ],
           "components": {
-            "Hair": {
-              "draw_vb": "ef9c0510",
-              "position_vb": "e8df7ff3",
-              "blend_vb": "68e4f572",
-              "texcoord_vb": "774071dd",
-              "ib": "d5ca0411",
+            "Face": {
+              "draw_vb": "6c4552bb",
+              "position_vb": "5657c1fc",
+              "blend_vb": "015fbf96",
+              "texcoord_vb": "2b320847",
+              "ib": "1fdaf388",
+              "textures": {
+                "Diffuse": "5d75fddc",
+                "MaterialMap": "f1b20f3d"
+              }
+            },
+            "Hair Shadow": {
+              "draw_vb": "681651f9",
+              "position_vb": "4af493e5",
+              "blend_vb": "795e9a7c",
+              "texcoord_vb": "ad7d7eca",
+              "ib": "8d08b190",
               "textures": {
                 "Diffuse": "28005a5b",
-                "NormalMap": "ebac056e",
                 "LightMap": "8d8269f8",
                 "MaterialMap": "f1b20f3d"
               }
@@ -7817,7 +7827,7 @@
               "texcoord_vb": "91fbd2fa",
               "ib": "8d6acf4e",
               "textures": {
-                "Diffuse": "a9652fa4",
+                "Diffuse": "ee65d7bc",
                 "NormalMap": "ebac056e",
                 "LightMap": "088718a9",
                 "MaterialMap": "a5fdb5e7"
@@ -7836,37 +7846,17 @@
                 "MaterialMap": "f1b20f3d"
               }
             },
-            "Face": {
-              "blend_vb": "015fbf96",
-              "ib": "1fdaf388",
+            "Hair": {
+              "draw_vb": "ef9c0510",
+              "position_vb": "e8df7ff3",
+              "blend_vb": "68e4f572",
+              "texcoord_vb": "774071dd",
+              "ib": "d5ca0411",
               "textures": {
-                "Diffuse": "5d75fddc"
-              }
-            },
-            "Neck": {
-              "draw_vb": "c4a1fb46",
-              "position_vb": "6171b974",
-              "blend_vb": "98a06e7d",
-              "texcoord_vb": "0da56abf",
-              "ib": "8a1ec07e",
-              "textures": {
-                "Diffuse": "b9dcce2e",
+                "Diffuse": "28005a5b",
                 "NormalMap": "ebac056e",
-                "LightMap": "bd86c7c4",
-                "MaterialMap": "4d7473b1"
-              }
-            },
-            "Necktie": {
-              "draw_vb": "86f21a82",
-              "position_vb": "fb0a401a",
-              "blend_vb": "4b19b5b5",
-              "texcoord_vb": "052d4b48",
-              "ib": "f21a2bac",
-              "textures": {
-                "Diffuse": "1024352b",
-                "NormalMap": "ebac056e",
-                "LightMap": "e550cd81",
-                "MaterialMap": "6649f407"
+                "LightMap": "8d8269f8",
+                "MaterialMap": "f1b20f3d"
               }
             }
           },
