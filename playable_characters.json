@@ -7144,43 +7144,28 @@
             "brilliance"
           ],
           "components": {
-            "Hair": {
-              "draw_vb": "992d149f",
-              "position_vb": "dbd537bb",
-              "blend_vb": "2cf18f34",
-              "texcoord_vb": "0f1d7b96",
-              "ib": "aa9ffb85",
+            "Hat": {
+              "draw_vb": "0a877d89",
+              "position_vb": "74d2da11",
+              "blend_vb": "d5070379",
+              "texcoord_vb": "801cd45d",
+              "ib": "0a843a8f",
+              "textures": {
+                "Diffuse": "8c0ea559",
+                "NormalMap": "ebac056e",
+                "LightMap": "dcb8ba2e",
+                "MaterialMap": "57130f7c"
+              }
+            },
+            "HairShadow": {
+              "draw_vb": "d077170c",
+              "position_vb": "f2298f2e",
+              "blend_vb": "288df448",
+              "texcoord_vb": "43f15315",
+              "ib": "403eace9",
               "textures": {
                 "Diffuse": "1ce58567",
-                "NormalMap": "ebac056e",
-                "LightMap": "7d562f53",
-                "MaterialMap": "34bdb036"
-              }
-            },
-            "Body": {
-              "draw_vb": "76ceb325",
-              "position_vb": "df17d505",
-              "blend_vb": "987395ef",
-              "texcoord_vb": "3e19f179",
-              "ib": "feb1c4cd",
-              "textures": {
-                "Diffuse": "a292d07d",
-                "NormalMap": "ebac056e",
-                "LightMap": "42310c0e",
-                "MaterialMap": "5724e531"
-              }
-            },
-            "Neck": {
-              "draw_vb": "0e72bdb7",
-              "position_vb": "d5c6a50f",
-              "blend_vb": "57192494",
-              "texcoord_vb": "07a15f8e",
-              "ib": "a6431856",
-              "textures": {
-                "Diffuse": "a292d07d",
-                "NormalMap": "ebac056e",
-                "LightMap": "42310c0e",
-                "MaterialMap": "5724e531"
+                "LightMap": "7d562f53"
               }
             },
             "Earring": {
@@ -7196,6 +7181,17 @@
                 "MaterialMap": "57130f7c"
               }
             },
+            "Face": {
+              "draw_vb": "04abceb5",
+              "position_vb": "3eb95df2",
+              "blend_vb": "359e4502",
+              "texcoord_vb": "228f5a8b",
+              "ib": "9a9780a7",
+              "textures": {
+                "Diffuse": "75ec3614",
+                "MaterialMap": "34bdb036"
+              }
+            },
             "Player": {
               "draw_vb": "f6ed0e7b",
               "position_vb": "d9087948",
@@ -7209,17 +7205,30 @@
                 "MaterialMap": "57130f7c"
               }
             },
-            "Hat": {
-              "draw_vb": "0a877d89",
-              "position_vb": "74d2da11",
-              "blend_vb": "d5070379",
-              "texcoord_vb": "801cd45d",
-              "ib": "0a843a8f",
+            "Neck": {
+              "draw_vb": "0e72bdb7",
+              "position_vb": "d5c6a50f",
+              "blend_vb": "57192494",
+              "texcoord_vb": "07a15f8e",
+              "ib": "a6431856",
               "textures": {
-                "Diffuse": "8c0ea559",
+                "Diffuse": "fd906f9b",
                 "NormalMap": "ebac056e",
-                "LightMap": "dcb8ba2e",
-                "MaterialMap": "57130f7c"
+                "LightMap": "42310c0e",
+                "MaterialMap": "5724e531"
+              }
+            },
+            "Hair": {
+              "draw_vb": "992d149f",
+              "position_vb": "dbd537bb",
+              "blend_vb": "2cf18f34",
+              "texcoord_vb": "0f1d7b96",
+              "ib": "aa9ffb85",
+              "textures": {
+                "Diffuse": "1ce58567",
+                "NormalMap": "ebac056e",
+                "LightMap": "7d562f53",
+                "MaterialMap": "34bdb036"
               }
             },
             "Necktie": {
@@ -7235,11 +7244,17 @@
                 "MaterialMap": "57130f7c"
               }
             },
-            "Face": {
-              "blend_vb": "359e4502",
-              "ib": "9a9780a7",
+            "Body": {
+              "draw_vb": "76ceb325",
+              "position_vb": "df17d505",
+              "blend_vb": "987395ef",
+              "texcoord_vb": "3e19f179",
+              "ib": "feb1c4cd",
               "textures": {
-                "Diffuse": "75ec3614"
+                "Diffuse": "fd906f9b",
+                "NormalMap": "ebac056e",
+                "LightMap": "42310c0e",
+                "MaterialMap": "5724e531"
               }
             }
           },
@@ -7255,6 +7270,68 @@
             "sunlight"
           ],
           "components": {
+            "Earring": {
+              "draw_vb": "c0eb7af5",
+              "position_vb": "e1d5dec8",
+              "blend_vb": "c2a072c2",
+              "texcoord_vb": "f3d824bf",
+              "ib": "e850777c",
+              "textures": {
+                "Diffuse": "da2bfe2f",
+                "NormalMap": "ebac056e",
+                "LightMap": "74f2fae3",
+                "MaterialMap": "657402d0"
+              }
+            },
+            "BackRibbon": {
+              "draw_vb": "364415bf",
+              "position_vb": "81bc55f3",
+              "blend_vb": "0d4e5810",
+              "texcoord_vb": "c5c88de1",
+              "ib": "169e5f5d",
+              "textures": {
+                "Diffuse": "da2bfe2f",
+                "NormalMap": "ebac056e",
+                "LightMap": "74f2fae3",
+                "MaterialMap": "657402d0"
+              }
+            },
+            "Hairpin": {
+              "draw_vb": "2f828e6a",
+              "position_vb": "4dec8913",
+              "blend_vb": "f18dd23f",
+              "texcoord_vb": "cdd7fc8a",
+              "ib": "20d3a340",
+              "textures": {
+                "Diffuse": "1ce58567",
+                "NormalMap": "ebac056e",
+                "LightMap": "7d562f53",
+                "MaterialMap": "34bdb036"
+              }
+            },
+            "HairShadow": {
+              "draw_vb": "d077170c",
+              "position_vb": "f2298f2e",
+              "blend_vb": "288df448",
+              "texcoord_vb": "43f15315",
+              "ib": "403eace9",
+              "textures": {
+                "Diffuse": "1ce58567",
+                "LightMap": "7d562f53",
+                "MaterialMap": "34bdb036"
+              }
+            },
+            "Face": {
+              "draw_vb": "04abceb5",
+              "position_vb": "3eb95df2",
+              "blend_vb": "359e4502",
+              "texcoord_vb": "228f5a8b",
+              "ib": "9a9780a7",
+              "textures": {
+                "Diffuse": "75ec3614",
+                "MaterialMap": "34bdb036"
+              }
+            },
             "Hair": {
               "draw_vb": "992d149f",
               "position_vb": "71d2bf80",
@@ -7266,19 +7343,6 @@
                 "NormalMap": "ebac056e",
                 "LightMap": "7d562f53",
                 "MaterialMap": "34bdb036"
-              }
-            },
-            "Body": {
-              "draw_vb": "19e5f486",
-              "position_vb": "8a4e97cd",
-              "blend_vb": "4d74d5e9",
-              "texcoord_vb": "d761e076",
-              "ib": "d509bdd4",
-              "textures": {
-                "Diffuse": "da2bfe2f",
-                "NormalMap": "ebac056e",
-                "LightMap": "74f2fae3",
-                "MaterialMap": "657402d0"
               }
             },
             "Legs": {
@@ -7307,50 +7371,17 @@
                 "MaterialMap": "657402d0"
               }
             },
-            "Earring": {
-              "draw_vb": "c0eb7af5",
-              "position_vb": "e1d5dec8",
-              "blend_vb": "c2a072c2",
-              "texcoord_vb": "f3d824bf",
-              "ib": "e850777c",
+            "Body": {
+              "draw_vb": "19e5f486",
+              "position_vb": "8a4e97cd",
+              "blend_vb": "4d74d5e9",
+              "texcoord_vb": "d761e076",
+              "ib": "d509bdd4",
               "textures": {
                 "Diffuse": "da2bfe2f",
                 "NormalMap": "ebac056e",
                 "LightMap": "74f2fae3",
                 "MaterialMap": "657402d0"
-              }
-            },
-            "Hairpin": {
-              "draw_vb": "2f828e6a",
-              "position_vb": "4dec8913",
-              "blend_vb": "f18dd23f",
-              "texcoord_vb": "cdd7fc8a",
-              "ib": "20d3a340",
-              "textures": {
-                "Diffuse": "1ce58567",
-                "NormalMap": "ebac056e",
-                "LightMap": "7d562f53",
-                "MaterialMap": "34bdb036"
-              }
-            },
-            "BackRibbon": {
-              "draw_vb": "364415bf",
-              "position_vb": "81bc55f3",
-              "blend_vb": "0d4e5810",
-              "texcoord_vb": "c5c88de1",
-              "ib": "169e5f5d",
-              "textures": {
-                "Diffuse": "da2bfe2f",
-                "NormalMap": "ebac056e",
-                "LightMap": "74f2fae3",
-                "MaterialMap": "657402d0"
-              }
-            },
-            "Face": {
-              "blend_vb": "359e4502",
-              "ib": "9a9780a7",
-              "textures": {
-                "Diffuse": "75ec3614"
               }
             }
           },
@@ -7366,17 +7397,41 @@
             "summer"
           ],
           "components": {
-            "Hair": {
-              "draw_vb": "898f40fc",
-              "position_vb": "d440bcc9",
-              "blend_vb": "4bb8fccc",
-              "texcoord_vb": "b536d9e6",
-              "ib": "a7683988",
+            "Earrings": {
+              "draw_vb": "c4e3b1e8",
+              "position_vb": "66a4bab6",
+              "blend_vb": "28720ee7",
+              "texcoord_vb": "a2ee3518",
+              "ib": "07920753",
               "textures": {
-                "Diffuse": "20954729",
+                "Diffuse": "1ce58567",
                 "NormalMap": "ebac056e",
-                "LightMap": "60250d24",
-                "MaterialMap": "0298fba2"
+                "LightMap": "7d562f53",
+                "MaterialMap": "34bdb036"
+              }
+            },
+            "Hairpin": {
+              "draw_vb": "84a9dfca",
+              "position_vb": "a678dff4",
+              "blend_vb": "6e583c52",
+              "texcoord_vb": "1196668a",
+              "ib": "3acf9aea",
+              "textures": {
+                "Diffuse": "1ce58567",
+                "NormalMap": "ebac056e",
+                "LightMap": "7d562f53",
+                "MaterialMap": "34bdb036"
+              }
+            },
+            "HairShadow": {
+              "draw_vb": "d077170c",
+              "position_vb": "f2298f2e",
+              "blend_vb": "288df448",
+              "texcoord_vb": "43f15315",
+              "ib": "403eace9",
+              "textures": {
+                "Diffuse": "1ce58567",
+                "LightMap": "7d562f53"
               }
             },
             "Body": {
@@ -7405,89 +7460,28 @@
                 "MaterialMap": "0298fba2"
               }
             },
-            "Earrings": {
-              "draw_vb": "c4e3b1e8",
-              "position_vb": "66a4bab6",
-              "blend_vb": "28720ee7",
-              "texcoord_vb": "a2ee3518",
-              "ib": "07920753",
-              "textures": {
-                "Diffuse": "1ce58567",
-                "NormalMap": "ebac056e",
-                "LightMap": "7d562f53",
-                "MaterialMap": "34bdb036"
-              }
-            },
-            "Hairpin": {
-              "draw_vb": "84a9dfca",
-              "position_vb": "a678dff4",
-              "blend_vb": "6e583c52",
-              "texcoord_vb": "1196668a",
-              "ib": "3acf9aea",
-              "textures": {
-                "Diffuse": "1ce58567",
-                "NormalMap": "ebac056e",
-                "LightMap": "7d562f53",
-                "MaterialMap": "34bdb036"
-              }
-            },
             "Face": {
+              "draw_vb": "04abceb5",
+              "position_vb": "3eb95df2",
               "blend_vb": "359e4502",
+              "texcoord_vb": "228f5a8b",
               "ib": "9a9780a7",
               "textures": {
-                "Diffuse": "75ec3614"
+                "Diffuse": "75ec3614",
+                "MaterialMap": "34bdb036"
               }
             },
-            "Legs": {
-              "draw_vb": "720d6a16",
-              "position_vb": "42b88f48",
-              "blend_vb": "922a7db6",
-              "texcoord_vb": "82d0aadd",
-              "ib": "bcc9e4e1",
+            "Hair": {
+              "draw_vb": "898f40fc",
+              "position_vb": "d440bcc9",
+              "blend_vb": "4bb8fccc",
+              "texcoord_vb": "b536d9e6",
+              "ib": "a7683988",
               "textures": {
-                "Diffuse": "da2bfe2f",
+                "Diffuse": "20954729",
                 "NormalMap": "ebac056e",
-                "LightMap": "74f2fae3",
-                "MaterialMap": "657402d0"
-              }
-            },
-            "Neck": {
-              "draw_vb": "3f594476",
-              "position_vb": "e2ee9309",
-              "blend_vb": "0a11b1d7",
-              "texcoord_vb": "2f7f6398",
-              "ib": "d0627e1f",
-              "textures": {
-                "Diffuse": "da2bfe2f",
-                "NormalMap": "ebac056e",
-                "LightMap": "74f2fae3",
-                "MaterialMap": "657402d0"
-              }
-            },
-            "Earring": {
-              "draw_vb": "c0eb7af5",
-              "position_vb": "e1d5dec8",
-              "blend_vb": "c2a072c2",
-              "texcoord_vb": "f3d824bf",
-              "ib": "e850777c",
-              "textures": {
-                "Diffuse": "da2bfe2f",
-                "NormalMap": "ebac056e",
-                "LightMap": "74f2fae3",
-                "MaterialMap": "657402d0"
-              }
-            },
-            "BackRibbon": {
-              "draw_vb": "364415bf",
-              "position_vb": "81bc55f3",
-              "blend_vb": "0d4e5810",
-              "texcoord_vb": "c5c88de1",
-              "ib": "169e5f5d",
-              "textures": {
-                "Diffuse": "da2bfe2f",
-                "NormalMap": "ebac056e",
-                "LightMap": "74f2fae3",
-                "MaterialMap": "657402d0"
+                "LightMap": "60250d24",
+                "MaterialMap": "0298fba2"
               }
             }
           },
@@ -7503,52 +7497,6 @@
             "default"
           ],
           "components": {
-            "Hair": {
-              "draw_vb": "992d149f",
-              "position_vb": "71d2bf80",
-              "blend_vb": "76a50b18",
-              "texcoord_vb": "a5e62ece",
-              "ib": "aa9ffb85",
-              "textures": {
-                "Diffuse": "1ce58567",
-                "NormalMap": "ebac056e",
-                "LightMap": "7d562f53",
-                "MaterialMap": "34bdb036"
-              }
-            },
-            "Face": {
-              "blend_vb": "6ade3fdc",
-              "ib": "9a9780a7",
-              "textures": {
-                "Diffuse": "75ec3614"
-              }
-            },
-            "Body": {
-              "draw_vb": "bea2b94e",
-              "position_vb": "5838ad30",
-              "blend_vb": "3ee01622",
-              "texcoord_vb": "40a897ab",
-              "ib": "c2b4ce3a",
-              "textures": {
-                "Diffuse": "24639b77",
-                "NormalMap": "ebac056e",
-                "LightMap": "7947679c",
-                "MaterialMap": "33f28c6d"
-              }
-            },
-            "Legs": {
-              "draw_vb": "7217e342",
-              "position_vb": "ca81bde5",
-              "blend_vb": "b4cd8580",
-              "texcoord_vb": "e317bb99",
-              "ib": "e6afd8d1",
-              "textures": {
-                "Diffuse": "1ce58567",
-                "NormalMap": "ebac056e",
-                "LightMap": "7d562f53",
-                "MaterialMap": "34bdb036"
-              }
-            },
             "Earrings": {
               "draw_vb": "c4e3b1e8",
               "position_vb": "66a4bab6",
@@ -7575,69 +7523,65 @@
                 "MaterialMap": "34bdb036"
               }
             },
-            "Neck": {
-              "draw_vb": "0e72bdb7",
-              "position_vb": "d5c6a50f",
-              "blend_vb": "57192494",
-              "texcoord_vb": "07a15f8e",
-              "ib": "a6431856",
+            "HairShadow": {
+              "draw_vb": "d077170c",
+              "position_vb": "f2298f2e",
+              "blend_vb": "c57bb4de",
+              "texcoord_vb": "598535c5",
+              "ib": "403eace9",
               "textures": {
-                "Diffuse": "a292d07d",
-                "NormalMap": "ebac056e",
-                "LightMap": "42310c0e",
-                "MaterialMap": "5724e531"
+                "Diffuse": "1ce58567",
+                "LightMap": "7d562f53"
               }
             },
-            "Earring": {
-              "draw_vb": "e2c8decf",
-              "position_vb": "29324995",
-              "blend_vb": "611f1c52",
-              "texcoord_vb": "8da231b5",
-              "ib": "62711f82",
+            "Face": {
+              "draw_vb": "04abceb5",
+              "position_vb": "3eb95df2",
+              "blend_vb": "6ade3fdc",
+              "texcoord_vb": "228f5a8b",
+              "ib": "9a9780a7",
               "textures": {
-                "Diffuse": "8c0ea559",
-                "NormalMap": "ebac056e",
-                "LightMap": "dcb8ba2e",
-                "MaterialMap": "57130f7c"
+                "Diffuse": "75ec3614",
+                "MaterialMap": "34bdb036"
               }
             },
-            "Player": {
-              "draw_vb": "f6ed0e7b",
-              "position_vb": "d9087948",
-              "blend_vb": "82c81803",
-              "texcoord_vb": "1cfe1205",
-              "ib": "a318b3c6",
+            "Hair": {
+              "draw_vb": "992d149f",
+              "position_vb": "71d2bf80",
+              "blend_vb": "76a50b18",
+              "texcoord_vb": "a5e62ece",
+              "ib": "aa9ffb85",
               "textures": {
-                "Diffuse": "8c0ea559",
+                "Diffuse": "1ce58567",
                 "NormalMap": "ebac056e",
-                "LightMap": "dcb8ba2e",
-                "MaterialMap": "57130f7c"
+                "LightMap": "7d562f53",
+                "MaterialMap": "34bdb036"
               }
             },
-            "Hat": {
-              "draw_vb": "0a877d89",
-              "position_vb": "74d2da11",
-              "blend_vb": "d5070379",
-              "texcoord_vb": "801cd45d",
-              "ib": "0a843a8f",
+            "Body": {
+              "draw_vb": "bea2b94e",
+              "position_vb": "5838ad30",
+              "blend_vb": "3ee01622",
+              "texcoord_vb": "40a897ab",
+              "ib": "c2b4ce3a",
               "textures": {
-                "Diffuse": "8c0ea559",
+                "Diffuse": "24639b77",
                 "NormalMap": "ebac056e",
-                "LightMap": "dcb8ba2e",
-                "MaterialMap": "57130f7c"
+                "LightMap": "7947679c",
+                "MaterialMap": "33f28c6d"
               }
             },
-            "Necktie": {
-              "draw_vb": "c0ee97be",
-              "position_vb": "6aa2848f",
-              "blend_vb": "f83e837a",
-              "texcoord_vb": "88e81d00",
-              "ib": "b946c37f",
+            "Legs": {
+              "draw_vb": "7217e342",
+              "position_vb": "ca81bde5",
+              "blend_vb": "b4cd8580",
+              "texcoord_vb": "e317bb99",
+              "ib": "e6afd8d1",
               "textures": {
-                "Diffuse": "8c0ea559",
+                "Diffuse": "1ce58567",
                 "NormalMap": "ebac056e",
-                "LightMap": "dcb8ba2e",
-                "MaterialMap": "57130f7c"
+                "LightMap": "7d562f53",
+                "MaterialMap": "34bdb036"
               }
             }
           },
@@ -7679,16 +7623,14 @@
             "wiseskies"
           ],
           "components": {
-            "Hair": {
-              "draw_vb": "ef9c0510",
-              "position_vb": "e8df7ff3",
-              "blend_vb": "68e4f572",
-              "texcoord_vb": "774071dd",
-              "ib": "d5ca0411",
+            "Face": {
+              "draw_vb": "6c4552bb",
+              "position_vb": "5657c1fc",
+              "blend_vb": "015fbf96",
+              "texcoord_vb": "2b320847",
+              "ib": "1fdaf388",
               "textures": {
-                "Diffuse": "28005a5b",
-                "NormalMap": "ebac056e",
-                "LightMap": "8d8269f8",
+                "Diffuse": "5d75fddc",
                 "MaterialMap": "f1b20f3d"
               }
             },
@@ -7718,6 +7660,30 @@
                 "MaterialMap": "4d7473b1"
               }
             },
+            "HairShadow": {
+              "draw_vb": "681651f9",
+              "position_vb": "4af493e5",
+              "blend_vb": "795e9a7c",
+              "texcoord_vb": "ad7d7eca",
+              "ib": "8d08b190",
+              "textures": {
+                "Diffuse": "28005a5b",
+                "LightMap": "8d8269f8"
+              }
+            },
+            "Hair": {
+              "draw_vb": "ef9c0510",
+              "position_vb": "e8df7ff3",
+              "blend_vb": "68e4f572",
+              "texcoord_vb": "774071dd",
+              "ib": "d5ca0411",
+              "textures": {
+                "Diffuse": "28005a5b",
+                "NormalMap": "ebac056e",
+                "LightMap": "8d8269f8",
+                "MaterialMap": "f1b20f3d"
+              }
+            },
             "Necktie": {
               "draw_vb": "86f21a82",
               "position_vb": "fb0a401a",
@@ -7729,13 +7695,6 @@
                 "NormalMap": "ebac056e",
                 "LightMap": "e550cd81",
                 "MaterialMap": "6649f407"
-              }
-            },
-            "Face": {
-              "blend_vb": "015fbf96",
-              "ib": "1fdaf388",
-              "textures": {
-                "Diffuse": "5d75fddc"
               }
             }
           },
@@ -7778,10 +7737,25 @@
               }
             },
             "Face": {
+              "draw_vb": "6c4552bb",
+              "position_vb": "5657c1fc",
               "blend_vb": "015fbf96",
+              "texcoord_vb": "2b320847",
               "ib": "1fdaf388",
               "textures": {
-                "Diffuse": "5d75fddc"
+                "Diffuse": "5d75fddc",
+                "MaterialMap": "c2c8606e"
+              }
+            },
+            "HairShadow": {
+              "draw_vb": "681651f9",
+              "position_vb": "4af493e5",
+              "blend_vb": "795e9a7c",
+              "texcoord_vb": "ad7d7eca",
+              "ib": "8d08b190",
+              "textures": {
+                "Diffuse": "d476035d",
+                "LightMap": "0fa8f99c"
               }
             }
           },
@@ -7808,7 +7782,7 @@
                 "MaterialMap": "f1b20f3d"
               }
             },
-            "Hair Shadow": {
+            "HairShadow": {
               "draw_vb": "681651f9",
               "position_vb": "4af493e5",
               "blend_vb": "795e9a7c",
@@ -7872,17 +7846,17 @@
             "wisecrane"
           ],
           "components": {
-            "Hair": {
-              "draw_vb": "ef9c0510",
-              "position_vb": "e8df7ff3",
-              "blend_vb": "68e4f572",
-              "texcoord_vb": "774071dd",
-              "ib": "d5ca0411",
+            "Neck": {
+              "draw_vb": "276e1373",
+              "position_vb": "d8ad824b",
+              "blend_vb": "e0b1e734",
+              "texcoord_vb": "39a1dfe3",
+              "ib": "01c42a1d",
               "textures": {
-                "Diffuse": "28005a5b",
+                "Diffuse": "669191ec",
                 "NormalMap": "ebac056e",
-                "LightMap": "8d8269f8",
-                "MaterialMap": "f1b20f3d"
+                "LightMap": "05b25d35",
+                "MaterialMap": "24af1f48"
               }
             },
             "Body": {
@@ -7898,17 +7872,40 @@
                 "MaterialMap": "24af1f48"
               }
             },
-            "Neck": {
-              "draw_vb": "276e1373",
-              "position_vb": "d8ad824b",
-              "blend_vb": "e0b1e734",
-              "texcoord_vb": "39a1dfe3",
-              "ib": "01c42a1d",
+            "Face": {
+              "draw_vb": "6c4552bb",
+              "position_vb": "5657c1fc",
+              "blend_vb": "015fbf96",
+              "texcoord_vb": "2b320847",
+              "ib": "1fdaf388",
               "textures": {
-                "Diffuse": "669191ec",
+                "Diffuse": "5d75fddc",
+                "MaterialMap": "f1b20f3d"
+              }
+            },
+            "HairShadow": {
+              "draw_vb": "681651f9",
+              "position_vb": "4af493e5",
+              "blend_vb": "795e9a7c",
+              "texcoord_vb": "ad7d7eca",
+              "ib": "8d08b190",
+              "textures": {
+                "Diffuse": "28005a5b",
+                "LightMap": "8d8269f8",
+                "MaterialMap": "f1b20f3d"
+              }
+            },
+            "Hair": {
+              "draw_vb": "ef9c0510",
+              "position_vb": "e8df7ff3",
+              "blend_vb": "68e4f572",
+              "texcoord_vb": "774071dd",
+              "ib": "d5ca0411",
+              "textures": {
+                "Diffuse": "28005a5b",
                 "NormalMap": "ebac056e",
-                "LightMap": "05b25d35",
-                "MaterialMap": "24af1f48"
+                "LightMap": "8d8269f8",
+                "MaterialMap": "f1b20f3d"
               }
             },
             "Player": {
@@ -7922,13 +7919,6 @@
                 "NormalMap": "ebac056e",
                 "LightMap": "08b27f4a",
                 "MaterialMap": "a15aa6b3"
-              }
-            },
-            "Face": {
-              "blend_vb": "015fbf96",
-              "ib": "1fdaf388",
-              "textures": {
-                "Diffuse": "5d75fddc"
               }
             }
           },
