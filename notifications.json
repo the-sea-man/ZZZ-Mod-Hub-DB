@@ -1,5 +1,15 @@
 [
   {
+  "id": "2.1.1-release",
+  "date": "2026-10-14T12:00:00Z",
+  "title": "Fairy's Secret Folder 2.1.1 is out",
+  "message": "A small fix-up: your own Mods folders sit next to the library again, failed downloads stay in sight with a retry button, and Discover and Quick Snapper behave better.",
+  "title_pt_BR": "Fairy's Secret Folder 2.1.1 chegou",
+  "message_pt_BR": "Um pequeno ajuste: suas próprias pastas de Mods voltam a ficar do lado da biblioteca, downloads com falha ficam à vista com um botão pra tentar de novo, e o Descobrir e a Captura Rápida funcionam melhor.",
+  "title_zh": "Fairy's Secret Folder 2.1.1 已发布",
+  "message_zh": "一次小修正：你自己的 Mods 文件夹重新显示在库旁边，下载失败会一直显示并可重试，“发现”和快速截图也更好用了。"
+  },
+  {
   "id": "2.1.0-release",
   "date": "2026-10-14T12:00:00Z",
   "title": "Fairy's Secret Folder 2.1 is out",
