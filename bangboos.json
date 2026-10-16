@@ -19,7 +19,32 @@
     ],
     "faction": "Cunning Hares",
     "image_url": "images/Amillion Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "875df346",
+            "position_vb": "7d72c361",
+            "blend_vb": "982aa97d",
+            "texcoord_vb": "5a3a4a21",
+            "ib": "11397a81",
+            "textures": {
+              "Diffuse": "cb3ee45a",
+              "NormalMap": "662cf7ad",
+              "LightMap": "20177657",
+              "MaterialMap": "be0854a3"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "sharkboo",
@@ -30,7 +55,32 @@
     ],
     "faction": "Victoria Housekeeping Co.",
     "image_url": "images/Sharkboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "0c42bee7",
+            "position_vb": "3096414e",
+            "blend_vb": "bc47c658",
+            "texcoord_vb": "9cc1b9bf",
+            "ib": "f502a761",
+            "textures": {
+              "Diffuse": "56424e5a",
+              "NormalMap": "040af99e",
+              "LightMap": "6d3c303c",
+              "MaterialMap": "80167ad4"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "butler",
@@ -41,7 +91,39 @@
     ],
     "faction": "Victoria Housekeeping Co.",
     "image_url": "images/Butler Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "b6d818c8",
+            "position_vb": "39239aba",
+            "blend_vb": "42a9733b",
+            "texcoord_vb": "2105499d",
+            "ib": "9c5af465",
+            "textures": {
+              "Diffuse": "8ddb31ec",
+              "NormalMap": "21740310",
+              "LightMap": "fd75ba49",
+              "MaterialMap": "e1424bff"
+            }
+          },
+          "Eye": {
+            "draw_vb": "5df3bcd7",
+            "position_vb": "1993bc80",
+            "blend_vb": "cf23a922",
+            "texcoord_vb": "aaa50e1c",
+            "ib": "ff08213d"
+          }
+        }
+      }
+    ]
   },
   {
     "id": "rocketboo",
@@ -52,7 +134,32 @@
     ],
     "faction": "Belobog Heavy Industries",
     "image_url": "images/Rocketboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "038d996c",
+            "position_vb": "97935da9",
+            "blend_vb": "c69b221b",
+            "texcoord_vb": "cf14d255",
+            "ib": "1af87afb",
+            "textures": {
+              "Diffuse": "451d6e10",
+              "NormalMap": "1f3948e7",
+              "LightMap": "a5369ddd",
+              "MaterialMap": "f223c308"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "safety",
@@ -63,7 +170,32 @@
     ],
     "faction": "Belobog Heavy Industries",
     "image_url": "images/Safety Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "2ea7c52f",
+            "position_vb": "51ca1e7a",
+            "blend_vb": "9379d372",
+            "texcoord_vb": "243e35f6",
+            "ib": "3a482f37",
+            "textures": {
+              "Diffuse": "c1c52286",
+              "NormalMap": "cde9a162",
+              "LightMap": "317f050d",
+              "MaterialMap": "956cae28"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "plugaboo",
@@ -74,7 +206,32 @@
     ],
     "faction": "Electric",
     "image_url": "images/Plugboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "f9568bf7",
+            "position_vb": "c8ef0fc6",
+            "blend_vb": "a071cec1",
+            "texcoord_vb": "9a7655a1",
+            "ib": "d02f7502",
+            "textures": {
+              "Diffuse": "0cb231e7",
+              "NormalMap": "579e88a0",
+              "LightMap": "93ffa741",
+              "MaterialMap": "b792ab93"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "resonaboo",
@@ -85,7 +242,32 @@
     ],
     "faction": "Ether",
     "image_url": "images/Resonaboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "50397b00",
+            "position_vb": "d6451189",
+            "blend_vb": "b3e86675",
+            "texcoord_vb": "2b8fd7fc",
+            "ib": "4fb1ae75",
+            "textures": {
+              "Diffuse": "76862a21",
+              "NormalMap": "8e204cc5",
+              "LightMap": "0b9e3fd9",
+              "MaterialMap": "7173dc88"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "red_moccus",
@@ -118,7 +300,31 @@
     ],
     "faction": "Support",
     "image_url": "images/Avocaboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "38e7e949",
+            "position_vb": "eecde6ec",
+            "blend_vb": "638706ad",
+            "texcoord_vb": "b86a9738",
+            "ib": "5b602f3b",
+            "textures": {
+              "Diffuse": "d2c6a790",
+              "NormalMap": "2448c24e",
+              "LightMap": "7cb83df3"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "bagboo",
@@ -129,7 +335,32 @@
     ],
     "faction": "Attack",
     "image_url": "images/Bagboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "bdfd9b62",
+            "position_vb": "b56f3d72",
+            "blend_vb": "6efede02",
+            "texcoord_vb": "e9ba8f29",
+            "ib": "cff75c13",
+            "textures": {
+              "Diffuse": "43fff68e",
+              "NormalMap": "731f198b",
+              "LightMap": "37c08bb8",
+              "MaterialMap": "f9d7464e"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "devilboo",
@@ -140,7 +371,32 @@
     ],
     "faction": "Ether",
     "image_url": "images/Devilboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "d704bf57",
+            "position_vb": "63af8385",
+            "blend_vb": "a82da931",
+            "texcoord_vb": "eb1dc2e6",
+            "ib": "d773d205",
+            "textures": {
+              "Diffuse": "b09e886d",
+              "NormalMap": "c83914d6",
+              "LightMap": "e7b6e5c3",
+              "MaterialMap": "6d254469"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "exploreboo",
@@ -151,7 +407,31 @@
     ],
     "faction": "Anomaly",
     "image_url": "images/Exploreboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "07ffc7ab",
+            "position_vb": "af68a684",
+            "blend_vb": "4a385887",
+            "texcoord_vb": "97ac45b5",
+            "ib": "4c6a5a3b",
+            "textures": {
+              "Diffuse": "8f5753ec",
+              "NormalMap": "b86b4023",
+              "LightMap": "203aa3fc"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "paperboo",
@@ -162,7 +442,32 @@
     ],
     "faction": "Defense",
     "image_url": "images/Paperboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "6381afa6",
+            "position_vb": "999cc7bc",
+            "blend_vb": "00e32b9f",
+            "texcoord_vb": "3aa34690",
+            "ib": "d34b3aa1",
+            "textures": {
+              "Diffuse": "44e436be",
+              "NormalMap": "82c8192a",
+              "LightMap": "67b79920",
+              "MaterialMap": "74ab97ff"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "penguinboo",
@@ -173,7 +478,32 @@
     ],
     "faction": "Ice",
     "image_url": "images/Penguinboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "c691f816",
+            "position_vb": "2b87b4ec",
+            "blend_vb": "7f60ce15",
+            "texcoord_vb": "c0b3653b",
+            "ib": "f2b46cc9",
+            "textures": {
+              "Diffuse": "2e835881",
+              "NormalMap": "a3fa3b05",
+              "LightMap": "cd5f1276",
+              "MaterialMap": "29a4da1a"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "sumoboo",
@@ -184,7 +514,31 @@
     ],
     "faction": "Stun",
     "image_url": "images/Sumoboo Portrait.png",
-    "release_date": "2024-07-04"
+    "release_date": "2024-07-04",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "d0efedea",
+            "position_vb": "d0f36252",
+            "blend_vb": "dfc6cb14",
+            "texcoord_vb": "86c65451",
+            "ib": "4ca2105a",
+            "textures": {
+              "Diffuse": "6070b7e3",
+              "NormalMap": "7f873230",
+              "LightMap": "94eb3315"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": "luckyboo",
@@ -195,6 +549,440 @@
     ],
     "faction": "Event",
     "image_url": "images/Luckyboo Portrait.png",
-    "release_date": "2024-07-11"
+    "release_date": "2024-07-11",
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "bbab787c",
+            "position_vb": "ab4158b4",
+            "blend_vb": "cd299899",
+            "texcoord_vb": "7b5c15c7",
+            "ib": "42b62e3b",
+            "textures": {
+              "Diffuse": "65f709bb",
+              "NormalMap": "674961dc",
+              "LightMap": "bc33143b",
+              "MaterialMap": "0da70f5b"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ariel",
+    "name": "Ariel",
+    "aliases": [
+      "ariel",
+      "Ariel Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Accessory": {
+            "draw_vb": "1eeb3d05",
+            "position_vb": "9b92005d",
+            "blend_vb": "584b504b",
+            "texcoord_vb": "795e7968",
+            "ib": "c56450f8"
+          },
+          "Body": {
+            "draw_vb": "3ba1b830",
+            "position_vb": "d66b1cf0",
+            "blend_vb": "fc3b1b76",
+            "texcoord_vb": "df023aa2",
+            "ib": "70056bfa",
+            "textures": {
+              "Diffuse": "8a33e58e",
+              "NormalMap": "5cf3709c",
+              "LightMap": "907a6d26",
+              "MaterialMap": "25ef7a9e"
+            }
+          },
+          "Eye": {
+            "draw_vb": "0302d6a6",
+            "position_vb": "dedc400b",
+            "blend_vb": "07eae96c",
+            "texcoord_vb": "d42684ff",
+            "ib": "76dfaf9f"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "baddieboo",
+    "name": "BaddieBoo",
+    "aliases": [
+      "baddieboo",
+      "BaddieBoo Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "527dda57",
+            "position_vb": "bfbaed43",
+            "blend_vb": "2b50f943",
+            "texcoord_vb": "14618ae9",
+            "ib": "6d090a10",
+            "textures": {
+              "Diffuse": "d214540d",
+              "NormalMap": "91154881",
+              "LightMap": "016f2055",
+              "MaterialMap": "13255f3f"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "bangvolver",
+    "name": "Bangvolver",
+    "aliases": [
+      "bangvolver",
+      "Bangvolver Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "73397291",
+            "position_vb": "60c3c800",
+            "blend_vb": "c7243e47",
+            "texcoord_vb": "b8edc1dd",
+            "ib": "4fc10edc",
+            "textures": {
+              "Diffuse": "361d6b3b",
+              "NormalMap": "ab09cd41",
+              "LightMap": "ca8b2b0c",
+              "MaterialMap": "1e2111aa"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "boollseye",
+    "name": "Boollseye",
+    "aliases": [
+      "boollseye",
+      "Boollseye Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "1a753b23",
+            "position_vb": "fff64bf4",
+            "blend_vb": "0162908f",
+            "texcoord_vb": "5215313d",
+            "ib": "cf979e17",
+            "textures": {
+              "Diffuse": "32c5b466",
+              "NormalMap": "9bf9a736",
+              "LightMap": "eb8b317a",
+              "MaterialMap": "f5bbc931"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "booressure",
+    "name": "Booressure",
+    "aliases": [
+      "booressure",
+      "Booressure Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "6054deaf",
+            "position_vb": "a878c25a",
+            "blend_vb": "4b6ade30",
+            "texcoord_vb": "053a4bb9",
+            "ib": "6341a662",
+            "textures": {
+              "Diffuse": "895deb84",
+              "NormalMap": "2b03b85a",
+              "LightMap": "f1e84925",
+              "MaterialMap": "d54d2160"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "cryboo",
+    "name": "Cryboo",
+    "aliases": [
+      "cryboo",
+      "Cryboo Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "e496ece2",
+            "position_vb": "8084c930",
+            "blend_vb": "e7aa7286",
+            "texcoord_vb": "61b95c38",
+            "ib": "e694548a",
+            "textures": {
+              "Diffuse": "72cfa619",
+              "NormalMap": "97a649f2",
+              "LightMap": "d7efc9e4",
+              "MaterialMap": "1e4afa03"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "electroboo",
+    "name": "Electroboo",
+    "aliases": [
+      "electroboo",
+      "Electroboo Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Antenna": {
+            "draw_vb": "9c68597a",
+            "position_vb": "061fa22f",
+            "blend_vb": "d4ded674",
+            "texcoord_vb": "785cd687",
+            "ib": "2df24e11",
+            "textures": {
+              "Diffuse": "768ff56e",
+              "NormalMap": "3febdef1",
+              "LightMap": "f9450272",
+              "MaterialMap": "fc037429"
+            }
+          },
+          "Body": {
+            "draw_vb": "4c6e2aa5",
+            "position_vb": "66a2bfad",
+            "blend_vb": "a104c5d7",
+            "texcoord_vb": "9abbc4d8",
+            "ib": "2e52372e",
+            "textures": {
+              "Diffuse": "768ff56e",
+              "NormalMap": "3febdef1",
+              "LightMap": "f9450272",
+              "MaterialMap": "fc037429"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "hiabangboo",
+    "name": "HIABangboo",
+    "aliases": [
+      "hiabangboo",
+      "HIABangboo Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "b825c12a",
+            "position_vb": "e7794ef4",
+            "blend_vb": "2fd5b776",
+            "texcoord_vb": "283b4dce",
+            "ib": "b2663f29",
+            "textures": {
+              "Diffuse": "9b63e178",
+              "NormalMap": "41f04007",
+              "LightMap": "1bf83fad",
+              "MaterialMap": "2a16e29b"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "magnetiboo",
+    "name": "Magnetiboo",
+    "aliases": [
+      "magnetiboo",
+      "Magnetiboo Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "a08c8a27",
+            "position_vb": "647b3510",
+            "blend_vb": "6575a46d",
+            "texcoord_vb": "7cc093d9",
+            "ib": "c74bb988",
+            "textures": {
+              "Diffuse": "387f6fb4",
+              "NormalMap": "07d4be07",
+              "LightMap": "da9243ef",
+              "MaterialMap": "b10d2e2b"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "securityboo",
+    "name": "Securityboo",
+    "aliases": [
+      "securityboo",
+      "Securityboo Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Body": {
+            "draw_vb": "d57bcad1",
+            "position_vb": "59dedb3a",
+            "blend_vb": "a66ddfbe",
+            "texcoord_vb": "4523720b",
+            "ib": "141ca915",
+            "textures": {
+              "Diffuse": "92118e0c",
+              "NormalMap": "b9a342fa",
+              "LightMap": "a83deaed",
+              "MaterialMap": "ec3bef00"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "sprout",
+    "name": "Sprout",
+    "aliases": [
+      "sprout",
+      "Sprout Bangboo"
+    ],
+    "base_skin_id": "default",
+    "skins": [
+      {
+        "id": "default",
+        "name": "Default",
+        "aliases": [
+          "default"
+        ],
+        "components": {
+          "Accessory": {
+            "draw_vb": "f3664d5f",
+            "position_vb": "d186e634",
+            "blend_vb": "8288273e",
+            "texcoord_vb": "4519b19b",
+            "ib": "7aa4f172",
+            "textures": {
+              "Diffuse": "e85e5a9f",
+              "NormalMap": "1a2a3eae",
+              "LightMap": "e00e7138"
+            }
+          },
+          "Body": {
+            "draw_vb": "32387ca5",
+            "position_vb": "d689211f",
+            "blend_vb": "6c4f794a",
+            "texcoord_vb": "536a684c",
+            "ib": "0a41fe53",
+            "textures": {
+              "Diffuse": "733e646e",
+              "NormalMap": "858d48f3",
+              "LightMap": "1948fa11",
+              "MaterialMap": "87bea7b6"
+            }
+          },
+          "Eye": {
+            "draw_vb": "34240426",
+            "position_vb": "42f7499b",
+            "blend_vb": "92d77503",
+            "texcoord_vb": "af5a090d",
+            "ib": "8dfe5937"
+          }
+        }
+      }
+    ]
   }
 ]
