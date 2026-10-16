@@ -1,5 +1,15 @@
 [
   {
+    "id": "2.1.2-release",
+    "date": "2026-10-15T12:00:00Z",
+    "title": "Fairy's Secret Folder 2.1.2 is out",
+    "message": "Bangboos join the library, multi-mod archives can be installed as separate mods, Discover marks installed mods, and Wise and Belle summer outfits are fixed.",
+    "title_pt_BR": "Fairy's Secret Folder 2.1.2 chegou",
+    "message_pt_BR": "Os Bangboos chegam à biblioteca, arquivos com múltiplos mods podem ser instalados separadamente, o Descobrir marca mods já instalados e os trajes de verão de Wise e Belle foram corrigidos.",
+    "title_zh": "Fairy's Secret Folder 2.1.2 已发布",
+    "message_zh": "邦布专属库分类上线，支持将多模组压缩包拆分安装，“发现”页新增已安装标记，并修复了 Wise 与 Belle 的夏日服装拉伸问题。"
+  },
+  {
   "id": "2.1.1-release",
   "date": "2026-10-14T12:00:00Z",
   "title": "Fairy's Secret Folder 2.1.1 is out",
