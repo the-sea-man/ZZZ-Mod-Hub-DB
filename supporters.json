@@ -1,3 +1,8 @@
 {
-  "supporters": []
+  "supporters": [
+    {
+      "name": "Victor",
+      "tier": "rookie"
+    }
+  ]
 }
