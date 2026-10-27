@@ -8618,6 +8618,229 @@
           "last_verified_version": "zzmi_assets_import",
           "image_url": "images/Agent Phoenix Reffaella Portrait.png",
           "icon_url": "images/Outfit Undying Blessing Icon.png"
+        },
+        {
+          "id": "daydream_complex",
+          "name": "Daydream Complex",
+          "aliases": [],
+          "components": {
+            "Weapon": {
+              "draw_vb": "8bf0357a",
+              "position_vb": "e211cd2e",
+              "blend_vb": "05d7f849",
+              "texcoord_vb": "467f7bd4",
+              "ib": "0bcb1cb4",
+              "textures": {
+                "Diffuse": "8fa734cb",
+                "NormalMap": "ebac056e",
+                "LightMap": "f19ad816",
+                "MaterialMap": "0f4f608f"
+              }
+            },
+            "Charm": {
+              "draw_vb": "6f4c7514",
+              "position_vb": "a62cf7aa",
+              "blend_vb": "b1748278",
+              "texcoord_vb": "ba28e264",
+              "ib": "0e8484c2",
+              "textures": {
+                "Diffuse": "482bd07a",
+                "LightMap": "0645411f",
+                "MaterialMap": "ab3560a0"
+              }
+            },
+            "BangShadow": {
+              "draw_vb": "ae826f3b",
+              "position_vb": "8e0fef21",
+              "blend_vb": "0c3af952",
+              "texcoord_vb": "6819ce1f",
+              "ib": "35f435d6",
+              "textures": {
+                "Diffuse": "f44f89de",
+                "LightMap": "dd2a6e00",
+                "MaterialMap": "ab3560a0"
+              }
+            },
+            "Body": {
+              "draw_vb": "c128a12b",
+              "position_vb": "a685de5f",
+              "blend_vb": "b011756a",
+              "texcoord_vb": "2047c603",
+              "ib": "a78033b2",
+              "textures": {
+                "Diffuse": "8fa734cb",
+                "NormalMap": "ebac056e",
+                "LightMap": "f19ad816",
+                "MaterialMap": "0f4f608f"
+              }
+            },
+            "Hair": {
+              "draw_vb": "672c5dc6",
+              "position_vb": "3632149d",
+              "blend_vb": "efc69729",
+              "texcoord_vb": "e982ac3d",
+              "ib": "ad90e710",
+              "textures": {
+                "Diffuse": "f44f89de",
+                "NormalMap": "ebac056e",
+                "LightMap": "dd2a6e00",
+                "MaterialMap": "ab3560a0"
+              }
+            },
+            "Face": {
+              "draw_vb": "d134a629",
+              "position_vb": "eb26356e",
+              "blend_vb": "b9429bd4",
+              "texcoord_vb": "5e60d462",
+              "ib": "d58b6350",
+              "textures": {
+                "Diffuse": "f15548c2",
+                "NormalMap": "ebac056e",
+                "LightMap": "dd2a6e00",
+                "MaterialMap": "ab3560a0"
+              }
+            },
+            "Eyebrows": {
+              "draw_vb": "ca9f101d",
+              "position_vb": "f08d835a",
+              "blend_vb": "79c94799",
+              "texcoord_vb": "f92a4f69",
+              "ib": "dbbf0aee",
+              "textures": {
+                "Diffuse": "f15548c2",
+                "LightMap": "dd2a6e00",
+                "MaterialMap": "ab3560a0"
+              }
+            },
+            "Accessories": {
+              "draw_vb": "db462a2f",
+              "position_vb": "e38f480e",
+              "blend_vb": "527c0b23",
+              "texcoord_vb": "704504ea",
+              "ib": "f16189da",
+              "textures": {
+                "Diffuse": "048d2a12",
+                "NormalMap": "ebac056e",
+                "LightMap": "f50f67d0",
+                "MaterialMap": "2b2b0797"
+              }
+            }
+          },
+          "last_verified_version": "zzmi_assets_import",
+          "image_url": "images/Agent Phoenix Reffaella Daydream Complex Portrait.png",
+          "icon_url": "images/Outfit Daydream Complex Icon.png"
+        },
+        {
+          "id": "the_illness_called_life",
+          "name": "The Illness Called Life",
+          "aliases": [],
+          "components": {
+            "Weapon": {
+              "draw_vb": "8bf0357a",
+              "position_vb": "e211cd2e",
+              "blend_vb": "05d7f849",
+              "texcoord_vb": "467f7bd4",
+              "ib": "0bcb1cb4",
+              "textures": {
+                "Diffuse": "8fa734cb",
+                "NormalMap": "ebac056e",
+                "LightMap": "f19ad816",
+                "MaterialMap": "0f4f608f"
+              }
+            },
+            "Charm": {
+              "draw_vb": "6f4c7514",
+              "position_vb": "a62cf7aa",
+              "blend_vb": "b1748278",
+              "texcoord_vb": "ba28e264",
+              "ib": "0e8484c2",
+              "textures": {
+                "Diffuse": "482bd07a",
+                "NormalMap": "ebac056e",
+                "LightMap": "0645411f",
+                "MaterialMap": "1ac02006"
+              }
+            },
+            "BangShadow": {
+              "draw_vb": "ae826f3b",
+              "position_vb": "8e0fef21",
+              "blend_vb": "0c3af952",
+              "texcoord_vb": "6819ce1f",
+              "ib": "35f435d6",
+              "textures": {
+                "Diffuse": "f44f89de",
+                "LightMap": "dd2a6e00",
+                "MaterialMap": "ab3560a0"
+              }
+            },
+            "Body": {
+              "draw_vb": "c128a12b",
+              "position_vb": "a685de5f",
+              "blend_vb": "b011756a",
+              "texcoord_vb": "2047c603",
+              "ib": "a78033b2",
+              "textures": {
+                "Diffuse": "8fa734cb",
+                "NormalMap": "ebac056e",
+                "LightMap": "f19ad816",
+                "MaterialMap": "0f4f608f"
+              }
+            },
+            "Hair": {
+              "draw_vb": "672c5dc6",
+              "position_vb": "3632149d",
+              "blend_vb": "efc69729",
+              "texcoord_vb": "e982ac3d",
+              "ib": "ad90e710",
+              "textures": {
+                "Diffuse": "f44f89de",
+                "NormalMap": "ebac056e",
+                "LightMap": "dd2a6e00",
+                "MaterialMap": "ab3560a0"
+              }
+            },
+            "Face": {
+              "draw_vb": "d134a629",
+              "position_vb": "eb26356e",
+              "blend_vb": "b9429bd4",
+              "texcoord_vb": "5e60d462",
+              "ib": "d58b6350",
+              "textures": {
+                "Diffuse": "f15548c2",
+                "NormalMap": "ebac056e",
+                "LightMap": "dd2a6e00",
+                "MaterialMap": "ab3560a0"
+              }
+            },
+            "Eyebrows": {
+              "draw_vb": "ca9f101d",
+              "position_vb": "f08d835a",
+              "blend_vb": "79c94799",
+              "texcoord_vb": "f92a4f69",
+              "ib": "dbbf0aee",
+              "textures": {
+                "Diffuse": "f15548c2",
+                "LightMap": "dd2a6e00",
+                "MaterialMap": "ab3560a0"
+              }
+            },
+            "Accessories": {
+              "draw_vb": "db462a2f",
+              "position_vb": "e38f480e",
+              "blend_vb": "527c0b23",
+              "texcoord_vb": "704504ea",
+              "ib": "f16189da",
+              "textures": {
+                "Diffuse": "048d2a12",
+                "NormalMap": "ebac056e",
+                "LightMap": "f50f67d0",
+                "MaterialMap": "2b2b0797"
+              }
+            }
+          },
+          "last_verified_version": "zzmi_assets_import",
+          "image_url": "images/Agent Phoenix Reffaella The Illness Called Life Portrait.png",
+          "icon_url": "images/Outfit The Illness Called Life Icon.png"
         }
       ],
       "game_id": 1641
