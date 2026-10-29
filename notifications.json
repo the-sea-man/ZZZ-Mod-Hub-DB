@@ -1,5 +1,15 @@
 [
   {
+    "id": "2.1.4-release",
+    "date": "2026-10-29T12:00:00Z",
+    "title": "Fairy's Secret Folder 2.1.4 is out",
+    "message": "The app can now find the mod that breaks your game, warns you after a ZZZ update with the fixer ready, and the Fairy tells you when a new redemption code is out.",
+    "title_pt_BR": "Fairy's Secret Folder 2.1.4 chegou",
+    "message_pt_BR": "O app agora encontra o mod que quebra o seu jogo, avisa depois de uma atualização do ZZZ com o corretor pronto, e a Fada conta quando sai um código de resgate novo.",
+    "title_zh": "Fairy's Secret Folder 2.1.4 已发布",
+    "message_zh": "应用现在能找出弄坏游戏的 Mod，绝区零更新后会提醒你并备好修复工具，有新兑换码时妖精也会告诉你。"
+  },
+  {
     "id": "2.1.3-release",
     "date": "2026-10-21T12:00:00Z",
     "title": "Fairy's Secret Folder 2.1.3 is out",
