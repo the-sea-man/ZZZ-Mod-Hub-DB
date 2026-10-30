@@ -2,10 +2,7 @@
   {
     "id": "fairy",
     "name": "Fairy",
-    "aliases": [
-      "fairy",
-      "Fairy NPC"
-    ],
+    "aliases": ["fairy", "Fairy NPC"],
     "faction": "Phaethon",
     "image_url": "images/NPC Fairy.png",
     "release_date": "2024-07-04"
@@ -13,10 +10,7 @@
   {
     "id": "rain",
     "name": "Rain",
-    "aliases": [
-      "rain",
-      "Rain NPC"
-    ],
+    "aliases": ["rain", "Rain NPC"],
     "faction": "Sixth Street",
     "image_url": "images/NPC Rain.png",
     "release_date": "2024-07-04"
@@ -24,10 +18,7 @@
   {
     "id": "shepherd",
     "name": "Shepherd",
-    "aliases": [
-      "shepherd",
-      "Shepherd NPC"
-    ],
+    "aliases": ["shepherd", "Shepherd NPC"],
     "faction": "Hollow Investigator",
     "image_url": "images/NPC Shepherd.png",
     "release_date": "2024-07-04"
@@ -35,10 +26,7 @@
   {
     "id": "venus",
     "name": "Venus",
-    "aliases": [
-      "venus",
-      "Venus NPC"
-    ],
+    "aliases": ["venus", "Venus NPC"],
     "faction": "Promenade",
     "image_url": "images/NPC Venus.png",
     "release_date": "2024-07-04"
@@ -46,10 +34,7 @@
   {
     "id": "asha",
     "name": "Asha",
-    "aliases": [
-      "asha",
-      "Asha Arcade"
-    ],
+    "aliases": ["asha", "Asha Arcade"],
     "faction": "Godfinger",
     "image_url": "images/NPC Asha.png",
     "release_date": "2024-07-04"
@@ -57,10 +42,7 @@
   {
     "id": "elfy",
     "name": "Elfy",
-    "aliases": [
-      "elfy",
-      "Elfy Music"
-    ],
+    "aliases": ["elfy", "Elfy Music"],
     "faction": "Bardic Needle",
     "image_url": "images/NPC Elfy.png",
     "release_date": "2024-07-04"
@@ -68,10 +50,7 @@
   {
     "id": "tin_master",
     "name": "Tin Master",
-    "aliases": [
-      "tin_master",
-      "Tin Master Coffee"
-    ],
+    "aliases": ["tin_master", "Tin Master Coffee"],
     "faction": "Coff Cafe",
     "image_url": "images/NPC Tin Master.png",
     "release_date": "2024-07-04"
@@ -79,9 +58,7 @@
   {
     "id": "sjal",
     "name": "Sjal",
-    "aliases": [
-      "sjal"
-    ],
+    "aliases": ["sjal"],
     "faction": "Waterfall Soup",
     "image_url": "images/NPC Sjal.png",
     "release_date": "2024-07-04"
@@ -89,10 +66,7 @@
   {
     "id": "general_chop",
     "name": "General Chop",
-    "aliases": [
-      "general_chop",
-      "General Chop Ramen"
-    ],
+    "aliases": ["general_chop", "General Chop Ramen"],
     "faction": "Waterfall Soup",
     "image_url": "images/NPC General Chop.png",
     "release_date": "2024-07-04"
@@ -100,10 +74,7 @@
   {
     "id": "enzo",
     "name": "Enzo",
-    "aliases": [
-      "enzo",
-      "Enzo Workshop"
-    ],
+    "aliases": ["enzo", "Enzo Workshop"],
     "faction": "Turbo Remaster",
     "image_url": "images/NPC Enzo.png",
     "release_date": "2024-07-04"
@@ -111,9 +82,7 @@
   {
     "id": "susannah",
     "name": "Susannah",
-    "aliases": [
-      "susannah"
-    ],
+    "aliases": ["susannah"],
     "faction": "Newsstand",
     "image_url": "",
     "release_date": "2024-07-04"
@@ -121,10 +90,7 @@
   {
     "id": "howl",
     "name": "Howl",
-    "aliases": [
-      "howl",
-      "Howl Dog"
-    ],
+    "aliases": ["howl", "Howl Dog"],
     "faction": "Newsstand",
     "image_url": "images/NPC Howl.png",
     "release_date": "2024-07-04"
@@ -132,10 +98,7 @@
   {
     "id": "officer_mewmew",
     "name": "Officer Mewmew",
-    "aliases": [
-      "officer_mewmew",
-      "Mewmew"
-    ],
+    "aliases": ["officer_mewmew", "Mewmew"],
     "faction": "Public Security",
     "image_url": "images/NPC Officer Mewmew.png",
     "release_date": "2024-07-04"
@@ -143,10 +106,7 @@
   {
     "id": "gingerbread",
     "name": "Gingerbread",
-    "aliases": [
-      "gingerbread",
-      "Gingerbread NPC"
-    ],
+    "aliases": ["gingerbread", "Gingerbread NPC"],
     "faction": "Lumina Square",
     "image_url": "images/NPC Gingerbread.png",
     "release_date": "2026-04-10"
@@ -154,10 +114,7 @@
   {
     "id": "potato",
     "name": "Potato",
-    "aliases": [
-      "potato",
-      "Potato NPC"
-    ],
+    "aliases": ["potato", "Potato NPC"],
     "faction": "Lumina Square",
     "image_url": "images/NPC Potato.png",
     "release_date": "2026-04-10"

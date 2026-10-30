@@ -12,8 +12,9 @@
 !/images/
 !/images/**
 
-# 4. Whitelist Git configuration
+# 4. Whitelist Git configuration and public README
 !/.gitignore
+!/README.md
 
 # 5. Exclude internal reports, temporary files, and scratch artifacts
 /character_health_report.json

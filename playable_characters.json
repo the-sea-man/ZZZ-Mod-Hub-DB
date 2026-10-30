@@ -33,10 +33,7 @@
         {
           "id": "head_maid_s_perfection",
           "name": "Head Maid's Perfection",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "8ca7dc4b",
@@ -97,22 +94,13 @@
       "image_url": "images/Agent Alice Thymefield Portrait.png",
       "icon_url": "images/Agent Alice Thymefield Icon.png",
       "mindscape_url": "images/Mindscape Alice Thymefield Full.png",
-      "aliases": [
-        "Alice",
-        "AliceThymefield",
-        "Thymefield",
-        "Thymefield Alice",
-        "ThymefieldAlice"
-      ],
+      "aliases": ["Alice", "AliceThymefield", "Thymefield", "Thymefield Alice", "ThymefieldAlice"],
       "base_skin_id": "celestian_etiquette",
       "skins": [
         {
           "id": "celestian_etiquette",
           "name": "Celestian Etiquette",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "d515e182",
@@ -187,11 +175,7 @@
         {
           "id": "sea_of_thyme",
           "name": "Sea of Thyme",
-          "aliases": [
-            "alicesummer",
-            "sea_of_thyme",
-            "summer"
-          ],
+          "aliases": ["alicesummer", "sea_of_thyme", "summer"],
           "components": {
             "Hair": {
               "draw_vb": "d515e182",
@@ -272,22 +256,13 @@
       "image_url": "images/Agent Anby Demara Portrait.png",
       "icon_url": "images/Agent Anby Demara Icon.png",
       "mindscape_url": "images/Mindscape Anby Demara Full.png",
-      "aliases": [
-        "Anby",
-        "AnbyDemara",
-        "Demara",
-        "Demara Anby",
-        "DemaraAnby"
-      ],
+      "aliases": ["Anby", "AnbyDemara", "Demara", "Demara Anby", "DemaraAnby"],
       "base_skin_id": "street_streak",
       "skins": [
         {
           "id": "street_streak",
           "name": "Street Streak",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "91ffb01c",
@@ -348,22 +323,13 @@
       "image_url": "images/Agent Anton Ivanov Portrait.png",
       "icon_url": "images/Agent Anton Ivanov Icon.png",
       "mindscape_url": "images/Mindscape Anton Ivanov Full.png",
-      "aliases": [
-        "Anton",
-        "AntonIvanov",
-        "Ivanov",
-        "Ivanov Anton",
-        "IvanovAnton"
-      ],
+      "aliases": ["Anton", "AntonIvanov", "Ivanov", "Ivanov Anton", "IvanovAnton"],
       "base_skin_id": "earthshaking_axle",
       "skins": [
         {
           "id": "earthshaking_axle",
           "name": "Earthshaking Axle",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "d46d8476",
@@ -437,19 +403,13 @@
       "image_url": "images/Agent Aria Portrait.png",
       "icon_url": "images/Agent Aria Icon.png",
       "mindscape_url": "images/Mindscape Aria Full.png",
-      "aliases": [
-        "Aria"
-      ],
+      "aliases": ["Aria"],
       "base_skin_id": "energetic_idol",
       "skins": [
         {
           "id": "discordant_note",
           "name": "Discordant Note",
-          "aliases": [
-            "ariadiscordant",
-            "ariarobotdiscordant",
-            "discordant"
-          ],
+          "aliases": ["ariadiscordant", "ariarobotdiscordant", "discordant"],
           "components": {
             "Hair": {
               "draw_vb": "697c6c6a",
@@ -565,10 +525,7 @@
         {
           "id": "energetic_idol",
           "name": "Energetic Idol",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "697c6c6a",
@@ -671,11 +628,7 @@
         {
           "id": "crispy_delight",
           "name": "Crispy Delight",
-          "aliases": [
-            "ariakfc",
-            "crispy",
-            "kfc"
-          ],
+          "aliases": ["ariakfc", "crispy", "kfc"],
           "components": {
             "Hair": {
               "draw_vb": "697c6c6a",
@@ -755,22 +708,13 @@
       "image_url": "images/Agent Asaba Harumasa Portrait.png",
       "icon_url": "images/Agent Asaba Harumasa Icon.png",
       "mindscape_url": "images/Mindscape Asaba Harumasa Full.png",
-      "aliases": [
-        "Asaba",
-        "AsabaHarumasa",
-        "Harumasa",
-        "Harumasa Asaba",
-        "HarumasaAsaba"
-      ],
+      "aliases": ["Asaba", "AsabaHarumasa", "Harumasa", "Harumasa Asaba", "HarumasaAsaba"],
       "base_skin_id": "full_fledged_strings",
       "skins": [
         {
           "id": "full_fledged_strings",
           "name": "Full-Fledged Strings",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "9f75c05c",
@@ -857,22 +801,13 @@
       "image_url": "images/Agent Astra Yao Portrait.png",
       "icon_url": "images/Agent Astra Yao Icon.png",
       "mindscape_url": "images/Mindscape Astra Yao Full.png",
-      "aliases": [
-        "Astra",
-        "AstraYao",
-        "Yao",
-        "Yao Astra",
-        "YaoAstra"
-      ],
+      "aliases": ["Astra", "AstraYao", "Yao", "Yao Astra", "YaoAstra"],
       "base_skin_id": "scarlet_rock",
       "skins": [
         {
           "id": "chandelier",
           "name": "Chandelier",
-          "aliases": [
-            "astrachandelier",
-            "chandelier"
-          ],
+          "aliases": ["astrachandelier", "chandelier"],
           "components": {
             "Hair": {
               "draw_vb": "d3c951b9",
@@ -914,11 +849,7 @@
         {
           "id": "scarlet_rock",
           "name": "Scarlet Rock",
-          "aliases": [
-            "base",
-            "default",
-            "scarlet_rock"
-          ],
+          "aliases": ["base", "default", "scarlet_rock"],
           "components": {
             "Torso": {
               "draw_vb": "13a07361",
@@ -992,18 +923,13 @@
       "image_url": "images/Agent Banyue Portrait.png",
       "icon_url": "images/Agent Banyue Icon.png",
       "mindscape_url": "images/Mindscape Banyue Full.png",
-      "aliases": [
-        "Banyue"
-      ],
+      "aliases": ["Banyue"],
       "base_skin_id": "blazestone_heart",
       "skins": [
         {
           "id": "blazestone_heart",
           "name": "Blazestone Heart",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "0a12bb17",
@@ -1071,22 +997,13 @@
       "image_url": "images/Agent Ben Bigger Portrait.png",
       "icon_url": "images/Agent Ben Bigger Icon.png",
       "mindscape_url": "images/Mindscape Ben Bigger Full.png",
-      "aliases": [
-        "Ben",
-        "BenBigger",
-        "Bigger",
-        "Bigger Ben",
-        "BiggerBen"
-      ],
+      "aliases": ["Ben", "BenBigger", "Bigger", "Bigger Ben", "BiggerBen"],
       "base_skin_id": "fluffy_beastking",
       "skins": [
         {
           "id": "fluffy_beastking",
           "name": "Fluffy Beastking",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Body": {
               "draw_vb": "dfd93ee5",
@@ -1137,22 +1054,13 @@
       "image_url": "images/Agent Billy Kid Portrait.png",
       "icon_url": "images/Agent Billy Kid Icon.png",
       "mindscape_url": "images/Mindscape Billy Kid Full.png",
-      "aliases": [
-        "Billy",
-        "BillyKid",
-        "Kid",
-        "Kid Billy",
-        "KidBilly"
-      ],
+      "aliases": ["Billy", "BillyKid", "Kid", "Kid Billy", "KidBilly"],
       "base_skin_id": "shining_starlight_costume",
       "skins": [
         {
           "id": "shining_starlight_costume",
           "name": "Shining Starlight Costume",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "3e4c0174",
@@ -1216,22 +1124,13 @@
       "image_url": "images/Agent Burnice White Portrait.png",
       "icon_url": "images/Agent Burnice White Icon.png",
       "mindscape_url": "images/Mindscape Burnice White Full.png",
-      "aliases": [
-        "Burnice",
-        "BurniceWhite",
-        "White",
-        "White Burnice",
-        "WhiteBurnice"
-      ],
+      "aliases": ["Burnice", "BurniceWhite", "White", "White Burnice", "WhiteBurnice"],
       "base_skin_id": "wildfire_rave",
       "skins": [
         {
           "id": "wildfire_rave",
           "name": "Wildfire Rave",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Face": {
               "ib": "b3f6fcb3",
@@ -1292,22 +1191,13 @@
       "image_url": "images/Agent Caesar King Portrait.png",
       "icon_url": "images/Agent Caesar King Icon.png",
       "mindscape_url": "images/Mindscape Caesar King Full.png",
-      "aliases": [
-        "Caesar",
-        "CaesarKing",
-        "King",
-        "King Caesar",
-        "KingCaesar"
-      ],
+      "aliases": ["Caesar", "CaesarKing", "King", "King Caesar", "KingCaesar"],
       "base_skin_id": "inferno_joyride",
       "skins": [
         {
           "id": "inferno_joyride",
           "name": "Inferno Joyride",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "bb723235",
@@ -1368,18 +1258,13 @@
       "image_url": "images/Agent Cissia Portrait.png",
       "icon_url": "images/Agent Cissia Icon.png",
       "mindscape_url": "images/Mindscape Cissia Full.png",
-      "aliases": [
-        "Cissia"
-      ],
+      "aliases": ["Cissia"],
       "base_skin_id": "snake_mouse_game",
       "skins": [
         {
           "id": "snake_mouse_game",
           "name": "Snake & Mouse Game",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "33b532e5",
@@ -1461,22 +1346,13 @@
       "image_url": "images/Agent Corin Wickes Portrait.png",
       "icon_url": "images/Agent Corin Wickes Icon.png",
       "mindscape_url": "images/Mindscape Corin Wickes Full.png",
-      "aliases": [
-        "Corin",
-        "CorinWickes",
-        "Wickes",
-        "Wickes Corin",
-        "WickesCorin"
-      ],
+      "aliases": ["Corin", "CorinWickes", "Wickes", "Wickes Corin", "WickesCorin"],
       "base_skin_id": "matcha_profiterole",
       "skins": [
         {
           "id": "matcha_profiterole",
           "name": "Matcha Profiterole",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "d345e472",
@@ -1550,18 +1426,13 @@
       "image_url": "images/Agent Dialyn Portrait.png",
       "icon_url": "images/Agent Dialyn Icon.png",
       "mindscape_url": "images/Mindscape Dialyn Full.png",
-      "aliases": [
-        "Dialyn"
-      ],
+      "aliases": ["Dialyn"],
       "base_skin_id": "ringing_judgment",
       "skins": [
         {
           "id": "ringing_judgment",
           "name": "Ringing Judgment",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "00e453e9",
@@ -1641,22 +1512,13 @@
       "image_url": "images/Agent Ellen Joe Portrait.png",
       "icon_url": "images/Agent Ellen Joe Icon.png",
       "mindscape_url": "images/Mindscape Ellen Joe Full.png",
-      "aliases": [
-        "Ellen",
-        "EllenJoe",
-        "Joe",
-        "Joe Ellen",
-        "JoeEllen"
-      ],
+      "aliases": ["Ellen", "EllenJoe", "Joe", "Joe Ellen", "JoeEllen"],
       "base_skin_id": "ellen_scissorhands",
       "skins": [
         {
           "id": "ellen_scissorhands",
           "name": "Ellen Scissorhands",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "77ac5f85",
@@ -1698,12 +1560,7 @@
         {
           "id": "on_campus",
           "name": "On Campus",
-          "aliases": [
-            "campus",
-            "ellencampus",
-            "on_campus",
-            "school_uniform"
-          ],
+          "aliases": ["campus", "ellencampus", "on_campus", "school_uniform"],
           "components": {
             "Hair": {
               "draw_vb": "a93fc9a1",
@@ -1777,22 +1634,13 @@
       "image_url": "images/Agent Evelyn Chevalier Portrait.png",
       "icon_url": "images/Agent Evelyn Chevalier Icon.png",
       "mindscape_url": "images/Mindscape Evelyn Chevalier Full.png",
-      "aliases": [
-        "Chevalier",
-        "Chevalier Evelyn",
-        "ChevalierEvelyn",
-        "Evelyn",
-        "EvelynChevalier"
-      ],
+      "aliases": ["Chevalier", "Chevalier Evelyn", "ChevalierEvelyn", "Evelyn", "EvelynChevalier"],
       "base_skin_id": "a_moth_to_light",
       "skins": [
         {
           "id": "a_moth_to_light",
           "name": "A Moth to Light",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Jacket": {
               "draw_vb": "1fb9dfe2",
@@ -1879,22 +1727,13 @@
       "image_url": "images/Agent Grace Howard Portrait.png",
       "icon_url": "images/Agent Grace Howard Icon.png",
       "mindscape_url": "images/Mindscape Grace Howard Full.png",
-      "aliases": [
-        "Grace",
-        "GraceHoward",
-        "Howard",
-        "Howard Grace",
-        "HowardGrace"
-      ],
+      "aliases": ["Grace", "GraceHoward", "Howard", "Howard Grace", "HowardGrace"],
       "base_skin_id": "the_iron_witch",
       "skins": [
         {
           "id": "the_iron_witch",
           "name": "The Iron Witch",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "9e96a54f",
@@ -1955,23 +1794,13 @@
       "image_url": "images/Agent Hoshimi Miyabi Portrait.png",
       "icon_url": "images/Agent Hoshimi Miyabi Icon.png",
       "mindscape_url": "images/Mindscape Hoshimi Miyabi Full.png",
-      "aliases": [
-        "Hoshimi",
-        "HoshimiMiyabi",
-        "Miyabi",
-        "Miyabi Hoshimi",
-        "MiyabiHoshimi"
-      ],
+      "aliases": ["Hoshimi", "HoshimiMiyabi", "Miyabi", "Miyabi Hoshimi", "MiyabiHoshimi"],
       "base_skin_id": "frostgleam_dew",
       "skins": [
         {
           "id": "dignified_blossom",
           "name": "Dignified Blossom",
-          "aliases": [
-            "blossom",
-            "dignified_blossom",
-            "miyabiblossom"
-          ],
+          "aliases": ["blossom", "dignified_blossom", "miyabiblossom"],
           "components": {
             "Hair": {
               "draw_vb": "d011ed6c",
@@ -2027,10 +1856,7 @@
         {
           "id": "frostgleam_dew",
           "name": "Frostgleam Dew",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "5a8d28f4",
@@ -2134,10 +1960,7 @@
         {
           "id": "crownless_rebellion",
           "name": "Crownless Rebellion",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "ab8eb2e6",
@@ -2224,23 +2047,13 @@
       "image_url": "images/Agent Jane Doe Portrait.png",
       "icon_url": "images/Agent Jane Doe Icon.png",
       "mindscape_url": "images/Mindscape Jane Doe Full.png",
-      "aliases": [
-        "Doe",
-        "Doe Jane",
-        "DoeJane",
-        "Jane",
-        "JaneDoe",
-        "Unknown"
-      ],
+      "aliases": ["Doe", "Doe Jane", "DoeJane", "Jane", "JaneDoe", "Unknown"],
       "base_skin_id": "hidden_nightfade",
       "skins": [
         {
           "id": "hidden_nightfade",
           "name": "Hidden Nightfade",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "74bc0b7f",
@@ -2295,12 +2108,7 @@
         {
           "id": "nocturne_of_light",
           "name": "Nocturne of Light",
-          "aliases": [
-            "hidden_nightfade",
-            "janesummer",
-            "nightfade",
-            "summer"
-          ],
+          "aliases": ["hidden_nightfade", "janesummer", "nightfade", "summer"],
           "components": {
             "Hair": {
               "draw_vb": "74bc0b7f",
@@ -2371,22 +2179,13 @@
       "image_url": "images/Agent Ju Fufu Portrait.png",
       "icon_url": "images/Agent Ju Fufu Icon.png",
       "mindscape_url": "images/Mindscape Ju Fufu Full.png",
-      "aliases": [
-        "Fufu",
-        "Fufu Ju",
-        "FufuJu",
-        "Ju",
-        "JuFufu"
-      ],
+      "aliases": ["Fufu", "Fufu Ju", "FufuJu", "Ju", "JuFufu"],
       "base_skin_id": "summit_s_cute_tiger",
       "skins": [
         {
           "id": "summit_s_cute_tiger",
           "name": "Summit's Cute Tiger",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "77d02cb1",
@@ -2460,22 +2259,13 @@
       "image_url": "images/Agent Koleda Belobog Portrait.png",
       "icon_url": "images/Agent Koleda Belobog Icon.png",
       "mindscape_url": "images/Mindscape Koleda Belobog Full.png",
-      "aliases": [
-        "Belobog",
-        "Belobog Koleda",
-        "BelobogKoleda",
-        "Koleda",
-        "KoledaBelobog"
-      ],
+      "aliases": ["Belobog", "Belobog Koleda", "BelobogKoleda", "Koleda", "KoledaBelobog"],
       "base_skin_id": "heart_hammer",
       "skins": [
         {
           "id": "heart_hammer",
           "name": "Heart & Hammer",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "366e92ac",
@@ -2536,22 +2326,13 @@
       "image_url": "images/Agent Komano Manato Portrait.png",
       "icon_url": "images/Agent Komano Manato Icon.png",
       "mindscape_url": "images/Mindscape Komano Manato Full.png",
-      "aliases": [
-        "Komano",
-        "KomanoManato",
-        "Manato",
-        "Manato Komano",
-        "ManatoKomano"
-      ],
+      "aliases": ["Komano", "KomanoManato", "Manato", "Manato Komano", "ManatoKomano"],
       "base_skin_id": "loyal_wild_soul",
       "skins": [
         {
           "id": "loyal_wild_soul",
           "name": "Loyal Wild Soul",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "0932100e",
@@ -2619,10 +2400,7 @@
         {
           "id": "white_heart_silhouette",
           "name": "White Heart Silhouette",
-          "aliases": [
-            "manatowhite",
-            "white"
-          ],
+          "aliases": ["manatowhite", "white"],
           "components": {
             "Hair": {
               "draw_vb": "0932100e",
@@ -2709,18 +2487,13 @@
       "image_url": "images/Agent Lighter Portrait.png",
       "icon_url": "images/Agent Lighter Icon.png",
       "mindscape_url": "images/Mindscape Lighter Full.png",
-      "aliases": [
-        "Lighter"
-      ],
+      "aliases": ["Lighter"],
       "base_skin_id": "everburn_embers",
       "skins": [
         {
           "id": "everburn_embers",
           "name": "Everburn Embers",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "bd669b85",
@@ -2794,22 +2567,13 @@
       "image_url": "images/Agent Lucia Elowen Portrait.png",
       "icon_url": "images/Agent Lucia Elowen Icon.png",
       "mindscape_url": "images/Mindscape Lucia Elowen Full.png",
-      "aliases": [
-        "Elowen",
-        "Elowen Lucia",
-        "ElowenLucia",
-        "Lucia",
-        "LuciaElowen"
-      ],
+      "aliases": ["Elowen", "Elowen Lucia", "ElowenLucia", "Lucia", "LuciaElowen"],
       "base_skin_id": "whispering_dreams",
       "skins": [
         {
           "id": "whispering_dreams",
           "name": "Whispering Dreams",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "fed6eef6",
@@ -2912,10 +2676,7 @@
         {
           "id": "ironfist_gentlewoman",
           "name": "Ironfist Gentlewoman",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "5661afc3",
@@ -3009,11 +2770,7 @@
         {
           "id": "princess_on_holiday",
           "name": "Princess on Holiday",
-          "aliases": [
-            "holiday",
-            "lucyholiday",
-            "princess"
-          ],
+          "aliases": ["holiday", "lucyholiday", "princess"],
           "components": {
             "Hair": {
               "draw_vb": "c136d7d8",
@@ -3088,22 +2845,13 @@
       "image_url": "images/Agent Nangong Yu Portrait.png",
       "icon_url": "images/Agent Nangong Yu Icon.png",
       "mindscape_url": "images/Mindscape Nangong Yu Full.png",
-      "aliases": [
-        "Nangong",
-        "NangongYu",
-        "Yu",
-        "Yu Nangong",
-        "YuNangong"
-      ],
+      "aliases": ["Nangong", "NangongYu", "Yu", "Yu Nangong", "YuNangong"],
       "base_skin_id": "dreamy_dancer",
       "skins": [
         {
           "id": "dreamy_dancer",
           "name": "Dreamy Dancer",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "536345c3",
@@ -3179,11 +2927,7 @@
         {
           "id": "rhapsody_s_muse",
           "name": "Rhapsody's Muse",
-          "aliases": [
-            "nangongyurapsody",
-            "rapsody",
-            "rhapsody"
-          ],
+          "aliases": ["nangongyurapsody", "rapsody", "rhapsody"],
           "components": {
             "Hair": {
               "draw_vb": "536345c3",
@@ -3259,12 +3003,7 @@
         {
           "id": "crispy_delight",
           "name": "Crispy Delight",
-          "aliases": [
-            "crispy",
-            "kfc",
-            "nangongyukfc",
-            "rapsodykfc"
-          ],
+          "aliases": ["crispy", "kfc", "nangongyukfc", "rapsodykfc"],
           "components": {
             "Hair": {
               "draw_vb": "536345c3",
@@ -3371,10 +3110,7 @@
         {
           "id": "cat_s_gratitude",
           "name": "Cat's Gratitude",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Body": {
               "draw_vb": "0c01e6a5",
@@ -3448,23 +3184,13 @@
       "image_url": "images/Agent Nicole Demara Portrait.png",
       "icon_url": "images/Agent Nicole Demara Icon.png",
       "mindscape_url": "images/Mindscape Nicole Demara Full.png",
-      "aliases": [
-        "Demara",
-        "Demara Nicole",
-        "DemaraNicole",
-        "Nicole",
-        "NicoleDemara"
-      ],
+      "aliases": ["Demara", "Demara Nicole", "DemaraNicole", "Nicole", "NicoleDemara"],
       "base_skin_id": "lil_sassy",
       "skins": [
         {
           "id": "cunning_cutie",
           "name": "Cunning Cutie",
-          "aliases": [
-            "cutie",
-            "nicolecutie",
-            "sassy"
-          ],
+          "aliases": ["cutie", "nicolecutie", "sassy"],
           "components": {
             "Hair": {
               "draw_vb": "bafa609a",
@@ -3533,10 +3259,7 @@
         {
           "id": "lil_sassy",
           "name": "Lil Sassy",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "d9b8d61a",
@@ -3624,22 +3347,13 @@
       "image_url": "images/Agent Norma Hollowell Portrait.png",
       "icon_url": "images/Agent Norma Hollowell Icon.png",
       "mindscape_url": "images/Mindscape Norma Hollowell Full.png",
-      "aliases": [
-        "Hollowell",
-        "Hollowell Norma",
-        "HollowellNorma",
-        "Norma",
-        "NormaHollowell"
-      ],
+      "aliases": ["Hollowell", "Hollowell Norma", "HollowellNorma", "Norma", "NormaHollowell"],
       "base_skin_id": "immunity_to_fools",
       "skins": [
         {
           "id": "immunity_to_fools",
           "name": "Immunity to Fools",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "62c935b1",
@@ -3738,10 +3452,7 @@
         {
           "id": "two_banks_of_the_river",
           "name": "Two Banks of the River",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "9f1dfc45",
@@ -3854,23 +3565,13 @@
       "image_url": "images/Agent Pan Yinhu Portrait.png",
       "icon_url": "images/Agent Pan Yinhu Icon.png",
       "mindscape_url": "images/Mindscape Pan Yinhu Full.png",
-      "aliases": [
-        "Pan",
-        "PanYinhu",
-        "Yinhu",
-        "Yinhu Pan",
-        "YinhuPan"
-      ],
+      "aliases": ["Pan", "PanYinhu", "Yinhu", "Yinhu Pan", "YinhuPan"],
       "base_skin_id": "hundred_flavors",
       "skins": [
         {
           "id": "culinary_jewel",
           "name": "Culinary Jewel",
-          "aliases": [
-            "culinary_jewel",
-            "jewel",
-            "panyinhujewel"
-          ],
+          "aliases": ["culinary_jewel", "jewel", "panyinhujewel"],
           "components": {
             "Body": {
               "draw_vb": "56b1d7f1",
@@ -3916,10 +3617,7 @@
         {
           "id": "hundred_flavors",
           "name": "Hundred Flavors",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Body": {
               "draw_vb": "b375f26b",
@@ -3983,22 +3681,13 @@
       "image_url": "images/Agent Piper Wheel Portrait.png",
       "icon_url": "images/Agent Piper Wheel Icon.png",
       "mindscape_url": "images/Mindscape Piper Wheel Full.png",
-      "aliases": [
-        "Piper",
-        "PiperWheel",
-        "Wheel",
-        "Wheel Piper",
-        "WheelPiper"
-      ],
+      "aliases": ["Piper", "PiperWheel", "Wheel", "Wheel Piper", "WheelPiper"],
       "base_skin_id": "lazy_speed",
       "skins": [
         {
           "id": "lazy_speed",
           "name": "Lazy Speed",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "da8a2564",
@@ -4072,18 +3761,13 @@
       "image_url": "images/Agent Promeia Portrait.png",
       "icon_url": "images/Agent Promeia Icon.png",
       "mindscape_url": "images/Mindscape Promeia Full.png",
-      "aliases": [
-        "Promeia"
-      ],
+      "aliases": ["Promeia"],
       "base_skin_id": "shrouded_in_frost",
       "skins": [
         {
           "id": "shrouded_in_frost",
           "name": "Shrouded in Frost",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "2d4c7c18",
@@ -4191,22 +3875,13 @@
       "image_url": "images/Agent Pulchra Fellini Portrait.png",
       "icon_url": "images/Agent Pulchra Fellini Icon.png",
       "mindscape_url": "images/Mindscape Pulchra Fellini Full.png",
-      "aliases": [
-        "Fellini",
-        "Fellini Pulchra",
-        "FelliniPulchra",
-        "Pulchra",
-        "PulchraFellini"
-      ],
+      "aliases": ["Fellini", "Fellini Pulchra", "FelliniPulchra", "Pulchra", "PulchraFellini"],
       "base_skin_id": "rest_for_a_weary_tail",
       "skins": [
         {
           "id": "rest_for_a_weary_tail",
           "name": "Rest for a Weary Tail",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Mask": {
               "draw_vb": "992028e7",
@@ -4267,18 +3942,13 @@
       "image_url": "images/Agent Pyrois Portrait.png",
       "icon_url": "images/Agent Pyrois Icon.png",
       "mindscape_url": "",
-      "aliases": [
-        "Pyrois"
-      ],
+      "aliases": ["Pyrois"],
       "base_skin_id": "dawn_s_guardian",
       "skins": [
         {
           "id": "dawn_s_guardian",
           "name": "Dawn's Guardian",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "6204c171",
@@ -4368,18 +4038,13 @@
       "image_url": "images/Agent Qingyi Portrait.png",
       "icon_url": "images/Agent Qingyi Icon.png",
       "mindscape_url": "images/Mindscape Qingyi Full.png",
-      "aliases": [
-        "01 Neo-Genesis VI"
-      ],
+      "aliases": ["01 Neo-Genesis VI"],
       "base_skin_id": "clarity_peace_and_joy",
       "skins": [
         {
           "id": "clarity_peace_and_joy",
           "name": "Clarity, Peace, and Joy",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "7b43d317",
@@ -4453,23 +4118,13 @@
       "image_url": "images/Agent Remielle Dan Portrait.png",
       "icon_url": "images/Agent Remielle Dan Icon.png",
       "mindscape_url": "images/Mindscape Remielle Dan Full.png",
-      "aliases": [
-        "Dan",
-        "Dan Remielle",
-        "DanRemielle",
-        "Remielle",
-        "RemielleDan"
-      ],
+      "aliases": ["Dan", "Dan Remielle", "DanRemielle", "Remielle", "RemielleDan"],
       "base_skin_id": "feathered_murmurs",
       "skins": [
         {
           "id": "feathered_murmurs",
           "name": "Feathered Murmurs",
-          "aliases": [
-            "base",
-            "default",
-            "murmurs"
-          ],
+          "aliases": ["base", "default", "murmurs"],
           "components": {
             "Hair": {
               "draw_vb": "fbe70114",
@@ -4545,9 +4200,7 @@
         {
           "id": "moonlight_whispers",
           "name": "Moonlight Whispers",
-          "aliases": [
-            "whispers"
-          ],
+          "aliases": ["whispers"],
           "components": {
             "Hair": {
               "draw_vb": "fbe70114",
@@ -4636,9 +4289,7 @@
         {
           "id": "seashade_pas_seul",
           "name": "Seashade Pas Seul",
-          "aliases": [
-            "seashade"
-          ],
+          "aliases": ["seashade"],
           "components": {
             "Hair": {
               "draw_vb": "fbe70114",
@@ -4733,18 +4384,13 @@
       "image_url": "images/Agent Seed Portrait.png",
       "icon_url": "images/Agent Seed Icon.png",
       "mindscape_url": "images/Mindscape Seed Full.png",
-      "aliases": [
-        "Flora"
-      ],
+      "aliases": ["Flora"],
       "base_skin_id": "flower_in_bloom",
       "skins": [
         {
           "id": "flower_in_bloom",
           "name": "Flower in Bloom",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "12bd16f4",
@@ -4831,22 +4477,13 @@
       "image_url": "images/Agent Seth Lowell Portrait.png",
       "icon_url": "images/Agent Seth Lowell Icon.png",
       "mindscape_url": "images/Mindscape Seth Lowell Full.png",
-      "aliases": [
-        "Lowell",
-        "Lowell Seth",
-        "LowellSeth",
-        "Seth",
-        "SethLowell"
-      ],
+      "aliases": ["Lowell", "Lowell Seth", "LowellSeth", "Seth", "SethLowell"],
       "base_skin_id": "incorruptible_heart",
       "skins": [
         {
           "id": "incorruptible_heart",
           "name": "Incorruptible Heart",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "d18b1600",
@@ -4921,10 +4558,7 @@
         {
           "id": "silver_soldier",
           "name": "Silver Soldier",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "9a4ae9c7",
@@ -4985,23 +4619,13 @@
       "image_url": "images/Agent Soldier 11 Portrait.png",
       "icon_url": "images/Agent Soldier 11 Icon.png",
       "mindscape_url": "images/Mindscape Soldier 11 Full.png",
-      "aliases": [
-        "11",
-        "11 Soldier",
-        "11Soldier",
-        "Harin",
-        "Soldier",
-        "Soldier11"
-      ],
+      "aliases": ["11", "11 Soldier", "11Soldier", "Harin", "Soldier", "Soldier11"],
       "base_skin_id": "elite_soldier",
       "skins": [
         {
           "id": "elite_soldier",
           "name": "Elite Soldier",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "ba0c408b",
@@ -5062,18 +4686,13 @@
       "image_url": "images/Agent Soukaku Portrait.png",
       "icon_url": "images/Agent Soukaku Icon.png",
       "mindscape_url": "images/Mindscape Soukaku Full.png",
-      "aliases": [
-        "Soukaku"
-      ],
+      "aliases": ["Soukaku"],
       "base_skin_id": "dance_of_azure_ice",
       "skins": [
         {
           "id": "dance_of_azure_ice",
           "name": "Dance of Azure Ice",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "5432bbb8",
@@ -5163,10 +4782,7 @@
         {
           "id": "starlight_armaments",
           "name": "Starlight Armaments",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "0a1f876f",
@@ -5283,18 +4899,13 @@
       "image_url": "images/Agent Sunna Portrait.png",
       "icon_url": "images/Agent Sunna Icon.png",
       "mindscape_url": "images/Mindscape Sunna Full.png",
-      "aliases": [
-        "Sunna"
-      ],
+      "aliases": ["Sunna"],
       "base_skin_id": "dreams_on_loop",
       "skins": [
         {
           "id": "afternoon_tea_break",
           "name": "Afternoon Tea Break",
-          "aliases": [
-            "maid",
-            "sunnamaid"
-          ],
+          "aliases": ["maid", "sunnamaid"],
           "components": {
             "Hair": {
               "draw_vb": "74cc56df",
@@ -5357,10 +4968,7 @@
         {
           "id": "dreams_on_loop",
           "name": "Dreams on Loop",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "cc070c66",
@@ -5430,11 +5038,7 @@
         {
           "id": "crispy_delight",
           "name": "Crispy Delight",
-          "aliases": [
-            "crispy",
-            "kfc",
-            "sunnakfc"
-          ],
+          "aliases": ["crispy", "kfc", "sunnakfc"],
           "components": {
             "Hair": {
               "draw_vb": "20a4edef",
@@ -5514,18 +5118,13 @@
       "image_url": "images/Agent Trigger Portrait.png",
       "icon_url": "images/Agent Trigger Icon.png",
       "mindscape_url": "images/Mindscape Trigger Full.png",
-      "aliases": [
-        "Trigger"
-      ],
+      "aliases": ["Trigger"],
       "base_skin_id": "gaze_into_the_light",
       "skins": [
         {
           "id": "gaze_into_the_light",
           "name": "Gaze Into the Light",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "b0625293",
@@ -5598,10 +5197,7 @@
         {
           "id": "flowing_moonshade",
           "name": "Flowing Moonshade",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "daba2b23",
@@ -5688,22 +5284,13 @@
       "image_url": "images/Agent Ukinami Yuzuha Portrait.png",
       "icon_url": "images/Agent Ukinami Yuzuha Icon.png",
       "mindscape_url": "images/Mindscape Ukinami Yuzuha Full.png",
-      "aliases": [
-        "Ukinami",
-        "UkinamiYuzuha",
-        "Yuzuha",
-        "Yuzuha Ukinami",
-        "YuzuhaUkinami"
-      ],
+      "aliases": ["Ukinami", "UkinamiYuzuha", "Yuzuha", "Yuzuha Ukinami", "YuzuhaUkinami"],
       "base_skin_id": "tanuki_under_the_shade",
       "skins": [
         {
           "id": "tanuki_in_broad_daylight",
           "name": "Tanuki in Broad Daylight",
-          "aliases": [
-            "summer",
-            "yuzuhasummer"
-          ],
+          "aliases": ["summer", "yuzuhasummer"],
           "components": {
             "Hair": {
               "draw_vb": "630debc9",
@@ -5771,10 +5358,7 @@
         {
           "id": "tanuki_under_the_shade",
           "name": "Tanuki Under the Shade",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "630debc9",
@@ -5874,22 +5458,13 @@
       "image_url": "images/Agent Velina Airgid Portrait.png",
       "icon_url": "images/Agent Velina Airgid Icon.png",
       "mindscape_url": "images/Mindscape Velina Airgid Full.png",
-      "aliases": [
-        "Airgid",
-        "Airgid Velina",
-        "AirgidVelina",
-        "Velina",
-        "VelinaAirgid"
-      ],
+      "aliases": ["Airgid", "Airgid Velina", "AirgidVelina", "Velina", "VelinaAirgid"],
       "base_skin_id": "elegant_silver_cascade",
       "skins": [
         {
           "id": "elegant_silver_cascade",
           "name": "Elegant Silver Cascade",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "c60af8f1",
@@ -5965,10 +5540,7 @@
         {
           "id": "shade_of_leisure",
           "name": "Shade of Leisure",
-          "aliases": [
-            "leisure",
-            "velinaleisure"
-          ],
+          "aliases": ["leisure", "velinaleisure"],
           "components": {
             "Hair": {
               "draw_vb": "c60af8f1",
@@ -6063,22 +5635,13 @@
       "image_url": "images/Agent Vivian Banshee Portrait.png",
       "icon_url": "images/Agent Vivian Banshee Icon.png",
       "mindscape_url": "images/Mindscape Vivian Banshee Full.png",
-      "aliases": [
-        "Banshee",
-        "Banshee Vivian",
-        "BansheeVivian",
-        "Vivian",
-        "VivianBanshee"
-      ],
+      "aliases": ["Banshee", "Banshee Vivian", "BansheeVivian", "Vivian", "VivianBanshee"],
       "base_skin_id": "fluttering_violet",
       "skins": [
         {
           "id": "fluttering_violet",
           "name": "Fluttering Violet",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "2e01f7f7",
@@ -6133,10 +5696,7 @@
         {
           "id": "iris_of_the_shore",
           "name": "Iris of the Shore",
-          "aliases": [
-            "summer",
-            "viviansummer"
-          ],
+          "aliases": ["summer", "viviansummer"],
           "components": {
             "Hair": {
               "draw_vb": "713a8587",
@@ -6210,22 +5770,13 @@
       "image_url": "images/Agent Von Lycaon Portrait.png",
       "icon_url": "images/Agent Von Lycaon Icon.png",
       "mindscape_url": "images/Mindscape Von Lycaon Full.png",
-      "aliases": [
-        "Lycaon",
-        "Lycaon Von",
-        "LycaonVon",
-        "Von",
-        "VonLycaon"
-      ],
+      "aliases": ["Lycaon", "Lycaon Von", "LycaonVon", "Von", "VonLycaon"],
       "base_skin_id": "moonlight_prowl",
       "skins": [
         {
           "id": "moonlight_prowl",
           "name": "Moonlight Prowl",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "cc59d8d6",
@@ -6312,22 +5863,13 @@
       "image_url": "images/Agent Ye Shunguang Portrait.png",
       "icon_url": "images/Agent Ye Shunguang Icon.png",
       "mindscape_url": "images/Mindscape Ye Shunguang Full.png",
-      "aliases": [
-        "Shunguang",
-        "Shunguang Ye",
-        "ShunguangYe",
-        "Ye",
-        "YeShunguang"
-      ],
+      "aliases": ["Shunguang", "Shunguang Ye", "ShunguangYe", "Ye", "YeShunguang"],
       "base_skin_id": "clouddrift_illumination",
       "skins": [
         {
           "id": "clouddrift_illumination",
           "name": "Clouddrift Illumination",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "FrontHair": {
               "draw_vb": "01d5a625",
@@ -6486,10 +6028,7 @@
         {
           "id": "touch_of_dawnlight",
           "name": "Touch of Dawnlight",
-          "aliases": [
-            "dawnlight",
-            "yeshunguangdawnlight"
-          ],
+          "aliases": ["dawnlight", "yeshunguangdawnlight"],
           "components": {
             "FrontHair": {
               "draw_vb": "01d5a625",
@@ -6654,22 +6193,13 @@
       "image_url": "images/Agent Yidhari Murphy Portrait.png",
       "icon_url": "images/Agent Yidhari Murphy Icon.png",
       "mindscape_url": "images/Mindscape Yidhari Murphy Full.png",
-      "aliases": [
-        "Murphy",
-        "Murphy Yidhari",
-        "MurphyYidhari",
-        "Yidhari",
-        "YidhariMurphy"
-      ],
+      "aliases": ["Murphy", "Murphy Yidhari", "MurphyYidhari", "Yidhari", "YidhariMurphy"],
       "base_skin_id": "stream_of_consciousness",
       "skins": [
         {
           "id": "stream_of_consciousness",
           "name": "Stream of Consciousness",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "2736d089",
@@ -6752,18 +6282,13 @@
       "image_url": "images/Agent Yixuan Portrait.png",
       "icon_url": "images/Agent Yixuan Icon.png",
       "mindscape_url": "images/Mindscape Yixuan Full.png",
-      "aliases": [
-        "Yixuan"
-      ],
+      "aliases": ["Yixuan"],
       "base_skin_id": "summit_of_clouds",
       "skins": [
         {
           "id": "summit_of_clouds",
           "name": "Summit of Clouds",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "36a68b27",
@@ -6862,10 +6387,7 @@
         {
           "id": "trails_of_ink",
           "name": "Trails of Ink",
-          "aliases": [
-            "trailsofink",
-            "yixuantrailsofink"
-          ],
+          "aliases": ["trailsofink", "yixuantrailsofink"],
           "components": {
             "Hair": {
               "draw_vb": "36a68b27",
@@ -6944,18 +6466,13 @@
       "image_url": "images/Agent Zhao Portrait.png",
       "icon_url": "images/Agent Zhao Icon.png",
       "mindscape_url": "images/Mindscape Zhao Full.png",
-      "aliases": [
-        "Zhao"
-      ],
+      "aliases": ["Zhao"],
       "base_skin_id": "cuddly_executor",
       "skins": [
         {
           "id": "cuddly_executor",
           "name": "Cuddly Executor",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "9bfc82f2",
@@ -7016,22 +6533,13 @@
       "image_url": "images/Agent Zhu Yuan Portrait.png",
       "icon_url": "images/Agent Zhu Yuan Icon.png",
       "mindscape_url": "images/Mindscape Zhu Yuan Full.png",
-      "aliases": [
-        "Yuan",
-        "Yuan Zhu",
-        "YuanZhu",
-        "Zhu",
-        "ZhuYuan"
-      ],
+      "aliases": ["Yuan", "Yuan Zhu", "YuanZhu", "Zhu", "ZhuYuan"],
       "base_skin_id": "suppressor_of_evil",
       "skins": [
         {
           "id": "suppressor_of_evil",
           "name": "Suppressor of Evil",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Hair": {
               "draw_vb": "a3091843",
@@ -7131,18 +6639,13 @@
       "image_url": "images/Agent Belle Portrait.png",
       "icon_url": "images/Agent Belle Icon.png",
       "mindscape_url": "",
-      "aliases": [
-        "Belle"
-      ],
+      "aliases": ["Belle"],
       "base_skin_id": "vibrant_store_manager",
       "skins": [
         {
           "id": "brilliance_of_stars",
           "name": "Brilliance of Stars",
-          "aliases": [
-            "bellebrilliance",
-            "brilliance"
-          ],
+          "aliases": ["bellebrilliance", "brilliance"],
           "components": {
             "Hat": {
               "draw_vb": "0a877d89",
@@ -7265,10 +6768,7 @@
         {
           "id": "delicate_sunlight",
           "name": "Delicate Sunlight",
-          "aliases": [
-            "bellesunlight",
-            "sunlight"
-          ],
+          "aliases": ["bellesunlight", "sunlight"],
           "components": {
             "Earring": {
               "draw_vb": "c0eb7af5",
@@ -7392,10 +6892,7 @@
         {
           "id": "summer_skies",
           "name": "Summer Skies",
-          "aliases": [
-            "bellesummer",
-            "summer"
-          ],
+          "aliases": ["bellesummer", "summer"],
           "components": {
             "Earrings": {
               "draw_vb": "c4e3b1e8",
@@ -7492,10 +6989,7 @@
         {
           "id": "vibrant_store_manager",
           "name": "Vibrant Store Manager",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Earrings": {
               "draw_vb": "c4e3b1e8",
@@ -7610,18 +7104,13 @@
       "image_url": "images/Agent Wise Portrait.png",
       "icon_url": "images/Agent Wise Icon.png",
       "mindscape_url": "",
-      "aliases": [
-        "Wise"
-      ],
+      "aliases": ["Wise"],
       "base_skin_id": "ridu_stroll",
       "skins": [
         {
           "id": "oath_of_skies",
           "name": "Oath of Skies",
-          "aliases": [
-            "skies",
-            "wiseskies"
-          ],
+          "aliases": ["skies", "wiseskies"],
           "components": {
             "Face": {
               "draw_vb": "6c4552bb",
@@ -7705,10 +7194,7 @@
         {
           "id": "peaceful_waves",
           "name": "Peaceful Waves",
-          "aliases": [
-            "summer",
-            "wisesummer"
-          ],
+          "aliases": ["summer", "wisesummer"],
           "components": {
             "Hair": {
               "draw_vb": "20f40e82",
@@ -7766,10 +7252,7 @@
         {
           "id": "ridu_stroll",
           "name": "Ridu Stroll",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Face": {
               "draw_vb": "6c4552bb",
@@ -7841,10 +7324,7 @@
         {
           "id": "soaring_crane",
           "name": "Soaring Crane",
-          "aliases": [
-            "crane",
-            "wisecrane"
-          ],
+          "aliases": ["crane", "wisecrane"],
           "components": {
             "Neck": {
               "draw_vb": "276e1373",
@@ -7947,24 +7427,13 @@
       "image_url": "images/Agent Sigrid de LAzur Portrait.png",
       "icon_url": "images/Agent Sigrid de LAzur Icon.png",
       "mindscape_url": "images/Mindscape Sigrid de LAzur Full.png",
-      "aliases": [
-        "L'Azur",
-        "Sigrid",
-        "SigriddeL'Azur",
-        "sigrid",
-        "sigrid_de_l_azur"
-      ],
+      "aliases": ["L'Azur", "Sigrid", "SigriddeL'Azur", "sigrid", "sigrid_de_l_azur"],
       "base_skin_id": "legend_of_the_sky_island",
       "skins": [
         {
           "id": "legend_of_the_sky_island",
           "name": "Legend of the Sky Island",
-          "aliases": [
-            "base",
-            "default",
-            "sigrid",
-            "sigrid_default"
-          ],
+          "aliases": ["base", "default", "sigrid", "sigrid_default"],
           "components": {
             "Hair": {
               "draw_vb": "840c1713",
@@ -8091,12 +7560,7 @@
         {
           "id": "majestic_wavechaser",
           "name": "Majestic Wavechaser",
-          "aliases": [
-            "sigrid_summer",
-            "sigridsummer",
-            "summer",
-            "wavechaser"
-          ],
+          "aliases": ["sigrid_summer", "sigridsummer", "summer", "wavechaser"],
           "components": {
             "Hair": {
               "draw_vb": "840c1713",
@@ -8204,24 +7668,13 @@
       "image_url": "images/Agent Claret Flint Portrait.png",
       "icon_url": "images/Agent Claret Flint Icon.png",
       "mindscape_url": "images/Mindscape Claret Flint Full.png",
-      "aliases": [
-        "Claret",
-        "ClaretFlint",
-        "Flint",
-        "Flint Claret",
-        "FlintClaret"
-      ],
+      "aliases": ["Claret", "ClaretFlint", "Flint", "Flint Claret", "FlintClaret"],
       "base_skin_id": "default",
       "skins": [
         {
           "id": "default",
           "name": "Red Gold Blaze",
-          "aliases": [
-            "base",
-            "default",
-            "red_gold_blaze",
-            "default_outfit"
-          ],
+          "aliases": ["base", "default", "red_gold_blaze", "default_outfit"],
           "components": {
             "Hair": {
               "draw_vb": "afd59133",
@@ -8316,23 +7769,13 @@
       "image_url": "images/Agent Roxy Ifrita Pryce Portrait.png",
       "icon_url": "images/Agent Roxy Ifrita Pryce Icon.png",
       "mindscape_url": "images/Mindscape Roxy Ifrita Pryce Full.png",
-      "aliases": [
-        "Pryce",
-        "Pryce Ifrita Roxy",
-        "PryceIfritaRoxy",
-        "Roxy",
-        "RoxyIfritaPryce"
-      ],
+      "aliases": ["Pryce", "Pryce Ifrita Roxy", "PryceIfritaRoxy", "Roxy", "RoxyIfritaPryce"],
       "base_skin_id": "default",
       "skins": [
         {
           "id": "default",
           "name": "Midnight Craft",
-          "aliases": [
-            "base",
-            "default",
-            "midnight_craft"
-          ],
+          "aliases": ["base", "default", "midnight_craft"],
           "components": {
             "Eyebrows": {
               "draw_vb": "6e02f849",
@@ -8530,10 +7973,7 @@
         {
           "id": "undying_blessing",
           "name": "Undying Blessing",
-          "aliases": [
-            "base",
-            "default"
-          ],
+          "aliases": ["base", "default"],
           "components": {
             "Weapon": {
               "draw_vb": "8bf0357a",

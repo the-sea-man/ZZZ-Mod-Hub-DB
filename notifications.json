@@ -40,24 +40,24 @@
     "message_zh": "邦布专属库分类上线，支持将多模组压缩包拆分安装，“发现”页新增已安装标记，并修复了 Wise 与 Belle 的夏日服装拉伸问题。"
   },
   {
-  "id": "2.1.1-release",
-  "date": "2026-10-14T12:00:00Z",
-  "title": "Fairy's Secret Folder 2.1.1 is out",
-  "message": "A small fix-up: your own Mods folders sit next to the library again, failed downloads stay in sight with a retry button, and Discover and Quick Snapper behave better.",
-  "title_pt_BR": "Fairy's Secret Folder 2.1.1 chegou",
-  "message_pt_BR": "Um pequeno ajuste: suas próprias pastas de Mods voltam a ficar do lado da biblioteca, downloads com falha ficam à vista com um botão pra tentar de novo, e o Descobrir e a Captura Rápida funcionam melhor.",
-  "title_zh": "Fairy's Secret Folder 2.1.1 已发布",
-  "message_zh": "一次小修正：你自己的 Mods 文件夹重新显示在库旁边，下载失败会一直显示并可重试，“发现”和快速截图也更好用了。"
+    "id": "2.1.1-release",
+    "date": "2026-10-14T12:00:00Z",
+    "title": "Fairy's Secret Folder 2.1.1 is out",
+    "message": "A small fix-up: your own Mods folders sit next to the library again, failed downloads stay in sight with a retry button, and Discover and Quick Snapper behave better.",
+    "title_pt_BR": "Fairy's Secret Folder 2.1.1 chegou",
+    "message_pt_BR": "Um pequeno ajuste: suas próprias pastas de Mods voltam a ficar do lado da biblioteca, downloads com falha ficam à vista com um botão pra tentar de novo, e o Descobrir e a Captura Rápida funcionam melhor.",
+    "title_zh": "Fairy's Secret Folder 2.1.1 已发布",
+    "message_zh": "一次小修正：你自己的 Mods 文件夹重新显示在库旁边，下载失败会一直显示并可重试，“发现”和快速截图也更好用了。"
   },
   {
-  "id": "2.1.0-release",
-  "date": "2026-10-14T12:00:00Z",
-  "title": "Fairy's Secret Folder 2.1 is out",
-  "message": "Use your own mod folders as they are, open the new Guides with F1, and chase seven new achievements. Your saved toggles now stay with a mod when it moves.",
-  "title_pt_BR": "Fairy's Secret Folder 2.1 chegou",
-  "message_pt_BR": "Use suas próprias pastas de mods do jeito que estão, abra os novos Guias com F1 e cace sete conquistas novas. Suas opções salvas agora acompanham o mod quando ele muda de lugar.",
-  "title_zh": "Fairy's Secret Folder 2.1 已发布",
-  "message_zh": "现在可以直接使用你自己的 Mod 文件夹，按 F1 打开新的指南，还有 7 个新成就等你解锁。移动 Mod 时，保存的开关也会跟着走。"
+    "id": "2.1.0-release",
+    "date": "2026-10-14T12:00:00Z",
+    "title": "Fairy's Secret Folder 2.1 is out",
+    "message": "Use your own mod folders as they are, open the new Guides with F1, and chase seven new achievements. Your saved toggles now stay with a mod when it moves.",
+    "title_pt_BR": "Fairy's Secret Folder 2.1 chegou",
+    "message_pt_BR": "Use suas próprias pastas de mods do jeito que estão, abra os novos Guias com F1 e cace sete conquistas novas. Suas opções salvas agora acompanham o mod quando ele muda de lugar.",
+    "title_zh": "Fairy's Secret Folder 2.1 已发布",
+    "message_zh": "现在可以直接使用你自己的 Mod 文件夹，按 F1 打开新的指南，还有 7 个新成就等你解锁。移动 Mod 时，保存的开关也会跟着走。"
   },
   {
     "id": "2.0.0-release",

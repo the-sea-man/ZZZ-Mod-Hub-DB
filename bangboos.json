@@ -2,10 +2,7 @@
   {
     "id": "eous",
     "name": "Eous",
-    "aliases": [
-      "eous",
-      "Eous Bangboo"
-    ],
+    "aliases": ["eous", "Eous Bangboo"],
     "faction": "Phaethon",
     "image_url": "images/Eous Portrait.png",
     "release_date": "2024-07-04"
@@ -13,10 +10,7 @@
   {
     "id": "amillion",
     "name": "Amillion",
-    "aliases": [
-      "amillion",
-      "Amillion Bangboo"
-    ],
+    "aliases": ["amillion", "Amillion Bangboo"],
     "faction": "Cunning Hares",
     "image_url": "images/Amillion Portrait.png",
     "release_date": "2024-07-04",
@@ -25,9 +19,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "875df346",
@@ -49,10 +41,7 @@
   {
     "id": "sharkboo",
     "name": "Sharkboo",
-    "aliases": [
-      "sharkboo",
-      "Sharkboo Bangboo"
-    ],
+    "aliases": ["sharkboo", "Sharkboo Bangboo"],
     "faction": "Victoria Housekeeping Co.",
     "image_url": "images/Sharkboo Portrait.png",
     "release_date": "2024-07-04",
@@ -61,9 +50,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "0c42bee7",
@@ -85,10 +72,7 @@
   {
     "id": "butler",
     "name": "Butler",
-    "aliases": [
-      "butler",
-      "Butler Bangboo"
-    ],
+    "aliases": ["butler", "Butler Bangboo"],
     "faction": "Victoria Housekeeping Co.",
     "image_url": "images/Butler Portrait.png",
     "release_date": "2024-07-04",
@@ -97,9 +81,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "b6d818c8",
@@ -128,10 +110,7 @@
   {
     "id": "rocketboo",
     "name": "Rocketboo",
-    "aliases": [
-      "rocketboo",
-      "Rocketboo Bangboo"
-    ],
+    "aliases": ["rocketboo", "Rocketboo Bangboo"],
     "faction": "Belobog Heavy Industries",
     "image_url": "images/Rocketboo Portrait.png",
     "release_date": "2024-07-04",
@@ -140,9 +119,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "038d996c",
@@ -164,10 +141,7 @@
   {
     "id": "safety",
     "name": "Safety",
-    "aliases": [
-      "safety",
-      "Safety Bangboo"
-    ],
+    "aliases": ["safety", "Safety Bangboo"],
     "faction": "Belobog Heavy Industries",
     "image_url": "images/Safety Portrait.png",
     "release_date": "2024-07-04",
@@ -176,9 +150,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "2ea7c52f",
@@ -200,10 +172,7 @@
   {
     "id": "plugaboo",
     "name": "Plugaboo",
-    "aliases": [
-      "plugaboo",
-      "Plugaboo Bangboo"
-    ],
+    "aliases": ["plugaboo", "Plugaboo Bangboo"],
     "faction": "Electric",
     "image_url": "images/Plugboo Portrait.png",
     "release_date": "2024-07-04",
@@ -212,9 +181,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "f9568bf7",
@@ -236,10 +203,7 @@
   {
     "id": "resonaboo",
     "name": "Resonaboo",
-    "aliases": [
-      "resonaboo",
-      "Resonaboo Bangboo"
-    ],
+    "aliases": ["resonaboo", "Resonaboo Bangboo"],
     "faction": "Ether",
     "image_url": "images/Resonaboo Portrait.png",
     "release_date": "2024-07-04",
@@ -248,9 +212,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "50397b00",
@@ -272,10 +234,7 @@
   {
     "id": "red_moccus",
     "name": "Red Moccus",
-    "aliases": [
-      "red_moccus",
-      "Red Moccus Bangboo"
-    ],
+    "aliases": ["red_moccus", "Red Moccus Bangboo"],
     "faction": "Sons of Calydon",
     "image_url": "images/Red Moccus Portrait.png",
     "release_date": "2024-09-25"
@@ -283,10 +242,7 @@
   {
     "id": "officer_cui",
     "name": "Officer Cui",
-    "aliases": [
-      "officer_cui",
-      "Officer Cui Bangboo"
-    ],
+    "aliases": ["officer_cui", "Officer Cui Bangboo"],
     "faction": "Criminal Investigation Special Response Team",
     "image_url": "images/Officer Cui Portrait.png",
     "release_date": "2024-08-14"
@@ -294,10 +250,7 @@
   {
     "id": "avocaboo",
     "name": "Avocaboo",
-    "aliases": [
-      "avocaboo",
-      "Avocaboo Bangboo"
-    ],
+    "aliases": ["avocaboo", "Avocaboo Bangboo"],
     "faction": "Support",
     "image_url": "images/Avocaboo Portrait.png",
     "release_date": "2024-07-04",
@@ -306,9 +259,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "38e7e949",
@@ -329,10 +280,7 @@
   {
     "id": "bagboo",
     "name": "Bagboo",
-    "aliases": [
-      "bagboo",
-      "Bagboo Bangboo"
-    ],
+    "aliases": ["bagboo", "Bagboo Bangboo"],
     "faction": "Attack",
     "image_url": "images/Bagboo Portrait.png",
     "release_date": "2024-07-04",
@@ -341,9 +289,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "bdfd9b62",
@@ -365,10 +311,7 @@
   {
     "id": "devilboo",
     "name": "Devilboo",
-    "aliases": [
-      "devilboo",
-      "Devilboo Bangboo"
-    ],
+    "aliases": ["devilboo", "Devilboo Bangboo"],
     "faction": "Ether",
     "image_url": "images/Devilboo Portrait.png",
     "release_date": "2024-07-04",
@@ -377,9 +320,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "d704bf57",
@@ -401,10 +342,7 @@
   {
     "id": "exploreboo",
     "name": "Exploreboo",
-    "aliases": [
-      "exploreboo",
-      "Exploreboo Bangboo"
-    ],
+    "aliases": ["exploreboo", "Exploreboo Bangboo"],
     "faction": "Anomaly",
     "image_url": "images/Exploreboo Portrait.png",
     "release_date": "2024-07-04",
@@ -413,9 +351,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "07ffc7ab",
@@ -436,10 +372,7 @@
   {
     "id": "paperboo",
     "name": "Paperboo",
-    "aliases": [
-      "paperboo",
-      "Paperboo Bangboo"
-    ],
+    "aliases": ["paperboo", "Paperboo Bangboo"],
     "faction": "Defense",
     "image_url": "images/Paperboo Portrait.png",
     "release_date": "2024-07-04",
@@ -448,9 +381,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "6381afa6",
@@ -472,10 +403,7 @@
   {
     "id": "penguinboo",
     "name": "Penguinboo",
-    "aliases": [
-      "penguinboo",
-      "Penguinboo Bangboo"
-    ],
+    "aliases": ["penguinboo", "Penguinboo Bangboo"],
     "faction": "Ice",
     "image_url": "images/Penguinboo Portrait.png",
     "release_date": "2024-07-04",
@@ -484,9 +412,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "c691f816",
@@ -508,10 +434,7 @@
   {
     "id": "sumoboo",
     "name": "Sumoboo",
-    "aliases": [
-      "sumoboo",
-      "Sumoboo Bangboo"
-    ],
+    "aliases": ["sumoboo", "Sumoboo Bangboo"],
     "faction": "Stun",
     "image_url": "images/Sumoboo Portrait.png",
     "release_date": "2024-07-04",
@@ -520,9 +443,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "d0efedea",
@@ -543,10 +464,7 @@
   {
     "id": "luckyboo",
     "name": "Luckyboo",
-    "aliases": [
-      "luckyboo",
-      "Luckyboo Bangboo"
-    ],
+    "aliases": ["luckyboo", "Luckyboo Bangboo"],
     "faction": "Event",
     "image_url": "images/Luckyboo Portrait.png",
     "release_date": "2024-07-11",
@@ -555,9 +473,7 @@
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "bbab787c",
@@ -579,18 +495,13 @@
   {
     "id": "ariel",
     "name": "Ariel",
-    "aliases": [
-      "ariel",
-      "Ariel Bangboo"
-    ],
+    "aliases": ["ariel", "Ariel Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Accessory": {
             "draw_vb": "1eeb3d05",
@@ -626,18 +537,13 @@
   {
     "id": "baddieboo",
     "name": "BaddieBoo",
-    "aliases": [
-      "baddieboo",
-      "BaddieBoo Bangboo"
-    ],
+    "aliases": ["baddieboo", "BaddieBoo Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "527dda57",
@@ -659,18 +565,13 @@
   {
     "id": "bangvolver",
     "name": "Bangvolver",
-    "aliases": [
-      "bangvolver",
-      "Bangvolver Bangboo"
-    ],
+    "aliases": ["bangvolver", "Bangvolver Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "73397291",
@@ -692,18 +593,13 @@
   {
     "id": "boollseye",
     "name": "Boollseye",
-    "aliases": [
-      "boollseye",
-      "Boollseye Bangboo"
-    ],
+    "aliases": ["boollseye", "Boollseye Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "1a753b23",
@@ -725,18 +621,13 @@
   {
     "id": "booressure",
     "name": "Booressure",
-    "aliases": [
-      "booressure",
-      "Booressure Bangboo"
-    ],
+    "aliases": ["booressure", "Booressure Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "6054deaf",
@@ -758,18 +649,13 @@
   {
     "id": "cryboo",
     "name": "Cryboo",
-    "aliases": [
-      "cryboo",
-      "Cryboo Bangboo"
-    ],
+    "aliases": ["cryboo", "Cryboo Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "e496ece2",
@@ -791,18 +677,13 @@
   {
     "id": "electroboo",
     "name": "Electroboo",
-    "aliases": [
-      "electroboo",
-      "Electroboo Bangboo"
-    ],
+    "aliases": ["electroboo", "Electroboo Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Antenna": {
             "draw_vb": "9c68597a",
@@ -837,18 +718,13 @@
   {
     "id": "hiabangboo",
     "name": "HIABangboo",
-    "aliases": [
-      "hiabangboo",
-      "HIABangboo Bangboo"
-    ],
+    "aliases": ["hiabangboo", "HIABangboo Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "b825c12a",
@@ -870,18 +746,13 @@
   {
     "id": "magnetiboo",
     "name": "Magnetiboo",
-    "aliases": [
-      "magnetiboo",
-      "Magnetiboo Bangboo"
-    ],
+    "aliases": ["magnetiboo", "Magnetiboo Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "a08c8a27",
@@ -903,18 +774,13 @@
   {
     "id": "securityboo",
     "name": "Securityboo",
-    "aliases": [
-      "securityboo",
-      "Securityboo Bangboo"
-    ],
+    "aliases": ["securityboo", "Securityboo Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Body": {
             "draw_vb": "d57bcad1",
@@ -936,18 +802,13 @@
   {
     "id": "sprout",
     "name": "Sprout",
-    "aliases": [
-      "sprout",
-      "Sprout Bangboo"
-    ],
+    "aliases": ["sprout", "Sprout Bangboo"],
     "base_skin_id": "default",
     "skins": [
       {
         "id": "default",
         "name": "Default",
-        "aliases": [
-          "default"
-        ],
+        "aliases": ["default"],
         "components": {
           "Accessory": {
             "draw_vb": "f3664d5f",

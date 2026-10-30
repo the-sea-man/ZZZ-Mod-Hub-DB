@@ -2,10 +2,7 @@
   {
     "id": "deep_sea_visitor",
     "name": "Deep Sea Visitor",
-    "aliases": [
-      "deep_sea_visitor",
-      "ellen weapon"
-    ],
+    "aliases": ["deep_sea_visitor", "ellen weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Deep Sea Visitor.png",
     "release_date": "2024-07-04"
@@ -13,10 +10,7 @@
   {
     "id": "steel_cushion",
     "name": "Steel Cushion",
-    "aliases": [
-      "steel_cushion",
-      "nekomata weapon"
-    ],
+    "aliases": ["steel_cushion", "nekomata weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Steel Cushion.png",
     "release_date": "2024-07-04"
@@ -24,10 +18,7 @@
   {
     "id": "the_brimstone",
     "name": "The Brimstone",
-    "aliases": [
-      "the_brimstone",
-      "soldier 11 weapon"
-    ],
+    "aliases": ["the_brimstone", "soldier 11 weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine The Brimstone.png",
     "release_date": "2024-07-04"
@@ -35,10 +26,7 @@
   {
     "id": "the_restrained",
     "name": "The Restrained",
-    "aliases": [
-      "the_restrained",
-      "lycaon weapon"
-    ],
+    "aliases": ["the_restrained", "lycaon weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine The Restrained.png",
     "release_date": "2024-07-04"
@@ -46,10 +34,7 @@
   {
     "id": "fusion_compiler",
     "name": "Fusion Compiler",
-    "aliases": [
-      "fusion_compiler",
-      "grace weapon"
-    ],
+    "aliases": ["fusion_compiler", "grace weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Fusion Compiler.png",
     "release_date": "2024-07-04"
@@ -57,10 +42,7 @@
   {
     "id": "weeping_cradle",
     "name": "Weeping Cradle",
-    "aliases": [
-      "weeping_cradle",
-      "rina weapon"
-    ],
+    "aliases": ["weeping_cradle", "rina weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Weeping Cradle.png",
     "release_date": "2024-07-04"
@@ -68,10 +50,7 @@
   {
     "id": "hellfire_gears",
     "name": "Hellfire Gears",
-    "aliases": [
-      "hellfire_gears",
-      "koleda weapon"
-    ],
+    "aliases": ["hellfire_gears", "koleda weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Hellfire Gears.png",
     "release_date": "2024-07-04"
@@ -79,10 +58,7 @@
   {
     "id": "riot_suppressor_mark_vi",
     "name": "Riot Suppressor Mark VI",
-    "aliases": [
-      "riot_suppressor_mark_vi",
-      "zhu yuan weapon"
-    ],
+    "aliases": ["riot_suppressor_mark_vi", "zhu yuan weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Riot Suppressor Mark VI.png",
     "release_date": "2024-07-24"
@@ -90,10 +66,7 @@
   {
     "id": "sharpened_stinger",
     "name": "Sharpened Stinger",
-    "aliases": [
-      "sharpened_stinger",
-      "jane doe weapon"
-    ],
+    "aliases": ["sharpened_stinger", "jane doe weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Sharpened Stinger.png",
     "release_date": "2024-09-04"
@@ -101,10 +74,7 @@
   {
     "id": "tusks_of_fury",
     "name": "Tusks of Fury",
-    "aliases": [
-      "tusks_of_fury",
-      "caesar weapon"
-    ],
+    "aliases": ["tusks_of_fury", "caesar weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Tusks of Fury.png",
     "release_date": "2024-09-25"
@@ -112,10 +82,7 @@
   {
     "id": "flamemaker_shaker",
     "name": "Flamemaker Shaker",
-    "aliases": [
-      "flamemaker_shaker",
-      "burnice weapon"
-    ],
+    "aliases": ["flamemaker_shaker", "burnice weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Flamemaker Shaker.png",
     "release_date": "2024-10-16"
@@ -123,10 +90,7 @@
   {
     "id": "hailstorm_shrine",
     "name": "Hailstorm Shrine",
-    "aliases": [
-      "hailstorm_shrine",
-      "miyabi weapon"
-    ],
+    "aliases": ["hailstorm_shrine", "miyabi weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Hailstorm Shrine.png",
     "release_date": "2024-12-18"
@@ -134,10 +98,7 @@
   {
     "id": "timeweaver",
     "name": "Timeweaver",
-    "aliases": [
-      "timeweaver",
-      "yanagi weapon"
-    ],
+    "aliases": ["timeweaver", "yanagi weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Timeweaver.png",
     "release_date": "2024-11-06"
@@ -145,10 +106,7 @@
   {
     "id": "blazing_laurel",
     "name": "Blazing Laurel",
-    "aliases": [
-      "blazing_laurel",
-      "lighter weapon"
-    ],
+    "aliases": ["blazing_laurel", "lighter weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Blazing Laurel.png",
     "release_date": "2024-11-27"
@@ -156,10 +114,7 @@
   {
     "id": "demara_battery_mark_ii",
     "name": "Demara Battery Mark II",
-    "aliases": [
-      "demara_battery_mark_ii",
-      "anby weapon"
-    ],
+    "aliases": ["demara_battery_mark_ii", "anby weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Demara Battery Mark II.png",
     "release_date": "2024-07-04"
@@ -167,10 +122,7 @@
   {
     "id": "the_vault",
     "name": "The Vault",
-    "aliases": [
-      "the_vault",
-      "nicole weapon"
-    ],
+    "aliases": ["the_vault", "nicole weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine The Vault.png",
     "release_date": "2024-07-04"
@@ -178,10 +130,7 @@
   {
     "id": "starlight_engine_replica",
     "name": "Starlight Engine Replica",
-    "aliases": [
-      "starlight_engine_replica",
-      "billy weapon"
-    ],
+    "aliases": ["starlight_engine_replica", "billy weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Starlight Engine Replica.png",
     "release_date": "2024-07-04"
@@ -189,10 +138,7 @@
   {
     "id": "big_cylinder",
     "name": "Big Cylinder",
-    "aliases": [
-      "big_cylinder",
-      "ben weapon"
-    ],
+    "aliases": ["big_cylinder", "ben weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Big Cylinder.png",
     "release_date": "2024-07-04"
@@ -200,10 +146,7 @@
   {
     "id": "drill_rig_red_axis",
     "name": "Drill Rig - Red Axis",
-    "aliases": [
-      "drill_rig_red_axis",
-      "anton weapon"
-    ],
+    "aliases": ["drill_rig_red_axis", "anton weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Drill Rig - Red Axis.png",
     "release_date": "2024-07-04"
@@ -211,10 +154,7 @@
   {
     "id": "housekeeper",
     "name": "Housekeeper",
-    "aliases": [
-      "housekeeper",
-      "corin weapon"
-    ],
+    "aliases": ["housekeeper", "corin weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Housekeeper.png",
     "release_date": "2024-07-04"
@@ -222,10 +162,7 @@
   {
     "id": "bashful_demon",
     "name": "Bashful Demon",
-    "aliases": [
-      "bashful_demon",
-      "soukaku weapon"
-    ],
+    "aliases": ["bashful_demon", "soukaku weapon"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Bashful Demon.png",
     "release_date": "2024-07-04"
@@ -233,10 +170,7 @@
   {
     "id": "peacekeeper_specialized",
     "name": "Peacekeeper Specialized",
-    "aliases": [
-      "peacekeeper_specialized",
-      "seth weapon"
-    ],
+    "aliases": ["peacekeeper_specialized", "seth weapon"],
     "faction": "W-Engine",
     "image_url": "",
     "release_date": "2024-09-04"
@@ -244,10 +178,7 @@
   {
     "id": "roaring_furnace",
     "name": "Roaring Furnace",
-    "aliases": [
-      "roaring_furnace",
-      "lucy weapon"
-    ],
+    "aliases": ["roaring_furnace", "lucy weapon"],
     "faction": "W-Engine",
     "image_url": "",
     "release_date": "2024-07-04"
@@ -255,10 +186,7 @@
   {
     "id": "original_transducer",
     "name": "Original Transducer",
-    "aliases": [
-      "original_transducer",
-      "piper weapon"
-    ],
+    "aliases": ["original_transducer", "piper weapon"],
     "faction": "W-Engine",
     "image_url": "",
     "release_date": "2024-07-04"
@@ -266,9 +194,7 @@
   {
     "id": "bunny_band",
     "name": "Bunny Band",
-    "aliases": [
-      "bunny_band"
-    ],
+    "aliases": ["bunny_band"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Bunny Band.png",
     "release_date": "2024-07-04"
@@ -276,9 +202,7 @@
   {
     "id": "street_superstar",
     "name": "Street Superstar",
-    "aliases": [
-      "street_superstar"
-    ],
+    "aliases": ["street_superstar"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Street Superstar.png",
     "release_date": "2024-07-04"
@@ -286,9 +210,7 @@
   {
     "id": "steam_oven",
     "name": "Steam Oven",
-    "aliases": [
-      "steam_oven"
-    ],
+    "aliases": ["steam_oven"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Steam Oven.png",
     "release_date": "2024-07-04"
@@ -296,9 +218,7 @@
   {
     "id": "starlight_engine",
     "name": "Starlight Engine",
-    "aliases": [
-      "starlight_engine"
-    ],
+    "aliases": ["starlight_engine"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Starlight Engine.png",
     "release_date": "2024-07-04"
@@ -306,9 +226,7 @@
   {
     "id": "gilded_blossom",
     "name": "Gilded Blossom",
-    "aliases": [
-      "gilded_blossom"
-    ],
+    "aliases": ["gilded_blossom"],
     "faction": "W-Engine",
     "image_url": "images/W-Engine Gilded Blossom.png",
     "release_date": "2024-08-14"
