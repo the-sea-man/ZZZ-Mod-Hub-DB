@@ -1,0 +1,262 @@
+[
+  {
+    "id": "2.1.5-release",
+    "date": "2026-10-29T18:00:00Z",
+    "title": "Fairy's Secret Folder 2.1.5 is out",
+    "message": "The app can now find the mod that breaks your game, warns you after a ZZZ update with the fixer ready, and the Fairy tells you when a new redemption code is out.",
+    "title_pt_BR": "Fairy's Secret Folder 2.1.5 chegou",
+    "message_pt_BR": "O app agora encontra o mod que quebra o seu jogo, avisa depois de uma atualização do ZZZ com o corretor pronto, e a Fada conta quando sai um código de resgate novo.",
+    "title_zh": "Fairy's Secret Folder 2.1.5 已发布",
+    "message_zh": "应用现在能找出弄坏游戏的 Mod，绝区零更新后会提醒你并备好修复工具，有新兑换码时妖精也会告诉你。"
+  },
+  {
+    "id": "2.1.4-release",
+    "date": "2026-10-29T12:00:00Z",
+    "title": "Fairy's Secret Folder 2.1.4 is out",
+    "message": "The app can now find the mod that breaks your game, warns you after a ZZZ update with the fixer ready, and the Fairy tells you when a new redemption code is out.",
+    "title_pt_BR": "Fairy's Secret Folder 2.1.4 chegou",
+    "message_pt_BR": "O app agora encontra o mod que quebra o seu jogo, avisa depois de uma atualização do ZZZ com o corretor pronto, e a Fada conta quando sai um código de resgate novo.",
+    "title_zh": "Fairy's Secret Folder 2.1.4 已发布",
+    "message_zh": "应用现在能找出弄坏游戏的 Mod，绝区零更新后会提醒你并备好修复工具，有新兑换码时妖精也会告诉你。"
+  },
+  {
+    "id": "2.1.3-release",
+    "date": "2026-10-21T12:00:00Z",
+    "title": "Fairy's Secret Folder 2.1.3 is out",
+    "message": "Every mod with a newer version on GameBanana now sits in one list with an Update All button, your supporters get a spot in Help & About, and big libraries stay quick after you change a mod.",
+    "title_pt_BR": "Fairy's Secret Folder 2.1.3 chegou",
+    "message_pt_BR": "Todo mod com versão nova no GameBanana agora fica numa lista só, com um botão Atualizar todos, seus apoiadores ganham um espaço em Ajuda e Sobre, e bibliotecas grandes continuam rápidas depois que você mexe num mod.",
+    "title_zh": "Fairy's Secret Folder 2.1.3 已发布",
+    "message_zh": "GameBanana 上有新版本的模组现在都集中在一个列表里，还能一键全部更新；支持者们在帮助与关于里有了自己的位置；修改模组后大型库也依然流畅。"
+  },
+  {
+    "id": "2.1.2-release",
+    "date": "2026-10-15T12:00:00Z",
+    "title": "Fairy's Secret Folder 2.1.2 is out",
+    "message": "Bangboos join the library, multi-mod archives can be installed as separate mods, Discover marks installed mods, and Wise and Belle summer outfits are fixed.",
+    "title_pt_BR": "Fairy's Secret Folder 2.1.2 chegou",
+    "message_pt_BR": "Os Bangboos chegam à biblioteca, arquivos com múltiplos mods podem ser instalados separadamente, o Descobrir marca mods já instalados e os trajes de verão de Wise e Belle foram corrigidos.",
+    "title_zh": "Fairy's Secret Folder 2.1.2 已发布",
+    "message_zh": "邦布专属库分类上线，支持将多模组压缩包拆分安装，“发现”页新增已安装标记，并修复了 Wise 与 Belle 的夏日服装拉伸问题。"
+  },
+  {
+    "id": "2.1.1-release",
+    "date": "2026-10-14T12:00:00Z",
+    "title": "Fairy's Secret Folder 2.1.1 is out",
+    "message": "A small fix-up: your own Mods folders sit next to the library again, failed downloads stay in sight with a retry button, and Discover and Quick Snapper behave better.",
+    "title_pt_BR": "Fairy's Secret Folder 2.1.1 chegou",
+    "message_pt_BR": "Um pequeno ajuste: suas próprias pastas de Mods voltam a ficar do lado da biblioteca, downloads com falha ficam à vista com um botão pra tentar de novo, e o Descobrir e a Captura Rápida funcionam melhor.",
+    "title_zh": "Fairy's Secret Folder 2.1.1 已发布",
+    "message_zh": "一次小修正：你自己的 Mods 文件夹重新显示在库旁边，下载失败会一直显示并可重试，“发现”和快速截图也更好用了。"
+  },
+  {
+    "id": "2.1.0-release",
+    "date": "2026-10-14T12:00:00Z",
+    "title": "Fairy's Secret Folder 2.1 is out",
+    "message": "Use your own mod folders as they are, open the new Guides with F1, and chase seven new achievements. Your saved toggles now stay with a mod when it moves.",
+    "title_pt_BR": "Fairy's Secret Folder 2.1 chegou",
+    "message_pt_BR": "Use suas próprias pastas de mods do jeito que estão, abra os novos Guias com F1 e cace sete conquistas novas. Suas opções salvas agora acompanham o mod quando ele muda de lugar.",
+    "title_zh": "Fairy's Secret Folder 2.1 已发布",
+    "message_zh": "现在可以直接使用你自己的 Mod 文件夹，按 F1 打开新的指南，还有 7 个新成就等你解锁。移动 Mod 时，保存的开关也会跟着走。"
+  },
+  {
+    "id": "2.0.0-release",
+    "date": "2026-10-10T12:00:00Z",
+    "title": "Fairy's Secret Folder 2.0 is out",
+    "message": "Three app styles, reworked achievements, fairy tips and an in-game mod menu. Your settings and achievements carry over.",
+    "title_pt_BR": "Fairy's Secret Folder 2.0 já está disponível",
+    "message_pt_BR": "Três estilos de visual, conquistas reformuladas, dicas da Fairy e menu de mods no jogo. Suas configurações e conquistas continuam salvas.",
+    "title_zh": "Fairy's Secret Folder 2.0 正式发布",
+    "message_zh": "新增三种界面风格、全面重构的成就系统、每日妖精提示与游戏内模组菜单。您的所有设置与成就进度均完整保留。"
+  },
+  {
+    "id": "1.3.4-release",
+    "title": "ZZZ Mod Hub Update 1.3.4",
+    "message": "### What is new in v1.3.4:\n- **Protagonist Mod Fixes**: Fixed component draw calls and normal map bindings across protagonist (Belle & Wise) mods so outfit toggles and meshes display cleanly without stretching.\n- **Roxy Character Support**: Remember to click **Sync Database** in Settings (or during setup) to pull the latest definitions and hashes for Roxy.\n- **Character Frame Capture**: Import 3DMigoto frame analysis dumps directly to identify components, meshes, and texture bindings for new or unlisted characters.\n- **Fairy's Fixer Sub-Draw Scoping**: Scopes component-wide draw calls to their exact sub-draw index buffer bindings, preventing misaligned meshes and misplaced accessories.\n- **Shared Normal Map Gating**: Safely gates overrides moved onto shared normal maps to their own part and converts target texture coordinates without corrupting shared textures.\n- **3D Mod Viewer Upgrades**: Enhanced texture decoding for BC3 and BC7 textures, potato-mode performance controls, and smoother scene camera framing.\n- **Resilient Character Database**: Automatically preserves existing local character definitions if remote database updates drop connection or time out.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.3.4",
+    "message_pt_BR": "### Novidades da v1.3.4:\n- **Correções para Mods dos Protagonistas**: Corrigidas chamadas de desenho e mapas normais em mods dos protagonistas (Belle e Wise), garantindo que variações e malhas carreguem sem esticar.\n- **Suporte para Roxy**: Lembre-se de clicar em **Sincronizar Banco** nas Configurações para baixar as definições e hashes mais recentes da Roxy.\n- **Captura de Personagens por Frame**: Importe dumps de análise do 3DMigoto para identificar peças, malhas e texturas de personagens novos ou personalizados.\n- **Fairy's Fixer com Chamadas Precisas**: Restringe chamadas de desenho ao índice de sub-desenho correto, evitando peças flutuando ou malhas desalinhadas.\n- **Proteção de Mapas Normais Compartilhados**: Isola modificações em texturas normais compartilhadas para a peça correta e converte coordenadas UV com total segurança.\n- **Melhorias no Visualizador 3D**: Decodificação aprimorada de texturas BC3 e BC7, modo de alto desempenho (potato mode) e enquadramento de câmera mais suave.\n- **Banco de Personagens Resiliente**: Mantém as definições locais de personagens intactas se a sincronização online falhar ou perder conexão.",
+    "title_zh": "ZZZ Mod Hub 1.3.4 更新",
+    "message_zh": "### v1.3.4 更新内容：\n- **主角模组修复**：修复主角（Belle 与 Wise）模组中的组件绘制调用与法线贴图绑定，彻底解决服装切换与网格破面拉伸问题。\n- **Roxy 角色支持提醒**：请在设置中点击**同步数据库**，以获取 Roxy 的最新哈希与角色定义。\n- **帧分析角色捕获向导**：支持直接导入 3DMigoto 帧分析 Dump，自动识别新角色或未收录实体的组件、网格与纹理绑定。\n- **Fairy's Fixer 子绘制精准绑定**：将全局绘制调用严格限定于对应子绘制索引缓冲区，彻底解决配件错位与部件漂浮问题。\n- **共享法线贴图隔离保护**：安全隔离共享法线贴图上的重叠修改并智能转换 UV 纹理坐标，杜绝纹理串色与损坏。\n- **3D 模型查看器升级**：增强 BC3/BC7 贴图解码支持，增加低配性能模式，并优化场景相机视角边界。\n- **角色数据库网络容灾**：当远程数据库更新因网络超时或中断失败时，自动保留现有本地角色定义，确保服务不中断。",
+    "date": "2026-10-03T11:00:00Z"
+  },
+  {
+    "id": "1.3.3-release",
+    "title": "ZZZ Mod Hub Update 1.3.3",
+    "message": "### What is new in v1.3.3:\n- **Game Launch Protection**: Supports custom launcher flags and prevents duplicate game instances from launching when the game is already running.\n- **Hardened 1-Click Installs**: Refuses links from other games with clear notifications, blocks dangerous executables, and verifies download file integrity.\n- **Responsive Discover Toolbar**: Toolbar controls and page buttons now wrap cleanly so navigation never gets cut off on smaller screens.\n- **Enhanced RAR Extraction**: Added 7-Zip fallback support for complex and multi-part RAR archives.\n- **Built-In Diagnostic Reports**: Generate one-click diagnostic reports in Settings to help troubleshoot setup and mod loading issues.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.3.3",
+    "message_pt_BR": "### Novidades da v1.3.3:\n- **Proteção na Inicialização do Jogo**: Suporte a parâmetros no inicializador e prevenção contra abertura duplicada se o jogo já estiver aberto.\n- **Instalação em 1 Clique Mais Segura**: Recusa links de outros jogos com avisos claros, bloqueia executáveis perigosos e valida a integridade do download.\n- **Barra do Discover Responsiva**: Botões de página e filtros agora se ajustam perfeitamente para não saírem da tela em resoluções menores.\n- **Extração Aprimorada de RAR**: Adicionado suporte automático via 7-Zip para descompactar arquivos RAR complexos ou divididos em partes.\n- **Relatórios de Diagnóstico**: Gere um relatório do sistema nas Configurações com um clique para facilitar a resolução de problemas.",
+    "title_zh": "ZZZ Mod Hub 1.3.3 更新",
+    "message_zh": "### v1.3.3 更新内容：\n- **游戏启动防重复保护**：支持带参数的自定义启动器命令，在游戏已运行时自动阻止重复打开客户端。\n- **一键安装协议安全加固**：自动识别并拦截非绝区零模组链接，严格阻断可执行文件下载并校验文件完整性。\n- **发现页响应式工具栏**：工具栏在较小窗口下支持优雅换行，确保翻页按钮与过滤选项始终完整可见。\n- **RAR 压缩包解压增强**：内置 7-Zip 降级提取能力，完美支持复杂分卷与特殊格式 RAR 模组包解压。\n- **一键生成诊断报告**：可在设置中一键生成运行诊断信息，排查路径配置与模组加载问题更方便。",
+    "date": "2026-09-30T10:00:00Z"
+  },
+  {
+    "id": "1.3.2-release",
+    "title": "ZZZ Mod Hub Update 1.3.2",
+    "message": "### What is new in v1.3.2:\n- **Instant Settings Search**: Search and jump directly to any setting, keybind, or toggle with the new search bar in Settings.\n- **Legacy Belle Component Split**: Break monolithic Belle mods into separate Hair, Legs, and Earrings folders without touching INIs.\n- **Background Hot Reload**: Reload mods without window focus shifts or administrator elevation prompts.\n- **Crash-Proof File Saves**: All configuration and script edits are saved atomically to protect against sudden power loss or crashes.\n- **Encrypted Archive Warning**: Fast-fails with a clear notification when trying to extract password-protected RAR archives.\n- **Network Timeouts**: API queries and database syncs time out cleanly so slow connections never stall the manager.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.3.2",
+    "message_pt_BR": "### Novidades da v1.3.2:\n- **Busca Rápida nas Configurações**: Encontre e acesse instantaneamente qualquer opção, atalho ou ajuste na nova barra de pesquisa.\n- **Divisão de Peças da Belle**: Divida mods antigos da Belle em pastas separadas de Cabelo, Pernas e Brincos sem editar arquivos INI.\n- **Recarregamento Rápido em Segundo Plano**: Recarregue mods no jogo sem perder o foco da janela e sem telas de permissão de administrador.\n- **Salvamento Blindado contra Quedas**: Gravação atômica de configurações e scripts para proteger seus dados contra desligamentos repentinos.\n- **Aviso de Arquivos com Senha**: Alerta imediato e claro ao tentar descompactar arquivos RAR protegidos por senha em vez de travar o app.\n- **Limites de Tempo de Rede**: Consultas à API e sincronizações com o banco têm tempos limites para conexões lentas não congelarem o gerenciador.",
+    "title_zh": "ZZZ Mod Hub 1.3.2 更新",
+    "message_zh": "### v1.3.2 更新内容：\n- **设置项实时即搜即达**：设置页面新增快捷搜索栏，输入关键词即可一键直达对应功能开关与快捷键设置。\n- **经典 Belle 部件拆分支持**：模组拆分器支持将旧版 Belle 整体模组一键拆分为头发、腿部与耳饰独立组件目录。\n- **无感后台热重载**：游戏内重载模组无需切换前台窗口焦点，且无需管理员提权弹窗打扰。\n- **崩溃防丢原子写入**：所有配置文件与 INI 脚本保存均采用原子写入机制，杜绝异常关机或断电导致文件损坏丢失。\n- **加密压缩包防假死提醒**：遇到带密码保护的 RAR 压缩包时立即弹出明确告警提示，防止解压长时间未响应。\n- **网络请求超时保护**：为 GameBanana API 查询及数据库同步增加稳健的超时处理，防止弱网环境下界面卡死。",
+    "date": "2026-09-28T17:00:00Z"
+  },
+  {
+    "id": "1.3.1-release",
+    "title": "ZZZ Mod Hub Update 1.3.1",
+    "message": "### What is new in v1.3.1:\n- **In-Game Toggle Presets**: Save and load outfit toggle combinations into custom presets with dedicated in-game save slots.\n- **Agent-Aware Mod Repairs**: Fixer now checks the mod's own character to resolve conflicting migration hashes, preventing parts from disappearing or mapping to the wrong agent.\n- **Backup INI Naming Fix**: Fixed a rare issue where backup files were created as DISABLE instead of DISABLED, preventing 3DMigoto from mistakenly loading the backup.\n- **Component Splitter Fix**: Properly places implied draw calls inside index buffer blocks to prevent invisible or misplaced submeshes.\n- **Tool Fix for Mod Updater**: Downloaded mod updates now cleanly install directly into the mod's existing folder instead of creating redundant directories.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.3.1",
+    "message_pt_BR": "### Novidades da v1.3.1:\n- **Presets de Variações no Jogo**: Salve e carregue combinações de roupas e peças em presets com slots rápidos de salvamento no jogo.\n- **Corretor Inteligente por Agente**: O corretor agora consulta o personagem do próprio mod ao resolver hashes conflitantes, evitando peças sumidas ou migradas para o agente errado.\n- **Correção no Nome de Backups**: Corrigido um caso raro em que backups eram criados como DISABLE em vez de DISABLED, evitando que o 3DMigoto os carregasse por engano.\n- **Ajuste no Separador de Componentes**: Corrige o posicionamento de chamadas de desenho em blocos de índice, mantendo todas as submalhas alinhadas.\n- **Correção no Atualizador do Mod Hub**: As atualizações de mods agora são baixadas diretamente na pasta existente do mod sem criar pastas duplicadas.",
+    "title_zh": "ZZZ Mod Hub 1.3.1 更新",
+    "message_zh": "### v1.3.1 更新内容：\n- **游戏内变体预设与存档槽**：支持将服装与配件变体组合保存为独立预设，并可在游戏内通过快捷槽位快速切换。\n- **基于角色的精准模组修复**：修复器遇到迁移哈希冲突时优先遵循模组所属角色，防止部件丢失或被错误分配至其他角色。\n- **INI 备份命名修复**：修复在极少数情况下备份文件被命名为 DISABLE 而非 DISABLED 导致 3DMigoto 意外将其加载的偶发问题。\n- **组件拆分器绘制调用修复**：确保隐式绘制调用正确绑定于对应索引缓冲区内，彻底解决拆分后子网格错位或隐形问题。\n- **模组更新器工具修复**：模组在线更新时自动对齐并精准下载至已有模组目录，不再生成重复的冗余文件夹。",
+    "date": "2026-09-25T03:40:00Z"
+  },
+  {
+    "id": "1.3.0-release",
+    "title": "ZZZ Mod Hub Update 1.3.0",
+    "message": "### What is new in v1.3.0:\n- **Approved on GameBanana**: Fairy's Secret Folder graduated from WIP and is now officially listed under GameBanana Tools (gamebanana.com/tools/24086).\n- **Extended Jane Doe Fixes**: Fixed stubborn tail distortion, hair clipping, and blend buffer weighting on Jane Doe mods so custom models move and animate without stretching.\n- **Tutorial & Setup Adjustments**: Overhauled first-time setup flow, clearer folder detection checks, and refreshed documentation guides with embedded clip previews.\n- **Mod Component Splitter**: Break multi-outfit packs and character bundles into separate folders with one click, letting you toggle individual parts without touching INI files.\n- **Offline Mesh Simulator**: Checks draw-call bindings and model hashes against game baselines before launch to catch broken meshes early.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.3.0",
+    "message_pt_BR": "### Novidades da v1.3.0:\n- **Aprovado no GameBanana**: O Fairy's Secret Folder saiu da fase WIP e agora está aprovado na seção oficial de Ferramentas (gamebanana.com/tools/24086).\n- **Mais Correções para Jane Doe**: Corrigidas distorções na cauda, cabelo e pesos de animação em mods da Jane Doe, garantindo movimentos naturais sem malhas esticadas.\n- **Ajustes no Tutorial e Configuração Inicial**: Guia de primeiro uso aprimorado, detecção de pastas mais clara e documentação atualizada com vídeos curtos integrados.\n- **Separador de Componentes**: Divida pacotes de trajes e personagens em pastas separadas com um clique, permitindo alternar partes sem editar arquivos INI.\n- **Simulador de Malhas Offline**: Valida os hashes e vínculos do mod antes de abrir o jogo, prevenindo falhas visuais antecipadamente.",
+    "title_zh": "ZZZ Mod Hub 1.3.0 更新",
+    "message_zh": "### v1.3.0 更新内容：\n- **GameBanana 官方工具区正式上架**：工具已顺利脱离 WIP 审核区，正式入驻 GameBanana 工具分类（gamebanana.com/tools/24086）。\n- **简·杜模组深度修复**：彻底修复简·杜模组中尾部变形、发型穿模及骨骼权重权重异常，模型动作流畅自然无拉伸。\n- **新手教程与引导优化**：重构首次安装指引，优化 3DMigoto 路径识别，官方文档全面更新并内嵌实操演示视频。\n- **模组组件拆分器**：一键将多服装合集与多角色捆绑包拆解为独立模组目录，无需手动修改 INI 即可自由组合。\n- **离线模型加载模拟**：在启动游戏前对比游戏原始基准哈希与绘制调用，提前排查破面与冲突问题。",
+    "date": "2026-09-23T07:35:00Z"
+  },
+  {
+    "id": "1.2.8-release",
+    "title": "ZZZ Mod Hub Update 1.2.8",
+    "message": "### What is new in v1.2.8:\n- **Jane Doe Mod Fixes**: Fixed vertex count overflows and split-mesh errors on complex Jane Doe mods (like custom hair or tails) so models render without stretching or crashing.\n- **Automatic Artwork Previews**: Fetches GameBanana preview thumbnails in the background for mods missing local images.\n- **15 Video Walkthroughs**: Short, silent video guides added across our official documentation site.\n- **Quick Snapper Calibration**: Adjust screenshot capture crop coordinates for your monitor resolution under Settings > In-Game.\n- **Direct Keybind Editor**: The Change Keybind button now sits directly below the toggle switch on mod cards.\n- **Clearer Warning Badges**: Simplified badge explanations for INI script updates, shared character meshes, and texture collisions.\n- **Auto-Sort Reminders**: Clear tips reminding you to run Auto-Sort after importing mods from other managers.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.8",
+    "message_pt_BR": "### Novidades da v1.2.8:\n- **Correções para Mods da Jane Doe**: Corrige erros de contagem de vértices e divisão de malha em mods complexos da Jane Doe (como cabelos e caudas personalizadas), evitando modelos esticados ou falhas.\n- **Miniaturas Automáticas**: Baixa imagens de pré-visualização do GameBanana em segundo plano para mods sem imagem.\n- **15 Vídeos Tutoriais**: Vídeos curtos e diretos adicionados ao site oficial de documentação.\n- **Calibração do Quick Snapper**: Ajuste as coordenadas de corte da captura para a resolução do seu monitor em Configurações > No Jogo.\n- **Botão Direto de Atalhos**: O botão de alterar atalhos agora fica logo abaixo do interruptor de ativação no cartão do mod.\n- **Avisos Mais Claros**: Explicações simplificadas para selos de atualização de script INI, malhas compartilhadas e colisões.\n- **Lembretes de Auto-Organizar**: Dicas para lembrar de usar a Auto-Organização após importar mods de outros gerenciadores.",
+    "title_zh": "ZZZ Mod Hub 1.2.8 更新",
+    "message_zh": "### v1.2.8 更新内容：\n- **简·杜模组修复增强**：修复复杂简·杜模组（如高精发型与尾部配件）中的顶点超限与网格拆分错位问题，杜绝模型拉伸与崩溃。\n- **预览图自动补全**：后台自动为缺少本地封面的 GameBanana 模组抓取缩略图。\n- **15 个视频实操教程**：官方文档站点上线 15 个无声简短操作演示视频。\n- **快速截图框选校准**：可在“设置 > 游戏内”自由调整适配当前屏幕分辨率的截图裁剪区域。\n- **快捷键直达修改**：模组卡片开关正下方新增“修改快捷键”按钮，配置变体更方便。\n- **角标提示精简清晰**：重写优化了 INI 脚本更新、多皮肤共享特征和模型冲突的角标说明。\n- **导入后自动整理提醒**：在各迁移页面增加提示，提醒导入其他工具的模组后运行自动整理。",
+    "date": "2026-09-21T06:00:00Z"
+  },
+  {
+    "id": "1.2.7-release",
+    "title": "ZZZ Mod Hub Update 1.2.7",
+    "message": "### What is new in v1.2.7:\n- **GameBanana 1-Click Protocol**: Install mods directly from GameBanana with 1-click install links.\n- **Official Documentation Site**: Launched our full guide and 3DMigoto INI reference at the-sea-man.github.io/ZZZ-Mod-Hub.\n- **Mod Fix Safety Checks**: Added vertex buffer checks to prevent broken meshes and stretch bugs when patching older mods.\n- **In-Game HUD Overlay**: Added a lightweight 3DMigoto overlay (H key) to switch outfit variants in real time.\n- **Multi-Language Polish**: Cleaned up translation keys and UI text across all 9 built-in languages.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.7",
+    "message_pt_BR": "### Novidades da v1.2.7:\n- **Instalação em 1 Clique**: Suporte para instalar mods diretamente do GameBanana através de links de 1 clique.\n- **Site Oficial de Guias**: Lançamento do manual de uso completo e referência INI do 3DMigoto no GitHub Pages.\n- **Verificação do Corretor**: Testes de segurança para validar buffers de vértices e evitar malhas quebradas ao aplicar correções.\n- **Menu HUD no Jogo**: Menu sobreposto (tecla H) para alternar variações de roupas sem sair do jogo.\n- **Ajustes de Tradução**: Textos e traduções revisados em todos os 9 idiomas integrados.",
+    "title_zh": "ZZZ Mod Hub 1.2.7 更新",
+    "message_zh": "### v1.2.7 更新内容：\n- **GameBanana 一键安装协议**：支持通过网页一键协议直接将模组下载并安装到管理器。\n- **官方文档中心上线**：在 GitHub Pages 正式发布完整使用教程与 3DMigoto INI 编写参考。\n- **模组修复安全校验**：修复网格时增加顶点缓冲区离线校验，防止修复后模型破面拉伸。\n- **游戏内快捷 HUD 菜单**：支持在游戏内按 H 键呼出轻量菜单，无需切屏即可切换服装变体。\n- **界面与多语言校对**：完善校对了 9 种内置语言的界面文案与提示。",
+    "date": "2026-09-21T02:00:00Z"
+  },
+  {
+    "id": "1.2.6-release",
+    "title": "ZZZ Mod Hub Update 1.2.6",
+    "message": "### What's New in v1.2.6:\n- **Automated Build Environment**: Corrected frontend distribution stub creation during automated compilation workflows.\n- **Backend Code Cleanup**: Resolved Clippy compiler warnings across the logging and mod fixer modules.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.6",
+    "message_pt_BR": "### Novidades da v1.2.6:\n- **Ambiente de Build Automatizado**: Correção na criação de stubs da interface durante compilações automatizadas.\n- **Limpeza do Código Backend**: Resolução de avisos do compilador Clippy nos módulos de log e corretor de mods.",
+    "title_zh": "ZZZ Mod Hub 1.2.6 更新",
+    "message_zh": "### v1.2.6 更新内容：\n- **自动化构建环境修复**：修复自动化编译工作流中的前端资源占位生成。\n- **后端代码规范清理**：修复日志系统与模组修复器模块中的 Clippy 编译器警告。",
+    "date": "2026-09-17T11:00:00Z"
+  },
+  {
+    "id": "1.2.5-release",
+    "title": "ZZZ Mod Hub Update 1.2.5",
+    "message": "### What's New in v1.2.5:\n- **Interactive Mod Backup Rollback**: Inspect backup dates and file sizes, and restore original mod files with one click whenever an update or edit breaks something.\n- **Card Appearance Customizer**: Personalize mod cards in Settings with theme presets (Default, Minimal, Cyber, Contrast), adjustable opacity, blur, borders, and button visibility toggles.\n- **Custom Category Folders**: Create, rename, or delete custom library categories and map them directly to character folders, with safety locks protecting essential system folders.\n- **Hardened Mod Profiles**: Fixed profile matching across disabled folders to prevent accidental cross-character collisions when switching presets.\n- **Patch Remapping in Mod Fixer**: Added submesh index remapping across game patches, keeping custom models aligned after major game updates.\n- **Dual Activity Logging**: Tracks mod changes and errors with a 1-click rollback button to undo accidental fixes or moves.\n- **Thai Language Added**: Added Thai localization, bringing built-in language support to 9 languages.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.5",
+    "message_pt_BR": "### Novidades da v1.2.5:\n- **Restauração Interativa de Backups**: Inspecione datas e tamanhos de backups e restaure arquivos originais de mods com um clique se algo quebrar após edições.\n- **Personalização de Cartões de Mods**: Customize os cartões de mods nas Configurações com temas (Padrão, Minimalista, Cyber, Alto Contraste), transparência, cantos arredondados e visibilidade de botões.\n- **Gerenciador de Pastas Personalizadas**: Crie, renomeie ou exclua pastas personalizadas e vincule a personagens, com proteção para pastas essenciais do sistema.\n- **Perfis de Mods Mais Robustos**: Corrige a comparação de perfis em pastas desativadas para evitar conflitos acidentais entre personagens ao alternar presets.\n- **Readequação de Submalhas no Corretor**: Remapeamento de índices de submalhas entre versões do jogo, evitando modelos desalinhados após atualizações.\n- **Histórico Duplo de Operações**: Registro separado de alterações e erros com botão de desfazer em 1 clique nas Configurações.\n- **Novo Idioma Tailandês**: Adição de localização completa em tailandês, totalizando 9 idiomas integrados.",
+    "title_zh": "ZZZ Mod Hub 1.2.5 更新",
+    "message_zh": "### v1.2.5 更新内容：\n- **交互式备份与回滚**：支持对比备份时间与文件大小，并在模组修复或修改异常时一键还原原始文件。\n- **模组卡片外观自定义**：在设置中自由调整卡片样式，提供 4 种预设（默认、极简、赛博、高对比），支持透明度、圆角及按钮显隐控制。\n- **自定义分类文件夹管理**：支持新建、重命名或删除自定义模组文件夹并映射到角色，核心系统目录受严格保护。\n- **配置文件防冲突优化**：完善禁用目录下的路径比对机制，杜绝切换配置预设时的跨角色混淆问题。\n- **模组修复器子网格重映射**：支持跨游戏版本的子网格索引重映射，确保更新后模型部件对齐不穿帮。\n- **双轨操作日志与一键撤销**：分别记录模组变动与运行错误，并支持在设置中一键撤销最近操作。\n- **新增泰语支持**：新增完整泰语本地化，内置语言扩展至 9 种。",
+    "date": "2026-09-17T08:00:00Z"
+  },
+  {
+    "id": "1.2.4-release",
+    "title": "ZZZ Mod Hub Update 1.2.4",
+    "message": "### What's New in v1.2.4:\n- **Auto-Translation Engine**: Built-in translation engine in Language Hub supporting 50+ world languages with real-time translation and custom pack export.\n- **Silent Archive Extraction**: Suppressed flashing console windows when installing `.rar` or `.7z` archives and launching game utilities.\n- **Hardened Path Security**: Strict path sanitization and URL validation preventing directory traversal attacks in downloaded mods.\n- **Clearer Warning Badges**: Blue badges specifically indicate fixable `.ini` script errors, while yellow badges highlight multi-entity characters sharing base hashes.\n- **GNU GPL v3 License & Docs**: Adopted GNU GPL v3 license, updated installer EULA, and expanded the user guide.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.4",
+    "message_pt_BR": "### Novidades da v1.2.4:\n- **Motor de Tradução Automática**: Tradutor integrado na Central de Idiomas com suporte a mais de 50 idiomas mundiais e exportação de pacotes.\n- **Extração Silenciosa de Arquivos**: Elimina janelas pretas piscando ao extrair arquivos `.rar` ou `.7z` e abrir ferramentas.\n- **Segurança Reforçada de Caminhos**: Sanitização rigorosa de caminhos e validação de URLs para evitar falhas de diretório em mods baixados.\n- **Distinção Clara de Alertas**: Selos azuis indicam erros corrigíveis em scripts `.ini`, enquanto selos amarelos destacam personagens com skins que compartilham hashes.\n- **Licença GNU GPL v3 e Guias**: Adoção da licença GNU GPL v3, atualização do contrato de instalação e manual de usuário expandido.",
+    "title_zh": "ZZZ Mod Hub 1.2.4 更新",
+    "message_zh": "### v1.2.4 更新内容：\n- **自动翻译引擎**：语言中心内置多语言翻译引擎，支持全球 50+ 种语言实时翻译与独立语言包导出。\n- **无感静默解压**：彻底解决安装 `.rar` 或 `.7z` 压缩包及启动工具时控制台黑框闪烁问题。\n- **路径安全加固**：严格过滤与校验外部路径与链接，杜绝路径穿越与恶意命令注入风险。\n- **警告角标规范化**：蓝色角标专指可自动修复的 `.ini` 脚本错误，黄色角标标明多皮肤实体共享特征哈希。\n- **GNU GPL v3 开源协议与文档**：正式采用 GNU GPL v3 协议，更新安装许可条款，提供完整使用指南。",
+    "date": "2026-09-13T19:00:00Z"
+  },
+  {
+    "id": "1.2.3-release",
+    "title": "ZZZ Mod Hub Update 1.2.3",
+    "message": "### What's New in v1.2.3:\n- **3-Mode Mod Splitter**: Split mods by character pack, by accessory toggle (glasses, hats), or by body part (top, bottom, hair) so you can mix and match parts across mods.\n- **Mesh Protection Warnings**: Detects when a mod is sculpted as a single unified piece and warns you before splitting, preventing missing limbs in-game.\n- **Mod Fixer Improvements**: Preserves original texture and resource bindings when generating multi-resolution overrides for older mods.\n- **Self-Healing Script Scanner**: Restores mod script sections that were commented out by mistake, and cleans up vertex limit warnings without duplicate lines.\n- **In-Game UI Cleanup**: Automatically removes overlay menu files when a mod is disabled to prevent ghost menus.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.3",
+    "message_pt_BR": "### Novidades da v1.2.3:\n- **Separador de Mods em 3 Modos**: Divida mods por pacote de personagens, por acessórios e toggles (óculos, chapéus) ou por partes do corpo (superior, inferior, cabelo) para combinar partes de mods diferentes.\n- **Aviso de Proteção de Malha**: Detecta modelos esculpidos em peça única e avisa antes de dividir, evitando membros invisíveis no jogo.\n- **Melhorias no Corretor de Mods**: Preserva vínculos originais de texturas e recursos ao criar ajustes para múltiplas resoluções em mods antigos.\n- **Scanner com Auto-Recuperação**: Restaura seções comentadas por engano nos scripts dos mods e corrige limites de vértices sem duplicar linhas.\n- **Limpeza de Menus no Jogo**: Remove automaticamente arquivos de menu de sobreposição ao desativar um mod, evitando menus fantasmas.",
+    "title_zh": "ZZZ Mod Hub 1.2.3 更新",
+    "message_zh": "### v1.2.3 更新内容：\n- **三模式模组拆分器**：支持按角色包、按配件与开关（眼镜、帽子）、或按身体部位（上装、下装、发型）拆分，方便跨模组自由混搭。\n- **网格保护警告**：自动检测一体化雕刻的单网格模型并在拆分前发出警告，防止游戏中出现肢体缺失或模型穿帮。\n- **模组修复器升级**：为旧版模组生成多分辨率兼容配置时，完整保留原始贴图与资源绑定。\n- **自愈式脚本扫描器**：安全恢复此前误注释的脚本段落，修复顶点限制警告且不产生多余重复行。\n- **游戏内界面清理**：禁用模组时自动清理残余的悬浮菜单文件，避免残留幽灵按键与失效菜单。",
+    "date": "2026-09-11T05:00:00Z"
+  },
+  {
+    "id": "1.2.2-release",
+    "title": "ZZZ Mod Hub Update 1.2.2",
+    "message": "### What's New in v1.2.2:\n- **5 New Languages Added**: Full translations for Spanish, Japanese, Korean, Russian, and Traditional Chinese, bringing total built-in languages to 8.\n- **Cancel Long Tasks**: Cancel heavy loading tasks like 3D model parsing, archive extraction, and batch scans instantly without freezing the app.\n- **Mod Fixer Stride Auto-Sync**: Automatically updates `stride` values in mod `.ini` files when remapping vertex buffers, preventing stretched meshes and game crashes.\n- **GameBanana Discover & Tools**: Browse tools directly in the Discover feed alongside character mods, with integrated community poll banners.\n- **Performance & Stability**: Parallelized category warning scans for faster library loading, hardened 3D viewer memory handling, and broader test coverage.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.2",
+    "message_pt_BR": "### Novidades da v1.2.2:\n- **5 Novos Idiomas Adicionados**: Traduções completas para Espanhol, Japonês, Coreano, Russo e Chinês Tradicional, totalizando 8 idiomas disponíveis.\n- **Cancelamento de Tarefas**: Cancele tarefas pesadas como carregamento 3D, extração de arquivos e varreduras em lote imediatamente sem travar o aplicativo.\n- **Correção Automática de Stride no Mod Fixer**: Atualiza automaticamente valores de `stride` nos arquivos `.ini` ao remapear buffers de vértices, evitando modelos esticados e travamentos.\n- **GameBanana Discover e Ferramentas**: Navegue por ferramentas diretamente na aba Descobrir, com exibição de enquetes da comunidade.\n- **Desempenho e Estabilidade**: Varredura paralela de alertas nas categorias para carregamento mais rápido, melhorias de memória no visualizador 3D e maior estabilidade geral.",
+    "title_zh": "ZZZ Mod Hub 1.2.2 更新",
+    "message_zh": "### v1.2.2 更新内容：\n- **新增 5 种语言**：支持西班牙语、日语、韩语、俄语与繁体中文，内置语言扩展至 8 种。\n- **随时取消耗时任务**：解析 3D 模型、解压压缩包或进行批量扫描时支持即时取消，避免界面卡住。\n- **模组修复器步长自动同步**：重映射顶点缓冲区时自动修正 `.ini` 中的 `stride` 数值，防止网格拉伸和游戏闪退。\n- **GameBanana 发现页与工具支持**：在发现页直接浏览实用工具，并嵌入展示社区投票条目。\n- **性能与稳定性提升**：并行处理分类警告扫描加速启动，优化 3D 预览器内存管理，全面提升稳定性。",
+    "date": "2026-09-10T18:00:00Z"
+  },
+  {
+    "id": "1.2.1-release",
+    "title": "ZZZ Mod Hub Update 1.2.1",
+    "message": "### What's New in v1.2.1:\n- **Mod Toggle & State Persistence**: Preserves ZZMI namespaces and relative path sections in `d3dx_user.ini` constants so toggle states and custom variables are saved when disabling and re-enabling mods.\n- **GameBanana Multi-Mod Query Chunking**: Queries mods in batches of 50 to prevent API rate limits and timeouts.\n- **Batch Actions**: Improves batch toolbar reliability, adds toggle sound feedback, and sends F10 reload in-game during bulk toggles.\n- **Storage Safety**: Uses typed storage helpers for `localStorage` data to prevent crashes from corrupted entries.\n- **Performance Profiles**: Refines conflict and script warning scan rules for balanced and low-performance profiles.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.1",
+    "message_pt_BR": "### Novidades da v1.2.1:\n- **Persistência de Estados e Toggles**: Preserva namespaces do ZZMI e caminhos relativos em `d3dx_user.ini` para que variáveis e toggles sejam mantidos ao desativar e reativar mods.\n- **Consultas no GameBanana em Lotes**: Divide buscas de múltiplos mods em grupos de 50 para evitar limites de API e timeouts.\n- **Ações em Lote**: Melhora a estabilidade da barra de ações em lote, adiciona feedback sonoro e recarrega com F10 no jogo.\n- **Segurança de Armazenamento**: Usa funções tipadas de leitura e escrita para evitar erros com dados corrompidos.\n- **Perfis de Desempenho**: Ajusta o escaneamento de conflitos e scripts nos modos balanceado e leve.",
+    "title_zh": "ZZZ Mod Hub 1.2.1 更新",
+    "message_zh": "### v1.2.1 更新内容：\n- **模组状态与 Toggle 持久化**：支持 ZZMI 命名空间与相对路径常数，在 `d3dx_user.ini` 中保存模组 Toggle 状态，禁用和重新启用模组不再丢失状态。\n- **GameBanana 分批查询**：将多模组查询拆分为每批 50 项，避免触发 API 限制和超时。\n- **批量操作改进**：提升批量选择工具栏的稳定性，新增切换音效，并在游戏内发送 F10 重新加载。\n- **存储安全**：使用类型安全包装读取和写入本地存储，避免损坏数据导致闪退。\n- **性能配置调优**：调整平衡与低性能模式下的脚本和冲突检测规则。",
+    "date": "2026-09-05T18:00:00Z"
+  },
+  {
+    "id": "poll-rename-2026-09",
+    "title": "Vote: Help Us Choose a Name for Mod Hub",
+    "message": "Vote on GameBanana to help pick a better name for the mod manager:\n[Vote in the Name Poll on GameBanana](https://gamebanana.com/polls/5134)\n\n",
+    "title_pt_BR": "Votação: Ajude a escolher o nome do Mod Hub",
+    "message_pt_BR": "Vote no GameBanana para ajudar a escolher um nome para o gerenciador de mods:\n[Votar na Enquete do GameBanana](https://gamebanana.com/polls/5134)\n\n",
+    "title_zh": "投票：帮助我们为 Mod Hub 确定正式名称",
+    "message_zh": "请前往 GameBanana 参与投票，帮助挑选更合适的模组管理器名称：\n[参与 GameBanana 命名投票](https://gamebanana.com/polls/5134)\n\n",
+    "date": "2026-09-03T21:30:00Z"
+  },
+  {
+    "id": "1.2.0-release",
+    "title": "ZZZ Mod Hub Update 1.2.0",
+    "message": "### What's New in v1.2.0:\n- **Download Retries & Multi-Threading**: Adds automatic Cloudflare CDN failover for failed downloads and 4-chunk parallel downloads for mods over 5MB.\n- **3D Viewer Camera Presets**: Adds orbit camera presets (Face, Full Body, Feet), wireframe mode, and mesh part toggles.\n- **Skeleton Loading**: Adds skeleton placeholders for the character sidebar and mod gallery while loading.\n- **Mod Management**: Adds dedicated dialogs to rename, move, and resolve conflicts, with faster batch actions.\n- **Mod Fixer & Splitter**: Adds vertex buffer remapping (half-float f16, bone weights) and multi-part outfit splitting.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.2.0",
+    "message_pt_BR": "### Novidades da v1.2.0:\n- **Downloads Confiáveis & Multi-Thread**: Adiciona troca para CDN Cloudflare em caso de falha e download em 4 partes para mods acima de 5MB.\n- **Câmera do Visualizador 3D**: Adiciona ângulos pré-definidos (Rosto, Corpo Inteiro, Pés), modo aramado e controle de partes de malha.\n- **Carregamento com Skeleton**: Adiciona telas de carregamento suaves para a barra lateral e galeria de mods.\n- **Gerenciamento de Mods**: Adiciona telas dedicadas para renomear, mover e resolver conflitos, com ações em lote mais rápidas.\n- **Corretor e Separador de Mods**: Adiciona remapeamento de buffers de vértices (f16, pesos de ossos) e divisão de pacotes de mods.",
+    "title_zh": "ZZZ Mod Hub 1.2.0 更新",
+    "message_zh": "### v1.2.0 更新内容：\n- **断点重试与多线程下载**：新增 Cloudflare CDN 镜像故障转移，5MB 以上模组支持 4 线程并行下载。\n- **3D 预览器视角预设**：新增视角预设（面部、全身、脚部），支持线框模式与网格部件开关。\n- **骨架屏加载**：为角色侧边栏和模组画廊新增骨架屏加载占位。\n- **模组管理**：新增重命名、移动分类与冲突解决面板，加快批量操作速度。\n- **修复器与拆分器**：支持顶点缓冲区重映射（半精度 f16、骨骼权重）与多部件服装拆分。",
+    "date": "2026-09-03T18:00:00Z"
+  },
+  {
+    "id": "1.1.1-release",
+    "title": "ZZZ Mod Hub Update 1.1.1",
+    "message": "### What's New in v1.1.1:\n- **Troubleshooting Guide**: New guide covering missing textures, outfit variants, game updates, and mod conflicts.\n- **Mod Fixer Previews**: Preview exact changes before applying fixes to outdated mods.\n- **Performance & Memory**: Fixes memory crashes caused by large 8K textures and improves gallery scrolling speed.\n- **Mod Splitter & Pagination**: Fixes multi-part mod splitting and GameBanana page navigation.\n- **Folder Sizes**: Mod cards display actual disk usage across all textures and subfolders.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.1.1",
+    "message_pt_BR": "### Novidades da v1.1.1:\n- **Guia de Soluções**: Novo guia cobrindo texturas ausentes, variantes de roupas, atualizações do jogo e conflitos.\n- **Pré-visualização do Corretor**: Veja as alterações antes de aplicar correções em mods desatualizados.\n- **Desempenho e Memória**: Corrige falhas de memória causadas por texturas 8K e melhora a rolagem da galeria.\n- **Separador de Mods e Paginação**: Corrige a divisão de mods em partes e a paginação do GameBanana.\n- **Tamanho dos Arquivos**: Os cards mostram o espaço em disco ocupado por cada mod e suas subpastas.",
+    "title_zh": "ZZZ Mod Hub 1.1.1 更新",
+    "message_zh": "### v1.1.1 更新内容：\n- **故障排除指南**：新增排错指南，涵盖贴图丢失、换装变体、游戏更新失效与按键冲突。\n- **修复器预览**：在应用修复前查看规则变更与网格转换细节。\n- **性能与内存优化**：修复 8K 贴图导致的内存崩溃，提升画廊滚动流畅度。\n- **拆分器与分页修复**：修复多部件模组拆分与 GameBanana 浏览分页问题。\n- **文件大小显示**：模组卡片显示包含所有子文件夹和贴图的真实硬盘占用大小。",
+    "date": "2026-08-30T22:00:00Z"
+  },
+  {
+    "id": "1.1.0-release",
+    "title": "ZZZ Mod Hub Update 1.1.0",
+    "message": "### What's New in v1.1.0:\n- **Download History**: Shows download ETA, speed tracking, target folders, and buttons to view mods in your library or folder.\n- **Update Review**: Review GameBanana mod updates and author notes before installing as a new mod or replacing the existing folder with a backup.\n- **Categorization**: Keeps non-character UI and HUD mods in Unassigned while routing character recolor textures (.dds) to character folders.\n- **Performance**: Faster thumbnail generation for large textures and a Low Performance mode in Settings.\n- **Experimental Features**: Native Mod Fixer and Splitter are now optional toggles in Settings.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.1.0",
+    "message_pt_BR": "### Novidades da v1.1.0:\n- **Histórico de Downloads**: Mostra tempo estimado, velocidade, pasta de destino e botões para abrir o mod ou pasta.\n- **Revisão de Atualizações**: Veja as notas da atualização no GameBanana antes de instalar como novo mod ou substituir com backup.\n- **Categorização**: Mantém mods de UI e HUD em Unassigned e envia texturas de recolor (.dds) para a pasta do personagem.\n- **Desempenho**: Geração mais rápida de miniaturas para texturas pesadas e modo de baixo desempenho nas Configurações.\n- **Recursos Experimentais**: Corretor de Mods e Separador agora são ativados opcionalmente nas Configurações.",
+    "title_zh": "ZZZ Mod Hub 1.1.0 更新",
+    "message_zh": "### v1.1.0 更新内容：\n- **下载历史**：显示下载速度、剩余时间预估、目标文件夹，并支持在库或文件夹中查看。\n- **更新检查**：查看 GameBanana 模组更新日志，支持安装为新模组或备份替换现有版本。\n- **分类规则**：非角色 UI/HUD 模组归入 Unassigned，角色换色贴图（.dds）自动归入对应角色。\n- **性能优化**：加快大贴图缩略图生成速度，设置中新增低性能模式。\n- **实验性功能**：原生模组修复器与拆分器改为设置中的可选开关。",
+    "date": "2026-08-29T22:05:00Z"
+  },
+  {
+    "id": "1.0.2-release",
+    "title": "ZZZ Mod Hub Update 1.0.2",
+    "message": "### What's New in v1.0.2:\n- **Language Hub**: In-app translation editor with side-by-side editing, import/export, and local file sync.\n- **Mod Sorting**: Ignores shared normal maps (`ebac056e`) to prevent false multi-character detections, while keeping alternate skin routing.\n- **Auto-Updates**: In-place installer with automatic cleanup of older files and shortcut repair.\n- **Conflict Scanner**: Removes false conflict warnings on shared game textures.",
+    "title_pt_BR": "Atualização ZZZ Mod Hub 1.0.2",
+    "message_pt_BR": "### Novidades da v1.0.2:\n- **Central de Idiomas**: Editor de tradução no app com edição lado a lado, importação/exportação e sincronização local.\n- **Organização de Mods**: Ignora mapas normais compartilhados (`ebac056e`) para evitar conflitos falsos e mantém o direcionamento correto de skins.\n- **Atualizações Automáticas**: Instalador com limpeza automática de arquivos antigos e correção de atalhos.\n- **Scanner de Conflitos**: Remove avisos falsos de conflito em texturas padrão do jogo.",
+    "title_zh": "ZZZ Mod Hub 1.0.2 更新",
+    "message_zh": "### v1.0.2 更新内容：\n- **语言中心**：应用内翻译编辑器，支持并排编辑、导入/导出与本地文件同步。\n- **模组分类**：忽略通用法线贴图（`ebac056e`）以避免误报多角色冲突，保持备用皮肤识别准确。\n- **自动更新**：优化安装流程，自动清理旧版残留文件并修复快捷方式。\n- **冲突扫描**：消除通用游戏贴图上的误报冲突提示。",
+    "date": "2026-08-17T09:40:00Z"
+  },
+  {
+    "id": "1.0-release",
+    "title": "ZZZ Mod Hub 1.0 Released",
+    "message": "ZZZ Mod Hub 1.0 is now available. This release includes GameBanana integration, automatic folder categorization, background themes, and mod toggling.",
+    "title_pt_BR": "ZZZ Mod Hub 1.0 Disponível",
+    "message_pt_BR": "O ZZZ Mod Hub 1.0 já está disponível. Esta versão inclui integração com GameBanana, categorização de pastas, temas de fundo e ativação de mods.",
+    "title_zh": "ZZZ Mod Hub 1.0 发布",
+    "message_zh": "ZZZ Mod Hub 1.0 正式发布。此版本包含 GameBanana 集成、文件夹分类、背景主题与模组开关功能。",
+    "date": "2026-08-10T12:00:00Z"
+  }
+]

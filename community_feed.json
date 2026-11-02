@@ -1,0 +1,302 @@
+{
+  "community_feed": {
+    "messages": [
+      {
+        "id": "poll-rename-manager",
+        "type": "poll",
+        "title": "Community Vote: Should We Rename the Mod Manager?",
+        "content": "Help decide the future name and identity of the mod manager.",
+        "link": "https://gamebanana.com/polls/5134",
+        "buttonText": "Vote on GameBanana"
+      },
+      {
+        "id": "welcome-hub",
+        "type": "info",
+        "title": "Curated Recommendations",
+        "content": "These mods and tools are personally recommended for quality, stability, and utility, there's plenty of NSFW mod's around so i'll try to focus on the Safe mods."
+      },
+      {
+        "id": "guides-season-bagel",
+        "type": "guide",
+        "title": "Season Missions & Operation Bagel Guides",
+        "content": "I know it's a little late but, for anyone struggling with the grind to finish all the season missions, here are two very useful guides. One breaks down the maps in detail so you can plan routing in advance, and the other covers scoring and survival strategies to use once inside the Hollow.",
+        "buttons": [
+          {
+            "label": "Map Layouts & Routing (HoYoLAB)",
+            "url": "https://www.hoyolab.com/article/46308905"
+          },
+          {
+            "label": "Operation Bagel 5M+ Strategy (Reddit)",
+            "url": "https://www.reddit.com/r/ZZZ_Discussion/comments/1vn1zn4/a_guide_to_earning_5million_avg_in_operation_bagel/"
+          }
+        ]
+      }
+    ],
+    "recommended_mods": [
+      {
+        "id": 531649,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/531649",
+        "reason": "Removes built-in censorship meshes and fixes shaders for any mod that uses glowing or emissive textures."
+      },
+      {
+        "id": 23590,
+        "type": "Tool",
+        "url": "https://gamebanana.com/tools/23590",
+        "reason": "A standalone 3DMigoto mod viewer and renderer with advanced tools, 1000x times better than the one i made, ideal for taking a deep dive into your own mods and inspecting mesh files outside the game."
+      },
+      {
+        "id": 565171,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/565171",
+        "reason": "In my opinion one of the best creators around. Most of her mods can be NSFW, but the models, textures work and overall ideation of the project are are top tier."
+      },
+      {
+        "id": 680899,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/680899",
+        "reason": "has many incredible mod designs and concepts but it seems to be focusing only on zhao for now, nonetheless the quality is still incredible, i just hope some day he releases Zhao 2B."
+      },
+      {
+        "id": 605681,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/605681",
+        "reason": ""
+      },
+      {
+        "id": 602313,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/602313",
+        "reason": ""
+      },
+      {
+        "id": 696634,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/696634",
+        "reason": ""
+      },
+      {
+        "id": 667621,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/667621",
+        "reason": ""
+      },
+      {
+        "id": 574763,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/574763",
+        "reason": "Refreshes in-game character avatar and dialog portrait icons."
+      },
+      {
+        "id": 690667,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/690667",
+        "reason": ""
+      },
+      {
+        "id": 685058,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/685058",
+        "reason": "Borguer."
+      },
+      {
+        "id": 701757,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/701757",
+        "reason": "(•_•)."
+      },
+      {
+        "id": 631336,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/631336",
+        "reason": "Moves battle HUD elements closer to the center of the screen so they are easier to track. Check out the creator's profile for other tweaks."
+      },
+      {
+        "id": 694279,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/694279",
+        "reason": ""
+      },
+      {
+        "id": 638353,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/638353",
+        "reason": "Now all we need is a chemist in zzz."
+      },
+      {
+        "id": 711134,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/711134",
+        "reason": "Lucia outfit with floral patterns and detailed lace work."
+      },
+      {
+        "id": 541522,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/541522",
+        "reason": "I like Guilty Gear sue me."
+      },
+      {
+        "id": 644061,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/644061",
+        "reason": "The crisis is so bad that even zhao had to find a part time job"
+      },
+      {
+        "id": 534571,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/534571",
+        "reason": ""
+      },
+      {
+        "id": 578836,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/578836",
+        "reason": ""
+      },
+      {
+        "id": 546938,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/546938",
+        "reason": ""
+      },
+      {
+        "id": 646426,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/646426",
+        "reason": ""
+      },
+      {
+        "id": 641675,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/641675",
+        "reason": ""
+      },
+      {
+        "id": 605685,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/605685",
+        "reason": ""
+      },
+      {
+        "id": 556040,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/556040",
+        "reason": ""
+      },
+      {
+        "id": 693979,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/693979",
+        "reason": ""
+      },
+      {
+        "id": 567891,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/567891",
+        "reason": ""
+      },
+      {
+        "id": 604604,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/604604",
+        "reason": ""
+      },
+      {
+        "id": 621075,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/621075",
+        "reason": ""
+      },
+      {
+        "id": 608108,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/608108",
+        "reason": ""
+      },
+      {
+        "id": 535405,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/535405",
+        "reason": "Recolors the parry flash indicators so they stand out clearly against bright particle effects."
+      },
+      {
+        "id": 601174,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/601174",
+        "reason": ""
+      },
+      {
+        "id": 537267,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/537267",
+        "reason": "Even Officer Mew Mew needs a vacation once in a while. Luckily, Chiitan is here to cover the shift."
+      },
+      {
+        "id": 623336,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/623336",
+        "reason": "Changes character outline thickness across the game for a bolder, more animated look."
+      },
+      {
+        "id": 565870,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/565870",
+        "reason": "Hides on-screen UI elements, useful for clean screenshots."
+      },
+      {
+        "id": 537703,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/537703",
+        "reason": "Overlay for beginners that displays enemy weaknesses and resistances. Note that it has not been updated in a while."
+      },
+      {
+        "id": 600543,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/600543",
+        "reason": "Free camera tool with green-screen backgrounds for taking screenshots or recording video."
+      },
+      {
+        "id": 533978,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/533978",
+        "reason": "Why not?"
+      },
+      {
+        "id": 653664,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/653664",
+        "reason": ""
+      },
+      {
+        "id": 565693,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/565693",
+        "reason": ""
+      },
+      {
+        "id": 579097,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/579097",
+        "reason": ""
+      },
+      {
+        "id": 673980,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/673980",
+        "reason": ""
+      },
+      {
+        "id": 664721,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/664721",
+        "reason": ""
+      },
+      {
+        "id": 539797,
+        "type": "Mod",
+        "url": "https://gamebanana.com/mods/539797",
+        "reason": ""
+      }
+    ]
+  }
+}
