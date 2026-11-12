@@ -1,5 +1,15 @@
 [
   {
+    "id": "2.2.0-release",
+    "date": "2026-11-12T19:34:48Z",
+    "title": "Fairy's Secret Folder 2.2.0 is out",
+    "message": "Lock mods so bulk actions leave them alone, Randomize without clashing outfits, a better Discover gallery with page jumps, and the in-game menu for more mods.",
+    "title_pt_BR": "Fairy's Secret Folder 2.2.0 chegou",
+    "message_pt_BR": "Trave mods para que ações em massa não mexam neles, Randomizar sem roupas em conflito, uma galeria melhor no Descobrir com saltos de página e o menu no jogo para mais mods.",
+    "title_zh": "Fairy's Secret Folder 2.2.0 已发布",
+    "message_zh": "锁定 Mod 让批量操作不再改动它们，随机不再开启冲突的服装，发现页有更好的图库和页码跳转，游戏内菜单支持更多 Mod。"
+  },
+  {
     "id": "2.1.6-release",
     "date": "2026-11-04T05:38:50Z",
     "title": "Fairy's Secret Folder 2.1.6 is out",
