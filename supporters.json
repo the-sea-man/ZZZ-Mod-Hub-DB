@@ -1,6 +1,14 @@
 {
   "supporters": [
     {
+      "name": "iGroobz",
+      "tier": "elite"
+    },
+    {
+      "name": "Problems'",
+      "tier": "elite"
+    },
+    {
       "name": "Victor",
       "tier": "rookie"
     }
