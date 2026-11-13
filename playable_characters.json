@@ -7584,7 +7584,7 @@
               "texcoord_vb": "a2ee3518",
               "ib": "07920753",
               "textures": {
-                "Diffuse": "d9a12c0a",
+                "Diffuse": "51e0123b",
                 "NormalMap": "a51121fb",
                 "LightMap": "3300fd3e"
               }
@@ -7596,7 +7596,7 @@
               "texcoord_vb": "77932137",
               "ib": "3acf9aea",
               "textures": {
-                "Diffuse": "d9a12c0a",
+                "Diffuse": "51e0123b",
                 "NormalMap": "a51121fb",
                 "LightMap": "3300fd3e"
               }
@@ -7631,7 +7631,7 @@
               "texcoord_vb": "a5e62ece",
               "ib": "aa9ffb85",
               "textures": {
-                "Diffuse": "d9a12c0a",
+                "Diffuse": "51e0123b",
                 "NormalMap": "a51121fb",
                 "LightMap": "3300fd3e"
               }
@@ -7656,7 +7656,7 @@
               "texcoord_vb": "e317bb99",
               "ib": "e6afd8d1",
               "textures": {
-                "Diffuse": "d9a12c0a",
+                "Diffuse": "51e0123b",
                 "NormalMap": "a51121fb",
                 "LightMap": "3300fd3e"
               }
@@ -8933,6 +8933,160 @@
         }
       ],
       "game_id": 1641
+    },
+    {
+      "id": "severian_lowell",
+      "name": "Severian Lowell",
+      "real_name": "Severian Lowell",
+      "element": "Wind",
+      "role": "Attack",
+      "gender": "Male",
+      "height": "196cm (6'5\")",
+      "height_cm": 196,
+      "birthday": "December 31st",
+      "species": "Thiren",
+      "model_type": "Size 03",
+      "w_engine": "Incarcerating Grip",
+      "release_date": "2026-11-11",
+      "faction": "Metropolitan Order Division",
+      "type": "Playable",
+      "image_url": "images/Enka IconRole1631.png",
+      "icon_url": "images/Enka IconRoleCircle1631.png",
+      "mindscape_url": "",
+      "aliases": [
+        "Lowell",
+        "Lowell Severian",
+        "LowellSeverian",
+        "Severian",
+        "SeverianLowell"
+      ],
+      "base_skin_id": "punishing_edge",
+      "skins": [
+        {
+          "id": "punishing_edge",
+          "name": "Punishing Edge",
+          "aliases": [
+            "base",
+            "default"
+          ],
+          "components": {
+            "Accessories": {
+              "draw_vb": "8ff324f1",
+              "position_vb": "5aacb85b",
+              "blend_vb": "09f672f0",
+              "texcoord_vb": "6641252c",
+              "ib": "0087bea2",
+              "textures": {
+                "Diffuse": "b4a0d995",
+                "LightMap": "23677d43",
+                "MaterialMap": "ae5b72a8"
+              }
+            },
+            "Body": {
+              "draw_vb": "5e5ca9a0",
+              "position_vb": "c88da165",
+              "blend_vb": "cff0d638",
+              "texcoord_vb": "8b6c4fbd",
+              "ib": "1a786493",
+              "textures": {
+                "Diffuse": "e8d1f2f1",
+                "NormalMap": "ebac056e",
+                "LightMap": "8dcebaeb",
+                "MaterialMap": "851c5988"
+              }
+            },
+            "Face": {
+              "draw_vb": "cc5ad373",
+              "position_vb": "f6484034",
+              "blend_vb": "e37d8ce1",
+              "texcoord_vb": "0ce4e45f",
+              "ib": "1c78c21e",
+              "textures": {
+                "LightMap": "e0183196",
+                "MaterialMap": "ae5b72a8",
+                "NormalMap": "22f1396d"
+              }
+            },
+            "ArmAcc": {
+              "draw_vb": "7449d16f",
+              "position_vb": "f3b040e4",
+              "blend_vb": "21d53f78",
+              "texcoord_vb": "fe0d2d9b",
+              "ib": "425e096c",
+              "textures": {
+                "Diffuse": "e8d1f2f1",
+                "NormalMap": "ebac056e",
+                "LightMap": "8dcebaeb",
+                "MaterialMap": "851c5988"
+              }
+            },
+            "Weapon": {
+              "draw_vb": "3642f351",
+              "position_vb": "5cba67ba",
+              "blend_vb": "6b4aad2b",
+              "texcoord_vb": "d4d68aa2",
+              "ib": "4e7b90e1",
+              "textures": {
+                "Diffuse": "64918699",
+                "NormalMap": "ebac056e",
+                "LightMap": "8dcf2b61",
+                "MaterialMap": "4f148670"
+              }
+            },
+            "Eyebrows": {
+              "draw_vb": "63552833",
+              "position_vb": "5947bb74",
+              "blend_vb": "b8f29b7c",
+              "texcoord_vb": "e05a094d",
+              "ib": "65e63a74",
+              "textures": {
+                "LightMap": "e0183196",
+                "MaterialMap": "ae5b72a8"
+              }
+            },
+            "Cape": {
+              "draw_vb": "65fdcbab",
+              "position_vb": "46069b10",
+              "blend_vb": "804fffa7",
+              "texcoord_vb": "b16bb167",
+              "ib": "b12e74cc",
+              "textures": {
+                "Diffuse": "518ec152",
+                "NormalMap": "ebac056e",
+                "LightMap": "eaedd9dd",
+                "MaterialMap": "1d807f45"
+              }
+            },
+            "BangShadow": {
+              "draw_vb": "92dc10a0",
+              "position_vb": "7c997231",
+              "blend_vb": "4f9bc0dd",
+              "texcoord_vb": "dd0ea903",
+              "ib": "b3fdc4d0",
+              "textures": {
+                "Diffuse": "3179efd7",
+                "LightMap": "e0183196",
+                "MaterialMap": "ae5b72a8"
+              }
+            },
+            "Hair": {
+              "draw_vb": "2a6a2bc1",
+              "position_vb": "6283ffb6",
+              "blend_vb": "d82ee988",
+              "texcoord_vb": "68708848",
+              "ib": "dfc9cd38",
+              "textures": {
+                "Diffuse": "3179efd7",
+                "NormalMap": "22f1396d",
+                "LightMap": "e0183196",
+                "MaterialMap": "ae5b72a8"
+              }
+            }
+          },
+          "last_verified_version": "zzmi_assets_import"
+        }
+      ],
+      "game_id": 1631
     }
   ]
 }

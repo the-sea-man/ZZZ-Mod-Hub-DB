@@ -9,5 +9,5 @@
 - `bangboos.json` — Bangboo companion definitions and component hashes.
 - `hash_migrations.json` & `hash_lineage.json` — Versioned 3DMigoto hash migration rules across Zenless Zone Zero game patches.
 - `npcs.json`, `weapons.json`, `enemies.json`, `ui.json` — Non-playable entity and UI target definitions.
-- `notifications.json`, `community_feed.json`, `supporters.json` — In-app release announcements, community feed, and supporter credits.
+- `notifications.json`, `community_feed.json`, `supporters.json`, `special_thanks.json` — In-app release announcements, community feed, Patreon supporters, and people thanked for testing or other help.
 - `images/` — Agent and outfit portraits, icons, and mindscape artwork.
